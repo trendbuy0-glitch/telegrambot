@@ -19,6 +19,13 @@ CATEGORIES = [
 
 PRICES_FILE = "prices.json"
 
+def send_status_message():
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
+    data = {
+        "chat_id": CHAT_ID,
+        "text": "🔍 Sto cercando nuove offerte tech...",
+    }
+    requests.post(url, data=data)
 
 def load_prices():
     if not os.path.exists(PRICES_FILE):
@@ -134,9 +141,12 @@ def send_message(text):
 
 
 if __name__ == "__main__":
+    send_status_message()  # <--- MESSAGGIO DI STATO
+
     old_prices = load_prices()
     new_prices = {}
     products = extract_products()
+
 
     for p in products:
         asin = p["asin"]
