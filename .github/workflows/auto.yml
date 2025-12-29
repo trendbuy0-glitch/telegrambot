@@ -2,7 +2,7 @@ name: Auto Price Drop Bot
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # ogni 5 minuti
+    - cron: "*/2 * * * *"   # ogni 2 minuti
   workflow_dispatch:
 
 jobs:
