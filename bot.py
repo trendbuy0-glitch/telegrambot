@@ -111,15 +111,10 @@ def format_message(product, old_price):
     if product["coupon"]:
         coupon_text = f"🎟️ *Coupon disponibile:* {product['coupon']}\n"
 
-    image_block = ""
-    if product["image"]:
-        image_block = product["image"]
-
     return f"""
 🔥 *RIBASSO PREZZO TECH!*
 
 📦 *{product['title']}*
-🖼️ {image_block}
 
 💰 *Nuovo prezzo:* {product['price']}€
 💸 *Prima:* {old_price}€
@@ -128,6 +123,7 @@ def format_message(product, old_price):
 
 👉 {affiliate_link}
 """
+
 
 
 def send_message(text):
