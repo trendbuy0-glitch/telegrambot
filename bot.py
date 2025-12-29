@@ -1,7 +1,8 @@
+import os
 import requests
 
-BOT_TOKEN = "INSERISCI_IL_TUO_TOKEN"
-CHAT_ID = "@nome_del_tuo_canale"
+BOT_TOKEN = os.getenv("TrendBuyFinderBot")  # <-- prende il token dal Secret
+CHAT_ID = "@trendbuyit"
 
 def send_test_message():
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
