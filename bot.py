@@ -143,6 +143,7 @@ if __name__ == "__main__":
     new_prices = {}
     products = extract_products()
 
+    ribassi_trovati = 0  # <--- CONTATORE
 
     for p in products:
         asin = p["asin"]
@@ -152,6 +153,12 @@ if __name__ == "__main__":
             if p["price"] < old_prices[asin]:
                 msg = format_message(p, old_prices[asin])
                 send_message(msg)
+                ribassi_trovati += 1
                 time.sleep(2)
 
+    # Se non ha trovato nulla, manda un messaggio
+    if ribassi_trovati == 0:
+        send_message("✅ Nessun ribasso trovato in questo giro.")
+
     save_prices(new_prices)
+
