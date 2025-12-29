@@ -1,8 +1,8 @@
 import os
 import requests
 
-BOT_TOKEN = os.getenv("TrendBuyFinderBot")  # <-- prende il token dal Secret
-CHAT_ID = "@TrendBuyFinderBot"
+BOT_TOKEN = os.getenv("BOT_TOKEN")  # <-- prende il token dal Secret
+CHAT_ID = "@TrendBuyFinderBot"      # <-- questo è l'username del canale? Se no, va cambiato
 
 def send_test_message():
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
