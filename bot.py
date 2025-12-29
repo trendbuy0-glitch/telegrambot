@@ -19,6 +19,7 @@ CATEGORIES = [
 
 PRICES_FILE = "prices.json"
 
+
 def send_status_message():
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
     data = {
@@ -26,6 +27,7 @@ def send_status_message():
         "text": "🔍 Sto cercando nuove offerte tech...",
     }
     requests.post(url, data=data)
+
 
 def load_prices():
     if not os.path.exists(PRICES_FILE):
@@ -54,7 +56,6 @@ def extract_products():
             price_el = item.select_one(".p13n-sc-price, .a-price-whole")
             old_price_el = item.select_one(".a-text-price span")
             img_el = item.select_one("img")
-
             link_el = item.select_one("a.a-link-normal")
 
             if not title_el or not price_el or not link_el:
@@ -79,7 +80,17 @@ def extract_products():
 
             asin = link_el["href"].split("/dp/")[1].split("/")[0]
 
-            image = img_el["src"] if img_el else None
+            # FIX IMMAGINI AMAZON (funziona sempre)
+            image = None
+            if img_el:
+                if img_el.get("src"):
+                    image = img_el["src"]
+                elif img_el.get("data-src"):
+                    image = img_el["data-src"]
+                elif img_el.get("data-image-src"):
+                    image = img_el["data-image-src"]
+                elif img_el.get("srcset"):
+                    image = img_el["srcset"].split(" ")[0]
 
             # Check coupon
             coupon = None
@@ -125,7 +136,6 @@ def format_message(product, old_price):
 """
 
 
-
 def send_message(text):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
     data = {
@@ -137,13 +147,13 @@ def send_message(text):
 
 
 if __name__ == "__main__":
-    send_status_message()  # <--- MESSAGGIO DI STATO
+    send_status_message()
 
     old_prices = load_prices()
     new_prices = {}
     products = extract_products()
 
-    ribassi_trovati = 0  # <--- CONTATORE
+    ribassi_trovati = 0
 
     for p in products:
         asin = p["asin"]
@@ -156,9 +166,7 @@ if __name__ == "__main__":
                 ribassi_trovati += 1
                 time.sleep(2)
 
-    # Se non ha trovato nulla, manda un messaggio
     if ribassi_trovati == 0:
         send_message("✅ Nessun ribasso trovato in questo giro.")
 
     save_prices(new_prices)
-
