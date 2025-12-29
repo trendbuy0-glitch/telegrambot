@@ -132,7 +132,7 @@ def format_message(product, old_price):
 
 {discount_text}{coupon_text}
 
-👉 {affiliate_link}
+👉 [Vai ad Amazon]({affiliate_link})
 """
 
 
