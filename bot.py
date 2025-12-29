@@ -5,7 +5,7 @@ import requests
 BOT_TOKEN = os.getenv("TrendBuyFinderBot")
 
 # Inserirai qui il CHAT_ID numerico del canale quando lo otteniamo
-CHAT_ID = "@trendbuyit"
+CHAT_ID = "-1003544601340"
 
 def send_test_message():
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
