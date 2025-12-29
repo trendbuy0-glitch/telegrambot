@@ -2,7 +2,7 @@ import os
 import requests
 
 BOT_TOKEN = os.getenv("TrendBuyFinderBot")  # <-- prende il token dal Secret
-CHAT_ID = "@trendbuyit"
+CHAT_ID = "@TrendBuyFinderBot"
 
 def send_test_message():
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
