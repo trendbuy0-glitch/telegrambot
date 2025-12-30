@@ -30,3 +30,15 @@ jobs:
           git add prices.json
           git commit -m "Update prices" || echo "No changes to commit"
           git push
+
+      - name: Update last run timestamp
+        run: echo "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" > last_run.txt
+
+      - name: Commit timestamp
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add last_run.txt
+          git commit -m "Update last run timestamp" || echo "No changes"
+          git push
+
