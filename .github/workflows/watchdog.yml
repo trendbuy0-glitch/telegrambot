@@ -1,0 +1,44 @@
+name: Watchdog Bot Runner
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # ogni 5 minuti
+  workflow_dispatch:
+
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Read last run timestamp
+        id: read
+        run: |
+          if [ -f last_run.txt ]; then
+            echo "last_run=$(cat last_run.txt)" >> $GITHUB_OUTPUT
+          else
+            echo "last_run=1970-01-01T00:00:00Z" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Check if bot is stale
+        id: check
+        run: |
+          last_run="${{ steps.read.outputs.last_run }}"
+          now=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
+          diff=$(( $(date -d "$now" +%s) - $(date -d "$last_run" +%s) ))
+
+          echo "Seconds since last run: $diff"
+
+          if [ $diff -gt 600 ]; then  # 10 minuti
+            echo "run_bot=true" >> $GITHUB_OUTPUT
+          else
+            echo "run_bot=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Trigger bot workflow
+        if: steps.check.outputs.run_bot == 'true'
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: run-bot
