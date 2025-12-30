@@ -3,7 +3,8 @@ from bs4 import BeautifulSoup
 import json
 import time
 
-def scrape_category(url, pages=7, limit=200):
+# Funzione che estrae i prodotti da una categoria Amazon
+def scrape_category(url, pages=5, limit=200):
     products = []
     headers = {
         "User-Agent": "Mozilla/5.0",
@@ -14,7 +15,12 @@ def scrape_category(url, pages=7, limit=200):
         paged_url = f"{url}&page={page}"
         print("Scraping:", paged_url)
 
-        r = requests.get(paged_url, headers=headers)
+        try:
+            r = requests.get(paged_url, headers=headers, timeout=10)
+        except:
+            print("Errore nella richiesta, salto pagina")
+            continue
+
         soup = BeautifulSoup(r.text, "html.parser")
 
         items = soup.select(".s-result-item[data-asin]")
@@ -23,13 +29,25 @@ def scrape_category(url, pages=7, limit=200):
             if not asin:
                 continue
 
-            # Prezzo
             price_el = item.select_one(".a-price .a-offscreen")
             if not price_el:
                 continue
 
             price_text = price_el.get_text(strip=True)
-            price = float(price_text.replace("€", "").replace(",", ".").strip())
+
+            # Pulizia robusta del prezzo
+            clean = (
+                price_text.replace("€", "")
+                          .replace(".", "")   # rimuove separatore migliaia
+                          .replace(",", ".")  # converte decimali
+                          .strip()
+            )
+
+            try:
+                price = float(clean)
+            except:
+                print("Prezzo non valido, salto:", price_text)
+                continue
 
             products.append({
                 "asin": asin,
@@ -44,6 +62,7 @@ def scrape_category(url, pages=7, limit=200):
     return products
 
 
+# Categorie da scrapare
 CATEGORIES = {
     "alimentatori": "https://www.amazon.it/s?k=alimentatore+pc",
     "gpu": "https://www.amazon.it/s?k=scheda+video",
@@ -57,6 +76,7 @@ CATEGORIES = {
 
 new_prices = {}
 
+# Scraping di tutte le categorie
 for name, url in CATEGORIES.items():
     print(f"\n--- Scraping categoria: {name} ---")
     products = scrape_category(url)
@@ -64,6 +84,7 @@ for name, url in CATEGORIES.items():
     for p in products:
         new_prices[p["asin"]] = p["price"]
 
+# Salvataggio del file JSON
 with open("prices.json", "w") as f:
     json.dump(new_prices, f, indent=4)
 
