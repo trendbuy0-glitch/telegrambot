@@ -26,11 +26,10 @@ jobs:
       run: |
         python generate_prices.py
 
-    - name: Commit updated price files
+    - name: Commit updated price file
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
         git add prices.json
-        git add old_prices.json || true
         git commit -m "Updated prices database" || echo "No changes"
         git push
