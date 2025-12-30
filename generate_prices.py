@@ -2,6 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import time
+import os
+
+OLD_PRICES_FILE = "old_prices.json"
+NEW_PRICES_FILE = "prices.json"
 
 # Funzione che estrae i prodotti da una categoria Amazon
 def scrape_category(url, pages=5, limit=200):
@@ -59,13 +63,12 @@ def scrape_category(url, pages=5, limit=200):
             coupon_discount = 0
             final_price = base_price
 
-            # Cerca elementi che contengono coupon
             coupon_el = item.select_one(".s-coupon-highlight-color, span.a-color-base")
 
             if coupon_el:
                 coupon_text = coupon_el.get_text(strip=True).lower()
 
-                # Coupon percentuale (es: "Risparmia 20%")
+                # Coupon percentuale
                 if "%" in coupon_text:
                     try:
                         perc = float(
@@ -78,7 +81,7 @@ def scrape_category(url, pages=5, limit=200):
                     except:
                         pass
 
-                # Coupon fisso (es: "Applica coupon 5€")
+                # Coupon fisso
                 if "€" in coupon_text:
                     try:
                         fixed = coupon_text.replace("applica coupon", "").replace("€", "").strip()
@@ -116,6 +119,13 @@ CATEGORIES = {
     "ventole": "https://www.amazon.it/s?k=ventole+pc"
 }
 
+# Carica vecchi prezzi
+if os.path.exists(OLD_PRICES_FILE):
+    with open(OLD_PRICES_FILE, "r") as f:
+        old_data = json.load(f)
+else:
+    old_data = {}
+
 new_prices = {}
 
 # Scraping di tutte le categorie
@@ -124,14 +134,25 @@ for name, url in CATEGORIES.items():
     products = scrape_category(url)
 
     for p in products:
-        new_prices[p["asin"]] = {
+        asin = p["asin"]
+
+        new_prices[asin] = {
             "price": p["price"],
             "base_price": p["base_price"],
-            "coupon": p["coupon"]
+            "coupon": p["coupon"],
+            "notify": False
         }
 
+        # Se esiste un vecchio prezzo → confronta
+        if asin in old_data:
+            old_price = old_data[asin]["price"]
+
+            # Se il prezzo è sceso → segna notify
+            if p["price"] < old_price:
+                new_prices[asin]["notify"] = True
+
 # Salvataggio del file JSON
-with open("prices.json", "w") as f:
+with open(NEW_PRICES_FILE, "w") as f:
     json.dump(new_prices, f, indent=4)
 
 print("\nprices.json generato con successo!")
