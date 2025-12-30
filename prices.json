@@ -1,177 +1,2422 @@
 {
-    "B0FH4LPLGQ": {
-        "price": 102.87,
-        "base_price": 102.87,
-        "coupon": 0
+    "B07GS6ZB7T": {
+        "title": "ASIN B07GS6ZB7T",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61mpMH5TzkL._AC_UL300_SR300,200_.jpg",
+        "price": 30.55,
+        "base_price": 30.55,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Logitech-programmabili-regolabili-regolazione-bilanciamento/dp/B07GS6ZB7T/ref=zg_bs_g_460150031_d_sccl_1/520-2276409-9968466",
+        "notify": false
     },
-    "B0F2H4JLJM": {
-        "price": 104.92,
-        "base_price": 104.92,
-        "coupon": 0
+    "B01GBINQGE": {
+        "title": "ASIN B01GBINQGE",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71eHtvs-6cL._AC_UL300_SR300,200_.jpg",
+        "price": 19.79,
+        "base_price": 19.79,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/TeckNet-Wireless-Pulsanti-Aggiornamenti-Ricevitore/dp/B01GBINQGE/ref=zg_bs_g_460150031_d_sccl_2/520-2276409-9968466",
+        "notify": false
     },
-    "B08H4VLLGZ": {
-        "price": 73.47,
-        "base_price": 73.47,
-        "coupon": 0
+    "B07W5JKHGH": {
+        "title": "ASIN B07W5JKHGH",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51xTl4hPutL._AC_UL300_SR300,200_.jpg",
+        "price": 120.22,
+        "base_price": 120.22,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Logitech-multistrato-scorrimento-ergonomico-ricaricabile/dp/B07W5JKHGH/ref=zg_bs_g_460150031_d_sccl_3/520-2276409-9968466",
+        "notify": false
     },
-    "B0F4HH4432": {
-        "price": 316.68,
-        "base_price": 316.68,
-        "coupon": 0
+    "B00LFBEOUA": {
+        "title": "ASIN B00LFBEOUA",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71jRUA8nxzL._AC_UL300_SR300,200_.jpg",
+        "price": 29.08,
+        "base_price": 29.08,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Logitech-Hyperion-Pulsanti-Programmabili-Antracite/dp/B00LFBEOUA/ref=zg_bs_g_460150031_d_sccl_4/520-2276409-9968466",
+        "notify": false
     },
-    "B086ZTM9KY": {
-        "price": 160.52,
-        "base_price": 160.52,
-        "coupon": 0
+    "B01G19IFE6": {
+        "title": "ASIN B01G19IFE6",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71eeBdsH-xL._AC_UL300_SR300,200_.jpg",
+        "price": 18.99,
+        "base_price": 18.99,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/M2-Ricaricabile-Wireless-Silenzioso-Portatile/dp/B01G19IFE6/ref=zg_bs_g_460150031_d_sccl_5/520-2276409-9968466",
+        "notify": false
     },
-    "B0F4HH1J7D": {
-        "price": 186.98,
-        "base_price": 186.98,
-        "coupon": 0
+    "B07GS6ZS8J": {
+        "title": "ASIN B07GS6ZS8J",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51suTCFcjaL._AC_UL300_SR300,200_.jpg",
+        "price": 29.9,
+        "base_price": 29.9,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Logitech-programmabili-regolabili-regolazione-bilanciamento/dp/B07GS6ZS8J/ref=zg_bs_g_460150031_d_sccl_6/520-2276409-9968466",
+        "notify": false
     },
-    "B0DK7LZB1Q": {
-        "price": 321.38,
-        "base_price": 321.38,
-        "coupon": 0
+    "B07JLMK5T3": {
+        "title": "ASIN B07JLMK5T3",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71pQyRqPw4L._AC_UL300_SR300,200_.jpg",
+        "price": 15.73,
+        "base_price": 15.73,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Trust-Gaming-Verticale-Design-Ergonomico/dp/B07JLMK5T3/ref=zg_bs_g_460150031_d_sccl_7/520-2276409-9968466",
+        "notify": false
     },
-    "B0BVLGP4WC": {
-        "price": 372.23,
-        "base_price": 372.23,
-        "coupon": 0
+    "B07DYD27NH": {
+        "title": "ASIN B07DYD27NH",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71tV9bk4HhL._AC_UL300_SR300,200_.jpg",
+        "price": 89.98,
+        "base_price": 89.98,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Trust-Gaming-Tappetino-Sedia-Dimensioni/dp/B07DYD27NH/ref=zg_bs_g_460150031_d_sccl_8/520-2276409-9968466",
+        "notify": false
     },
-    "B09YSCYP56": {
-        "price": 104.38,
-        "base_price": 104.38,
-        "coupon": 0
+    "B01G19IFCS": {
+        "title": "ASIN B01G19IFCS",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71MKMg0U9RL._AC_UL300_SR300,200_.jpg",
+        "price": 18.99,
+        "base_price": 18.99,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/ExtraFind-M2-Ricaricabile-Silenzioso-Portatile/dp/B01G19IFCS/ref=zg_bs_g_460150031_d_sccl_9/520-2276409-9968466",
+        "notify": false
     },
-    "B0FRFKJ5LL": {
-        "price": 425.11,
-        "base_price": 425.11,
-        "coupon": 0
+    "B07H3GFJJ2": {
+        "title": "ASIN B07H3GFJJ2",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61rqBrI4PML._AC_UL300_SR300,200_.jpg",
+        "price": 11.53,
+        "base_price": 11.53,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/HyperX-Pulsefire-Mouse-Dedicato-Gaming/dp/B07H3GFJJ2/ref=zg_bs_g_460150031_d_sccl_10/520-2276409-9968466",
+        "notify": false
     },
-    "B0DJW9CDCT": {
-        "price": 146.72,
-        "base_price": 146.72,
-        "coupon": 0
+    "B07G5XJLWK": {
+        "title": "ASIN B07G5XJLWK",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51ySu55JzAL._AC_UL300_SR300,200_.jpg",
+        "price": 117.0,
+        "base_price": 117.0,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Logitech-Wireless-Progettato-Programmabili-POWERPLAY-compatibile/dp/B07G5XJLWK/ref=zg_bs_g_460150031_d_sccl_11/520-2276409-9968466",
+        "notify": false
     },
-    "B0F69G6H7M": {
-        "price": 172.57,
-        "base_price": 172.57,
-        "coupon": 0
+    "B0751D11BL": {
+        "title": "ASIN B0751D11BL",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61x0o7cBmcL._AC_UL300_SR300,200_.jpg",
+        "price": 17.49,
+        "base_price": 17.49,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Redragon-Regolabili-Ergonomico-programmabili-Portatile/dp/B0751D11BL/ref=zg_bs_g_460150031_d_sccl_12/520-2276409-9968466",
+        "notify": false
     },
-    "B0F4HGWLD5": {
-        "price": 191.54,
-        "base_price": 191.54,
-        "coupon": 0
+    "B00L8VNQ88": {
+        "title": "ASIN B00L8VNQ88",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61i3KAo-SDL._AC_UL300_SR300,200_.jpg",
+        "price": 28.48,
+        "base_price": 28.48,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Logitech-Mouse-Hyperion-Pulsanti-Programmabili/dp/B00L8VNQ88/ref=zg_bs_g_460150031_d_sccl_13/520-2276409-9968466",
+        "notify": false
     },
-    "B0CB6XZ7RH": {
-        "price": 149.66,
-        "base_price": 149.66,
-        "coupon": 0
+    "B01MTP49EH": {
+        "title": "ASIN B01MTP49EH",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61iiZOFsk4L._AC_UL300_SR300,200_.jpg",
+        "price": 10.99,
+        "base_price": 10.99,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/GAMMEC-MOGM03-Mouse-Gaming-Programmabile/dp/B01MTP49EH/ref=zg_bs_g_460150031_d_sccl_14/520-2276409-9968466",
+        "notify": false
     },
-    "B0DQQ86WQ7": {
-        "price": 200.53,
-        "base_price": 200.53,
-        "coupon": 0
+    "B07G5SF48Z": {
+        "title": "ASIN B07G5SF48Z",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51ySu55JzAL._AC_UL300_SR300,200_.jpg",
+        "price": 94.58,
+        "base_price": 94.58,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Logitech-Wireless-Progettato-Programmabili-POWERPLAY-compatibile/dp/B07G5SF48Z/ref=zg_bs_g_460150031_d_sccl_16/520-2276409-9968466",
+        "notify": false
     },
-    "B0FBMKP34R": {
-        "price": 397.46,
-        "base_price": 397.46,
-        "coupon": 0
+    "B076Z6TMRR": {
+        "title": "ASIN B076Z6TMRR",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/610qdaiSDqL._AC_UL300_SR300,200_.jpg",
+        "price": 16.99,
+        "base_price": 16.99,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Rii-Gaming-Laser-Professionale-retroilluminato/dp/B076Z6TMRR/ref=zg_bs_g_460150031_d_sccl_17/520-2276409-9968466",
+        "notify": false
     },
-    "B0DV5TL31Z": {
-        "price": 143.44,
-        "base_price": 143.44,
-        "coupon": 0
+    "B07CZBKTST": {
+        "title": "ASIN B07CZBKTST",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51WuKNVNl7L._AC_UL300_SR300,200_.jpg",
+        "price": 16.89,
+        "base_price": 16.89,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Trust-Gaming-101D-Mouse-Jungle/dp/B07CZBKTST/ref=zg_bs_g_460150031_d_sccl_18/520-2276409-9968466",
+        "notify": false
     },
-    "B0CC9G49JQ": {
-        "price": 70.91,
-        "base_price": 70.91,
-        "coupon": 0
+    "B01D63UU52": {
+        "title": "ASIN B01D63UU52",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51vmsrwEIXL._AC_UL300_SR300,200_.jpg",
+        "price": 79.99,
+        "base_price": 79.99,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Corsair-GAMING-mouse-Ottico-destra/dp/B01D63UU52/ref=zg_bs_g_460150031_d_sccl_22/520-2276409-9968466",
+        "notify": false
     },
-    "B089TP3GQF": {
-        "price": 160.82,
-        "base_price": 160.82,
-        "coupon": 0
+    "B06XV9L931": {
+        "title": "ASIN B06XV9L931",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51mpBlXlgbL._AC_UL300_SR300,200_.jpg",
+        "price": 24.0,
+        "base_price": 24.0,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/MARSGAMING-MMS2-supporto-mouse-rosso/dp/B06XV9L931/ref=zg_bs_g_460150031_d_sccl_23/520-2276409-9968466",
+        "notify": false
     },
-    "B0FXHHTDW3": {
-        "price": 286.24,
-        "base_price": 286.24,
-        "coupon": 0
+    "B078H9KQD2": {
+        "title": "ASIN B078H9KQD2",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51Jaci-S6vL._AC_UL300_SR300,200_.jpg",
+        "price": 24.97,
+        "base_price": 24.97,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Trust-Gaming-Macci-Mouse-Nero/dp/B078H9KQD2/ref=zg_bs_g_460150031_d_sccl_25/520-2276409-9968466",
+        "notify": false
     },
-    "B07HCG9RVV": {
-        "price": 27.71,
-        "base_price": 27.71,
-        "coupon": 0
+    "B0756X8BGS": {
+        "title": "ASIN B0756X8BGS",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51tExQwYxfL._AC_UL300_SR300,200_.jpg",
+        "price": 89.99,
+        "base_price": 89.99,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Razer-Atheris-Tecnologia-Adattativa-Migliorata/dp/B0756X8BGS/ref=zg_bs_g_460150031_d_sccl_26/520-2276409-9968466",
+        "notify": false
     },
-    "B00T85E8P6": {
-        "price": 54.48,
-        "base_price": 54.48,
-        "coupon": 0
+    "B07C5ZX2X7": {
+        "title": "ASIN B07C5ZX2X7",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61R8x1VEnRL._AC_UL300_SR300,200_.jpg",
+        "price": 21.26,
+        "base_price": 21.26,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/VBESTLIFE-Pulsanti-Notebook-Computer-Portatile/dp/B07C5ZX2X7/ref=zg_bs_g_460150031_d_sccl_27/520-2276409-9968466",
+        "notify": false
     },
-    "B0D4DZ72H7": {
-        "price": 28.0,
-        "base_price": 28.0,
-        "coupon": 0
+    "B00FH1AYGW": {
+        "title": "ASIN B00FH1AYGW",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41XEhPTY7-L._AC_UL300_SR300,200_.jpg",
+        "price": 29.76,
+        "base_price": 29.76,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/A4-Tech-V7M-BLOODY-Gun3/dp/B00FH1AYGW/ref=zg_bs_g_460150031_d_sccl_29/520-2276409-9968466",
+        "notify": false
     },
-    "B087FY5CNT": {
-        "price": 12.34,
-        "base_price": 12.34,
-        "coupon": 0
+    "B00RL4WT3Y": {
+        "title": "ASIN B00RL4WT3Y",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/511j+RXBTQL._AC_UL300_SR300,200_.jpg",
+        "price": 5.25,
+        "base_price": 5.25,
+        "coupon": 0.0,
+        "category": "bestseller_gpu",
+        "url": "https://www.amazon.it/Mars-Gaming-MMP3-precisione-superficie/dp/B00RL4WT3Y/ref=zg_bs_g_460150031_d_sccl_30/520-2276409-9968466",
+        "notify": false
     },
-    "B0D2KNW7BB": {
-        "price": 53.4,
-        "base_price": 53.4,
-        "coupon": 0
+    "B0BWSRLXXC": {
+        "title": "ASIN B0BWSRLXXC",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/612NWRU5ywL._AC_UL300_SR300,200_.jpg",
+        "price": 30.23,
+        "base_price": 30.23,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/HyperX-Clutch-Gladiate-Controller-Programmable/dp/B0BWSRLXXC/ref=zg_bs_g_460152031_d_sccl_1/523-0503199-4994716",
+        "notify": false
     },
-    "B09JNTPCN8": {
-        "price": 24.51,
-        "base_price": 24.51,
-        "coupon": 0
+    "B00CJ5FPTA": {
+        "title": "ASIN B00CJ5FPTA",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/514dR5oFC2L._AC_UL300_SR300,200_.jpg",
+        "price": 34.0,
+        "base_price": 34.0,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Logitech-Joystick-Extreme-Versione-Italiana/dp/B00CJ5FPTA/ref=zg_bs_g_460152031_d_sccl_2/523-0503199-4994716",
+        "notify": false
     },
-    "B08V9CQ9H7": {
-        "price": 86.8,
-        "base_price": 86.8,
-        "coupon": 0
+    "B01MCXJWD1": {
+        "title": "ASIN B01MCXJWD1",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/617jFKy4zcL._AC_UL300_SR300,200_.jpg",
+        "price": 127.95,
+        "base_price": 127.95,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Logitech-Saitek-Flight-Controller-Simulatori/dp/B01MCXJWD1/ref=zg_bs_g_460152031_d_sccl_3/523-0503199-4994716",
+        "notify": false
     },
-    "B09PG3X8MD": {
-        "price": 16.39,
-        "base_price": 16.39,
-        "coupon": 0
+    "B01HZ2APKU": {
+        "title": "ASIN B01HZ2APKU",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51O9rodTMuL._AC_UL300_SR300,200_.jpg",
+        "price": 193.2,
+        "base_price": 193.2,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/THR-T-16000M-FCS-Flight-Pack/dp/B01HZ2APKU/ref=zg_bs_g_460152031_d_sccl_4/523-0503199-4994716",
+        "notify": false
     },
-    "B0F5WDM19J": {
-        "price": 181.89,
-        "base_price": 181.89,
-        "coupon": 0
+    "B0BQHHNV9V": {
+        "title": "ASIN B0BQHHNV9V",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61MGLVvTHWL._AC_UL300_SR300,200_.jpg",
+        "price": 34.9,
+        "base_price": 34.9,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Gundam-Witch-Mercury-HG-Schwarzette/dp/B0BQHHNV9V/ref=zg_bs_g_460152031_d_sccl_5/523-0503199-4994716",
+        "notify": false
     },
-    "B0FR9QNZNH": {
-        "price": 4.84,
-        "base_price": 4.84,
-        "coupon": 0
+    "B0BQHH5N24": {
+        "title": "ASIN B0BQHH5N24",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/617h6wgNWVL._AC_UL300_SR300,200_.jpg",
+        "price": 12.7,
+        "base_price": 12.7,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Bandai-30MM-Veicolo-armamento-Personalizza/dp/B0BQHH5N24/ref=zg_bs_g_460152031_d_sccl_6/523-0503199-4994716",
+        "notify": false
+    },
+    "B0CDBM6261": {
+        "title": "ASIN B0CDBM6261",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71s1VKSjxHL._AC_UL300_SR300,200_.jpg",
+        "price": 56.8,
+        "base_price": 56.8,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Razer-Kishi-Pro-Controller-estensibile/dp/B0CDBM6261/ref=zg_bs_g_460152031_d_sccl_7/523-0503199-4994716",
+        "notify": false
+    },
+    "B07WFF2RCP": {
+        "title": "ASIN B07WFF2RCP",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61+0k7uoOBL._AC_UL300_SR300,200_.jpg",
+        "price": 10.99,
+        "base_price": 10.99,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Be-Your-Mind-Flessibili-Compatibile/dp/B07WFF2RCP/ref=zg_bs_g_460152031_d_sccl_8/523-0503199-4994716",
+        "notify": false
+    },
+    "B08VHB4VGK": {
+        "title": "ASIN B08VHB4VGK",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61hSbUv13hL._AC_UL300_SR300,200_.jpg",
+        "price": 63.02,
+        "base_price": 63.02,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Adattatore-Portatile-USB-C-Dell-DA310/dp/B08VHB4VGK/ref=zg_bs_g_460152031_d_sccl_9/523-0503199-4994716",
+        "notify": false
+    },
+    "B0DLKHBPLR": {
+        "title": "ASIN B0DLKHBPLR",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61t5jS2jFAL._AC_UL300_SR300,200_.jpg",
+        "price": 13.39,
+        "base_price": 13.39,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/ECSiNG-Flessibili-Compatibile-PlayStation-Controller/dp/B0DLKHBPLR/ref=zg_bs_g_460152031_d_sccl_10/523-0503199-4994716",
+        "notify": false
+    },
+    "B00371R8P4": {
+        "title": "ASIN B00371R8P4",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71qFBA4ZGAL._AC_UL300_SR300,200_.jpg",
+        "price": 376.97,
+        "base_price": 376.97,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Thrustmaster-Hotas-Warthog-Joystick-PC/dp/B00371R8P4/ref=zg_bs_g_460152031_d_sccl_11/523-0503199-4994716",
+        "notify": false
+    },
+    "B0F7WW3KSH": {
+        "title": "ASIN B0F7WW3KSH",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61uSwKHPdfL._AC_UL300_SR300,200_.jpg",
+        "price": 9.39,
+        "base_price": 9.39,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Briny-River-Conduttiva-Analogico-Compatibile/dp/B0F7WW3KSH/ref=zg_bs_g_460152031_d_sccl_12/523-0503199-4994716",
+        "notify": false
+    },
+    "B09HS7H2P1": {
+        "title": "ASIN B09HS7H2P1",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/81cFg6WvE-L._AC_UL300_SR300,200_.jpg",
+        "price": 16.23,
+        "base_price": 16.23,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Figura-Statuetta-Collezione-KOUZUKI-MOMONOSUKE/dp/B09HS7H2P1/ref=zg_bs_g_460152031_d_sccl_13/523-0503199-4994716",
+        "notify": false
+    },
+    "B0BQ6Y3FHS": {
+        "title": "ASIN B0BQ6Y3FHS",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/516m4+kzO9L._AC_UL300_SR300,200_.jpg",
+        "price": 53.0,
+        "base_price": 53.0,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Goodsmile-Chainsaw-Man-Power-Parade/dp/B0BQ6Y3FHS/ref=zg_bs_g_460152031_d_sccl_14/523-0503199-4994716",
+        "notify": false
+    },
+    "B01MQJSUD3": {
+        "title": "ASIN B01MQJSUD3",
+        "brand": "EG STARTS",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/719cFkiPe4L._AC_UL300_SR300,200_.jpg",
+        "price": 11.99,
+        "base_price": 11.99,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/EG-STARTS-Joystick-Raspberry-Retropie/dp/B01MQJSUD3/ref=zg_bs_g_460152031_d_sccl_16/523-0503199-4994716",
+        "notify": false
+    },
+    "B0DPMD56SD": {
+        "title": "ASIN B0DPMD56SD",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/611w7wJ9RuL._AC_UL300_SR300,200_.jpg",
+        "price": 10.99,
+        "base_price": 10.99,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/ECSiNG-Alimentazione-Flessibile-Compatibile-Playstation/dp/B0DPMD56SD/ref=zg_bs_g_460152031_d_sccl_17/523-0503199-4994716",
+        "notify": false
+    },
+    "B07D26RD9P": {
+        "title": "ASIN B07D26RD9P",
+        "brand": "MAYFLASH",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/611U63zV+SL._AC_UL300_SR300,200_.jpg",
+        "price": 65.94,
+        "base_price": 65.94,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Mayflash-ARCADE-STICK-F101-Switch/dp/B07D26RD9P/ref=zg_bs_g_460152031_d_sccl_18/523-0503199-4994716",
+        "notify": false
+    },
+    "B0B4NRH18Z": {
+        "title": "ASIN B0B4NRH18Z",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51VzTgYOZyL._AC_UL300_SR300,200_.jpg",
+        "price": 10.09,
+        "base_price": 10.09,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/ECSiNG-Pulsantiere-Sostituzione-Compatibile-Trasparente/dp/B0B4NRH18Z/ref=zg_bs_g_460152031_d_sccl_19/523-0503199-4994716",
+        "notify": false
+    },
+    "B0DT41KPBW": {
+        "title": "ASIN B0DT41KPBW",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61MR0tzRooL._AC_UL300_SR300,200_.jpg",
+        "price": 11.99,
+        "base_price": 11.99,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Lord-Tools-Sostitutiva-Compatibile-Combinazioni/dp/B0DT41KPBW/ref=zg_bs_g_460152031_d_sccl_20/523-0503199-4994716",
+        "notify": false
+    },
+    "B01MRWL6DW": {
+        "title": "ASIN B01MRWL6DW",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61asJSqrkFL._AC_UL300_SR300,200_.jpg",
+        "price": 11.99,
+        "base_price": 11.99,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/EG-STARTS-Interruttore-pulsante-combattimento/dp/B01MRWL6DW/ref=zg_bs_g_460152031_d_sccl_21/523-0503199-4994716",
+        "notify": false
+    },
+    "B001CXYMFS": {
+        "title": "ASIN B001CXYMFS",
+        "brand": "Thrustmaster",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71T+cWTYOHL._AC_UL300_SR300,200_.jpg",
+        "price": 116.32,
+        "base_price": 116.32,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Thrustmaster-Joystick-T-Flight-Hotas-PS3/dp/B001CXYMFS/ref=zg_bs_g_460152031_d_sccl_22/523-0503199-4994716",
+        "notify": false
+    },
+    "B0BQHL4MC1": {
+        "title": "ASIN B0BQHL4MC1",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71TZr1BCfyL._AC_UL300_SR300,200_.jpg",
+        "price": 17.95,
+        "base_price": 17.95,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Gundam-Strega-dal-Mercury-Barding/dp/B0BQHL4MC1/ref=zg_bs_g_460152031_d_sccl_23/523-0503199-4994716",
+        "notify": false
+    },
+    "B09TTG3G92": {
+        "title": "ASIN B09TTG3G92",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61wzBKWQvZL._AC_UL300_SR300,200_.jpg",
+        "price": 49.9,
+        "base_price": 49.9,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Banpresto-DEMON-SLAYER-Obanai-Vers/dp/B09TTG3G92/ref=zg_bs_g_460152031_d_sccl_24/523-0503199-4994716",
+        "notify": false
+    },
+    "B0BY6X5FB1": {
+        "title": "ASIN B0BY6X5FB1",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41Fova7Kf-L._AC_UL300_SR300,200_.jpg",
+        "price": 25.95,
+        "base_price": 25.95,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Kobo-Mines-Remplacement-Stylus-2MINES/dp/B0BY6X5FB1/ref=zg_bs_g_460152031_d_sccl_25/523-0503199-4994716",
+        "notify": false
+    },
+    "B0FMZYZDBP": {
+        "title": "ASIN B0FMZYZDBP",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/517t90GgbsL._AC_UL300_SR300,200_.jpg",
+        "price": 13.89,
+        "base_price": 13.89,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/VGOL-Pulsante-Arcade-Giocatore-Microinterruttore/dp/B0FMZYZDBP/ref=zg_bs_g_460152031_d_sccl_26/523-0503199-4994716",
+        "notify": false
+    },
+    "B0BN1M2CCF": {
+        "title": "ASIN B0BN1M2CCF",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51jEPISD-+L._AC_UL300_SR300,200_.jpg",
+        "price": 7.9,
+        "base_price": 7.9,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Stranger-Things-Hellfire-fanseller-Schwarz/dp/B0BN1M2CCF/ref=zg_bs_g_460152031_d_sccl_27/523-0503199-4994716",
+        "notify": false
+    },
+    "B0CMQHTS6Z": {
+        "title": "ASIN B0CMQHTS6Z",
+        "brand": "ECSiNG",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61Lk7JLPzFL._AC_UL300_SR300,200_.jpg",
+        "price": 13.59,
+        "base_price": 13.59,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/ECSiNG-pulsanti-joystick-analogico-compatibili/dp/B0CMQHTS6Z/ref=zg_bs_g_460152031_d_sccl_28/523-0503199-4994716",
+        "notify": false
+    },
+    "B07VGPD4CX": {
+        "title": "ASIN B07VGPD4CX",
+        "brand": "Hakeeta",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61NqH2GE1DL._AC_UL300_SR300,200_.jpg",
+        "price": 14.81,
+        "base_price": 14.81,
+        "coupon": 0.0,
+        "category": "bestseller_cpu",
+        "url": "https://www.amazon.it/Joystick-Controller-Universal-Pieghevole-Smartphone/dp/B07VGPD4CX/ref=zg_bs_g_460152031_d_sccl_30/523-0503199-4994716",
+        "notify": false
+    },
+    "B0BSR3C7G7": {
+        "title": "ASIN B0BSR3C7G7",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61PZ9QNzeQL._AC_UL300_SR300,200_.jpg",
+        "price": 24.3,
+        "base_price": 24.3,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Perixx-PERIBOARD-213W-Tastiera-silenziosi-tastierino/dp/B0BSR3C7G7/ref=zg_bs_g_460154031_d_sccl_1/524-5582824-5025209",
+        "notify": false
+    },
+    "B0D22S5SYX": {
+        "title": "ASIN B0D22S5SYX",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71vGazcPJBL._AC_UL300_SR300,200_.jpg",
+        "price": 145.99,
+        "base_price": 145.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Microsoft-Tastiera-Surface-Keyboard-Slim/dp/B0D22S5SYX/ref=zg_bs_g_460154031_d_sccl_2/524-5582824-5025209",
+        "notify": false
+    },
+    "B0DFXWGJ6J": {
+        "title": "ASIN B0DFXWGJ6J",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61p-+alztbL._AC_UL300_SR300,200_.jpg",
+        "price": 139.95,
+        "base_price": 139.95,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/GravaStar-peripheral-K1-Mechanical-Exoskeleton/dp/B0DFXWGJ6J/ref=zg_bs_g_460154031_d_sccl_3/524-5582824-5025209",
+        "notify": false
+    },
+    "B07W6JJSV7": {
+        "title": "ASIN B07W6JJSV7",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/81nt-2GGjRL._AC_UL300_SR300,200_.jpg",
+        "price": 84.95,
+        "base_price": 84.95,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Logitech-Ergonomica-Digitazione-Antimacchia-Bluetooth/dp/B07W6JJSV7/ref=zg_bs_g_460154031_d_sccl_4/524-5582824-5025209",
+        "notify": false
+    },
+    "B0CNGLFRHG": {
+        "title": "ASIN B0CNGLFRHG",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71RVvn3SQbL._AC_UL300_SR300,200_.jpg",
+        "price": 29.99,
+        "base_price": 29.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/KEMOVE-K98-meccanica-illuminazione-removibile/dp/B0CNGLFRHG/ref=zg_bs_g_460154031_d_sccl_5/524-5582824-5025209",
+        "notify": false
+    },
+    "B0BRFXRV6N": {
+        "title": "ASIN B0BRFXRV6N",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61eUM3ByHWL._AC_UL300_SR300,200_.jpg",
+        "price": 20.99,
+        "base_price": 20.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Zienstar-Tastiera-2-4Ghz-Ricevitore-Italiano-Grigio/dp/B0BRFXRV6N/ref=zg_bs_g_460154031_d_sccl_6/524-5582824-5025209",
+        "notify": false
+    },
+    "B0D1K22NGQ": {
+        "title": "ASIN B0D1K22NGQ",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71ehbZ1M6OL._AC_UL300_SR300,200_.jpg",
+        "price": 16.71,
+        "base_price": 16.71,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/SinLoon-tastiera-programmabile-programmabili-meccanica/dp/B0D1K22NGQ/ref=zg_bs_g_460154031_d_sccl_7/524-5582824-5025209",
+        "notify": false
+    },
+    "B0DL6ZNK6W": {
+        "title": "ASIN B0DL6ZNK6W",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71iCbwpf2PL._AC_UL300_SR300,200_.jpg",
+        "price": 151.82,
+        "base_price": 151.82,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Apple-Magic-Keyboard-Touch-chip/dp/B0DL6ZNK6W/ref=zg_bs_g_460154031_d_sccl_8/524-5582824-5025209",
+        "notify": false
+    },
+    "B0F8KMB7ZH": {
+        "title": "ASIN B0F8KMB7ZH",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51WQnW95SiL._AC_UL300_SR300,200_.jpg",
+        "price": 69.0,
+        "base_price": 69.0,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/M5Stack-ufficiale-Cardputer-v1-1-M5StampS3/dp/B0F8KMB7ZH/ref=zg_bs_g_460154031_d_sccl_9/524-5582824-5025209",
+        "notify": false
+    },
+    "B0DN5RZNCK": {
+        "title": "ASIN B0DN5RZNCK",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71phAogtc7L._AC_UL300_SR300,200_.jpg",
+        "price": 14.39,
+        "base_price": 14.39,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/LeadsaiL-Tastiera-Ergonomico-Tastierino-Windows-Rosa/dp/B0DN5RZNCK/ref=zg_bs_g_460154031_d_sccl_10/524-5582824-5025209",
+        "notify": false
+    },
+    "B0F5Q7DBM7": {
+        "title": "ASIN B0F5Q7DBM7",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71yTYrZ2YBL._AC_UL300_SR300,200_.jpg",
+        "price": 89.99,
+        "base_price": 89.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/YUNZII-QL75-Retroilluminazione-Programmabile-Multidispositivo/dp/B0F5Q7DBM7/ref=zg_bs_g_460154031_d_sccl_11/524-5582824-5025209",
+        "notify": false
+    },
+    "B07HNH8CV1": {
+        "title": "ASIN B07HNH8CV1",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51vmSN4u0UL._AC_UL300_SR300,200_.jpg",
+        "price": 6.5,
+        "base_price": 6.5,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/LINK-Tastiera-Italiana-Colore-CONNETTORE/dp/B07HNH8CV1/ref=zg_bs_g_460154031_d_sccl_12/524-5582824-5025209",
+        "notify": false
+    },
+    "B0DFXWQWB8": {
+        "title": "ASIN B0DFXWQWB8",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71IZzzT1fYL._AC_UL300_SR300,200_.jpg",
+        "price": 99.95,
+        "base_price": 99.95,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/GravaStar-K1-Lite-Meccanica-Retroilluminazione/dp/B0DFXWQWB8/ref=zg_bs_g_460154031_d_sccl_13/524-5582824-5025209",
+        "notify": false
+    },
+    "B00SLKCQQM": {
+        "title": "ASIN B00SLKCQQM",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51QW4l3k6ML._AC_UL300_SR300,200_.jpg",
+        "price": 21.99,
+        "base_price": 21.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Rii-Mini-Wireless-Layout-Italiano/dp/B00SLKCQQM/ref=zg_bs_g_460154031_d_sccl_14/524-5582824-5025209",
+        "notify": false
+    },
+    "B0CVY4566H": {
+        "title": "ASIN B0CVY4566H",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61YXUwCxbhL._AC_UL300_SR300,200_.jpg",
+        "price": 77.61,
+        "base_price": 77.61,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Elgato-Stream-Deck-Neo-Personalizzabili/dp/B0CVY4566H/ref=zg_bs_g_460154031_d_sccl_15/524-5582824-5025209",
+        "notify": false
+    },
+    "B0CMV7KWLS": {
+        "title": "ASIN B0CMV7KWLS",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71pZtafX-nL._AC_UL300_SR300,200_.jpg",
+        "price": 22.47,
+        "base_price": 22.47,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/HP-Connessione-Multi-dispositivo-Programmabili-Compatibile/dp/B0CMV7KWLS/ref=zg_bs_g_460154031_d_sccl_16/524-5582824-5025209",
+        "notify": false
+    },
+    "B0F223JY4P": {
+        "title": "ASIN B0F223JY4P",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61pxFdB3GNL._AC_UL300_SR300,200_.jpg",
+        "price": 6.99,
+        "base_price": 6.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Interruttori-Meccanici-Compatibili-Trasparente-Retroilluminazione/dp/B0F223JY4P/ref=zg_bs_g_460154031_d_sccl_17/524-5582824-5025209",
+        "notify": false
+    },
+    "B0FBGP581B": {
+        "title": "ASIN B0FBGP581B",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71jOH4T8o9L._AC_UL300_SR300,200_.jpg",
+        "price": 55.99,
+        "base_price": 55.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Keychron-Tastiera-configurabile-Bluetooth-compatibile/dp/B0FBGP581B/ref=zg_bs_g_460154031_d_sccl_18/524-5582824-5025209",
+        "notify": false
+    },
+    "B0814FTJ1R": {
+        "title": "ASIN B0814FTJ1R",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71cSWX0DJVL._AC_UL300_SR300,200_.jpg",
+        "price": 29.99,
+        "base_price": 29.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Rii-Wireless-Bluetooth-Layout-Italiano/dp/B0814FTJ1R/ref=zg_bs_g_460154031_d_sccl_19/524-5582824-5025209",
+        "notify": false
+    },
+    "B0F1CN972G": {
+        "title": "ASIN B0F1CN972G",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61DFtmDd6gL._AC_UL300_SR300,200_.jpg",
+        "price": 38.99,
+        "base_price": 38.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/iClever-Bluetooth-Ricaricabile-Ultra-sottile-Compatibile/dp/B0F1CN972G/ref=zg_bs_g_460154031_d_sccl_20/524-5582824-5025209",
+        "notify": false
+    },
+    "B01BTX7YIC": {
+        "title": "ASIN B01BTX7YIC",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61SopvdT+NL._AC_UL300_SR300,200_.jpg",
+        "price": 29.99,
+        "base_price": 29.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Perixx-PERIBOARD-106-Tastiera-USB-Italiano/dp/B01BTX7YIC/ref=zg_bs_g_460154031_d_sccl_21/524-5582824-5025209",
+        "notify": false
+    },
+    "B08Y8W3WB1": {
+        "title": "ASIN B08Y8W3WB1",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61uimZvdSCL._AC_UL300_SR300,200_.jpg",
+        "price": 13.78,
+        "base_price": 13.78,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Tastiera-Esperimenti-Interfaccia-Windows-Raspberry/dp/B08Y8W3WB1/ref=zg_bs_g_460154031_d_sccl_22/524-5582824-5025209",
+        "notify": false
+    },
+    "B01N3869MD": {
+        "title": "ASIN B01N3869MD",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/716JQkBPd2L._AC_UL300_SR300,200_.jpg",
+        "price": 24.99,
+        "base_price": 24.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Rii-BT11-Layout-Italiano-Playstation/dp/B01N3869MD/ref=zg_bs_g_460154031_d_sccl_23/524-5582824-5025209",
+        "notify": false
+    },
+    "B0DQLDP44C": {
+        "title": "ASIN B0DQLDP44C",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/81+6lpzj1LL._AC_UL300_SR300,200_.jpg",
+        "price": 9.38,
+        "base_price": 9.38,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/EKLAT-tastiera-wireless-retroilluminata-integrato/dp/B0DQLDP44C/ref=zg_bs_g_460154031_d_sccl_24/524-5582824-5025209",
+        "notify": false
+    },
+    "B0FHV3CRPC": {
+        "title": "ASIN B0FHV3CRPC",
+        "brand": "YINDIAO",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61lqgqsESKL._AC_UL300_SR300,200_.jpg",
+        "price": 62.04,
+        "base_price": 62.04,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/YINDIAO-X820-Ultra-Meccanica-Fonoassorbenti/dp/B0FHV3CRPC/ref=zg_bs_g_460154031_d_sccl_25/524-5582824-5025209",
+        "notify": false
+    },
+    "B0D8DMQTPW": {
+        "title": "ASIN B0D8DMQTPW",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51YzQfHV3yL._AC_UL300_SR300,200_.jpg",
+        "price": 6.92,
+        "base_price": 6.92,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/AOEVUIR-Estrattore-Copritasti-Estrattori-Interruttori/dp/B0D8DMQTPW/ref=zg_bs_g_460154031_d_sccl_26/524-5582824-5025209",
+        "notify": false
+    },
+    "B0C4L43NWD": {
+        "title": "ASIN B0C4L43NWD",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61kYYm86rqL._AC_UL300_SR300,200_.jpg",
+        "price": 41.99,
+        "base_price": 41.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/iClever-Bluetooth-ricaricabile-multidispositivo-dispositivi/dp/B0C4L43NWD/ref=zg_bs_g_460154031_d_sccl_27/524-5582824-5025209",
+        "notify": false
+    },
+    "B07W7L82HV": {
+        "title": "ASIN B07W7L82HV",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71p4J84GnBL._AC_UL300_SR300,200_.jpg",
+        "price": 34.96,
+        "base_price": 34.96,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Logitech-Bluetooth-multidispositivo-personalizzabili-Easy-Switch/dp/B07W7L82HV/ref=zg_bs_g_460154031_d_sccl_28/524-5582824-5025209",
+        "notify": false
+    },
+    "B0CFLHPD4P": {
+        "title": "ASIN B0CFLHPD4P",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51Dc1SDCpkL._AC_UL300_SR300,200_.jpg",
+        "price": 54.9,
+        "base_price": 54.9,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/ENDORFY-interruttori-meccanica-controllo-EY5G010/dp/B0CFLHPD4P/ref=zg_bs_g_460154031_d_sccl_29/524-5582824-5025209",
+        "notify": false
+    },
+    "B0D2P7CP4F": {
+        "title": "ASIN B0D2P7CP4F",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61XMjMuQzEL._AC_UL300_SR300,200_.jpg",
+        "price": 7.99,
+        "base_price": 7.99,
+        "coupon": 0.0,
+        "category": "bestseller_ram",
+        "url": "https://www.amazon.it/Precisione-Compatibile-Elettroniche-Multifunzione-Manutenzione/dp/B0D2P7CP4F/ref=zg_bs_g_460154031_d_sccl_30/524-5582824-5025209",
+        "notify": false
+    },
+    "B0DZDR6YTB": {
+        "title": "ASIN B0DZDR6YTB",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71sQdN4lfYL._AC_UL300_SR300,200_.jpg",
+        "price": 939.92,
+        "base_price": 939.92,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Apple-Portatile-MacBook-chip-archiviazione/dp/B0DZDR6YTB/ref=zg_bs_g_460158031_d_sccl_1/522-9685681-7738955",
+        "notify": false
+    },
+    "B0DYJL52FT": {
+        "title": "ASIN B0DYJL52FT",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71FksiwLWyL._AC_UL300_SR300,200_.jpg",
+        "price": 279.0,
+        "base_price": 279.0,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Lenovo-Notebook-1920x1080-Integrata-Tastiera/dp/B0DYJL52FT/ref=zg_bs_g_460158031_d_sccl_2/522-9685681-7738955",
+        "notify": false
+    },
+    "B0FPDRBJWH": {
+        "title": "ASIN B0FPDRBJWH",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71nAwANmlrL._AC_UL300_SR300,200_.jpg",
+        "price": 379.99,
+        "base_price": 379.99,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/HP-15-fc0020sl-Portatile-Antiriflesso-Notebook/dp/B0FPDRBJWH/ref=zg_bs_g_460158031_d_sccl_3/522-9685681-7738955",
+        "notify": false
+    },
+    "B0F13NKJXY": {
+        "title": "ASIN B0F13NKJXY",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71lJtVqzvDL._AC_UL300_SR300,200_.jpg",
+        "price": 469.99,
+        "base_price": 469.99,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/HP-15-fc0018sl-Notebook-Antiriflesso-Ultraslim/dp/B0F13NKJXY/ref=zg_bs_g_460158031_d_sccl_4/522-9685681-7738955",
+        "notify": false
+    },
+    "B0FX2PV2DM": {
+        "title": "ASIN B0FX2PV2DM",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71rvCQIFVbL._AC_UL300_SR300,200_.jpg",
+        "price": 279.99,
+        "base_price": 279.99,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Portatile-Pollici-Widevine-Computer-Italiano/dp/B0FX2PV2DM/ref=zg_bs_g_460158031_d_sccl_5/522-9685681-7738955",
+        "notify": false
+    },
+    "B0DZXHTSYC": {
+        "title": "ASIN B0DZXHTSYC",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71qikmrukzL._AC_UL300_SR300,200_.jpg",
+        "price": 485.19,
+        "base_price": 485.19,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/SAMSUNG-garanzia-Processore-Versione-Italiana/dp/B0DZXHTSYC/ref=zg_bs_g_460158031_d_sccl_6/522-9685681-7738955",
+        "notify": false
+    },
+    "B0DZDR8JYC": {
+        "title": "ASIN B0DZDR8JYC",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/712vcAGT7uL._AC_UL300_SR300,200_.jpg",
+        "price": 1136.78,
+        "base_price": 1136.78,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Apple-Portatile-MacBook-chip-archiviazione/dp/B0DZDR8JYC/ref=zg_bs_g_460158031_d_sccl_7/522-9685681-7738955",
+        "notify": false
+    },
+    "B0DMTF3ZDM": {
+        "title": "ASIN B0DMTF3ZDM",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71NKG9PCzOL._AC_UL300_SR300,200_.jpg",
+        "price": 522.48,
+        "base_price": 522.48,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/HP-15-fd0006sl-i7-1255U-Display-Antiriflesso/dp/B0DMTF3ZDM/ref=zg_bs_g_460158031_d_sccl_8/522-9685681-7738955",
+        "notify": false
+    },
+    "B0DYFCQQP3": {
+        "title": "ASIN B0DYFCQQP3",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71LwioD6qZL._AC_UL300_SR300,200_.jpg",
+        "price": 144.53,
+        "base_price": 144.53,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Samsung-Chromebook-garanzia-Versione-Italiana/dp/B0DYFCQQP3/ref=zg_bs_g_460158031_d_sccl_9/522-9685681-7738955",
+        "notify": false
+    },
+    "B0DLHG5YRW": {
+        "title": "ASIN B0DLHG5YRW",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/618r76w5dGL._AC_UL300_SR300,200_.jpg",
+        "price": 1899.0,
+        "base_price": 1899.0,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Apple-2024-MacBook-Portatile-chip/dp/B0DLHG5YRW/ref=zg_bs_g_460158031_d_sccl_10/522-9685681-7738955",
+        "notify": false
+    },
+    "B0F7RCQQQ1": {
+        "title": "ASIN B0F7RCQQQ1",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71TLgx7Jc8L._AC_UL300_SR300,200_.jpg",
+        "price": 1347.2,
+        "base_price": 1347.2,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/HP-16-ap0006sl-Notebook-9-8940HX-Antiriflasso/dp/B0F7RCQQQ1/ref=zg_bs_g_460158031_d_sccl_11/522-9685681-7738955",
+        "notify": false
+    },
+    "B08T9V1FG9": {
+        "title": "ASIN B08T9V1FG9",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/81nkSdV+0wL._AC_UL300_SR300,200_.jpg",
+        "price": 255.0,
+        "base_price": 255.0,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/HP-255-G8-portatile-DDR4-SDRAM/dp/B08T9V1FG9/ref=zg_bs_g_460158031_d_sccl_12/522-9685681-7738955",
+        "notify": false
+    },
+    "B0DYJL1HW8": {
+        "title": "ASIN B0DYJL1HW8",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71Uv5bhmaBL._AC_UL300_SR300,200_.jpg",
+        "price": 520.65,
+        "base_price": 520.65,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Lenovo-Notebook-1920x1080-Integrata-Tastiera/dp/B0DYJL1HW8/ref=zg_bs_g_460158031_d_sccl_13/522-9685681-7738955",
+        "notify": false
+    },
+    "B09HMXSB2B": {
+        "title": "ASIN B09HMXSB2B",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61EbDj0HDdL._AC_UL300_SR300,200_.jpg",
+        "price": 255.0,
+        "base_price": 255.0,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Lenovo-portatile-notebook-Display-computer/dp/B09HMXSB2B/ref=zg_bs_g_460158031_d_sccl_14/522-9685681-7738955",
+        "notify": false
+    },
+    "B0F9WGZP7M": {
+        "title": "ASIN B0F9WGZP7M",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61sirVk7PeL._AC_UL300_SR300,200_.jpg",
+        "price": 509.0,
+        "base_price": 509.0,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/acer-AG15-42P-R21G-Portatile-Notebook-Processore/dp/B0F9WGZP7M/ref=zg_bs_g_460158031_d_sccl_15/522-9685681-7738955",
+        "notify": false
+    },
+    "B0DV5Q67F7": {
+        "title": "ASIN B0DV5Q67F7",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71ZVeYdcFwL._AC_UL300_SR300,200_.jpg",
+        "price": 374.3,
+        "base_price": 374.3,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Lenovo-Notebook-Portatile-Display-i3-1315U/dp/B0DV5Q67F7/ref=zg_bs_g_460158031_d_sccl_16/522-9685681-7738955",
+        "notify": false
+    },
+    "B0DPHYHG5Q": {
+        "title": "ASIN B0DPHYHG5Q",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61FX9VNWlQL._AC_UL300_SR300,200_.jpg",
+        "price": 213.76,
+        "base_price": 213.76,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Lenovo-Chromebook-1920x1200-MediaTek-Kompanio/dp/B0DPHYHG5Q/ref=zg_bs_g_460158031_d_sccl_17/522-9685681-7738955",
+        "notify": false
+    },
+    "B0CH1HBYF9": {
+        "title": "ASIN B0CH1HBYF9",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61Awn7NY4kL._AC_UL300_SR300,200_.jpg",
+        "price": 259.93,
+        "base_price": 259.93,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/ASUS-Chromebook-CX3402CBA-PQ0070-Notebook-Anti-Glare/dp/B0CH1HBYF9/ref=zg_bs_g_460158031_d_sccl_18/522-9685681-7738955",
+        "notify": false
+    },
+    "B0DYF198SY": {
+        "title": "ASIN B0DYF198SY",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71XPzHhsJTL._AC_UL300_SR300,200_.jpg",
+        "price": 1179.0,
+        "base_price": 1179.0,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/ASUS-B0DYF198SY-Notebook-Anti-glare-processore/dp/B0DYF198SY/ref=zg_bs_g_460158031_d_sccl_19/522-9685681-7738955",
+        "notify": false
+    },
+    "B0CV14JFZ6": {
+        "title": "ASIN B0CV14JFZ6",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71-j6rpnO1L._AC_UL300_SR300,200_.jpg",
+        "price": 269.0,
+        "base_price": 269.0,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/HP-250-G9-portatile-DDR4-SDRAM/dp/B0CV14JFZ6/ref=zg_bs_g_460158031_d_sccl_20/522-9685681-7738955",
+        "notify": false
+    },
+    "B0BCG8WJ75": {
+        "title": "ASIN B0BCG8WJ75",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/714OOWzUf2L._AC_UL300_SR300,200_.jpg",
+        "price": 349.0,
+        "base_price": 349.0,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/HP-Notebook-15-6-512GB-6F216EA/dp/B0BCG8WJ75/ref=zg_bs_g_460158031_d_sccl_21/522-9685681-7738955",
+        "notify": false
+    },
+    "B0F4RXHMQ8": {
+        "title": "ASIN B0F4RXHMQ8",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71SS-sH+-uL._AC_UL300_SR300,200_.jpg",
+        "price": 490.98,
+        "base_price": 490.98,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/MSI-B7M-466IT-Notebook-Graphics-Garanzia/dp/B0F4RXHMQ8/ref=zg_bs_g_460158031_d_sccl_22/522-9685681-7738955",
+        "notify": false
+    },
+    "B0FLK4HT6L": {
+        "title": "ASIN B0FLK4HT6L",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71dmKtiaVtL._AC_UL300_SR300,200_.jpg",
+        "price": 239.0,
+        "base_price": 239.0,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Lenovo-Notebook-Portatile-Display-Pronto/dp/B0FLK4HT6L/ref=zg_bs_g_460158031_d_sccl_23/522-9685681-7738955",
+        "notify": false
+    },
+    "B09799C18K": {
+        "title": "ASIN B09799C18K",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71yzNmYepvL._AC_UL300_SR300,200_.jpg",
+        "price": 1502.53,
+        "base_price": 1502.53,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/MSI-B14WGK-018IT-Notebook-i7-14650HX-Garanzia/dp/B09799C18K/ref=zg_bs_g_460158031_d_sccl_24/522-9685681-7738955",
+        "notify": false
+    },
+    "B0DR54WJG9": {
+        "title": "ASIN B0DR54WJG9",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/710r3OfpV1L._AC_UL300_SR300,200_.jpg",
+        "price": 279.99,
+        "base_price": 279.99,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Portatile-Espansione-Batteria-custodia-Custodia/dp/B0DR54WJG9/ref=zg_bs_g_460158031_d_sccl_25/522-9685681-7738955",
+        "notify": false
+    },
+    "B0FZVM25X8": {
+        "title": "ASIN B0FZVM25X8",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/712Qd8shewL._AC_UL300_SR300,200_.jpg",
+        "price": 229.99,
+        "base_price": 229.99,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/Portatile-Supporta-lespansione-Tastiera-Italiana/dp/B0FZVM25X8/ref=zg_bs_g_460158031_d_sccl_26/522-9685681-7738955",
+        "notify": false
+    },
+    "B0F63JV4T8": {
+        "title": "ASIN B0F63JV4T8",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61Jz7u4fWIL._AC_UL300_SR300,200_.jpg",
+        "price": 299.0,
+        "base_price": 299.0,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/ASUS-PC-Portatile-15-6-FullHD/dp/B0F63JV4T8/ref=zg_bs_g_460158031_d_sccl_27/522-9685681-7738955",
+        "notify": false
+    },
+    "B0B8H2PX94": {
+        "title": "ASIN B0B8H2PX94",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61UPXqgxjxL._AC_UL300_SR300,200_.jpg",
+        "price": 1151.04,
+        "base_price": 1151.04,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/acer-ANV15-52-73F2-Notebook-Processore-i7-13620H/dp/B0B8H2PX94/ref=zg_bs_g_460158031_d_sccl_28/522-9685681-7738955",
+        "notify": false
+    },
+    "B0DS63M164": {
+        "title": "ASIN B0DS63M164",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61b0J9rWNyL._AC_UL300_SR300,200_.jpg",
+        "price": 377.36,
+        "base_price": 377.36,
+        "coupon": 0.0,
+        "category": "bestseller_cooler",
+        "url": "https://www.amazon.it/acer-AL14-32P-33XY-Portatile-Notebook-Processore/dp/B0DS63M164/ref=zg_bs_g_460158031_d_sccl_29/522-9685681-7738955",
+        "notify": false
+    },
+    "B08BHLFMR1": {
+        "title": "ASIN B08BHLFMR1",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61ChEgmkHEL._AC_UL300_SR300,200_.jpg",
+        "price": 9.63,
+        "base_price": 9.63,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/deleyCON-Telefonico-Occidentale-Connettore-Telefonica/dp/B08BHLFMR1/ref=zg_bs_g_473251031_d_sccl_1/522-8438983-1047323",
+        "notify": false
+    },
+    "B07JHYV28G": {
+        "title": "ASIN B07JHYV28G",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71k6y0ay+4L._AC_UL300_SR300,200_.jpg",
+        "price": 10.71,
+        "base_price": 10.71,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/CELLONIC-Batterie-Ricambio-sostitutive-affidabili/dp/B07JHYV28G/ref=zg_bs_g_473251031_d_sccl_2/522-8438983-1047323",
+        "notify": false
+    },
+    "B09NMC4SCH": {
+        "title": "ASIN B09NMC4SCH",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61R6RLEXGQL._AC_UL300_SR300,200_.jpg",
+        "price": 3.99,
+        "base_price": 3.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/deleyCON-Telefonico-Modulare-Connettore-Telefonica/dp/B09NMC4SCH/ref=zg_bs_g_473251031_d_sccl_3/522-8438983-1047323",
+        "notify": false
+    },
+    "B0C3ML1JKY": {
+        "title": "ASIN B0C3ML1JKY",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51Ts+JdGSiL._AC_UL300_SR300,200_.jpg",
+        "price": 8.99,
+        "base_price": 8.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Prometeo-Electronics-Adattatore-telefonico-tripolare/dp/B0C3ML1JKY/ref=zg_bs_g_473251031_d_sccl_4/522-8438983-1047323",
+        "notify": false
+    },
+    "B09NY8LHB9": {
+        "title": "ASIN B09NY8LHB9",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41s4+3Gw49L._AC_UL300_SR300,200_.jpg",
+        "price": 8.69,
+        "base_price": 8.69,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Hama-Filtro-spina-tripolare-presa/dp/B09NY8LHB9/ref=zg_bs_g_473251031_d_sccl_5/522-8438983-1047323",
+        "notify": false
+    },
+    "B0CGX95ZND": {
+        "title": "ASIN B0CGX95ZND",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61iugfCUe4L._AC_UL300_SR300,200_.jpg",
+        "price": 27.5,
+        "base_price": 27.5,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Wantek-Adattatore-Professioanl-Cancelling-Smartphone/dp/B0CGX95ZND/ref=zg_bs_g_473251031_d_sccl_6/522-8438983-1047323",
+        "notify": false
+    },
+    "B0DQQ8JKKY": {
+        "title": "ASIN B0DQQ8JKKY",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51je-m9MsCL._AC_UL300_SR300,200_.jpg",
+        "price": 9.99,
+        "base_price": 9.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/HAWAKA-pacchetto-convertitore-adattatore-connettore/dp/B0DQQ8JKKY/ref=zg_bs_g_473251031_d_sccl_7/522-8438983-1047323",
+        "notify": false
+    },
+    "B000VMZHG4": {
+        "title": "ASIN B000VMZHG4",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/513-HmMHpOL._AC_UL300_SR300,200_.jpg",
+        "price": 5.08,
+        "base_price": 5.08,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Goobay-50321-connessione-modulare-metri/dp/B000VMZHG4/ref=zg_bs_g_473251031_d_sccl_8/522-8438983-1047323",
+        "notify": false
+    },
+    "B0CFPWGWNT": {
+        "title": "ASIN B0CFPWGWNT",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71oGqvbnUtL._AC_UL300_SR300,200_.jpg",
+        "price": 13.99,
+        "base_price": 13.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Bluetooth-Auricolari-Chiamata-Impermeabili-Cuffiette/dp/B0CFPWGWNT/ref=zg_bs_g_473251031_d_sccl_9/522-8438983-1047323",
+        "notify": false
+    },
+    "B09FBWH1T3": {
+        "title": "ASIN B09FBWH1T3",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/410w2XbQH+L._AC_UL300_SR300,200_.jpg",
+        "price": 8.46,
+        "base_price": 8.46,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Cavo-Telefono-analogico-Hama-Spina/dp/B09FBWH1T3/ref=zg_bs_g_473251031_d_sccl_10/522-8438983-1047323",
+        "notify": false
+    },
+    "B0DMRVNZ5S": {
+        "title": "ASIN B0DMRVNZ5S",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/81UiLGafNKL._AC_UL300_SR300,200_.jpg",
+        "price": 9.99,
+        "base_price": 9.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Batteria-AAA-Ricambio-Compatible-Telefoni/dp/B0DMRVNZ5S/ref=zg_bs_g_473251031_d_sccl_11/522-8438983-1047323",
+        "notify": false
+    },
+    "B08KP2RCTR": {
+        "title": "ASIN B08KP2RCTR",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51dsanuTi2L._AC_UL300_SR300,200_.jpg",
+        "price": 10.99,
+        "base_price": 10.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Batteria-ricaricabile-originale-Suppo-Gigaset/dp/B08KP2RCTR/ref=zg_bs_g_473251031_d_sccl_12/522-8438983-1047323",
+        "notify": false
+    },
+    "B0BXSL7KS6": {
+        "title": "ASIN B0BXSL7KS6",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71MC0vdIkbL._AC_UL300_SR300,200_.jpg",
+        "price": 10.99,
+        "base_price": 10.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/HAWAKA-telefonico-spirale-telefono-connettore/dp/B0BXSL7KS6/ref=zg_bs_g_473251031_d_sccl_13/522-8438983-1047323",
+        "notify": false
+    },
+    "B0BMWT7NZG": {
+        "title": "ASIN B0BMWT7NZG",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/81WOwsAJ-CL._AC_UL300_SR300,200_.jpg",
+        "price": 11.99,
+        "base_price": 11.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/OKZone-Custodia-Antiurto-Magnetica-Portafoglio/dp/B0BMWT7NZG/ref=zg_bs_g_473251031_d_sccl_14/522-8438983-1047323",
+        "notify": false
+    },
+    "B0FCZNFTDS": {
+        "title": "ASIN B0FCZNFTDS",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51coPDf23aL._AC_UL300_SR300,200_.jpg",
+        "price": 5.95,
+        "base_price": 5.95,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/1aTTack-1x-telefonico-piatto-Western/dp/B0FCZNFTDS/ref=zg_bs_g_473251031_d_sccl_16/522-8438983-1047323",
+        "notify": false
+    },
+    "B0DZXYX3FV": {
+        "title": "ASIN B0DZXYX3FV",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51pWwSCowZL._AC_UL300_SR300,200_.jpg",
+        "price": 423.41,
+        "base_price": 423.41,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/FRITZ-Box-6860-International-resistente/dp/B0DZXYX3FV/ref=zg_bs_g_473251031_d_sccl_17/522-8438983-1047323",
+        "notify": false
+    },
+    "B000VN3EHC": {
+        "title": "ASIN B000VN3EHC",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/513-HmMHpOL._AC_UL300_SR300,200_.jpg",
+        "price": 11.22,
+        "base_price": 11.22,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Goobay-50324-conessione-modulare-metri/dp/B000VN3EHC/ref=zg_bs_g_473251031_d_sccl_18/522-8438983-1047323",
+        "notify": false
+    },
+    "B0CCZ14TDZ": {
+        "title": "ASIN B0CCZ14TDZ",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61Mly1+czYL._AC_UL300_SR300,200_.jpg",
+        "price": 6.99,
+        "base_price": 6.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Cable-Matters-Confezione-telefonico-telefono/dp/B0CCZ14TDZ/ref=zg_bs_g_473251031_d_sccl_19/522-8438983-1047323",
+        "notify": false
+    },
+    "B07NGF2SMG": {
+        "title": "ASIN B07NGF2SMG",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/615FW2vf6+L._AC_UL300_SR300,200_.jpg",
+        "price": 8.49,
+        "base_price": 8.49,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Estensione-Telefono-Internet-Telefonica-Microfiltro/dp/B07NGF2SMG/ref=zg_bs_g_473251031_d_sccl_20/522-8438983-1047323",
+        "notify": false
+    },
+    "B09GFLX64M": {
+        "title": "ASIN B09GFLX64M",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51jiGWF4e4L._AC_UL300_SR300,200_.jpg",
+        "price": 10.99,
+        "base_price": 10.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Adattatore-Telefonico-RJ11-RJ45-Connettore/dp/B09GFLX64M/ref=zg_bs_g_473251031_d_sccl_21/522-8438983-1047323",
+        "notify": false
+    },
+    "B0D95KP69S": {
+        "title": "ASIN B0D95KP69S",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71O+bV77DzL._AC_UL300_SR300,200_.jpg",
+        "price": 19.54,
+        "base_price": 19.54,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Aousavo-514047AR-KX-TU456EXCE-KX-TU466EXBE-KX-TU466EXWE/dp/B0D95KP69S/ref=zg_bs_g_473251031_d_sccl_22/522-8438983-1047323",
+        "notify": false
+    },
+    "B09966RQZD": {
+        "title": "ASIN B09966RQZD",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61-xiyAlbXL._AC_UL300_SR300,200_.jpg",
+        "price": 10.99,
+        "base_price": 10.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/HUAZIZ-Telefonico-Occidentale-Connettore-Telefonica/dp/B09966RQZD/ref=zg_bs_g_473251031_d_sccl_23/522-8438983-1047323",
+        "notify": false
+    },
+    "B0F9LKQK5R": {
+        "title": "ASIN B0F9LKQK5R",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51kihbQKv+L._AC_UL300_SR300,200_.jpg",
+        "price": 4.95,
+        "base_price": 4.95,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/1aTTack-1x-2m-telefonico-telefonica/dp/B0F9LKQK5R/ref=zg_bs_g_473251031_d_sccl_24/522-8438983-1047323",
+        "notify": false
+    },
+    "B001CVXFPI": {
+        "title": "ASIN B001CVXFPI",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51ZQtz4qfjL._AC_UL300_SR300,200_.jpg",
+        "price": 24.57,
+        "base_price": 24.57,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Geemarc-CL11-Amplificatore-suono-fino/dp/B001CVXFPI/ref=zg_bs_g_473251031_d_sccl_25/522-8438983-1047323",
+        "notify": false
+    },
+    "B09438D1PR": {
+        "title": "ASIN B09438D1PR",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/318EUvHSbJL._AC_UL300_SR300,200_.jpg",
+        "price": 6.2,
+        "base_price": 6.2,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/CABLEPELADO-Sdoppiatore-telefono-RJ11-bianco/dp/B09438D1PR/ref=zg_bs_g_473251031_d_sccl_26/522-8438983-1047323",
+        "notify": false
+    },
+    "B0DNKSVNQS": {
+        "title": "ASIN B0DNKSVNQS",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/512cq473YeL._AC_UL300_SR300,200_.jpg",
+        "price": 7.99,
+        "base_price": 7.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/TECHZOCO-prolunga-telefono-telefonico-modulare/dp/B0DNKSVNQS/ref=zg_bs_g_473251031_d_sccl_27/522-8438983-1047323",
+        "notify": false
+    },
+    "B0FFT7R6S4": {
+        "title": "ASIN B0FFT7R6S4",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/613UxNBc4OL._AC_UL300_SR300,200_.jpg",
+        "price": 9.99,
+        "base_price": 9.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Adattatore-Connessione-Telefonico-Connettore-Telefonia/dp/B0FFT7R6S4/ref=zg_bs_g_473251031_d_sccl_28/522-8438983-1047323",
+        "notify": false
+    },
+    "B00342M2H0": {
+        "title": "ASIN B00342M2H0",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61CGRg9fepL._AC_UL300_SR300,200_.jpg",
+        "price": 3.52,
+        "base_price": 3.52,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/InLine-RJ12-Nero-interfaccia-adattatore/dp/B00342M2H0/ref=zg_bs_g_473251031_d_sccl_29/522-8438983-1047323",
+        "notify": false
+    },
+    "B0DLLN2898": {
+        "title": "ASIN B0DLLN2898",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51Kmpe03CgL._AC_UL300_SR300,200_.jpg",
+        "price": 7.99,
+        "base_price": 7.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/TECHZOCO-Biforcatore-telefono-adattatore-splitter/dp/B0DLLN2898/ref=zg_bs_g_473251031_d_sccl_30/522-8438983-1047323",
+        "notify": false
+    },
+    "B000VMZG8I": {
+        "title": "ASIN B000VMZG8I",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51Oh9wqDg5L._AC_UL300_SR300,200_.jpg",
+        "price": 2.47,
+        "base_price": 2.47,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Goobay-68002-Cornetta-Telefonica-Spirale/dp/B000VMZG8I/ref=zg_bs_g_473251031_d_sccl_1/524-5254825-1408826",
+        "notify": false
+    },
+    "B07NDYF7GS": {
+        "title": "ASIN B07NDYF7GS",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51I6E4llSSL._AC_UL300_SR300,200_.jpg",
+        "price": 11.47,
+        "base_price": 11.47,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Estensione-Telefono-Internet-Telefonica-Microfiltro/dp/B07NDYF7GS/ref=zg_bs_g_473251031_d_sccl_2/524-5254825-1408826",
+        "notify": false
+    },
+    "B09QQFG9YV": {
+        "title": "ASIN B09QQFG9YV",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61TuVwFBtwL._AC_UL300_SR300,200_.jpg",
+        "price": 26.95,
+        "base_price": 26.95,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Wantek-microfono-cancellazione-compatibili-Grandstream/dp/B09QQFG9YV/ref=zg_bs_g_473251031_d_sccl_3/524-5254825-1408826",
+        "notify": false
+    },
+    "B0BT7WM454": {
+        "title": "ASIN B0BT7WM454",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/5113Fr-IFaL._AC_UL300_SR300,200_.jpg",
+        "price": 7.99,
+        "base_price": 7.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/CABLEPELADO-prolunga-telefono-modulare-Internet/dp/B0BT7WM454/ref=zg_bs_g_473251031_d_sccl_4/524-5254825-1408826",
+        "notify": false
+    },
+    "B0BK9S2XX7": {
+        "title": "ASIN B0BK9S2XX7",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51DjeB8vrrL._AC_UL300_SR300,200_.jpg",
+        "price": 9.19,
+        "base_price": 9.19,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Batteria-ricaricabile-compatibile-telefoni-cordless/dp/B0BK9S2XX7/ref=zg_bs_g_473251031_d_sccl_5/524-5254825-1408826",
+        "notify": false
+    },
+    "B07YC7DWN5": {
+        "title": "ASIN B07YC7DWN5",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61K502WLQ3L._AC_UL300_SR300,200_.jpg",
+        "price": 11.49,
+        "base_price": 11.49,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Piatto-Estensione-Telefonico-Maschio-Centralino/dp/B07YC7DWN5/ref=zg_bs_g_473251031_d_sccl_6/524-5254825-1408826",
+        "notify": false
+    },
+    "B01LW06AIX": {
+        "title": "ASIN B01LW06AIX",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61S6E3buk0L._AC_UL300_SR300,200_.jpg",
+        "price": 24.97,
+        "base_price": 24.97,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Monoaurale-Cancellazione-Auricolare-Grandstream-F600Y1/dp/B01LW06AIX/ref=zg_bs_g_473251031_d_sccl_7/524-5254825-1408826",
+        "notify": false
+    },
+    "B01LY5CQVM": {
+        "title": "ASIN B01LY5CQVM",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/31Qxiun540L._AC_UL300_SR300,200_.jpg",
+        "price": 14.45,
+        "base_price": 14.45,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Metronic-495223-Adattatore-telefonico-RJ45-maschio-RJ11-femmina/dp/B01LY5CQVM/ref=zg_bs_g_473251031_d_sccl_8/524-5254825-1408826",
+        "notify": false
+    },
+    "B07DT7LZ25": {
+        "title": "ASIN B07DT7LZ25",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/616aI9JrndL._AC_UL300_SR300,200_.jpg",
+        "price": 13.99,
+        "base_price": 13.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Spigen-F308W-Certificato-Caricabatterie-Dispositivo/dp/B07DT7LZ25/ref=zg_bs_g_473251031_d_sccl_9/524-5254825-1408826",
+        "notify": false
+    },
+    "B0989N59WV": {
+        "title": "ASIN B0989N59WV",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/81bfsH4m6IL._AC_UL300_SR300,200_.jpg",
+        "price": 11.99,
+        "base_price": 11.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/IWANGDO-Compatible-HHR-65AAABU-HHR-55AAABU-ricaricabile/dp/B0989N59WV/ref=zg_bs_g_473251031_d_sccl_10/524-5254825-1408826",
+        "notify": false
+    },
+    "B0F6MWJNGY": {
+        "title": "ASIN B0F6MWJNGY",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51lxwmJ7HQL._AC_UL300_SR300,200_.jpg",
+        "price": 6.29,
+        "base_price": 6.29,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Huybaa-telefonico-telefono-adattatore-sdoppiatore/dp/B0F6MWJNGY/ref=zg_bs_g_473251031_d_sccl_11/524-5254825-1408826",
+        "notify": false
+    },
+    "B018NT3D8U": {
+        "title": "ASIN B018NT3D8U",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51OSARV4XaL._AC_UL300_SR300,200_.jpg",
+        "price": 80.65,
+        "base_price": 80.65,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/VOXOUT-Combinatore-Telefonico-SINTESI-VOCALE/dp/B018NT3D8U/ref=zg_bs_g_473251031_d_sccl_12/524-5254825-1408826",
+        "notify": false
+    },
+    "B0765CZR21": {
+        "title": "ASIN B0765CZR21",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/31d7GulwRIL._AC_UL300_SR300,200_.jpg",
+        "price": 6.5,
+        "base_price": 6.5,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/telefonico-spirale-fili-metri-scoperto/dp/B0765CZR21/ref=zg_bs_g_473251031_d_sccl_13/524-5254825-1408826",
+        "notify": false
+    },
+    "B00N44TBIQ": {
+        "title": "ASIN B00N44TBIQ",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61jPCKdK13L._AC_UL300_SR300,200_.jpg",
+        "price": 16.89,
+        "base_price": 16.89,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Batteria-Swissvoice-SV20405855-sostituzione-sostituto/dp/B00N44TBIQ/ref=zg_bs_g_473251031_d_sccl_14/524-5254825-1408826",
+        "notify": false
+    },
+    "B00XBTZXTU": {
+        "title": "ASIN B00XBTZXTU",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51Ls9J8pluL._AC_UL300_SR300,200_.jpg",
+        "price": 5.99,
+        "base_price": 5.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Adattatore-piatto-rotondo-Europa-America/dp/B00XBTZXTU/ref=zg_bs_g_473251031_d_sccl_15/524-5254825-1408826",
+        "notify": false
+    },
+    "B09J8HZY12": {
+        "title": "ASIN B09J8HZY12",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71Dt1nqU8ML._AC_UL300_SR300,200_.jpg",
+        "price": 29.95,
+        "base_price": 29.95,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Microfono-Cancellazione-Auricolare-Telefonica-Grandstream/dp/B09J8HZY12/ref=zg_bs_g_473251031_d_sccl_16/524-5254825-1408826",
+        "notify": false
+    },
+    "B0FK9QZQBM": {
+        "title": "ASIN B0FK9QZQBM",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61P2qcH540L._AC_UL300_SR300,200_.jpg",
+        "price": 5.99,
+        "base_price": 5.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Huybaa-telefonico-adattatore-ingresso-distributore/dp/B0FK9QZQBM/ref=zg_bs_g_473251031_d_sccl_17/524-5254825-1408826",
+        "notify": false
+    },
+    "B0DNK7PDXK": {
+        "title": "ASIN B0DNK7PDXK",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/31KF+nefSSL._AC_UL300_SR300,200_.jpg",
+        "price": 6.02,
+        "base_price": 6.02,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/telefonica-compatibile-Bticino-connessione-colore/dp/B0DNK7PDXK/ref=zg_bs_g_473251031_d_sccl_18/524-5254825-1408826",
+        "notify": false
+    },
+    "B085FXMTXK": {
+        "title": "ASIN B085FXMTXK",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61rksetIFyS._AC_UL300_SR300,200_.jpg",
+        "price": 9.99,
+        "base_price": 9.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Gigaset-2X-Batteria-Ricaricabile-Originale/dp/B085FXMTXK/ref=zg_bs_g_473251031_d_sccl_19/524-5254825-1408826",
+        "notify": false
+    },
+    "B005I1UDY4": {
+        "title": "ASIN B005I1UDY4",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61Pw+WSVSsL._AC_UL300_SR300,200_.jpg",
+        "price": 1.19,
+        "base_price": 1.19,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/InLine%C2%AE-18848-cavo-telefonico-Nero/dp/B005I1UDY4/ref=zg_bs_g_473251031_d_sccl_20/524-5254825-1408826",
+        "notify": false
+    },
+    "B0FLJW14SV": {
+        "title": "ASIN B0FLJW14SV",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/614UBDZi2aL._AC_UL300_SR300,200_.jpg",
+        "price": 31.43,
+        "base_price": 31.43,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Lumonic-telefonico-schermato-telecomunicazioni-collegamento/dp/B0FLJW14SV/ref=zg_bs_g_473251031_d_sccl_21/524-5254825-1408826",
+        "notify": false
+    },
+    "B0CQMGXTJY": {
+        "title": "ASIN B0CQMGXTJY",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71gni3gfg3L._AC_UL300_SR300,200_.jpg",
+        "price": 26.99,
+        "base_price": 26.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/travSIM-eSIM-illimitati-dispositivi-compatibili/dp/B0CQMGXTJY/ref=zg_bs_g_473251031_d_sccl_22/524-5254825-1408826",
+        "notify": false
+    },
+    "B00342FBBO": {
+        "title": "ASIN B00342FBBO",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71K9VEc3J9L._AC_UL300_SR300,200_.jpg",
+        "price": 1.32,
+        "base_price": 1.32,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Adattatore-Maschio-Femmina-Siemens-Telekom/dp/B00342FBBO/ref=zg_bs_g_473251031_d_sccl_23/524-5254825-1408826",
+        "notify": false
+    },
+    "B09BVF7GMF": {
+        "title": "ASIN B09BVF7GMF",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/6115Un5COuL._AC_UL300_SR300,200_.jpg",
+        "price": 9.99,
+        "base_price": 9.99,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Splitter-Ethernet-splitter-Adattatore-estensione/dp/B09BVF7GMF/ref=zg_bs_g_473251031_d_sccl_24/524-5254825-1408826",
+        "notify": false
+    },
+    "B09CD1VM4L": {
+        "title": "ASIN B09CD1VM4L",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61aUZrt1cpS._AC_UL300_SR300,200_.jpg",
+        "price": 27.95,
+        "base_price": 27.95,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Microfono-Cancellazione-Auricolare-DA310-DA710-Alcatel-Lucent/dp/B09CD1VM4L/ref=zg_bs_g_473251031_d_sccl_25/524-5254825-1408826",
+        "notify": false
+    },
+    "B0CVV2SD2F": {
+        "title": "ASIN B0CVV2SD2F",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71xRDHhcuDL._AC_UL300_SR300,200_.jpg",
+        "price": 14.77,
+        "base_price": 14.77,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/compatibile-KX-TU456EXCE-KX-TU466EXBE-KX-TU466EXWE-sostituisce/dp/B0CVV2SD2F/ref=zg_bs_g_473251031_d_sccl_26/524-5254825-1408826",
+        "notify": false
+    },
+    "B0BXSZC47Z": {
+        "title": "ASIN B0BXSZC47Z",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51ih3imqNcL._AC_UL300_SR300,200_.jpg",
+        "price": 7.98,
+        "base_price": 7.98,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/Aerzetix-connettori-telefonico-informatica-trasparente/dp/B0BXSZC47Z/ref=zg_bs_g_473251031_d_sccl_27/524-5254825-1408826",
+        "notify": false
+    },
+    "B005I1UDOE": {
+        "title": "ASIN B005I1UDOE",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61Pw+WSVSsL._AC_UL300_SR300,200_.jpg",
+        "price": 1.1,
+        "base_price": 1.1,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/InLine%C2%AE-18848A-cavo-telefonico-Nero/dp/B005I1UDOE/ref=zg_bs_g_473251031_d_sccl_28/524-5254825-1408826",
+        "notify": false
+    },
+    "B001NY9BKC": {
+        "title": "ASIN B001NY9BKC",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41GnFAab-LL._AC_UL300_SR300,200_.jpg",
+        "price": 4.63,
+        "base_price": 4.63,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/75109-Filtro-Splitter-universale-RJ-11/dp/B001NY9BKC/ref=zg_bs_g_473251031_d_sccl_29/524-5254825-1408826",
+        "notify": false
+    },
+    "B004VYEI5E": {
+        "title": "ASIN B004VYEI5E",
+        "brand": null,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41514gMWMYL._AC_UL300_SR300,200_.jpg",
+        "price": 0.95,
+        "base_price": 0.95,
+        "coupon": 0.0,
+        "category": "bestseller_smartwatch",
+        "url": "https://www.amazon.it/InLine%C2%AE-Modulare-Telefonico-Crimpare-Piatto/dp/B004VYEI5E/ref=zg_bs_g_473251031_d_sccl_30/524-5254825-1408826",
+        "notify": false
+    },
+    "B0D7CY3DJS": {
+        "title": "ASIN B0D7CY3DJS",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/312IbNw3LdL._AC_UL320_.jpg",
+        "price": 16.35,
+        "base_price": 16.35,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0D7CY3DJS",
+        "notify": false
+    },
+    "B0BL1BHTBN": {
+        "title": "ASIN B0BL1BHTBN",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/51KTFxngXRL._AC_UL320_.jpg",
+        "price": 14.32,
+        "base_price": 14.32,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0BL1BHTBN",
+        "notify": false
+    },
+    "B0CPPYTJLZ": {
+        "title": "ASIN B0CPPYTJLZ",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/818CcfY17LL._AC_UL320_.jpg",
+        "price": 48.28,
+        "base_price": 48.28,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0CPPYTJLZ",
+        "notify": false
+    },
+    "B0BMXKC2PH": {
+        "title": "ASIN B0BMXKC2PH",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/51J8D4S3MaL._AC_UL320_.jpg",
+        "price": 43.03,
+        "base_price": 43.03,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0BMXKC2PH",
+        "notify": false
+    },
+    "B00NM76CQO": {
+        "title": "ASIN B00NM76CQO",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/71WAmb2VpSL._AC_UL320_.jpg",
+        "price": 7.0,
+        "base_price": 7.0,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B00NM76CQO",
+        "notify": false
+    },
+    "B00NWH1FTS": {
+        "title": "ASIN B00NWH1FTS",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/51h5qh8l2OL._AC_UL320_.jpg",
+        "price": 24.58,
+        "base_price": 24.58,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B00NWH1FTS",
+        "notify": false
+    },
+    "B08714LHX9": {
+        "title": "ASIN B08714LHX9",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/511XoY2K5MS._AC_UL320_.jpg",
+        "price": 35.54,
+        "base_price": 35.54,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B08714LHX9",
+        "notify": false
+    },
+    "B0BQ39YZYV": {
+        "title": "ASIN B0BQ39YZYV",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/61Hkmyj74wL._AC_UL320_.jpg",
+        "price": 50.04,
+        "base_price": 50.04,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0BQ39YZYV",
+        "notify": false
+    },
+    "B0842PYZRP": {
+        "title": "ASIN B0842PYZRP",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/71T9NEZzZfL._AC_UL320_.jpg",
+        "price": 17.13,
+        "base_price": 17.13,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0842PYZRP",
+        "notify": false
+    },
+    "B0BL1BP59L": {
+        "title": "ASIN B0BL1BP59L",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/319iLs09CYL._AC_UL320_.jpg",
+        "price": 18.84,
+        "base_price": 18.84,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0BL1BP59L",
+        "notify": false
+    },
+    "B08G4QRDRF": {
+        "title": "ASIN B08G4QRDRF",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/710MjTFV9+L._AC_UL320_.jpg",
+        "price": 44.72,
+        "base_price": 44.72,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B08G4QRDRF",
+        "notify": false
+    },
+    "B00PS1M4XM": {
+        "title": "ASIN B00PS1M4XM",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/51AyHwL0k2L._AC_UL320_.jpg",
+        "price": 48.48,
+        "base_price": 48.48,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B00PS1M4XM",
+        "notify": false
+    },
+    "B01HRR96ZI": {
+        "title": "ASIN B01HRR96ZI",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/713yyelnb3L._AC_UL320_.jpg",
+        "price": 11.47,
+        "base_price": 11.47,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B01HRR96ZI",
+        "notify": false
+    },
+    "B00N8LSVWW": {
+        "title": "ASIN B00N8LSVWW",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/81fW8F-ca5L._AC_UL320_.jpg",
+        "price": 10.22,
+        "base_price": 10.22,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B00N8LSVWW",
+        "notify": false
+    },
+    "B01GRYFI6S": {
+        "title": "ASIN B01GRYFI6S",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/61l0qrdsM0L._AC_UL320_.jpg",
+        "price": 12.29,
+        "base_price": 12.29,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B01GRYFI6S",
+        "notify": false
+    },
+    "B07MKV4XSL": {
+        "title": "ASIN B07MKV4XSL",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/41zEkelSPfL._AC_UL320_.jpg",
+        "price": 81.99,
+        "base_price": 81.99,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B07MKV4XSL",
+        "notify": false
+    },
+    "B0CGJJ1698": {
+        "title": "ASIN B0CGJJ1698",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/51IsUtkHjyL._AC_UL320_.jpg",
+        "price": 79.99,
+        "base_price": 79.99,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0CGJJ1698",
+        "notify": false
+    },
+    "B0CGXJGGJZ": {
+        "title": "ASIN B0CGXJGGJZ",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/41YfvhKeZmL._AC_UL320_.jpg",
+        "price": 41.7,
+        "base_price": 41.7,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0CGXJGGJZ",
+        "notify": false
+    },
+    "B00FQMIH02": {
+        "title": "ASIN B00FQMIH02",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/51GQLWI6qBL._AC_UL320_.jpg",
+        "price": 8.36,
+        "base_price": 8.36,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B00FQMIH02",
+        "notify": false
+    },
+    "B07WJWXXHN": {
+        "title": "ASIN B07WJWXXHN",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/61dzCiXqKtL._AC_UL320_.jpg",
+        "price": 25.66,
+        "base_price": 25.66,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B07WJWXXHN",
+        "notify": false
+    },
+    "B003FBBH8U": {
+        "title": "ASIN B003FBBH8U",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/515Pa1f9RCL._AC_UL320_.jpg",
+        "price": 65.99,
+        "base_price": 65.99,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B003FBBH8U",
+        "notify": false
+    },
+    "B0CQPGGGGY": {
+        "title": "ASIN B0CQPGGGGY",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/616ToRZevlL._AC_UL320_.jpg",
+        "price": 5.66,
+        "base_price": 5.66,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0CQPGGGGY",
+        "notify": false
+    },
+    "B07BL2V179": {
+        "title": "ASIN B07BL2V179",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/71d1myj2cVS._AC_UL320_.jpg",
+        "price": 29.0,
+        "base_price": 29.0,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B07BL2V179",
+        "notify": false
+    },
+    "B01GRYFSB8": {
+        "title": "ASIN B01GRYFSB8",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/71gQwheWk8L._AC_UL320_.jpg",
+        "price": 11.47,
+        "base_price": 11.47,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B01GRYFSB8",
+        "notify": false
+    },
+    "B093BVXYSV": {
+        "title": "ASIN B093BVXYSV",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/81dFcG7ZE0L._AC_UL320_.jpg",
+        "price": 114.75,
+        "base_price": 114.75,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B093BVXYSV",
+        "notify": false
+    },
+    "B0CMJC74CL": {
+        "title": "ASIN B0CMJC74CL",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/61wXCMfZEAL._AC_UL320_.jpg",
+        "price": 35.96,
+        "base_price": 35.96,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0CMJC74CL",
+        "notify": false
+    },
+    "B0G1C7L6KF": {
+        "title": "ASIN B0G1C7L6KF",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/71cwXhftcdL._AC_UL320_.jpg",
+        "price": 8.11,
+        "base_price": 8.11,
+        "coupon": 0.0,
+        "category": "search_dissipatori",
+        "url": "https://www.amazon.it/dp/B0G1C7L6KF",
+        "notify": false
+    },
+    "B0G1CKBY4S": {
+        "title": "ASIN B0G1CKBY4S",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/71Eotf0NBiL._AC_UL320_.jpg",
+        "price": 10.25,
+        "base_price": 10.25,
+        "coupon": 0.0,
+        "category": "search_dissipatori",
+        "url": "https://www.amazon.it/dp/B0G1CKBY4S",
+        "notify": false
     },
     "B08TWNXRTG": {
+        "title": "ASIN B08TWNXRTG",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/71LsdeNuDVL._AC_UL320_.jpg",
         "price": 8.93,
         "base_price": 8.93,
-        "coupon": 0
+        "coupon": 0.0,
+        "category": "search_dissipatori,search_case",
+        "url": "https://www.amazon.it/dp/B08TWNXRTG",
+        "notify": false
     },
-    "B00VIM9VQ8": {
-        "price": 28.15,
-        "base_price": 28.15,
-        "coupon": 0
+    "B08X4T2FHC": {
+        "title": "ASIN B08X4T2FHC",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/51y4BnXO4YL._AC_UL320_.jpg",
+        "price": 24.55,
+        "base_price": 24.55,
+        "coupon": 0.0,
+        "category": "search_dissipatori",
+        "url": "https://www.amazon.it/dp/B08X4T2FHC",
+        "notify": false
+    },
+    "B08QNBBVH5": {
+        "title": "ASIN B08QNBBVH5",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/51JGMnGsfJL._AC_UL320_.jpg",
+        "price": 18.42,
+        "base_price": 18.42,
+        "coupon": 0.0,
+        "category": "search_dissipatori",
+        "url": "https://www.amazon.it/dp/B08QNBBVH5",
+        "notify": false
+    },
+    "B09PG3X8MD": {
+        "title": "ASIN B09PG3X8MD",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/61m7Fn6UiqL._AC_UL320_.jpg",
+        "price": 16.39,
+        "base_price": 16.39,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B09PG3X8MD",
+        "notify": false
+    },
+    "B0FR9QNZNH": {
+        "title": "ASIN B0FR9QNZNH",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/612rkdMC0aL._AC_UL320_.jpg",
+        "price": 4.84,
+        "base_price": 4.84,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0FR9QNZNH",
+        "notify": false
     },
     "B0D7CL95F7": {
+        "title": "ASIN B0D7CL95F7",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/71ZxoHhwrqL._AC_UL320_.jpg",
         "price": 48.67,
         "base_price": 48.67,
-        "coupon": 0
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0D7CL95F7",
+        "notify": false
+    },
+    "B00VIM9VQ8": {
+        "title": "ASIN B00VIM9VQ8",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/91-eovmEQYL._AC_UL320_.jpg",
+        "price": 28.15,
+        "base_price": 28.15,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B00VIM9VQ8",
+        "notify": false
     },
     "B006QV7WM6": {
+        "title": "ASIN B006QV7WM6",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/81FHXr9d4mL._AC_UL320_.jpg",
         "price": 48.86,
         "base_price": 48.86,
-        "coupon": 0
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B006QV7WM6",
+        "notify": false
     },
     "B0B1HTG4W5": {
+        "title": "ASIN B0B1HTG4W5",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/71K0H3UA4kL._AC_UL320_.jpg",
         "price": 20.37,
         "base_price": 20.37,
-        "coupon": 0
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0B1HTG4W5",
+        "notify": false
+    },
+    "B09TDY61JX": {
+        "title": "ASIN B09TDY61JX",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/61yJY18gxkL._AC_UL320_.jpg",
+        "price": 31.52,
+        "base_price": 31.52,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B09TDY61JX",
+        "notify": false
+    },
+    "B0DDBZP8QS": {
+        "title": "ASIN B0DDBZP8QS",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/71myvNbZ7eL._AC_UL320_.jpg",
+        "price": 28.28,
+        "base_price": 28.28,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0DDBZP8QS",
+        "notify": false
+    },
+    "B09JZQV89Z": {
+        "title": "ASIN B09JZQV89Z",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/61r+oppwseL._AC_UL320_.jpg",
+        "price": 54.47,
+        "base_price": 54.47,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B09JZQV89Z",
+        "notify": false
+    },
+    "B09MJ8YDFM": {
+        "title": "ASIN B09MJ8YDFM",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/51Zc0OiC-SL._AC_UL320_.jpg",
+        "price": 23.33,
+        "base_price": 23.33,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B09MJ8YDFM",
+        "notify": false
+    },
+    "B0FJ2B6CPL": {
+        "title": "ASIN B0FJ2B6CPL",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/71eTLYKbEnL._AC_UL320_.jpg",
+        "price": 20.9,
+        "base_price": 20.9,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0FJ2B6CPL",
+        "notify": false
+    },
+    "B0D7CMK1LF": {
+        "title": "ASIN B0D7CMK1LF",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/71lGhnwnrNL._AC_UL320_.jpg",
+        "price": 37.3,
+        "base_price": 37.3,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0D7CMK1LF",
+        "notify": false
+    },
+    "B004JMZPK0": {
+        "title": "ASIN B004JMZPK0",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/61w4Rb31Z9S._AC_UL320_.jpg",
+        "price": 71.07,
+        "base_price": 71.07,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B004JMZPK0",
+        "notify": false
+    },
+    "B0D1YL3D64": {
+        "title": "ASIN B0D1YL3D64",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/51MaKYu343L._AC_UL320_.jpg",
+        "price": 71.16,
+        "base_price": 71.16,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0D1YL3D64",
+        "notify": false
+    },
+    "B0B8K1FGJ3": {
+        "title": "ASIN B0B8K1FGJ3",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/51s5Jrsz0aL._AC_UL320_.jpg",
+        "price": 46.42,
+        "base_price": 46.42,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0B8K1FGJ3",
+        "notify": false
+    },
+    "B0DM1XHCQ5": {
+        "title": "ASIN B0DM1XHCQ5",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/813DJDE6PqL._AC_UL320_.jpg",
+        "price": 48.72,
+        "base_price": 48.72,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0DM1XHCQ5",
+        "notify": false
+    },
+    "B0F79R9Z2V": {
+        "title": "ASIN B0F79R9Z2V",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/51Z3Bqh15GL._AC_UL320_.jpg",
+        "price": 51.96,
+        "base_price": 51.96,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0F79R9Z2V",
+        "notify": false
+    },
+    "B0BGCDHYFW": {
+        "title": "ASIN B0BGCDHYFW",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/717DYf0WRoL._AC_UL320_.jpg",
+        "price": 63.14,
+        "base_price": 63.14,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0BGCDHYFW",
+        "notify": false
+    },
+    "B0B38W37WL": {
+        "title": "ASIN B0B38W37WL",
+        "brand": null,
+        "image": "https://m.media-amazon.com/images/I/81-16Unm9cL._AC_UL320_.jpg",
+        "price": 45.46,
+        "base_price": 45.46,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0B38W37WL",
+        "notify": false
     }
 }
