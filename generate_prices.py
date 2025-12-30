@@ -112,8 +112,18 @@ def scrape_search(url, pages=5, category="search"):
                 continue
 
             # titolo
-            title_el = item.select_one("h2 a span")
-            title = title_el.get_text(strip=True) if title_el else None
+           # Titolo – Amazon 2025 usa molti layout diversi
+title_el = (
+    item.select_one("h2 a span") or
+    item.select_one("span.a-size-base-plus.a-color-base.a-text-normal") or
+    item.select_one("span.a-size-medium.a-color-base.a-text-normal") or
+    item.select_one("span.a-size-base-plus.a-color-base") or
+    item.select_one("span.a-size-base.a-color-base") or
+    item.select_one("h2 span")
+)
+
+title = title_el.get_text(strip=True) if title_el else None
+
 
             # brand
             brand = extract_brand_from_title(title)
