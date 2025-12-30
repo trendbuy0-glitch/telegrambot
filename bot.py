@@ -39,15 +39,17 @@ def format_message(asin, info):
 
     affiliate_link = f"https://www.amazon.it/dp/{asin}?tag={AFFILIATE_ID}"
 
-    # Calcolo sconto
+    # Calcolo sconto %
     discount_percent = 0
     if base_price > 0:
         discount_percent = round((base_price - final_price) / base_price * 100)
 
+    # Testo coupon
     coupon_text = ""
     if coupon > 0:
         coupon_text = f"🎟️ *Coupon:* -{coupon:.2f}€\n"
 
+    # Messaggio finale
     return f"""
 😱 *OFFERTA TECH!*
 
@@ -64,25 +66,35 @@ def format_message(asin, info):
 if __name__ == "__main__":
     send_message("🔍 Controllo offerte in corso...")
 
-    # Carica SOLO prices.json (database gestito da un altro workflow)
+    # Carica il database prezzi
     with open(PRICES_FILE, "r") as f:
         data = json.load(f)
 
     offerte_trovate = 0
 
     for asin, info in data.items():
-        # Se il workflow esterno ha già deciso che questo è un ribasso,
-        # allora info["notify"] = True
-        if info.get("notify") is True:
-            caption = format_message(asin, info)
+        base_price = info.get("base_price", info["price"])
+        final_price = info["price"]
+        coupon = info.get("coupon", 0)
 
-            if info.get("image"):
-                send_photo(info["image"], caption)
-            else:
-                send_message(caption)
+        # Condizioni per annunciare:
+        # 1) Sconto reale
+        # 2) Coupon presente
+        has_discount = final_price < base_price
+        has_coupon = coupon > 0
 
-            offerte_trovate += 1
-            time.sleep(2)
+        if not has_discount and not has_coupon:
+            continue  # non è un'offerta
+
+        caption = format_message(asin, info)
+
+        if info.get("image"):
+            send_photo(info["image"], caption)
+        else:
+            send_message(caption)
+
+        offerte_trovate += 1
+        time.sleep(2)
 
     if offerte_trovate == 0:
         send_message("✅ Nessuna offerta da segnalare.")
