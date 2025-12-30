@@ -23,6 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests
+          pip install beautifulsoup4
 
       - name: Run bot
         run: python bot.py
@@ -38,4 +39,5 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add last_run.txt
           git commit -m "Update last run timestamp" || echo "No changes"
+          git pull --rebase
           git push
