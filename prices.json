@@ -1,74 +1,177 @@
 {
-    "B00LH3DMUO": 8.72,
-    "B0CQMWQDH4": 44.99,
-    "B0DHVD6TBX": 7.5,
-    "B0000C73CQ": 18.23,
-    "B0D72LFS2J": 9.99,
-    "B0DY1C8X92": 7.78,
-    "B0B7NTY2S6": 17.92,
-    "B0DGHYDYJL": 122.17,
-    "B07MLFBJG3": 9.63,
-    "B09364K56M": 27.55,
-    "B0CN41GMDK": 32.26,
-    "B08J7PQGD7": 8.33,
-    "B0FFGCH231": 10.99,
-    "B0B8GN3TXM": 7.72,
-    "B07NWT6YLD": 16.79,
-    "B0DFYM1DZY": 6.99,
-    "B0DD7H6H2Q": 9.0,
-    "B0D8T1T3XG": 9.15,
-    "B07XLML2YS": 20.67,
-    "B0DJSYX4JG": 7.89,
-    "B09ZTXVNVD": 22.99,
-    "B0D6YMGXBF": 12.13,
-    "B087DJ43K3": 14.36,
-    "B0FLDLGVXP": 12.99,
-    "B08LV75TTP": 10.99,
-    "B0DZ745RCW": 23.95,
-    "B0FJG8J48Q": 11.99,
-    "B0FCY6C8LP": 7.98,
-    "B0DFZPR9Z4": 23.23,
-    "B0F1FL2LWT": 6.6,
-    "B07GS6ZB7T": 30.55,
-    "B01GBINQGE": 19.79,
-    "B00LFBEOUA": 29.08,
-    "B01G19IFE6": 18.99,
-    "B07GS6ZS8J": 29.9,
-    "B07JLMK5T3": 15.73,
-    "B07DYD27NH": 89.98,
-    "B01G19IFCS": 18.99,
-    "B07H3GFJJ2": 11.53,
-    "B07G5XJLWK": 117.0,
-    "B0751D11BL": 17.49,
-    "B00L8VNQ88": 28.48,
-    "B01MTP49EH": 10.99,
-    "B07G5SF48Z": 94.58,
-    "B076Z6TMRR": 16.99,
-    "B07CZBKTST": 16.89,
-    "B01D63UU52": 79.99,
-    "B06XV9L931": 24.0,
-    "B078H9KQD2": 24.97,
-    "B0756X8BGS": 89.99,
-    "B07C5ZX2X7": 21.26,
-    "B00FH1AYGW": 29.76,
-    "B00RL4WT3Y": 5.25,
-    "B0C7VGM18L": 99.8,
-    "B0F7XS2JKR": 89.95,
-    "B0CJ2Q1K78": 88.95,
-    "B0D4QLQ85Y": 147.99,
-    "B07FZWNBRC": 90.6,
-    "B07GVGTVSF": 231.44,
-    "B0F5H53VHJ": 109.99,
-    "B0D3DQQ83Z": 119.99,
-    "B07HJ3BYVR": 210.34,
-    "B0D4QKGRWZ": 129.19,
-    "B0CNSKBM2T": 139.99,
-    "B0F22FY65L": 249.99,
-    "B0F4PLVSYQ": 64.1,
-    "B0F4PKCTL2": 90.56,
-    "B0C34CC9WD": 99.13,
-    "B0D5DMXG39": 91.69,
-    "B0FLPXX5YD": 479.99,
-    "B09J55L65P": 147.9,
-    "B0C4NF2SP9": 169.57
+    "B0FH4LPLGQ": {
+        "price": 102.87,
+        "base_price": 102.87,
+        "coupon": 0
+    },
+    "B0F2H4JLJM": {
+        "price": 104.92,
+        "base_price": 104.92,
+        "coupon": 0
+    },
+    "B08H4VLLGZ": {
+        "price": 73.47,
+        "base_price": 73.47,
+        "coupon": 0
+    },
+    "B0F4HH4432": {
+        "price": 316.68,
+        "base_price": 316.68,
+        "coupon": 0
+    },
+    "B086ZTM9KY": {
+        "price": 160.52,
+        "base_price": 160.52,
+        "coupon": 0
+    },
+    "B0F4HH1J7D": {
+        "price": 186.98,
+        "base_price": 186.98,
+        "coupon": 0
+    },
+    "B0DK7LZB1Q": {
+        "price": 321.38,
+        "base_price": 321.38,
+        "coupon": 0
+    },
+    "B0BVLGP4WC": {
+        "price": 372.23,
+        "base_price": 372.23,
+        "coupon": 0
+    },
+    "B09YSCYP56": {
+        "price": 104.38,
+        "base_price": 104.38,
+        "coupon": 0
+    },
+    "B0FRFKJ5LL": {
+        "price": 425.11,
+        "base_price": 425.11,
+        "coupon": 0
+    },
+    "B0DJW9CDCT": {
+        "price": 146.72,
+        "base_price": 146.72,
+        "coupon": 0
+    },
+    "B0F69G6H7M": {
+        "price": 172.57,
+        "base_price": 172.57,
+        "coupon": 0
+    },
+    "B0F4HGWLD5": {
+        "price": 191.54,
+        "base_price": 191.54,
+        "coupon": 0
+    },
+    "B0CB6XZ7RH": {
+        "price": 149.66,
+        "base_price": 149.66,
+        "coupon": 0
+    },
+    "B0DQQ86WQ7": {
+        "price": 200.53,
+        "base_price": 200.53,
+        "coupon": 0
+    },
+    "B0FBMKP34R": {
+        "price": 397.46,
+        "base_price": 397.46,
+        "coupon": 0
+    },
+    "B0DV5TL31Z": {
+        "price": 143.44,
+        "base_price": 143.44,
+        "coupon": 0
+    },
+    "B0CC9G49JQ": {
+        "price": 70.91,
+        "base_price": 70.91,
+        "coupon": 0
+    },
+    "B089TP3GQF": {
+        "price": 160.82,
+        "base_price": 160.82,
+        "coupon": 0
+    },
+    "B0FXHHTDW3": {
+        "price": 286.24,
+        "base_price": 286.24,
+        "coupon": 0
+    },
+    "B07HCG9RVV": {
+        "price": 27.71,
+        "base_price": 27.71,
+        "coupon": 0
+    },
+    "B00T85E8P6": {
+        "price": 54.48,
+        "base_price": 54.48,
+        "coupon": 0
+    },
+    "B0D4DZ72H7": {
+        "price": 28.0,
+        "base_price": 28.0,
+        "coupon": 0
+    },
+    "B087FY5CNT": {
+        "price": 12.34,
+        "base_price": 12.34,
+        "coupon": 0
+    },
+    "B0D2KNW7BB": {
+        "price": 53.4,
+        "base_price": 53.4,
+        "coupon": 0
+    },
+    "B09JNTPCN8": {
+        "price": 24.51,
+        "base_price": 24.51,
+        "coupon": 0
+    },
+    "B08V9CQ9H7": {
+        "price": 86.8,
+        "base_price": 86.8,
+        "coupon": 0
+    },
+    "B09PG3X8MD": {
+        "price": 16.39,
+        "base_price": 16.39,
+        "coupon": 0
+    },
+    "B0F5WDM19J": {
+        "price": 181.89,
+        "base_price": 181.89,
+        "coupon": 0
+    },
+    "B0FR9QNZNH": {
+        "price": 4.84,
+        "base_price": 4.84,
+        "coupon": 0
+    },
+    "B08TWNXRTG": {
+        "price": 8.93,
+        "base_price": 8.93,
+        "coupon": 0
+    },
+    "B00VIM9VQ8": {
+        "price": 28.15,
+        "base_price": 28.15,
+        "coupon": 0
+    },
+    "B0D7CL95F7": {
+        "price": 48.67,
+        "base_price": 48.67,
+        "coupon": 0
+    },
+    "B006QV7WM6": {
+        "price": 48.86,
+        "base_price": 48.86,
+        "coupon": 0
+    },
+    "B0B1HTG4W5": {
+        "price": 20.37,
+        "base_price": 20.37,
+        "coupon": 0
+    }
 }
