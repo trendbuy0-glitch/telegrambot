@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import time
-import random
 
 PRICES_FILE = "prices.json"
 
@@ -13,7 +12,10 @@ HEADERS = {
         "Chrome/120.0.0.0 Safari/537.36"
     ),
     "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Accept-Encoding": "gzip, deflate, br",
     "Referer": "https://www.google.com/",
+    "DNT": "1",
+    "Connection": "keep-alive"
 }
 
 # ---------------------------------------------------
@@ -23,7 +25,12 @@ HEADERS = {
 def safe_float(text):
     if not text:
         return None
-    clean = text.replace("€", "").replace(".", "").replace(",", ".").strip()
+    clean = (
+        text.replace("€", "")
+            .replace(".", "")
+            .replace(",", ".")
+            .strip()
+    )
     try:
         return float(clean)
     except:
@@ -37,6 +44,8 @@ def extract_brand_from_title(title):
     if " - " in t:
         t = t.split(" - ")[0].strip()
     parts = t.split()
+    if not parts:
+        return None
     if len(parts) == 1:
         return parts[0]
     return " ".join(parts[:2])
@@ -45,20 +54,29 @@ def extract_brand_from_title(title):
 def extract_coupon(el, base_price):
     if not el or not base_price:
         return 0.0
+
     text = el.get_text(strip=True).lower()
     coupon = 0.0
 
+    # percentuale
     if "%" in text:
         try:
-            perc = text.replace("risparmia", "").replace("coupon", "").replace("%", "").strip()
+            perc = text
+            for kw in ["risparmia", "coupon", "fino a"]:
+                perc = perc.replace(kw, "")
+            perc = perc.replace("%", "").replace("-", "").strip()
             perc_val = float(perc)
             coupon = base_price * (perc_val / 100)
         except:
             pass
 
+    # fisso
     if "€" in text:
         try:
-            fixed = text.replace("coupon", "").replace("€", "").strip()
+            fixed = text
+            for kw in ["applica coupon", "coupon", "risparmia"]:
+                fixed = fixed.replace(kw, "")
+            fixed = fixed.replace("€", "").strip()
             fixed_val = float(fixed)
             coupon = max(coupon, fixed_val)
         except:
@@ -68,65 +86,11 @@ def extract_coupon(el, base_price):
 
 
 # ---------------------------------------------------
-# SCRAPER ANTI-BLOCCO
+# SEARCH SCRAPER
 # ---------------------------------------------------
 
-def extract_price(item):
-    # 1) classico
-    el = item.select_one(".a-price .a-offscreen")
-    if el:
-        return safe_float(el.get_text(strip=True))
-
-    # 2) prezzo spezzato
-    whole = item.select_one(".a-price-whole")
-    frac = item.select_one(".a-price-fraction")
-    if whole and frac:
-        return safe_float(f"{whole.get_text(strip=True)}.{frac.get_text(strip=True)}")
-
-    # 3) fallback
-    el = item.select_one(".a-color-price")
-    if el:
-        return safe_float(el.get_text(strip=True))
-
-    return None
-
-
-def extract_image(item):
-    img = item.select_one("img.s-image")
-    if img and img.get("src"):
-        return img.get("src")
-
-    img = item.select_one("img[data-src]")
-    if img:
-        return img.get("data-src")
-
-    img = item.select_one("img[srcset]")
-    if img:
-        return img.get("srcset").split(" ")[0]
-
-    return None
-
-
-def extract_asin(item):
-    # 1) data-asin
-    asin = item.get("data-asin")
-    if asin:
-        return asin
-
-    # 2) link /dp/
-    link = item.select_one("a[href*='/dp/']")
-    if link:
-        href = link.get("href")
-        try:
-            return href.split("/dp/")[1].split("/")[0].split("?")[0]
-        except:
-            pass
-
-    return None
-
-
 def scrape_search(url, pages=5, category="search"):
-    products = {}
+    products = []
 
     for page in range(1, pages + 1):
         paged = f"{url}&page={page}"
@@ -140,31 +104,34 @@ def scrape_search(url, pages=5, category="search"):
             continue
 
         soup = BeautifulSoup(r.text, "html.parser")
-
-        # TUTTI i layout Amazon 2025
-        items = soup.select(".s-result-item[data-asin]") \
-              + soup.select("div.s-card-container") \
-              + soup.select("div.puis-card-container") \
-              + soup.select("div.s-result-item.s-widget")
+        items = soup.select(".s-result-item[data-asin]")
 
         for item in items:
-            asin = extract_asin(item)
+            asin = item.get("data-asin")
             if not asin:
                 continue
 
+            # titolo
             title_el = item.select_one("h2 a span")
             title = title_el.get_text(strip=True) if title_el else None
 
-            if not title:
+            # brand
+            brand = extract_brand_from_title(title)
+
+            # immagine
+            img_el = item.select_one("img.s-image")
+            image = img_el.get("src") if img_el else None
+
+            # prezzo
+            price_el = item.select_one(".a-price .a-offscreen")
+            if not price_el:
                 continue
 
-            brand = extract_brand_from_title(title)
-            image = extract_image(item)
-            base_price = extract_price(item)
-
+            base_price = safe_float(price_el.get_text(strip=True))
             if base_price is None:
                 continue
 
+            # coupon
             coupon_el = item.select_one(".s-coupon-highlight-color, span.a-color-base")
             coupon = extract_coupon(coupon_el, base_price)
 
@@ -172,7 +139,7 @@ def scrape_search(url, pages=5, category="search"):
             if final_price <= 0:
                 final_price = base_price
 
-            products[asin] = {
+            products.append({
                 "asin": asin,
                 "title": title,
                 "brand": brand,
@@ -182,9 +149,9 @@ def scrape_search(url, pages=5, category="search"):
                 "coupon": coupon,
                 "category": f"search_{category}",
                 "url": f"https://www.amazon.it/dp/{asin}"
-            }
+            })
 
-        time.sleep(random.uniform(1.0, 2.0))
+        time.sleep(1)
 
     return products
 
@@ -194,17 +161,18 @@ def scrape_search(url, pages=5, category="search"):
 # ---------------------------------------------------
 
 SEARCH_CATEGORIES = {
+    "alimentatori": "https://www.amazon.it/s?k=alimentatore+pc",
     "gpu": "https://www.amazon.it/s?k=scheda+video",
     "cpu": "https://www.amazon.it/s?k=cpu+intel+amd",
-    "ram": "https://www.amazon.it/s?k=ram+ddr5",
-    "case": "https://www.amazon.it/s?k=case+pc",
+    "dissipatori": "https://www.amazon.it/s?k=dissipatore+cpu",
     "mobo": "https://www.amazon.it/s?k=scheda+madre",
-    "ventole": "https://www.amazon.it/s?k=ventole+pc",
+    "case": "https://www.amazon.it/s?k=case+pc",
+    "ram": "https://www.amazon.it/s?k=ram+ddr5",
+    "ventole": "https://www.amazon.it/s?k=ventole+pc"
 }
 
-
 # ---------------------------------------------------
-# SCRAPING COMBINATO
+# SCRAPING COMBINATO (SOLO SEARCH)
 # ---------------------------------------------------
 
 all_products = {}
@@ -212,9 +180,16 @@ all_products = {}
 for name, url in SEARCH_CATEGORIES.items():
     print(f"\n=== SEARCH: {name} ===")
     prods = scrape_search(url, pages=5, category=name)
-    all_products.update(prods)
+    for p in prods:
+        asin = p["asin"]
+        if asin not in all_products:
+            all_products[asin] = p
 
 print(f"\nTotale prodotti raccolti: {len(all_products)}")
+
+# ---------------------------------------------------
+# SALVATAGGIO
+# ---------------------------------------------------
 
 with open(PRICES_FILE, "w") as f:
     json.dump(all_products, f, indent=4, ensure_ascii=False)
