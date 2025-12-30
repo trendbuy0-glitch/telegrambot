@@ -33,29 +33,67 @@ def scrape_category(url, pages=5, limit=200):
             if not asin:
                 continue
 
+            # Prezzo base
             price_el = item.select_one(".a-price .a-offscreen")
             if not price_el:
                 continue
 
             price_text = price_el.get_text(strip=True)
 
-            # Pulizia robusta del prezzo
             clean = (
                 price_text.replace("€", "")
-                          .replace(".", "")   # rimuove separatore migliaia
-                          .replace(",", ".")  # converte decimali
+                          .replace(".", "")
+                          .replace(",", ".")
                           .strip()
             )
 
             try:
-                price = float(clean)
+                base_price = float(clean)
             except:
                 print("Prezzo non valido, salto:", price_text)
                 continue
 
+            # -----------------------------
+            # 🔥 RILEVAZIONE COUPON
+            # -----------------------------
+            coupon_discount = 0
+            final_price = base_price
+
+            # Cerca elementi che contengono coupon
+            coupon_el = item.select_one(".s-coupon-highlight-color, span.a-color-base")
+
+            if coupon_el:
+                coupon_text = coupon_el.get_text(strip=True).lower()
+
+                # Coupon percentuale (es: "Risparmia 20%")
+                if "%" in coupon_text:
+                    try:
+                        perc = float(
+                            coupon_text.replace("risparmia", "")
+                                       .replace("%", "")
+                                       .replace("-", "")
+                                       .strip()
+                        )
+                        coupon_discount = base_price * (perc / 100)
+                    except:
+                        pass
+
+                # Coupon fisso (es: "Applica coupon 5€")
+                if "€" in coupon_text:
+                    try:
+                        fixed = coupon_text.replace("applica coupon", "").replace("€", "").strip()
+                        coupon_discount = float(fixed)
+                    except:
+                        pass
+
+                final_price = base_price - coupon_discount
+
+            # Salva prodotto COMPLETO
             products.append({
                 "asin": asin,
-                "price": price
+                "price": round(final_price, 2),
+                "base_price": round(base_price, 2),
+                "coupon": round(coupon_discount, 2)
             })
 
             if len(products) >= limit:
@@ -86,7 +124,11 @@ for name, url in CATEGORIES.items():
     products = scrape_category(url)
 
     for p in products:
-        new_prices[p["asin"]] = p["price"]
+        new_prices[p["asin"]] = {
+            "price": p["price"],
+            "base_price": p["base_price"],
+            "coupon": p["coupon"]
+        }
 
 # Salvataggio del file JSON
 with open("prices.json", "w") as f:
