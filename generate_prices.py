@@ -6,15 +6,14 @@ import time
 # Funzione che estrae i prodotti da una categoria Amazon
 def scrape_category(url, pages=5, limit=200):
     products = []
-  headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Referer": "https://www.google.com/",
-    "DNT": "1",
-    "Connection": "keep-alive"
-}
-
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Referer": "https://www.google.com/",
+        "DNT": "1",
+        "Connection": "keep-alive"
+    }
 
     for page in range(1, pages + 1):
         paged_url = f"{url}&page={page}"
