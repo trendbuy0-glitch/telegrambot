@@ -153,17 +153,6 @@
         "category": "search_alimentatori",
         "url": "https://www.amazon.it/dp/B0DDC1LP55"
     },
-    "B016WFYCFU": {
-        "asin": "B016WFYCFU",
-        "title": "Classe di efficienza energetica:\nA+",
-        "brand": "Classe di",
-        "image": "https://m.media-amazon.com/images/I/71qhrhc3f1L._AC_UL320_.jpg",
-        "price": 52.27,
-        "base_price": 52.27,
-        "coupon": 0.0,
-        "category": "search_alimentatori",
-        "url": "https://www.amazon.it/dp/B016WFYCFU"
-    },
     "B0FR4VMQ87": {
         "asin": "B0FR4VMQ87",
         "title": "Mars Gaming MPB650SIM, Alimentatore Full Modulare ATX 650W, 7 Anni Garanzia, 80Plus Bronze 230V EU, Ventola SI 120mm, Tecnologia AI2-RPM, DC-DC e SMD, Condensatori Giapponesi 105 °C, Nero",
@@ -174,6 +163,17 @@
         "coupon": 0.0,
         "category": "search_alimentatori",
         "url": "https://www.amazon.it/dp/B0FR4VMQ87"
+    },
+    "B016WFYCFU": {
+        "asin": "B016WFYCFU",
+        "title": "Classe di efficienza energetica:\nA+",
+        "brand": "Classe di",
+        "image": "https://m.media-amazon.com/images/I/71qhrhc3f1L._AC_UL320_.jpg",
+        "price": 52.27,
+        "base_price": 52.27,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B016WFYCFU"
     },
     "B0C3M35QRN": {
         "asin": "B0C3M35QRN",
@@ -191,8 +191,8 @@
         "title": "Tacens RADIX VII AG 600, Alimentatore Full Modulare 600W ATX, 10 Anni Garanzia, 80Plus Silver, +87% Di efficienza, Ventola FDB da 140 mm con Tecnologia AI-RPM, Condensatori Giapponesi da 105º, Nero",
         "brand": "Tacens RADIX",
         "image": "https://m.media-amazon.com/images/I/71J7x3k5j1L._AC_UL320_.jpg",
-        "price": 49.62,
-        "base_price": 49.62,
+        "price": 49.92,
+        "base_price": 49.92,
         "coupon": 0.0,
         "category": "search_alimentatori",
         "url": "https://www.amazon.it/dp/B0BQ3ZCZQQ"
@@ -538,17 +538,6 @@
         "category": "search_alimentatori",
         "url": "https://www.amazon.it/dp/B0F3DQ4L1Z"
     },
-    "B0F2T65GJT": {
-        "asin": "B0F2T65GJT",
-        "title": "MARS GAMING MPB1000SIM, Alimentatore Full Modular ATX 1000W, 7 Anni Garanzia, 80Plus Gold 90%, Ventola SI Extreme Silence 140mm, Tecnologie AI2-RPM, Condensatori Giapponesi, Nero",
-        "brand": "MARS GAMING",
-        "image": "https://m.media-amazon.com/images/I/71zefM2LWVL._AC_UL320_.jpg",
-        "price": 96.52,
-        "base_price": 96.52,
-        "coupon": 0.0,
-        "category": "search_alimentatori",
-        "url": "https://www.amazon.it/dp/B0F2T65GJT"
-    },
     "B0BGQ4RLCJ": {
         "asin": "B0BGQ4RLCJ",
         "title": "Tacens RADIX ECO X 650, Alimentatore PC ATX 650W, 6 Anni Garanzia, Tecnologia Silenziosa AI-RPM, +87% Efficienza, Nero",
@@ -559,6 +548,17 @@
         "coupon": 0.0,
         "category": "search_alimentatori",
         "url": "https://www.amazon.it/dp/B0BGQ4RLCJ"
+    },
+    "B0F2T65GJT": {
+        "asin": "B0F2T65GJT",
+        "title": "MARS GAMING MPB1000SIM, Alimentatore Full Modular ATX 1000W, 7 Anni Garanzia, 80Plus Gold 90%, Ventola SI Extreme Silence 140mm, Tecnologie AI2-RPM, Condensatori Giapponesi, Nero",
+        "brand": "MARS GAMING",
+        "image": "https://m.media-amazon.com/images/I/71zefM2LWVL._AC_UL320_.jpg",
+        "price": 96.52,
+        "base_price": 96.52,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0F2T65GJT"
     },
     "B0D9BZ2BDB": {
         "asin": "B0D9BZ2BDB",
@@ -769,6 +769,17 @@
         "category": "search_alimentatori",
         "url": "https://www.amazon.it/dp/B0FBS2TPWB"
     },
+    "B0B7NV5M54": {
+        "asin": "B0B7NV5M54",
+        "title": "Thermaltake TT Toughpower GF3 1350W",
+        "brand": "Thermaltake TT",
+        "image": "https://m.media-amazon.com/images/I/71HwsYotIvL._AC_UL320_.jpg",
+        "price": 180.87,
+        "base_price": 180.87,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0B7NV5M54"
+    },
     "B0FRG3TMYM": {
         "asin": "B0FRG3TMYM",
         "title": "Tacens VALEO V 900M, Alimentatore ATX 3.1 900W, 10 Anni di Garanzia, 80Plus Silver, Ventola AI2-RPM FDB 140mm, Condensatori Giapponesi 105°C, Cablaggio Modulare, PCIe 5.1 e 12V 2x6, Nero",
@@ -780,16 +791,16 @@
         "category": "search_alimentatori",
         "url": "https://www.amazon.it/dp/B0FRG3TMYM"
     },
-    "B0B7NV5M54": {
-        "asin": "B0B7NV5M54",
-        "title": "Thermaltake TT Toughpower GF3 1350W",
-        "brand": "Thermaltake TT",
-        "image": "https://m.media-amazon.com/images/I/71HwsYotIvL._AC_UL320_.jpg",
-        "price": 180.89,
-        "base_price": 180.89,
+    "B073PF741Y": {
+        "asin": "B073PF741Y",
+        "title": "PM201A Alimentatore SFX per PC, 200 Watt",
+        "brand": "PM201A Alimentatore",
+        "image": "https://m.media-amazon.com/images/I/71D4waE6xQL._AC_UL320_.jpg",
+        "price": 20.5,
+        "base_price": 20.5,
         "coupon": 0.0,
         "category": "search_alimentatori",
-        "url": "https://www.amazon.it/dp/B0B7NV5M54"
+        "url": "https://www.amazon.it/dp/B073PF741Y"
     },
     "B09RZW4G29": {
         "asin": "B09RZW4G29",
@@ -801,17 +812,6 @@
         "coupon": 0.0,
         "category": "search_alimentatori",
         "url": "https://www.amazon.it/dp/B09RZW4G29"
-    },
-    "B073PF741Y": {
-        "asin": "B073PF741Y",
-        "title": "PM201A Alimentatore SFX per PC, 200 Watt",
-        "brand": "PM201A Alimentatore",
-        "image": "https://m.media-amazon.com/images/I/71D4waE6xQL._AC_UL320_.jpg",
-        "price": 20.5,
-        "base_price": 20.5,
-        "coupon": 0.0,
-        "category": "search_alimentatori",
-        "url": "https://www.amazon.it/dp/B073PF741Y"
     },
     "B0BPSYHY41": {
         "asin": "B0BPSYHY41",
@@ -923,17 +923,6 @@
         "category": "search_alimentatori",
         "url": "https://www.amazon.it/dp/B089XB3LRJ"
     },
-    "B0CQK4PZSN": {
-        "asin": "B0CQK4PZSN",
-        "title": "Belkin Connect Core Adattatore di alimentazione GaN USB-C da 100 W, alimentatore rapido USB-C universale, Power Delivery da 100 W, connessione da 2,5 m, per gaming, MacBook Pro, laptop PC e Chromebook",
-        "brand": "Belkin Connect",
-        "image": "https://m.media-amazon.com/images/I/61AdIjmAmkL._AC_UL320_.jpg",
-        "price": 49.17,
-        "base_price": 49.17,
-        "coupon": 0.0,
-        "category": "search_alimentatori",
-        "url": "https://www.amazon.it/dp/B0CQK4PZSN"
-    },
     "B0CPPYTJLZ": {
         "asin": "B0CPPYTJLZ",
         "title": "Tacens NOVAX550BR, Case PC Micro-ATX + Alimentatore 550W 80Plus Bronze 230V, Design Full Metal, 1x Ventola Posteriore 80mm, Mini Tower con Grande Capacità Interna, Nero",
@@ -944,6 +933,17 @@
         "coupon": 0.0,
         "category": "search_alimentatori",
         "url": "https://www.amazon.it/dp/B0CPPYTJLZ"
+    },
+    "B0CQK4PZSN": {
+        "asin": "B0CQK4PZSN",
+        "title": "Belkin Connect Core Adattatore di alimentazione GaN USB-C da 100 W, alimentatore rapido USB-C universale, Power Delivery da 100 W, connessione da 2,5 m, per gaming, MacBook Pro, laptop PC e Chromebook",
+        "brand": "Belkin Connect",
+        "image": "https://m.media-amazon.com/images/I/61AdIjmAmkL._AC_UL320_.jpg",
+        "price": 49.17,
+        "base_price": 49.17,
+        "coupon": 0.0,
+        "category": "search_alimentatori",
+        "url": "https://www.amazon.it/dp/B0CQK4PZSN"
     },
     "B00NM76CQO": {
         "asin": "B00NM76CQO",
@@ -1131,17 +1131,6 @@
         "coupon": 0.0,
         "category": "search_alimentatori",
         "url": "https://www.amazon.it/dp/B01GRYFSB8"
-    },
-    "B0BL1SSVWV": {
-        "asin": "B0BL1SSVWV",
-        "title": "Hama Alimentatore universale, regola., 1500 mA, 24 W, max. 24 V, 7 adattatori.",
-        "brand": "Hama Alimentatore",
-        "image": "https://m.media-amazon.com/images/I/31aZBPM6B5L._AC_UL320_.jpg",
-        "price": 20.26,
-        "base_price": 20.26,
-        "coupon": 0.0,
-        "category": "search_alimentatori",
-        "url": "https://www.amazon.it/dp/B0BL1SSVWV"
     },
     "B00N8LSVWW": {
         "asin": "B00N8LSVWW",
@@ -1418,16 +1407,16 @@
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0F68R489D"
     },
-    "B0G2YHW2LT": {
-        "asin": "B0G2YHW2LT",
-        "title": "Gigabyte GAMING Scheda Grafica Radeon RX 9060 XT OC ICE 16G - 16GB GDDR6, 256bit, PCI-E 5.0, 3320 MHz Core Clock, 2 x DisplayPort, 1 x HDMI, GV-R906XGAMINGOCICE-16GD",
-        "brand": "Gigabyte GAMING",
-        "image": "https://m.media-amazon.com/images/I/71rlWVk+wLL._AC_UL320_.jpg",
-        "price": 424.23,
-        "base_price": 424.23,
+    "B0FFTPTMKN": {
+        "asin": "B0FFTPTMKN",
+        "title": "Gigabyte GeForce RTX 5050 WINDFORCE OC 8G Scheda Grafica - 8GB GDDR6, 128bit, PCI-E 5.0, 2587MHz Frequenza core, 2 x DP, 2 x HDMI, NVIDIA DLSS 4, GV-N5050WF2OC-8GD",
+        "brand": "Gigabyte GeForce",
+        "image": "https://m.media-amazon.com/images/I/71JoCiPoqgL._AC_UL320_.jpg",
+        "price": 256.64,
+        "base_price": 256.64,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0G2YHW2LT"
+        "url": "https://www.amazon.it/dp/B0FFTPTMKN"
     },
     "B0716JTSRW": {
         "asin": "B0716JTSRW",
@@ -1439,17 +1428,6 @@
         "coupon": 0.0,
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0716JTSRW"
-    },
-    "B0FFTPTMKN": {
-        "asin": "B0FFTPTMKN",
-        "title": "Gigabyte GeForce RTX 5050 WINDFORCE OC 8G Scheda Grafica - 8GB GDDR6, 128bit, PCI-E 5.0, 2587MHz Frequenza core, 2 x DP, 2 x HDMI, NVIDIA DLSS 4, GV-N5050WF2OC-8GD",
-        "brand": "Gigabyte GeForce",
-        "image": "https://m.media-amazon.com/images/I/71JoCiPoqgL._AC_UL320_.jpg",
-        "price": 256.64,
-        "base_price": 256.64,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0FFTPTMKN"
     },
     "B0FSSZY5FL": {
         "asin": "B0FSSZY5FL",
@@ -1484,17 +1462,6 @@
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0F6NLT7M4"
     },
-    "B088X1NTB4": {
-        "asin": "B088X1NTB4",
-        "title": "Zotac GeForce GT 710 2Go GDDR3 1xHDMI",
-        "brand": "Zotac GeForce",
-        "image": "https://m.media-amazon.com/images/I/71cP5n1nveL._AC_UL320_.jpg",
-        "price": 51.93,
-        "base_price": 51.93,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B088X1NTB4"
-    },
     "B09RHQNT5K": {
         "asin": "B09RHQNT5K",
         "title": "ASRock Radeon RX 6500 XT Phantom Gaming 4GB OC GDDR6 Graphics Card, RDNA2, AMD FidelityFX, 1024 Streams, 2820MHz Boost Nero",
@@ -1505,6 +1472,17 @@
         "coupon": 0.0,
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B09RHQNT5K"
+    },
+    "B088X1NTB4": {
+        "asin": "B088X1NTB4",
+        "title": "Zotac GeForce GT 710 2Go GDDR3 1xHDMI",
+        "brand": "Zotac GeForce",
+        "image": "https://m.media-amazon.com/images/I/71cP5n1nveL._AC_UL320_.jpg",
+        "price": 51.93,
+        "base_price": 51.93,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B088X1NTB4"
     },
     "B0F6NK1VXP": {
         "asin": "B0F6NK1VXP",
@@ -1538,17 +1516,6 @@
         "coupon": 0.0,
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0F4ZFPVC1"
-    },
-    "B0F7HSLY47": {
-        "asin": "B0F7HSLY47",
-        "title": "Gigabyte Radeon RX 9060 XT GAMING OC 8G Scheda Grafica - 8GB GDDR6, 128bit, PCI-E 5.0, 3320 MHz Frequenza core, 2 x DisplayPort, 1 x HDMI, GV-R9060XTGAMING OC-8GD",
-        "brand": "Gigabyte Radeon",
-        "image": "https://m.media-amazon.com/images/I/710MK6RW10L._AC_UL320_.jpg",
-        "price": 328.94,
-        "base_price": 328.94,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0F7HSLY47"
     },
     "B0CHN5KQS8": {
         "asin": "B0CHN5KQS8",
@@ -1588,11 +1555,22 @@
         "title": "MSI GeForce RTX 3050 LP E 6G OC",
         "brand": "MSI GeForce",
         "image": "https://m.media-amazon.com/images/I/71mBon0SfVL._AC_UL320_.jpg",
-        "price": 231.41,
-        "base_price": 231.41,
+        "price": 231.31,
+        "base_price": 231.31,
         "coupon": 0.0,
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0DQD4K81X"
+    },
+    "B0F7HSLY47": {
+        "asin": "B0F7HSLY47",
+        "title": "Gigabyte Radeon RX 9060 XT GAMING OC 8G Scheda Grafica - 8GB GDDR6, 128bit, PCI-E 5.0, 3320 MHz Frequenza core, 2 x DisplayPort, 1 x HDMI, GV-R9060XTGAMING OC-8GD",
+        "brand": "Gigabyte Radeon",
+        "image": "https://m.media-amazon.com/images/I/710MK6RW10L._AC_UL320_.jpg",
+        "price": 300.82,
+        "base_price": 300.82,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B0F7HSLY47"
     },
     "B0F6NNJ42H": {
         "asin": "B0F6NNJ42H",
@@ -1605,17 +1583,6 @@
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0F6NNJ42H"
     },
-    "B0DT78YM6P": {
-        "asin": "B0DT78YM6P",
-        "title": "Gigabyte Radeon RX 9070 GAMING OC 16G Scheda Grafica - 16 GB GDDR6, 256 bit, PCI-E 5.0, 2700 MHz Frequenza Base, 2 x DisplayPort, 2 x HDMI, GV-R9070GAMING OC-16GD",
-        "brand": "Gigabyte Radeon",
-        "image": "https://m.media-amazon.com/images/I/810BADDS2RL._AC_UL320_.jpg",
-        "price": 727.58,
-        "base_price": 727.58,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0DT78YM6P"
-    },
     "B0DNMH4KQM": {
         "asin": "B0DNMH4KQM",
         "title": "Sparkle Intel Arc B580 Titan OC 12GB GDDR6",
@@ -1627,27 +1594,16 @@
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0DNMH4KQM"
     },
-    "B0DX7JJ87N": {
-        "asin": "B0DX7JJ87N",
-        "title": "MSI GeForce RTX™ 5070 12G VENTUS 2X OC Scheda Video – GDDR7, 28Gbps, PCIe 5.0, HDMI 2.1, DP 2.1, 6144 CUDA Cores, 192-bit, Torx FAN 5.0, Zero Frozr, Afterburner, Metal Backplate, 650W PSU raccomandato",
-        "brand": "MSI GeForce",
-        "image": "https://m.media-amazon.com/images/I/71IhfyiqviL._AC_UL320_.jpg",
-        "price": 690.02,
-        "base_price": 690.02,
+    "B0DT78YM6P": {
+        "asin": "B0DT78YM6P",
+        "title": "Gigabyte Radeon RX 9070 GAMING OC 16G Scheda Grafica - 16 GB GDDR6, 256 bit, PCI-E 5.0, 2700 MHz Frequenza Base, 2 x DisplayPort, 2 x HDMI, GV-R9070GAMING OC-16GD",
+        "brand": "Gigabyte Radeon",
+        "image": "https://m.media-amazon.com/images/I/810BADDS2RL._AC_UL320_.jpg",
+        "price": 727.58,
+        "base_price": 727.58,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0DX7JJ87N"
-    },
-    "B0DRPPXB5X": {
-        "asin": "B0DRPPXB5X",
-        "title": "Sapphire NITRO+ AMD RADEON™ RX 9070 XT GAMING OC 16GB DUAL HDMI/DUAL DP",
-        "brand": "Sapphire NITRO+",
-        "image": "https://m.media-amazon.com/images/I/71LGW3ZtTeL._AC_UL320_.jpg",
-        "price": 943.82,
-        "base_price": 943.82,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0DRPPXB5X"
+        "url": "https://www.amazon.it/dp/B0DT78YM6P"
     },
     "B0DSQ1RCZV": {
         "asin": "B0DSQ1RCZV",
@@ -1659,6 +1615,17 @@
         "coupon": 0.0,
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0DSQ1RCZV"
+    },
+    "B0DRPPXB5X": {
+        "asin": "B0DRPPXB5X",
+        "title": "Sapphire NITRO+ AMD RADEON™ RX 9070 XT GAMING OC 16GB DUAL HDMI/DUAL DP",
+        "brand": "Sapphire NITRO+",
+        "image": "https://m.media-amazon.com/images/I/71LGW3ZtTeL._AC_UL320_.jpg",
+        "price": 943.82,
+        "base_price": 943.82,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B0DRPPXB5X"
     },
     "B0DW9GM74Z": {
         "asin": "B0DW9GM74Z",
@@ -1736,6 +1703,17 @@
         "coupon": 0.0,
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B09ZVBRZYR"
+    },
+    "B0G2YHW2LT": {
+        "asin": "B0G2YHW2LT",
+        "title": "Gigabyte GAMING Scheda Grafica Radeon RX 9060 XT OC ICE 16G - 16GB GDDR6, 256bit, PCI-E 5.0, 3320 MHz Core Clock, 2 x DisplayPort, 1 x HDMI, GV-R906XGAMINGOCICE-16GD",
+        "brand": "Gigabyte GAMING",
+        "image": "https://m.media-amazon.com/images/I/71rlWVk+wLL._AC_UL320_.jpg",
+        "price": 424.23,
+        "base_price": 424.23,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B0G2YHW2LT"
     },
     "B0F4Z127VB": {
         "asin": "B0F4Z127VB",
@@ -1857,17 +1835,6 @@
         "coupon": 0.0,
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0DRPRKYR6"
-    },
-    "B0FGDT48VD": {
-        "asin": "B0FGDT48VD",
-        "title": "Piccole aziende",
-        "brand": "Piccole aziende",
-        "image": "https://m.media-amazon.com/images/I/71bGep7ckjL._AC_UL320_.jpg",
-        "price": 373.0,
-        "base_price": 373.0,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0FGDT48VD"
     },
     "B0CH8252FQ": {
         "asin": "B0CH8252FQ",
@@ -2078,17 +2045,6 @@
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0CBMCNMT2"
     },
-    "B0CDMZYD9S": {
-        "asin": "B0CDMZYD9S",
-        "title": "KODAK Pixpro Pack WPZ2 + 2 Batterie + 1 Scheda SD - Fotocamera Digitale Compatta 16M Pixel, Impermeabile fino a 15m, Antiurto, Video 720p, Schermo LCD 2,7 - Batteria Li-ION - Giallo",
-        "brand": "KODAK Pixpro",
-        "image": "https://m.media-amazon.com/images/I/51RVYvF5eML._AC_UL320_.jpg",
-        "price": 158.11,
-        "base_price": 158.11,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0CDMZYD9S"
-    },
     "B0CQCHYH1R": {
         "asin": "B0CQCHYH1R",
         "title": "Mars Gaming MCA-GCB, Supporto per Scheda Grafica, Illuminazione a Specchio ARGB Infinity, Supporto per GPU con Sincronizzazione ARGB, Base Magnetica Antiscivolo, Compatibilità Universale, Nero",
@@ -2100,16 +2056,16 @@
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0CQCHYH1R"
     },
-    "B00KL2M3DO": {
-        "asin": "B00KL2M3DO",
-        "title": "Philips Ultra Speed microSDXC Card 64 GB+adattatore SD UHS-I U1,velocità di lettura fino a 80 MB/s,A1 Fast App Perf,V10,scheda di memoria per smartphone,tablet,PC,lettore di schede,video Full HD",
-        "brand": "Philips Ultra",
-        "image": "https://m.media-amazon.com/images/I/61f9GoloyhL._AC_UL320_.jpg",
-        "price": 10.25,
-        "base_price": 10.25,
+    "B0CDMZYD9S": {
+        "asin": "B0CDMZYD9S",
+        "title": "KODAK Pixpro Pack WPZ2 + 2 Batterie + 1 Scheda SD - Fotocamera Digitale Compatta 16M Pixel, Impermeabile fino a 15m, Antiurto, Video 720p, Schermo LCD 2,7 - Batteria Li-ION - Giallo",
+        "brand": "KODAK Pixpro",
+        "image": "https://m.media-amazon.com/images/I/51RVYvF5eML._AC_UL320_.jpg",
+        "price": 158.11,
+        "base_price": 158.11,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B00KL2M3DO"
+        "url": "https://www.amazon.it/dp/B0CDMZYD9S"
     },
     "B0B4PYVMPZ": {
         "asin": "B0B4PYVMPZ",
@@ -2121,6 +2077,17 @@
         "coupon": 0.0,
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0B4PYVMPZ"
+    },
+    "B00KL2M3DO": {
+        "asin": "B00KL2M3DO",
+        "title": "Philips Ultra Speed microSDXC Card 64 GB+adattatore SD UHS-I U1,velocità di lettura fino a 80 MB/s,A1 Fast App Perf,V10,scheda di memoria per smartphone,tablet,PC,lettore di schede,video Full HD",
+        "brand": "Philips Ultra",
+        "image": "https://m.media-amazon.com/images/I/61f9GoloyhL._AC_UL320_.jpg",
+        "price": 10.25,
+        "base_price": 10.25,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B00KL2M3DO"
     },
     "B0F4XFRX9H": {
         "asin": "B0F4XFRX9H",
@@ -2166,16 +2133,49 @@
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0CVGYNC97"
     },
-    "B01M126X2N": {
-        "asin": "B01M126X2N",
-        "title": "Blackmagic Design DeckLink Mini Recorder 4K scheda di acquisizione video Interno PCIe",
-        "brand": "Blackmagic Design",
-        "image": "https://m.media-amazon.com/images/I/6103DTa6CUL._AC_UL320_.jpg",
-        "price": 175.4,
-        "base_price": 175.4,
+    "B0D7VBYRLT": {
+        "asin": "B0D7VBYRLT",
+        "title": "Lexar Scheda SD 64 GB SILVER 2 Pack, fino a 205 MB/s in Lettura, Scheda di Memoria SDXC UHS-I, Classe 10, U3, V30, SD Card per Fotografi Professionisti, Videografi, Appassionati",
+        "brand": "Lexar Scheda",
+        "image": "https://m.media-amazon.com/images/I/71gf2ETfIeL._AC_UL320_.jpg",
+        "price": 32.78,
+        "base_price": 32.78,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B01M126X2N"
+        "url": "https://www.amazon.it/dp/B0D7VBYRLT"
+    },
+    "B0BMQK718H": {
+        "asin": "B0BMQK718H",
+        "title": "Processore AMD Ryzen 9 7900 (scheda grafica integrata Radeon, 12 cores/24 threads, 65W DTP, AM5 Socket, Cache 76MB, Boost di Frequenza fino a 5.4 GHz max, dissipatore ad aria \"Wraith prism Cooler\")",
+        "brand": "Processore AMD",
+        "image": "https://m.media-amazon.com/images/I/51pVndhjsYL._AC_UL320_.jpg",
+        "price": 440.27,
+        "base_price": 440.27,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B0BMQK718H"
+    },
+    "B09M4CQYJP": {
+        "asin": "B09M4CQYJP",
+        "title": "Scheda di registrazione video 4K Cam Link, scheda HDMI a USB, 1080P 60HZ, registratore video per giochi, streaming, compatibile con sistema Mac OS, Windows per, Switch2/1",
+        "brand": "Scheda di",
+        "image": "https://m.media-amazon.com/images/I/712I0S7+T1L._AC_UL320_.jpg",
+        "price": 27.79,
+        "base_price": 27.79,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B09M4CQYJP"
+    },
+    "B073S142CW": {
+        "asin": "B073S142CW",
+        "title": "Thermaltake TT Gaming Riser PCI-E 3.0 Cavo, Nero, larghezza di banda fino a 8 GBps, 200 mm",
+        "brand": "Thermaltake TT",
+        "image": "https://m.media-amazon.com/images/I/61j6rxvtt9L._AC_UL320_.jpg",
+        "price": 20.25,
+        "base_price": 20.25,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B073S142CW"
     },
     "B089KQJV6S": {
         "asin": "B089KQJV6S",
@@ -2188,6 +2188,17 @@
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B089KQJV6S"
     },
+    "B01M126X2N": {
+        "asin": "B01M126X2N",
+        "title": "Blackmagic Design DeckLink Mini Recorder 4K scheda di acquisizione video Interno PCIe",
+        "brand": "Blackmagic Design",
+        "image": "https://m.media-amazon.com/images/I/6103DTa6CUL._AC_UL320_.jpg",
+        "price": 175.4,
+        "base_price": 175.4,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B01M126X2N"
+    },
     "B0BQM2CL1W": {
         "asin": "B0BQM2CL1W",
         "title": "RØDE STREAMER X Interfaccia audio integrata professionale e scheda di acquisizione video 4K con connettività XLR, HDMI e TRRS per lo streaming, il gioco e la creazione di contenuti",
@@ -2199,60 +2210,16 @@
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0BQM2CL1W"
     },
-    "B0FHBH97Z2": {
-        "asin": "B0FHBH97Z2",
-        "title": "SJCAM C110 - Telecamera magnetica con registrazione audio e video, 4K 200 min, scheda da 64 GB, mini action cam impermeabile da 30 m, stabilizzazione EIS per casco da bicicletta, zoom 8x, fotocamera",
-        "brand": "SJCAM C110",
-        "image": "https://m.media-amazon.com/images/I/71z80VILdcL._AC_UL320_.jpg",
-        "price": 103.31,
-        "base_price": 103.31,
+    "B0FB82RJJ3": {
+        "asin": "B0FB82RJJ3",
+        "title": "Videocamera 8K, visione notturna IR, zoom digitale 18X, touch screen, WiFi per YouTube, include scheda SD da 32 G, telecomando, microfono, 2 batterie",
+        "brand": "Videocamera 8K,",
+        "image": "https://m.media-amazon.com/images/I/418WFQG6dIL._AC_UL320_.jpg",
+        "price": 219.19,
+        "base_price": 219.19,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0FHBH97Z2"
-    },
-    "B005G306I2": {
-        "asin": "B005G306I2",
-        "title": "StarTech.com Adattatore USB a VGA - 1920x1200 - Scheda video e grafica esterna - Adattatore convertitore USB per doppio monitor VGA - Supporta Windows (USB2VGAE3)",
-        "brand": "StarTech.com Adattatore",
-        "image": "https://m.media-amazon.com/images/I/71O1vrpW6kL._AC_UL320_.jpg",
-        "price": 29.59,
-        "base_price": 29.59,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B005G306I2"
-    },
-    "B0BMCTPHT2": {
-        "asin": "B0BMCTPHT2",
-        "title": "OWC Atlas Pro SDXC UHS-II V60 Media Card, scheda di memoria economica e di altissima qualità per le foto più comuni e gli usi di acquisizione video fino a 4K - 128GB",
-        "brand": "OWC Atlas",
-        "image": "https://m.media-amazon.com/images/I/71mxdiNXwfL._AC_UL320_.jpg",
-        "price": 36.66,
-        "base_price": 36.66,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0BMCTPHT2"
-    },
-    "B07DVFV9HP": {
-        "asin": "B07DVFV9HP",
-        "title": "Transcend Scheda di memoria SDHC 300S da 16 GB UHS-I, C10, U3, V30, 4K, Full HD, fino a 95/40 MB/s (ideale per fotocamere digitali) con confezione Frustration Free - TS16GSDC300S-E",
-        "brand": "Transcend Scheda",
-        "image": "https://m.media-amazon.com/images/I/517mNT2gs-L._AC_UL320_.jpg",
-        "price": 7.24,
-        "base_price": 7.24,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B07DVFV9HP"
-    },
-    "B07C2QMH6W": {
-        "asin": "B07C2QMH6W",
-        "title": "Blackmagic Design Mini Converter UpDownCross HD (BM-CONVMUDCSTD/HD)",
-        "brand": "Blackmagic Design",
-        "image": "https://m.media-amazon.com/images/I/61ERLQK542L._AC_UL320_.jpg",
-        "price": 145.16,
-        "base_price": 145.16,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B07C2QMH6W"
+        "url": "https://www.amazon.it/dp/B0FB82RJJ3"
     },
     "B0BLSMCKTD": {
         "asin": "B0BLSMCKTD",
@@ -2265,82 +2232,49 @@
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0BLSMCKTD"
     },
-    "B07KD4XJLX": {
-        "asin": "B07KD4XJLX",
-        "title": "Pny U3 Pro Elite – – 512 GB scheda MicroSD (p-sdux512u3100pro-ge)",
-        "brand": "Pny U3",
-        "image": "https://m.media-amazon.com/images/I/518NqllohgL._AC_UL320_.jpg",
-        "price": 57.48,
-        "base_price": 57.48,
+    "B0BMCTPHT2": {
+        "asin": "B0BMCTPHT2",
+        "title": "OWC Atlas Pro SDXC UHS-II V60 Media Card, scheda di memoria economica e di altissima qualità per le foto più comuni e gli usi di acquisizione video fino a 4K - 128GB",
+        "brand": "OWC Atlas",
+        "image": "https://m.media-amazon.com/images/I/71mxdiNXwfL._AC_UL320_.jpg",
+        "price": 36.66,
+        "base_price": 36.66,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B07KD4XJLX"
+        "url": "https://www.amazon.it/dp/B0BMCTPHT2"
     },
-    "B07N8THY22": {
-        "asin": "B07N8THY22",
-        "title": "Transcend Scheda di memoria microSDXC 350V da 128 GB UHS-I, C10, U3, Full HD, fino a 95/45 MB/s, ideale per dashcam, telecamere di sicurezza e sistemi di sorveglianza - TS128GUSD350V",
-        "brand": "Transcend Scheda",
-        "image": "https://m.media-amazon.com/images/I/611NKZ5Q2kL._AC_UL320_.jpg",
-        "price": 21.3,
-        "base_price": 21.3,
+    "B005G306I2": {
+        "asin": "B005G306I2",
+        "title": "StarTech.com Adattatore USB a VGA - 1920x1200 - Scheda video e grafica esterna - Adattatore convertitore USB per doppio monitor VGA - Supporta Windows (USB2VGAE3)",
+        "brand": "StarTech.com Adattatore",
+        "image": "https://m.media-amazon.com/images/I/71O1vrpW6kL._AC_UL320_.jpg",
+        "price": 29.59,
+        "base_price": 29.59,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B07N8THY22"
+        "url": "https://www.amazon.it/dp/B005G306I2"
     },
-    "B07QY3D8RH": {
-        "asin": "B07QY3D8RH",
-        "title": "Transcend Scheda di memoria microSDXC 300S Classe 10 da 256 GB con fino a 95/45 MB/s (per smartphone e console Nintendo Switch) con adattatore SD e confezione Frustration Free - TS256GUSD300S-A",
-        "brand": "Transcend Scheda",
-        "image": "https://m.media-amazon.com/images/I/71eThrF-nJL._AC_UL320_.jpg",
-        "price": 30.39,
-        "base_price": 30.39,
+    "B0CKBZGTSH": {
+        "asin": "B0CKBZGTSH",
+        "title": "StarTech.com Chassis Thunderbolt 3 PCIe, Enclosure esterna con doppi slot PCI Express, Box PCIe per laptop/Desktop, 8K/4K tramite TB3/DP 1.4, per schede video/fibra/Ethernet (2TBT3-PCIE-ENCLOSURE)",
+        "brand": "StarTech.com Chassis",
+        "image": "https://m.media-amazon.com/images/I/71LZMFJNN0L._AC_UL320_.jpg",
+        "price": 441.25,
+        "base_price": 441.25,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B07QY3D8RH"
+        "url": "https://www.amazon.it/dp/B0CKBZGTSH"
     },
-    "B0B1J64G4K": {
-        "asin": "B0B1J64G4K",
-        "title": "Samsung Memorie MB-MJ32KA PRO Endurance Scheda MicroSD per telecamere di videosoverglianza e dashcam da 32 GB, UHS-I U1, fino a 100 MB/s, Adattatore SD Incluso",
-        "brand": "Samsung Memorie",
-        "image": "https://m.media-amazon.com/images/I/71c9D2Ck4kL._AC_UL320_.jpg",
-        "price": 8.69,
-        "base_price": 8.69,
+    "B07C2QMH6W": {
+        "asin": "B07C2QMH6W",
+        "title": "Blackmagic Design Mini Converter UpDownCross HD (BM-CONVMUDCSTD/HD)",
+        "brand": "Blackmagic Design",
+        "image": "https://m.media-amazon.com/images/I/61ERLQK542L._AC_UL320_.jpg",
+        "price": 145.16,
+        "base_price": 145.16,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0B1J64G4K"
-    },
-    "B0F67H4Q18": {
-        "asin": "B0F67H4Q18",
-        "title": "PNY 512GB Scheda microSDXC PRO Elite™ High Endurance C10 U3 V30 A2 – Velocità di lettura/scrittura fino a 100/90MB/s, 4K UHD, Full HD, UHS-I, sorveglianza, sicurezza, dash cam",
-        "brand": "PNY 512GB",
-        "image": "https://m.media-amazon.com/images/I/61UfrKXdBlL._AC_UL320_.jpg",
-        "price": 55.67,
-        "base_price": 55.67,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0F67H4Q18"
-    },
-    "B07CD9QYNM": {
-        "asin": "B07CD9QYNM",
-        "title": "Transcend Scheda di memoria microSDXC 300S Classe 10 da 32 GB con fino a 95/45 MB/s (per smartphone, fotocamere digitali e console Nintendo) senza adattatore SD - TS32GUSD300S",
-        "brand": "Transcend Scheda",
-        "image": "https://m.media-amazon.com/images/I/81sqI3J3FHL._AC_UL320_.jpg",
-        "price": 6.75,
-        "base_price": 6.75,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B07CD9QYNM"
-    },
-    "B08GY8NHF2": {
-        "asin": "B08GY8NHF2",
-        "title": "SanDisk Ultra microSDXC UHS-I memory card 256 GB+adapter (for Android smartphones and tablets and MIL cameras, A1, C10, U1, 120 MB/s transfer)",
-        "brand": "SanDisk Ultra",
-        "image": "https://m.media-amazon.com/images/I/619i6sRmbML._AC_UL320_.jpg",
-        "price": 42.8,
-        "base_price": 42.8,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B08GY8NHF2"
+        "url": "https://www.amazon.it/dp/B07C2QMH6W"
     },
     "B0073LM0S4": {
         "asin": "B0073LM0S4",
@@ -2353,148 +2287,137 @@
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B0073LM0S4"
     },
-    "B0F224JTCG": {
-        "asin": "B0F224JTCG",
-        "title": "Scheda di memoria Micro SD per Tapo Camera C82, C120, C210, C220, C110, C225, C211, TC40, TC41, TC65, TC82, C510, per telecamere Tapo Security Cam SD card MicroSD (64 GB MicroSD RapidEdge)",
-        "brand": "Scheda di",
-        "image": "https://m.media-amazon.com/images/I/71ZKBqq0OSL._AC_UL320_.jpg",
-        "price": 23.89,
-        "base_price": 23.89,
-        "coupon": 0.0,
-        "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0F224JTCG"
-    },
     "B00UK3X5CW": {
         "asin": "B00UK3X5CW",
         "title": "StarTech.com Scheda Espansione PCI Express USB 3.0 (5Gbps) a 7 porte con profilo basso e standard, alimentazione SATA",
         "brand": "StarTech.com Scheda",
         "image": "https://m.media-amazon.com/images/I/718i2jRyunL._AC_UL320_.jpg",
-        "price": 63.08,
-        "base_price": 63.08,
+        "price": 62.81,
+        "base_price": 62.81,
         "coupon": 0.0,
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B00UK3X5CW"
     },
-    "B0D84DFLPX": {
-        "asin": "B0D84DFLPX",
-        "title": "Samsung Memorie MB-MD1T0SA PRO Plus Scheda MicroSD per Mobile e Console Gaming da 1TB, UHS-I U3, Fino a 180 MB/s",
-        "brand": "Samsung Memorie",
-        "image": "https://m.media-amazon.com/images/I/61fxfKQwHcL._AC_UL320_.jpg",
-        "price": 95.07,
-        "base_price": 95.07,
+    "B0FZD54K4J": {
+        "asin": "B0FZD54K4J",
+        "title": "Gioco Video Cattura Scheda Tipo C A HDTV 4K 60Hz Registratori Console di Videogiochi Videocamera Convertitori Bassa Latenza Scheda Streaming Live",
+        "brand": "Gioco Video",
+        "image": "https://m.media-amazon.com/images/I/51Cq4uBxxBL._AC_UL320_.jpg",
+        "price": 116.97,
+        "base_price": 116.97,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0D84DFLPX"
+        "url": "https://www.amazon.it/dp/B0FZD54K4J"
     },
-    "B0D7VBYRLT": {
-        "asin": "B0D7VBYRLT",
-        "title": "Lexar Scheda SD 64 GB SILVER 2 Pack, fino a 205 MB/s in Lettura, Scheda di Memoria SDXC UHS-I, Classe 10, U3, V30, SD Card per Fotografi Professionisti, Videografi, Appassionati",
-        "brand": "Lexar Scheda",
-        "image": "https://m.media-amazon.com/images/I/71gf2ETfIeL._AC_UL320_.jpg",
-        "price": 32.78,
-        "base_price": 32.78,
+    "B0G9D5CJRQ": {
+        "asin": "B0G9D5CJRQ",
+        "title": "Scheda di rete Ethernet da 10G Gigabits con porta SFP+ USB 4 spine Gioca per PC Video Editing Adattatori Ethernet",
+        "brand": "Scheda di",
+        "image": "https://m.media-amazon.com/images/I/41dBQL73njL._AC_UL320_.jpg",
+        "price": 229.72,
+        "base_price": 229.72,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0D7VBYRLT"
+        "url": "https://www.amazon.it/dp/B0G9D5CJRQ"
     },
-    "B0DTTZZ6Q3": {
-        "asin": "B0DTTZZ6Q3",
-        "title": "DJI Osmo 360 Combo Standard, fotocamera 360 con immagini a 360° da 1 pollice, video a 360° nativi in 8K, foto a 360° da 120 MP, impermeabile, action cam per sport, vlog",
-        "brand": "DJI Osmo",
-        "image": "https://m.media-amazon.com/images/I/71Q9l5J9sTL._AC_UL320_.jpg",
-        "price": 461.66,
-        "base_price": 461.66,
+    "B0CZN6XK5M": {
+        "asin": "B0CZN6XK5M",
+        "title": "Telecamera Indossabile 1080P FHD con Scheda da 128 GB, Obiettivo Rotante a 180°, Visione Notturna, Videocamera Portatile con Clip Posteriore, Action camera Sportiva, Nero",
+        "brand": "Telecamera Indossabile",
+        "image": "https://m.media-amazon.com/images/I/711YJzrysNL._AC_UL320_.jpg",
+        "price": 66.43,
+        "base_price": 66.43,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0DTTZZ6Q3"
+        "url": "https://www.amazon.it/dp/B0CZN6XK5M"
     },
-    "B01MRSY5SJ": {
-        "asin": "B01MRSY5SJ",
-        "title": "[Recupero dati gratuito per 5 anni] Scheda Micro SD Gigastone da 64 GB, 4K Game Pro, scheda di memoria MicroSDXC per Nintendo Switch, GoPro, telecamera di sicurezza, DJI, Drone, video UHD, R/W fino a",
-        "brand": "[Recupero dati",
-        "image": "https://m.media-amazon.com/images/I/71lt-Kxc7gS._AC_UL320_.jpg",
-        "price": 9.47,
-        "base_price": 9.47,
+    "B0GCFJHY8Q": {
+        "asin": "B0GCFJHY8Q",
+        "title": "Scheda di acquisizione video da USB C a doppia HDTV per monitor 4K 60Hz HDTV adattatore per 2 monitor Adaper Live Streaming Card",
+        "brand": "Scheda di",
+        "image": "https://m.media-amazon.com/images/I/51O4yMGUVSL._AC_UL320_.jpg",
+        "price": 109.61,
+        "base_price": 109.61,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B01MRSY5SJ"
+        "url": "https://www.amazon.it/dp/B0GCFJHY8Q"
     },
-    "B08T6FCF9S": {
-        "asin": "B08T6FCF9S",
-        "title": "StarTech.com Scheda PCIe USB 3.2 Gen 2x2 a 1 porta, USB-C 20Gbps PCI Express 3.0 x4- Host Controller Card, USB Type-C PCIe Add-On Adapter Card, Scheda di espansione, Windows & Linux (PEXUSB321C)",
-        "brand": "StarTech.com Scheda",
-        "image": "https://m.media-amazon.com/images/I/61e7msVSRHL._AC_UL320_.jpg",
-        "price": 49.02,
-        "base_price": 49.02,
+    "B0G6ZLHCJ6": {
+        "asin": "B0G6ZLHCJ6",
+        "title": "Scheda di acquisizione video a bassa latenza 4K 60Hz 3840x2160 con tecnologia Passthrough per acquisizione video istantanea streaming",
+        "brand": "Scheda di",
+        "image": "https://m.media-amazon.com/images/I/51itfuUw7sL._AC_UL320_.jpg",
+        "price": 43.15,
+        "base_price": 43.15,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B08T6FCF9S"
+        "url": "https://www.amazon.it/dp/B0G6ZLHCJ6"
     },
-    "B00O6G5ZGI": {
-        "asin": "B00O6G5ZGI",
-        "title": "StarTech.com Adattatore da USB 3.0 a HDMI - Certificato DisplayLink - 1080p - Convertitore video da USB Type-A a HDMI per monitor - Scheda video e grafica esterna - Windows/Mac (USB32HDPRO)",
-        "brand": "StarTech.com Adattatore",
-        "image": "https://m.media-amazon.com/images/I/61m9qCVBdVL._AC_UL320_.jpg",
-        "price": 92.32,
-        "base_price": 92.32,
+    "B0G4VY36XL": {
+        "asin": "B0G4VY36XL",
+        "title": "Scheda Acquisizione Video Dispositivo Registrazione 4K60FPS USB3.0 Trasferimento velocità Accessorio per Streaming Semplice Custodia in Metallo Dispositivo Acquisizione Video",
+        "brand": "Scheda Acquisizione",
+        "image": "https://m.media-amazon.com/images/I/614V6plbQiL._AC_UL320_.jpg",
+        "price": 53.69,
+        "base_price": 53.69,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B00O6G5ZGI"
+        "url": "https://www.amazon.it/dp/B0G4VY36XL"
     },
-    "B00N9PW060": {
-        "asin": "B00N9PW060",
-        "title": "Transcend Lettore di schede USB 3.1 Gen 1, ideale per video ad alta risoluzione, trasferimento di immagini raw e post-produzione, nero - TS-RDF2",
-        "brand": "Transcend Lettore",
-        "image": "https://m.media-amazon.com/images/I/71YR9bzboAL._AC_UL320_.jpg",
-        "price": 18.68,
-        "base_price": 18.68,
+    "B0CZRJ7J6K": {
+        "asin": "B0CZRJ7J6K",
+        "title": "SXJ I Staffa verticale per scheda grafica Supporto GPU Staffe di sterzo per schede grafiche Rack in metallo robusto 2/3 slot Supporto per schede video Staffa GPU Supporto GPU Supporto GPU regolabile",
+        "brand": "SXJ I",
+        "image": "https://m.media-amazon.com/images/I/51NEkWC99QL._AC_UL320_.jpg",
+        "price": 19.95,
+        "base_price": 19.95,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B00N9PW060"
+        "url": "https://www.amazon.it/dp/B0CZRJ7J6K"
     },
-    "B000BGFJI6": {
-        "asin": "B000BGFJI6",
-        "title": "Hama 55377 - Scheda SD, 2 GB, Colori Assortiti",
-        "brand": "Hama 55377",
-        "image": "https://m.media-amazon.com/images/I/51pn0D62OJL._AC_UL320_.jpg",
-        "price": 7.68,
-        "base_price": 7.68,
+    "B0G4TH5CGK": {
+        "asin": "B0G4TH5CGK",
+        "title": "Scheda di rete Ethernet di gigabits 10G con le spine di USB 4 della porta di SFP+ giocano per gli adattatori di Ethernet di editing video del PC",
+        "brand": "Scheda di",
+        "image": "https://m.media-amazon.com/images/I/51tNYPsGNDL._AC_UL320_.jpg",
+        "price": 190.01,
+        "base_price": 190.01,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B000BGFJI6"
+        "url": "https://www.amazon.it/dp/B0G4TH5CGK"
     },
-    "B09BJWGPXR": {
-        "asin": "B09BJWGPXR",
-        "title": "StarTech.com Adattatore USB-A a HDMI 1080p 60 Hz a 4 porte - Convertitore - Multi Monitor Dongle Adapter - Adattatore multiporta/Replicatore di porte USB Type A a 4x HDMI (USB32HD4)",
-        "brand": "StarTech.com Adattatore",
-        "image": "https://m.media-amazon.com/images/I/61ewic9wSGL._AC_UL320_.jpg",
-        "price": 82.78,
-        "base_price": 82.78,
+    "B0G8148HYB": {
+        "asin": "B0G8148HYB",
+        "title": "Scheda di acquisizione video 4K60FPS Dispositivo USB3.0 Trasferimento veloce Velocità Facile Streaming Accessorio Custodia in Metallo Scheda Compatibile",
+        "brand": "Scheda di",
+        "image": "https://m.media-amazon.com/images/I/61hgR42SatL._AC_UL320_.jpg",
+        "price": 48.16,
+        "base_price": 48.16,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B09BJWGPXR"
+        "url": "https://www.amazon.it/dp/B0G8148HYB"
     },
-    "B00XXPYTAG": {
-        "asin": "B00XXPYTAG",
-        "title": "StarTech.com Hub MST DisplayPort a 4 Porte - Adattatore Multi-Monitor DP 1.2 - Sdoppiatore/Splitter Video DisplayPort 1080p per quattro Monitor - DP a 4xDP - Solo Windows (MSTDP124DP)",
-        "brand": "StarTech.com Hub",
-        "image": "https://m.media-amazon.com/images/I/61EAbE+OsTL._AC_UL320_.jpg",
-        "price": 81.89,
-        "base_price": 81.89,
+    "B07R495PGL": {
+        "asin": "B07R495PGL",
+        "title": "PNY Elite",
+        "brand": "PNY Elite",
+        "image": "https://m.media-amazon.com/images/I/61I+8RW8M3L._AC_UL320_.jpg",
+        "price": 20.02,
+        "base_price": 20.02,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B00XXPYTAG"
+        "url": "https://www.amazon.it/dp/B07R495PGL"
     },
-    "B0DN6V58P9": {
-        "asin": "B0DN6V58P9",
-        "title": "PNY Scheda microSDXC 512GB PRO Elite Prime Class 10 U3 V30 A2 + Adattatore SD - fino a 200MB/s, Class 10, U3, V30, A2, 4K UHD, Full HD, UHS-I",
-        "brand": "PNY Scheda",
-        "image": "https://m.media-amazon.com/images/I/61VazHc3t-L._AC_UL320_.jpg",
-        "price": 48.36,
-        "base_price": 48.36,
+    "B0G1S6SS2T": {
+        "asin": "B0G1S6SS2T",
+        "title": "Scheda compatibile professionale della costruzione del metallo della trasmissione USB3.0 di risoluzione della scheda 4K60Hz di acquisizione video",
+        "brand": "Scheda compatibile",
+        "image": "https://m.media-amazon.com/images/I/61fFlhLsgRL._AC_UL320_.jpg",
+        "price": 63.32,
+        "base_price": 63.32,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B0DN6V58P9"
+        "url": "https://www.amazon.it/dp/B0G1S6SS2T"
     },
     "B07DSV9HG2": {
         "asin": "B07DSV9HG2",
@@ -2507,16 +2430,115 @@
         "category": "search_gpu",
         "url": "https://www.amazon.it/dp/B07DSV9HG2"
     },
-    "B08NCK1MBQ": {
-        "asin": "B08NCK1MBQ",
-        "title": "MSI B550M PRO-VDH Scheda Madre M-ATX - Supporta AMD Ryzen 3rd Gen, AM4, DDR4 Boost (4400MHz/OC), 1 x PCIe 4.0/3.0 x16, 1 x M.2 Gen4 x4, 1 x M.2 Gen3 x4, Gigabit LAN",
-        "brand": "MSI B550M",
-        "image": "https://m.media-amazon.com/images/I/617VKIqOwDL._AC_UL320_.jpg",
-        "price": 85.82,
-        "base_price": 85.82,
+    "B00O6G5ZGI": {
+        "asin": "B00O6G5ZGI",
+        "title": "StarTech.com Adattatore da USB 3.0 a HDMI - Certificato DisplayLink - 1080p - Convertitore video da USB Type-A a HDMI per monitor - Scheda video e grafica esterna - Windows/Mac (USB32HDPRO)",
+        "brand": "StarTech.com Adattatore",
+        "image": "https://m.media-amazon.com/images/I/61m9qCVBdVL._AC_UL320_.jpg",
+        "price": 92.32,
+        "base_price": 92.32,
         "coupon": 0.0,
         "category": "search_gpu",
-        "url": "https://www.amazon.it/dp/B08NCK1MBQ"
+        "url": "https://www.amazon.it/dp/B00O6G5ZGI"
+    },
+    "B0G9CKLR83": {
+        "asin": "B0G9CKLR83",
+        "title": "4K60Hz Live Broadcast Acquisizione Scheda Supporto Veloce Velocità USB3.0 Non Ritardo per PC Sistemi Metal Frame Video Capture Device",
+        "brand": "4K60Hz Live",
+        "image": "https://m.media-amazon.com/images/I/61fFlhLsgRL._AC_UL320_.jpg",
+        "price": 57.88,
+        "base_price": 57.88,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B0G9CKLR83"
+    },
+    "B095YNNDP7": {
+        "asin": "B095YNNDP7",
+        "title": "Kodak - Scheda Micro SD 256GB UHS-I U3 V30 A1 microSDHC/XC - Scheda di memoria Micro SD - Velocità di lettura 95MB/s Max - Velocità di scrittura 85MB/s Max - Ulteriori dispositivi multimediali di",
+        "brand": "Kodak",
+        "image": "https://m.media-amazon.com/images/I/61biyJcgyYL._AC_UL320_.jpg",
+        "price": 25.57,
+        "base_price": 25.57,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B095YNNDP7"
+    },
+    "B078VNGGWY": {
+        "asin": "B078VNGGWY",
+        "title": "Emtec ECMSDM8GHC10CG MicroSDHC 8GB Class10 Classic",
+        "brand": "Emtec ECMSDM8GHC10CG",
+        "image": "https://m.media-amazon.com/images/I/61gIRomHRnL._AC_UL320_.jpg",
+        "price": 4.73,
+        "base_price": 4.73,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B078VNGGWY"
+    },
+    "B07TDXM6KT": {
+        "asin": "B07TDXM6KT",
+        "title": "ARCANITE, set da 2 schede di memoria microSDXC 128 GB, UHS-I U3, A1, V30, 4K, C10, MicroSD, Velocità di lettura fino a 90 MB/s - senza adattatore",
+        "brand": "ARCANITE, set",
+        "image": "https://m.media-amazon.com/images/I/51D9DPiAH-L._AC_UL320_.jpg",
+        "price": 24.02,
+        "base_price": 24.02,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B07TDXM6KT"
+    },
+    "B08L49ZP7Q": {
+        "asin": "B08L49ZP7Q",
+        "title": "geneic 75MM PLD08010S12H Ventola di Raffreddamento 2Pin Scheda Grafica Ventola di Raffreddamento Per Gigabyte 6850 7970 GTX 460 GTX560Ti R270X 260x",
+        "brand": "geneic 75MM",
+        "image": "https://m.media-amazon.com/images/I/51jhMk5P5nL._AC_UL320_.jpg",
+        "price": 11.69,
+        "base_price": 11.69,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B08L49ZP7Q"
+    },
+    "B06Y4PT8TB": {
+        "asin": "B06Y4PT8TB",
+        "title": "Hama 00124137 - Scheda di memoria SDXC 128 GB UHS-I Class1 C10 533X/ 80MB/S Incredibly Fast",
+        "brand": "Hama 00124137",
+        "image": "https://m.media-amazon.com/images/I/61jX5Me9Z2L._AC_UL320_.jpg",
+        "price": 13.82,
+        "base_price": 13.82,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B06Y4PT8TB"
+    },
+    "B0F2MLCVWZ": {
+        "asin": "B0F2MLCVWZ",
+        "title": "Telecamera WiFi Clock 1080P Videoregistratore Telecamera di sicurezza per interni Visione notturna Rilevazione del movimento Nascosta Telecamera di sicurezza per la casa",
+        "brand": "Telecamera WiFi",
+        "image": "https://m.media-amazon.com/images/I/61auMu56ItL._AC_UL320_.jpg",
+        "price": 65.09,
+        "base_price": 65.09,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B0F2MLCVWZ"
+    },
+    "B0FBWK7HDP": {
+        "asin": "B0FBWK7HDP",
+        "title": "Lettore di schede SD per iPhone, iPad, adattatore OTG tipo C, lettore di schede USB C, lettore di schede SD USB C con doppio slot per microSD/SD, visualizzatore di schede di memoria per iPhone/iPad",
+        "brand": "Lettore di",
+        "image": "https://m.media-amazon.com/images/I/61DxUqKP7HL._AC_UL320_.jpg",
+        "price": 13.15,
+        "base_price": 13.15,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B0FBWK7HDP"
+    },
+    "B0163ZHNIC": {
+        "asin": "B0163ZHNIC",
+        "title": "Hama microSDHC 16GB - memory cards (MicroSDHC, Black, UHS-I, Class 10, SD)",
+        "brand": "Hama microSDHC",
+        "image": "https://m.media-amazon.com/images/I/61dQ79hm5NL._AC_UL320_.jpg",
+        "price": 5.88,
+        "base_price": 5.88,
+        "coupon": 0.0,
+        "category": "search_gpu",
+        "url": "https://www.amazon.it/dp/B0163ZHNIC"
     },
     "B0815XFSGK": {
         "asin": "B0815XFSGK",
@@ -2837,17 +2859,6 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0CD9WKR9N"
     },
-    "B0DF79SWMJ": {
-        "asin": "B0DF79SWMJ",
-        "title": "CORSAIR iCUE LINK TITAN 360 RX LCD Raffreddatore CPU a Liquido – Motore di Raffreddamento FlowDrive – Intel LGA 1851/1700, AMD AM5/AM4 – 3x RX120 Ventole RGB – iCUE LINK System Hub Incluso – Bianco",
-        "brand": "CORSAIR iCUE",
-        "image": "https://m.media-amazon.com/images/I/71G0lQwilyL._AC_UL320_.jpg",
-        "price": 228.61,
-        "base_price": 228.61,
-        "coupon": 0.0,
-        "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0DF79SWMJ"
-    },
     "B07KY8HK5J": {
         "asin": "B07KY8HK5J",
         "title": "AMD Ryzen ™ 5 2600X MAX, AM4, Zen +, 6 core, 12 thread, 3.6 GHz, 4.25 GHz Turbo, 19 MB di cache, 95 W, CPU, Box + Wraith MAX Cooler",
@@ -2858,6 +2869,17 @@
         "coupon": 0.0,
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B07KY8HK5J"
+    },
+    "B0DF79SWMJ": {
+        "asin": "B0DF79SWMJ",
+        "title": "CORSAIR iCUE LINK TITAN 360 RX LCD Raffreddatore CPU a Liquido – Motore di Raffreddamento FlowDrive – Intel LGA 1851/1700, AMD AM5/AM4 – 3x RX120 Ventole RGB – iCUE LINK System Hub Incluso – Bianco",
+        "brand": "CORSAIR iCUE",
+        "image": "https://m.media-amazon.com/images/I/71G0lQwilyL._AC_UL320_.jpg",
+        "price": 228.61,
+        "base_price": 228.61,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B0DF79SWMJ"
     },
     "B0DWXJR9Y7": {
         "asin": "B0DWXJR9Y7",
@@ -2870,17 +2892,6 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0DWXJR9Y7"
     },
-    "B0CSXLS5TR": {
-        "asin": "B0CSXLS5TR",
-        "title": "GIGABYTE AORUS WATERFORCE II 360 AIO Raffreddamento a liquido per CPU - 3x ventole ARGB da 120 mm, meccanismo a incastro, DAISY-CHAIN, compatibile con Intel LGA 1851 e AMD AM5",
-        "brand": "GIGABYTE AORUS",
-        "image": "https://m.media-amazon.com/images/I/51z+P9ueCSL._AC_UL320_.jpg",
-        "price": 124.59,
-        "base_price": 124.59,
-        "coupon": 0.0,
-        "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0CSXLS5TR"
-    },
     "B0BKP7K6HK": {
         "asin": "B0BKP7K6HK",
         "title": "NZXT T120 Dissipatore ad aria per CPU - RC-TN120-W1 - Tubi in rame conduttivo - Cuscinetti fluidodinamici - Compatibilità AMD e Intel - Bianco",
@@ -2892,16 +2903,16 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0BKP7K6HK"
     },
-    "B0F8R2BW2Q": {
-        "asin": "B0F8R2BW2Q",
-        "title": "CORSAIR iCUE LINK TITAN 420 RX RGB Raffreddatore CPU a Liquido – 420 mm, Motore di Raffreddamento FlowDrive, Intel LGA 1851/1700, AMD AM5/AM4, 3 Ventole RX140 RGB, Hub di Sistema iCUE LINK – Nero",
-        "brand": "CORSAIR iCUE",
-        "image": "https://m.media-amazon.com/images/I/71MTcKFtqnL._AC_UL320_.jpg",
-        "price": 180.25,
-        "base_price": 180.25,
+    "B0CSXLS5TR": {
+        "asin": "B0CSXLS5TR",
+        "title": "GIGABYTE AORUS WATERFORCE II 360 AIO Raffreddamento a liquido per CPU - 3x ventole ARGB da 120 mm, meccanismo a incastro, DAISY-CHAIN, compatibile con Intel LGA 1851 e AMD AM5",
+        "brand": "GIGABYTE AORUS",
+        "image": "https://m.media-amazon.com/images/I/51z+P9ueCSL._AC_UL320_.jpg",
+        "price": 124.59,
+        "base_price": 124.59,
         "coupon": 0.0,
         "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0F8R2BW2Q"
+        "url": "https://www.amazon.it/dp/B0CSXLS5TR"
     },
     "B0CXNJ83Y4": {
         "asin": "B0CXNJ83Y4",
@@ -2914,6 +2925,17 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0CXNJ83Y4"
     },
+    "B0F8R2BW2Q": {
+        "asin": "B0F8R2BW2Q",
+        "title": "CORSAIR iCUE LINK TITAN 420 RX RGB Raffreddatore CPU a Liquido – 420 mm, Motore di Raffreddamento FlowDrive, Intel LGA 1851/1700, AMD AM5/AM4, 3 Ventole RX140 RGB, Hub di Sistema iCUE LINK – Nero",
+        "brand": "CORSAIR iCUE",
+        "image": "https://m.media-amazon.com/images/I/71MTcKFtqnL._AC_UL320_.jpg",
+        "price": 180.25,
+        "base_price": 180.25,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B0F8R2BW2Q"
+    },
     "B0DYTY1JNX": {
         "asin": "B0DYTY1JNX",
         "title": "TR -Frozen Infinity 360 BLACK CPU Cooler, Triple PWM Ventole con 2000RPM, AIO Cooler per AM4/AM5 & Intel LGA1150/1151/1200/2011/1700/1851, Infinity Mirror PC",
@@ -2924,28 +2946,6 @@
         "coupon": 0.0,
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0DYTY1JNX"
-    },
-    "B09HR9ZP5V": {
-        "asin": "B09HR9ZP5V",
-        "title": "Oversteel - ZIRCON Raffreddamento a liquido 240 mm RGB, 2x ventola PWM 120 mm RGB, TDP 200 W, compatibile con Intel e AMD AM4, colore nero",
-        "brand": "Oversteel",
-        "image": "https://m.media-amazon.com/images/I/61-yyi7Zf8L._AC_UL320_.jpg",
-        "price": 54.75,
-        "base_price": 54.75,
-        "coupon": 0.0,
-        "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B09HR9ZP5V"
-    },
-    "B0DNK8T671": {
-        "asin": "B0DNK8T671",
-        "title": "Nfortec Sculptor X2 dissipatore CPU ARGB 240W TDP doppia ventola 120mm Intel AMD nero",
-        "brand": "Nfortec Sculptor",
-        "image": "https://m.media-amazon.com/images/I/610gkUDvzFL._AC_UL320_.jpg",
-        "price": 60.83,
-        "base_price": 60.83,
-        "coupon": 0.0,
-        "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0DNK8T671"
     },
     "B0722KC8TX": {
         "asin": "B0722KC8TX",
@@ -2958,6 +2958,28 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0722KC8TX"
     },
+    "B0DNK8T671": {
+        "asin": "B0DNK8T671",
+        "title": "Nfortec Sculptor X2 dissipatore CPU ARGB 240W TDP doppia ventola 120mm Intel AMD nero",
+        "brand": "Nfortec Sculptor",
+        "image": "https://m.media-amazon.com/images/I/610gkUDvzFL._AC_UL320_.jpg",
+        "price": 60.83,
+        "base_price": 60.83,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B0DNK8T671"
+    },
+    "B09HR9ZP5V": {
+        "asin": "B09HR9ZP5V",
+        "title": "Oversteel - ZIRCON Raffreddamento a liquido 240 mm RGB, 2x ventola PWM 120 mm RGB, TDP 200 W, compatibile con Intel e AMD AM4, colore nero",
+        "brand": "Oversteel",
+        "image": "https://m.media-amazon.com/images/I/61-yyi7Zf8L._AC_UL320_.jpg",
+        "price": 54.75,
+        "base_price": 54.75,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B09HR9ZP5V"
+    },
     "B0CLB8TWB2": {
         "asin": "B0CLB8TWB2",
         "title": "CORSAIR iCUE LINK H100i Raffreddatore CPU LCD a Liquido - 240 mm AIO - Ventole QX120 RGB - Schermo LCD IPS da 2,1\" - Adatto a Intel LGA 1700, AMD AM5 - Hub di Sistema iCUE LINK Incluso - Nero",
@@ -2968,6 +2990,17 @@
         "coupon": 0.0,
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0CLB8TWB2"
+    },
+    "B0DYNNCBGM": {
+        "asin": "B0DYNNCBGM",
+        "title": "TR -AXP90-X53 Raffreddatore d'aria CPU a basso profilo, altezza 53 mm, ventola CPU PWM TL-9015, tecnologia AGHP 3.0, dissipatore di calore ITX, per AMD: AM4 AM5/Intel 1150/1151/1155/1156/1200/1700",
+        "brand": "TR -AXP90-X53",
+        "image": "https://m.media-amazon.com/images/I/71129xNIoeL._AC_UL320_.jpg",
+        "price": 32.15,
+        "base_price": 32.15,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B0DYNNCBGM"
     },
     "B0DR1NW9J3": {
         "asin": "B0DR1NW9J3",
@@ -2980,17 +3013,6 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0DR1NW9J3"
     },
-    "B0CMV64SBJ": {
-        "asin": "B0CMV64SBJ",
-        "title": "Thermalright Frozen Vision 360 - Raffreddatore ad acqua liquido per CPU con ventola PWM da 12 cm, immagine quadrata da 2,8 pollici, display LCD IPS, CPU per computer AMD/AM4/AM5, Intel",
-        "brand": "Thermalright Frozen",
-        "image": "https://m.media-amazon.com/images/I/61BgJrMPcPL._AC_UL320_.jpg",
-        "price": 114.08,
-        "base_price": 114.08,
-        "coupon": 0.0,
-        "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0CMV64SBJ"
-    },
     "B0DYJVW349": {
         "asin": "B0DYJVW349",
         "title": "TR -AXP90 X47 Full Low Profile CPU Cooler, 47mm Altezza, con TL-9015R Slim PWM CPU Fan, AGHP Technology, Computer ITX Heatsink Cooler, per AMD: AM4 AM5/Intel 1150/1151/1200/1700/1851",
@@ -3001,6 +3023,17 @@
         "coupon": 0.0,
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0DYJVW349"
+    },
+    "B0CMV64SBJ": {
+        "asin": "B0CMV64SBJ",
+        "title": "Thermalright Frozen Vision 360 - Raffreddatore ad acqua liquido per CPU con ventola PWM da 12 cm, immagine quadrata da 2,8 pollici, display LCD IPS, CPU per computer AMD/AM4/AM5, Intel",
+        "brand": "Thermalright Frozen",
+        "image": "https://m.media-amazon.com/images/I/61BgJrMPcPL._AC_UL320_.jpg",
+        "price": 114.08,
+        "base_price": 114.08,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B0CMV64SBJ"
     },
     "B0BQWVNZDC": {
         "asin": "B0BQWVNZDC",
@@ -3035,17 +3068,6 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0CSXL3XL5"
     },
-    "B0CQZ6KKH7": {
-        "asin": "B0CQZ6KKH7",
-        "title": "Thermal Grizzly KryoSheet (68 x 51 x 0,2 mm) – Cuscinetto Termico in grafene ad altissima conducibilità Termica – Alternativa Perfetta per Pasta Termica su CPU/GPU/PS4/PS5/Xbox – Made in Sweden",
-        "brand": "Thermal Grizzly",
-        "image": "https://m.media-amazon.com/images/I/81ftiNYBnxL._AC_UL320_.jpg",
-        "price": 34.9,
-        "base_price": 34.9,
-        "coupon": 0.0,
-        "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0CQZ6KKH7"
-    },
     "B0DX235BN5": {
         "asin": "B0DX235BN5",
         "title": "TR -FW360 - Raffreddatore ad acqua per CPU, 3 ventole PWM, sistema di raffreddamento ad acqua, schermo LCD IPS con risoluzione 320 x 240, per AMD/AM4/AM5 e Intel LGA1851/1700, computer 360 CPU Liquid",
@@ -3078,6 +3100,17 @@
         "coupon": 0.0,
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B09Z28L36X"
+    },
+    "B0CQZ6KKH7": {
+        "asin": "B0CQZ6KKH7",
+        "title": "Thermal Grizzly KryoSheet (68 x 51 x 0,2 mm) – Cuscinetto Termico in grafene ad altissima conducibilità Termica – Alternativa Perfetta per Pasta Termica su CPU/GPU/PS4/PS5/Xbox – Made in Sweden",
+        "brand": "Thermal Grizzly",
+        "image": "https://m.media-amazon.com/images/I/81ftiNYBnxL._AC_UL320_.jpg",
+        "price": 34.9,
+        "base_price": 34.9,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B0CQZ6KKH7"
     },
     "B09LXPLVSV": {
         "asin": "B09LXPLVSV",
@@ -3112,16 +3145,16 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0D97V4NQZ"
     },
-    "B0CCV8M4C7": {
-        "asin": "B0CCV8M4C7",
-        "title": "Redragon C218 Dual Tower CPU Air Cooler, A-RGB CPU Cooling FDB Fan, 120 mm PWM Low Noise, 6 tubi di calore in alluminio, copertura del dissipatore di calore per Intel 1700/115X/1200, AMD AM4/AM5",
-        "brand": "Redragon C218",
-        "image": "https://m.media-amazon.com/images/I/716NyJXNIFL._AC_UL320_.jpg",
-        "price": 74.84,
-        "base_price": 74.84,
+    "B0FDGD1G23": {
+        "asin": "B0FDGD1G23",
+        "title": "TR - Peerless Assassin 140 Digital Black CPU Cooler, doppie ventole PWM con velocità 1850RPM, supporto Intel lga1700/1851/115X/2011/1200, AMD: AM4/AM5, raffreddamento CPU del computer, copertura",
+        "brand": "TR",
+        "image": "https://m.media-amazon.com/images/I/714ZtM1jiWL._AC_UL320_.jpg",
+        "price": 69.8,
+        "base_price": 69.8,
         "coupon": 0.0,
         "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0CCV8M4C7"
+        "url": "https://www.amazon.it/dp/B0FDGD1G23"
     },
     "B0CDHH2J5S": {
         "asin": "B0CDHH2J5S",
@@ -3134,16 +3167,16 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0CDHH2J5S"
     },
-    "B0FDGD1G23": {
-        "asin": "B0FDGD1G23",
-        "title": "TR - Peerless Assassin 140 Digital Black CPU Cooler, doppie ventole PWM con velocità 1850RPM, supporto Intel lga1700/1851/115X/2011/1200, AMD: AM4/AM5, raffreddamento CPU del computer, copertura",
-        "brand": "TR",
-        "image": "https://m.media-amazon.com/images/I/714ZtM1jiWL._AC_UL320_.jpg",
-        "price": 69.8,
-        "base_price": 69.8,
+    "B0CCV8M4C7": {
+        "asin": "B0CCV8M4C7",
+        "title": "Redragon C218 Dual Tower CPU Air Cooler, A-RGB CPU Cooling FDB Fan, 120 mm PWM Low Noise, 6 tubi di calore in alluminio, copertura del dissipatore di calore per Intel 1700/115X/1200, AMD AM4/AM5",
+        "brand": "Redragon C218",
+        "image": "https://m.media-amazon.com/images/I/716NyJXNIFL._AC_UL320_.jpg",
+        "price": 74.84,
+        "base_price": 74.84,
         "coupon": 0.0,
         "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0FDGD1G23"
+        "url": "https://www.amazon.it/dp/B0CCV8M4C7"
     },
     "B0BLH1M85C": {
         "asin": "B0BLH1M85C",
@@ -3156,16 +3189,16 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0BLH1M85C"
     },
-    "B0DWSXJL6Z": {
-        "asin": "B0DWSXJL6Z",
-        "title": "TR -Assassin King 120 SE WHITE ARGB CPU Air Cooler, AK120 SE WHITE ARB, 5 Heatpipes, TL-C12CW-S PWM Quiet Fan CPU Cooler con cuscinetto S-FDB, per AMD AM4 AM5/Intel 1150/1151/1200/1700",
-        "brand": "TR -Assassin",
-        "image": "https://m.media-amazon.com/images/I/619x5cmRVRL._AC_UL320_.jpg",
-        "price": 30.0,
-        "base_price": 30.0,
+    "B0DYTPXZ22": {
+        "asin": "B0DYTPXZ22",
+        "title": "TR -Frozen Infinity 360 - Raffreddatore d'acqua per CPU bianco, con tripla ventola Infinity Mirror PWM da 124 mm, per Intel 1150/1151/1200/2011/1700/1851 e AMD/AM4/AM5, radiatore ad acqua Infinity",
+        "brand": "TR -Frozen",
+        "image": "https://m.media-amazon.com/images/I/61r83b0Y0GL._AC_UL320_.jpg",
+        "price": 78.06,
+        "base_price": 78.06,
         "coupon": 0.0,
         "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0DWSXJL6Z"
+        "url": "https://www.amazon.it/dp/B0DYTPXZ22"
     },
     "B0BLHGJM81": {
         "asin": "B0BLHGJM81",
@@ -3177,6 +3210,28 @@
         "coupon": 0.0,
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0BLHGJM81"
+    },
+    "B0DWSXJL6Z": {
+        "asin": "B0DWSXJL6Z",
+        "title": "TR -Assassin King 120 SE WHITE ARGB CPU Air Cooler, AK120 SE WHITE ARB, 5 Heatpipes, TL-C12CW-S PWM Quiet Fan CPU Cooler con cuscinetto S-FDB, per AMD AM4 AM5/Intel 1150/1151/1200/1700",
+        "brand": "TR -Assassin",
+        "image": "https://m.media-amazon.com/images/I/619x5cmRVRL._AC_UL320_.jpg",
+        "price": 30.0,
+        "base_price": 30.0,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B0DWSXJL6Z"
+    },
+    "B0863KK2BP": {
+        "asin": "B0863KK2BP",
+        "title": "Asus Hyper M.2 x16 Gen 4 (PCIe 4.0/3.0) Supporta 4X dispositivi NVMe M.2 (2242/2260/2280/22110) Fino a 256 Gbps per AMD TRX40 / X570 PCIe 4.0 NVMe Raid e Piattaforma Intel® Raid- funzioni su CPU",
+        "brand": "Asus Hyper",
+        "image": "https://m.media-amazon.com/images/I/51RbXNN2FyS._AC_UL320_.jpg",
+        "price": 89.34,
+        "base_price": 89.34,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B0863KK2BP"
     },
     "B0D97T24YQ": {
         "asin": "B0D97T24YQ",
@@ -3200,27 +3255,16 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0DWSY4DXB"
     },
-    "B0863KK2BP": {
-        "asin": "B0863KK2BP",
-        "title": "Asus Hyper M.2 x16 Gen 4 (PCIe 4.0/3.0) Supporta 4X dispositivi NVMe M.2 (2242/2260/2280/22110) Fino a 256 Gbps per AMD TRX40 / X570 PCIe 4.0 NVMe Raid e Piattaforma Intel® Raid- funzioni su CPU",
-        "brand": "Asus Hyper",
-        "image": "https://m.media-amazon.com/images/I/51RbXNN2FyS._AC_UL320_.jpg",
-        "price": 89.34,
-        "base_price": 89.34,
+    "B0BHDSF7RM": {
+        "asin": "B0BHDSF7RM",
+        "title": "ENDORFY Navis F360 – Dissipatore a liquido AIO per CPU, radiatore da 360mm, pompa PWM, 3x ventole Fluctus 120 PWM, Intel LGA 1700/1200/115x & AMD AM5/AM4",
+        "brand": "ENDORFY Navis",
+        "image": "https://m.media-amazon.com/images/I/41oJ3PsN91L._AC_UL320_.jpg",
+        "price": 87.46,
+        "base_price": 87.46,
         "coupon": 0.0,
         "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0863KK2BP"
-    },
-    "B0DWSMPMGG": {
-        "asin": "B0DWSMPMGG",
-        "title": "TR - Assassin X 120R SE ARGB CPU Air Cooler, 4 tubi di calore, velocità 1550 giri/min, con ventola PWM da 120 mm, altezza 148 mm, raffreddamento PC desktop, supporto AMD: AM4 AM5/Intel 1700/1150/1151",
-        "brand": "TR",
-        "image": "https://m.media-amazon.com/images/I/61brcJrcJzL._AC_UL320_.jpg",
-        "price": 29.54,
-        "base_price": 29.54,
-        "coupon": 0.0,
-        "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0DWSMPMGG"
+        "url": "https://www.amazon.it/dp/B0BHDSF7RM"
     },
     "B09FXXMRFM": {
         "asin": "B09FXXMRFM",
@@ -3233,17 +3277,6 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B09FXXMRFM"
     },
-    "B0BHDSF7RM": {
-        "asin": "B0BHDSF7RM",
-        "title": "ENDORFY Navis F360 – Dissipatore a liquido AIO per CPU, radiatore da 360mm, pompa PWM, 3x ventole Fluctus 120 PWM, Intel LGA 1700/1200/115x & AMD AM5/AM4",
-        "brand": "ENDORFY Navis",
-        "image": "https://m.media-amazon.com/images/I/41oJ3PsN91L._AC_UL320_.jpg",
-        "price": 87.46,
-        "base_price": 87.46,
-        "coupon": 0.0,
-        "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0BHDSF7RM"
-    },
     "B0F228XMP8": {
         "asin": "B0F228XMP8",
         "title": "Nfortec Centaurus X2 Disipador por Aire para CPU, 4 Pipes de 120mm, Tecnología Iluminación ARGB, Ventilador con Control PWM, socket INTEL y AMD, Negro",
@@ -3254,6 +3287,17 @@
         "coupon": 0.0,
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0F228XMP8"
+    },
+    "B0DWSMPMGG": {
+        "asin": "B0DWSMPMGG",
+        "title": "TR - Assassin X 120R SE ARGB CPU Air Cooler, 4 tubi di calore, velocità 1550 giri/min, con ventola PWM da 120 mm, altezza 148 mm, raffreddamento PC desktop, supporto AMD: AM4 AM5/Intel 1700/1150/1151",
+        "brand": "TR",
+        "image": "https://m.media-amazon.com/images/I/61brcJrcJzL._AC_UL320_.jpg",
+        "price": 29.54,
+        "base_price": 29.54,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B0DWSMPMGG"
     },
     "B0DWRS7N6P": {
         "asin": "B0DWRS7N6P",
@@ -3266,27 +3310,16 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0DWRS7N6P"
     },
-    "B0DYTPXZ22": {
-        "asin": "B0DYTPXZ22",
-        "title": "TR -Frozen Infinity 360 - Raffreddatore d'acqua per CPU bianco, con tripla ventola Infinity Mirror PWM da 124 mm, per Intel 1150/1151/1200/2011/1700/1851 e AMD/AM4/AM5, radiatore ad acqua Infinity",
-        "brand": "TR -Frozen",
-        "image": "https://m.media-amazon.com/images/I/61r83b0Y0GL._AC_UL320_.jpg",
-        "price": 78.06,
-        "base_price": 78.06,
+    "B0FDGGXS5R": {
+        "asin": "B0FDGGXS5R",
+        "title": "TR Trofeo Vision 360 ARGB Raffreddatore CPU AIO radiatore 360 mm schermo LCD IPS 1280x480 AM4/AM5, Intel LGA1851/1700",
+        "brand": "TR Trofeo",
+        "image": "https://m.media-amazon.com/images/I/61bJywzw-iL._AC_UL320_.jpg",
+        "price": 167.71,
+        "base_price": 167.71,
         "coupon": 0.0,
         "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0DYTPXZ22"
-    },
-    "B0DYNR5NSM": {
-        "asin": "B0DYNR5NSM",
-        "title": "TR - Assassin X 90 SE ARGB CPU Air Cooler con 4 × 6 mm HeatPipes, 92 mm TL-P9-S PWM Fan CPU Cooler, AGHP 4th Technology, per AMD: AM4 AM5/Intel 1700/1150/1151/1200/1851, PC MINI Tower Cooler",
-        "brand": "TR",
-        "image": "https://m.media-amazon.com/images/I/71nV1t1oEiL._AC_UL320_.jpg",
-        "price": 27.62,
-        "base_price": 27.62,
-        "coupon": 0.0,
-        "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0DYNR5NSM"
+        "url": "https://www.amazon.it/dp/B0FDGGXS5R"
     },
     "B0DWXGJDK9": {
         "asin": "B0DWXGJDK9",
@@ -3299,6 +3332,17 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0DWXGJDK9"
     },
+    "B0DYNR5NSM": {
+        "asin": "B0DYNR5NSM",
+        "title": "TR - Assassin X 90 SE ARGB CPU Air Cooler con 4 × 6 mm HeatPipes, 92 mm TL-P9-S PWM Fan CPU Cooler, AGHP 4th Technology, per AMD: AM4 AM5/Intel 1700/1150/1151/1200/1851, PC MINI Tower Cooler",
+        "brand": "TR",
+        "image": "https://m.media-amazon.com/images/I/71nV1t1oEiL._AC_UL320_.jpg",
+        "price": 27.62,
+        "base_price": 27.62,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B0DYNR5NSM"
+    },
     "B0F229GSXG": {
         "asin": "B0F229GSXG",
         "title": "Nfortec Centaurus X2 Disipador por Aire para CPU, 4 Pipes de 120mm, Tecnología Iluminación ARGB, Ventilador con Control PWM, socket INTEL y AMD, Blanco",
@@ -3309,17 +3353,6 @@
         "coupon": 0.0,
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0F229GSXG"
-    },
-    "B0FDGGXS5R": {
-        "asin": "B0FDGGXS5R",
-        "title": "TR Trofeo Vision 360 ARGB Raffreddatore CPU AIO radiatore 360 mm schermo LCD IPS 1280x480 AM4/AM5, Intel LGA1851/1700",
-        "brand": "TR Trofeo",
-        "image": "https://m.media-amazon.com/images/I/61bJywzw-iL._AC_UL320_.jpg",
-        "price": 167.71,
-        "base_price": 167.71,
-        "coupon": 0.0,
-        "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0FDGGXS5R"
     },
     "B0CDHCSCTM": {
         "asin": "B0CDHCSCTM",
@@ -3332,17 +3365,6 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0CDHCSCTM"
     },
-    "B0DWSP4VKS": {
-        "asin": "B0DWSP4VKS",
-        "title": "TR - Raffreddatore per CPU Phantom Spirit 120 SE ARGB, 7 × 6 mm, ventola di raffreddamento per computer con doppia ventola PWM, velocità 1500 giri/min, per AMD AM4 AM5/Intel 1851/1700/1150/1151/1200",
-        "brand": "TR",
-        "image": "https://m.media-amazon.com/images/I/71ujGDwM-xL._AC_UL320_.jpg",
-        "price": 50.2,
-        "base_price": 50.2,
-        "coupon": 0.0,
-        "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0DWSP4VKS"
-    },
     "B0DWRLBMBN": {
         "asin": "B0DWRLBMBN",
         "title": "TR - AE120 V3 Aio CPU Cooler, 120 file di raffreddamento a liquido, ventola di raffreddamento ARGB PWM, per Intel LGA1150/1151/1155/1156/1200/2011/1700, AMD: AM4/AM5, PC Cooler Aio",
@@ -3353,6 +3375,17 @@
         "coupon": 0.0,
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0DWRLBMBN"
+    },
+    "B0DWSP4VKS": {
+        "asin": "B0DWSP4VKS",
+        "title": "TR - Raffreddatore per CPU Phantom Spirit 120 SE ARGB, 7 × 6 mm, ventola di raffreddamento per computer con doppia ventola PWM, velocità 1500 giri/min, per AMD AM4 AM5/Intel 1851/1700/1150/1151/1200",
+        "brand": "TR",
+        "image": "https://m.media-amazon.com/images/I/71ujGDwM-xL._AC_UL320_.jpg",
+        "price": 50.2,
+        "base_price": 50.2,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B0DWSP4VKS"
     },
     "B0DX251QS4": {
         "asin": "B0DX251QS4",
@@ -3497,17 +3530,6 @@
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0B3TF1XYP"
     },
-    "B0CDHDS799": {
-        "asin": "B0CDHDS799",
-        "title": "CORSAIR XC7 RGB ELITE LCD Waterblock per CPU - Schermo LCD IPS 480x480-31 LED RGB - USB-C - Adatto per Intel LGA 1700, AMD AM5 e precedenti - Grigio Invisibile",
-        "brand": "CORSAIR XC7",
-        "image": "https://m.media-amazon.com/images/I/71g5gyfwJzL._AC_UL320_.jpg",
-        "price": 172.05,
-        "base_price": 172.05,
-        "coupon": 0.0,
-        "category": "search_cpu",
-        "url": "https://www.amazon.it/dp/B0CDHDS799"
-    },
     "B0DKTGBY7G": {
         "asin": "B0DKTGBY7G",
         "title": "Inter-Tech Radiatore BULK 4P90 attivo AMD, attacco Intel 92 x 25 mm",
@@ -3518,6 +3540,17 @@
         "coupon": 0.0,
         "category": "search_cpu",
         "url": "https://www.amazon.it/dp/B0DKTGBY7G"
+    },
+    "B0CDHDS799": {
+        "asin": "B0CDHDS799",
+        "title": "CORSAIR XC7 RGB ELITE LCD Waterblock per CPU - Schermo LCD IPS 480x480-31 LED RGB - USB-C - Adatto per Intel LGA 1700, AMD AM5 e precedenti - Grigio Invisibile",
+        "brand": "CORSAIR XC7",
+        "image": "https://m.media-amazon.com/images/I/71g5gyfwJzL._AC_UL320_.jpg",
+        "price": 172.05,
+        "base_price": 172.05,
+        "coupon": 0.0,
+        "category": "search_cpu",
+        "url": "https://www.amazon.it/dp/B0CDHDS799"
     },
     "B0000934JE": {
         "asin": "B0000934JE",
@@ -3860,6 +3893,17 @@
         "category": "search_dissipatori",
         "url": "https://www.amazon.it/dp/B00DWFQ42I"
     },
+    "B0CZHML1TY": {
+        "asin": "B0CZHML1TY",
+        "title": "Fleshy Leaf Ventola di raffreddamento di ricambio CPU+GPU per ASUS TUF Gaming (2020) FX505D FX505DV FX505DY FX505DU FX505GT FX505GD FX506Li FX506IH FX705 FX705GM FX705GD FX705GE FX95DU FMC9 FMLB",
+        "brand": "Fleshy Leaf",
+        "image": "https://m.media-amazon.com/images/I/71PiK5i2z9L._AC_UL320_.jpg",
+        "price": 25.97,
+        "base_price": 25.97,
+        "coupon": 0.0,
+        "category": "search_dissipatori",
+        "url": "https://www.amazon.it/dp/B0CZHML1TY"
+    },
     "B0DWT9QNZK": {
         "asin": "B0DWT9QNZK",
         "title": "Piccole aziende",
@@ -3882,17 +3926,6 @@
         "category": "search_dissipatori",
         "url": "https://www.amazon.it/dp/B0BFR6PDJN"
     },
-    "B07MZ45X9G": {
-        "asin": "B07MZ45X9G",
-        "title": "Noctua NT-H2 3.5g, Pasta Termo Conduttiva per Computer incl. 3 Salviettine Detergenti (3,5 g)",
-        "brand": "Noctua NT-H2",
-        "image": "https://m.media-amazon.com/images/I/71GMxZ3DXzL._AC_UL320_.jpg",
-        "price": 18.17,
-        "base_price": 18.17,
-        "coupon": 0.0,
-        "category": "search_dissipatori",
-        "url": "https://www.amazon.it/dp/B07MZ45X9G"
-    },
     "B0BSFYT6Y5": {
         "asin": "B0BSFYT6Y5",
         "title": "Mars Gaming MC-PRO2, Torre E-ATX Professionale, Sistema CPU FREEZER, 5x Ventole Ultra-silenziose e Frontale Metal-Mesh, Nero",
@@ -3903,6 +3936,17 @@
         "coupon": 0.0,
         "category": "search_dissipatori",
         "url": "https://www.amazon.it/dp/B0BSFYT6Y5"
+    },
+    "B07MZ45X9G": {
+        "asin": "B07MZ45X9G",
+        "title": "Noctua NT-H2 3.5g, Pasta Termo Conduttiva per Computer incl. 3 Salviettine Detergenti (3,5 g)",
+        "brand": "Noctua NT-H2",
+        "image": "https://m.media-amazon.com/images/I/71GMxZ3DXzL._AC_UL320_.jpg",
+        "price": 18.17,
+        "base_price": 18.17,
+        "coupon": 0.0,
+        "category": "search_dissipatori",
+        "url": "https://www.amazon.it/dp/B07MZ45X9G"
     },
     "B0DWXDH7Q7": {
         "asin": "B0DWXDH7Q7",
@@ -4113,17 +4157,6 @@
         "category": "search_dissipatori",
         "url": "https://www.amazon.it/dp/B0F9YDF7PV"
     },
-    "B0G26VHHWX": {
-        "asin": "B0G26VHHWX",
-        "title": "Jeffergarden Raffreddatore per Dissipatore di Calore in Alluminio 4 Pezzi per Router CPU con Chip con Design Ottimizzato e Struttura Leggera 50x12,7x100 Mm",
-        "brand": "Jeffergarden Raffreddatore",
-        "image": "https://m.media-amazon.com/images/I/71HNwF0sCtL._AC_UL320_.jpg",
-        "price": 17.36,
-        "base_price": 17.36,
-        "coupon": 0.0,
-        "category": "search_dissipatori",
-        "url": "https://www.amazon.it/dp/B0G26VHHWX"
-    },
     "B0FTXWZCL9": {
         "asin": "B0FTXWZCL9",
         "title": "Design della Parte Ricambio del Dissipatore Calore in Metallo per L'installazione della Ventola della CPU del Laptop X505 nei Computer Raffreddamento della CPU Raffreddamento",
@@ -4134,6 +4167,17 @@
         "coupon": 0.0,
         "category": "search_dissipatori",
         "url": "https://www.amazon.it/dp/B0FTXWZCL9"
+    },
+    "B0G26VHHWX": {
+        "asin": "B0G26VHHWX",
+        "title": "Jeffergarden Raffreddatore per Dissipatore di Calore in Alluminio 4 Pezzi per Router CPU con Chip con Design Ottimizzato e Struttura Leggera 50x12,7x100 Mm",
+        "brand": "Jeffergarden Raffreddatore",
+        "image": "https://m.media-amazon.com/images/I/71HNwF0sCtL._AC_UL320_.jpg",
+        "price": 17.36,
+        "base_price": 17.36,
+        "coupon": 0.0,
+        "category": "search_dissipatori",
+        "url": "https://www.amazon.it/dp/B0G26VHHWX"
     },
     "B0DMPHN96V": {
         "asin": "B0DMPHN96V",
@@ -4190,17 +4234,6 @@
         "category": "search_dissipatori",
         "url": "https://www.amazon.it/dp/B08HMFP8VZ"
     },
-    "B09TQ53XQ2": {
-        "asin": "B09TQ53XQ2",
-        "title": "Bewinner Supporto del Radiatore di Raffreddamento per LGA 1700, Staffa di Base del Radiatore di Raffreddamento del Dissipatore di Calore della CPU per 1150 1151 1155 1156, 78 Mm / 3,1 Pollici",
-        "brand": "Bewinner Supporto",
-        "image": "https://m.media-amazon.com/images/I/61sWfwBRLCL._AC_UL320_.jpg",
-        "price": 13.24,
-        "base_price": 13.24,
-        "coupon": 0.0,
-        "category": "search_dissipatori",
-        "url": "https://www.amazon.it/dp/B09TQ53XQ2"
-    },
     "B0CDC7QKXF": {
         "asin": "B0CDC7QKXF",
         "title": "5 paia di clip di montaggio professionali in plastica per presa 1136 1150 1155 1156 775 CPU Dissipatore di calore pin di montaggio ventola ventola CPU Dissipatore di calore perni di montaggio",
@@ -4211,6 +4244,17 @@
         "coupon": 0.0,
         "category": "search_dissipatori",
         "url": "https://www.amazon.it/dp/B0CDC7QKXF"
+    },
+    "B09TQ53XQ2": {
+        "asin": "B09TQ53XQ2",
+        "title": "Bewinner Supporto del Radiatore di Raffreddamento per LGA 1700, Staffa di Base del Radiatore di Raffreddamento del Dissipatore di Calore della CPU per 1150 1151 1155 1156, 78 Mm / 3,1 Pollici",
+        "brand": "Bewinner Supporto",
+        "image": "https://m.media-amazon.com/images/I/61sWfwBRLCL._AC_UL320_.jpg",
+        "price": 13.24,
+        "base_price": 13.24,
+        "coupon": 0.0,
+        "category": "search_dissipatori",
+        "url": "https://www.amazon.it/dp/B09TQ53XQ2"
     },
     "B071JH251H": {
         "asin": "B071JH251H",
@@ -4421,17 +4465,6 @@
         "category": "search_mobo",
         "url": "https://www.amazon.it/dp/B0CSPFLY9N"
     },
-    "B0FCYDN9QQ": {
-        "asin": "B0FCYDN9QQ",
-        "title": "MSI B840M GAMING PLUS WIFI6E – Scheda Madre mATX compatibile con AMD Ryzen Serie 9000/8000 / 7000, Socket AM5 – Supporto DDR5 Boost fino a 8000+ MT/s (OC), PCIe 4.0 x16, M.2 Gen4, Wi-Fi 6E, LAN 2.5G",
-        "brand": "MSI B840M",
-        "image": "https://m.media-amazon.com/images/I/71xqEE9Dw5L._AC_UL320_.jpg",
-        "price": 189.44,
-        "base_price": 189.44,
-        "coupon": 0.0,
-        "category": "search_mobo",
-        "url": "https://www.amazon.it/dp/B0FCYDN9QQ"
-    },
     "B0F4H61PLX": {
         "asin": "B0F4H61PLX",
         "title": "GIGABYTE B550M DS3H R2 Scheda madre - CPU AMD Ryzen 5000, VRM a 5+3 fasi, fino a 4733 MHz DDR4 (O.C.), 1x M.2 PCIe 4.0 + 1x M.2 PCIe 3.0, LAN 1 GbE, USB 3.2 Gen 1",
@@ -4442,6 +4475,17 @@
         "coupon": 0.0,
         "category": "search_mobo",
         "url": "https://www.amazon.it/dp/B0F4H61PLX"
+    },
+    "B0FCYDN9QQ": {
+        "asin": "B0FCYDN9QQ",
+        "title": "MSI B840M GAMING PLUS WIFI6E – Scheda Madre mATX compatibile con AMD Ryzen Serie 9000/8000 / 7000, Socket AM5 – Supporto DDR5 Boost fino a 8000+ MT/s (OC), PCIe 4.0 x16, M.2 Gen4, Wi-Fi 6E, LAN 2.5G",
+        "brand": "MSI B840M",
+        "image": "https://m.media-amazon.com/images/I/71xqEE9Dw5L._AC_UL320_.jpg",
+        "price": 189.44,
+        "base_price": 189.44,
+        "coupon": 0.0,
+        "category": "search_mobo",
+        "url": "https://www.amazon.it/dp/B0FCYDN9QQ"
     },
     "B0F67B9XT7": {
         "asin": "B0F67B9XT7",
@@ -4498,17 +4542,6 @@
         "category": "search_mobo",
         "url": "https://www.amazon.it/dp/B08H4VLLGZ"
     },
-    "B0DQQ86WQ7": {
-        "asin": "B0DQQ86WQ7",
-        "title": "ASUS Prime B650 Plus WiFi, Scheda Madre AMD ATX, Ryzen 9000/8000/7000, DDR5, PCIe 5.0, Supporto M.2, Lan 2.5Gb, WiFi 6E, DP, HDMI, USB-C 10Gbps e USB-C 5Gbps, Thunderbolt, AURA Sync, Nera",
-        "brand": "ASUS Prime",
-        "image": "https://m.media-amazon.com/images/I/51vIBuBTnML._AC_UL320_.jpg",
-        "price": 169.4,
-        "base_price": 169.4,
-        "coupon": 0.0,
-        "category": "search_mobo",
-        "url": "https://www.amazon.it/dp/B0DQQ86WQ7"
-    },
     "B0F4HH4432": {
         "asin": "B0F4HH4432",
         "title": "GIGABYTE X870E AORUS ELITE WIFI7 ICE Scheda madre - Supporta CPU AMD Ryzen 9000, VRM digitale a 16+2+2 fasi, fino a 8200 MHz DDR5 (O.C.), 3x PCIe 5.0 + 1x PCIe 4.0, Wi-Fi 7, LAN 2.5 GbE, USB 4",
@@ -4519,6 +4552,17 @@
         "coupon": 0.0,
         "category": "search_mobo",
         "url": "https://www.amazon.it/dp/B0F4HH4432"
+    },
+    "B0DQQ86WQ7": {
+        "asin": "B0DQQ86WQ7",
+        "title": "ASUS Prime B650 Plus WiFi, Scheda Madre AMD ATX, Ryzen 9000/8000/7000, DDR5, PCIe 5.0, Supporto M.2, Lan 2.5Gb, WiFi 6E, DP, HDMI, USB-C 10Gbps e USB-C 5Gbps, Thunderbolt, AURA Sync, Nera",
+        "brand": "ASUS Prime",
+        "image": "https://m.media-amazon.com/images/I/51vIBuBTnML._AC_UL320_.jpg",
+        "price": 169.4,
+        "base_price": 169.4,
+        "coupon": 0.0,
+        "category": "search_mobo",
+        "url": "https://www.amazon.it/dp/B0DQQ86WQ7"
     },
     "B0CB6XZ7RH": {
         "asin": "B0CB6XZ7RH",
@@ -4575,17 +4619,6 @@
         "category": "search_mobo",
         "url": "https://www.amazon.it/dp/B086ZTM9KY"
     },
-    "B0C6HWFZ56": {
-        "asin": "B0C6HWFZ56",
-        "title": "ASUS PRIME B650M-K Scheda madre AMD mATX, Ryzen 9000/8000/7000,DDR5, PCIe 5.0 M.2, SATA 6 Gbps, Lan 2.5G, HDMI, VGA, BIOS FlashBack, Cancellazione del rumore AI bidirezionale, Aura Sync",
-        "brand": "ASUS PRIME",
-        "image": "https://m.media-amazon.com/images/I/81Q8nEQNQCL._AC_UL320_.jpg",
-        "price": 153.14,
-        "base_price": 153.14,
-        "coupon": 0.0,
-        "category": "search_mobo",
-        "url": "https://www.amazon.it/dp/B0C6HWFZ56"
-    },
     "B0DV5TL31Z": {
         "asin": "B0DV5TL31Z",
         "title": "GIGABYTE B650M GAMING PLUS WIFI Scheda madre - CPU AMD Ryzen 9000, VRM a 5+2+2 fasi, fino a 8000 MHz DDR5, 2xPCIe 4.0 M.2, LAN 2.5GbE, WIFI 6E, USB 3.2 Gen 1",
@@ -4596,6 +4629,17 @@
         "coupon": 0.0,
         "category": "search_mobo",
         "url": "https://www.amazon.it/dp/B0DV5TL31Z"
+    },
+    "B0C6HWFZ56": {
+        "asin": "B0C6HWFZ56",
+        "title": "ASUS PRIME B650M-K Scheda madre AMD mATX, Ryzen 9000/8000/7000,DDR5, PCIe 5.0 M.2, SATA 6 Gbps, Lan 2.5G, HDMI, VGA, BIOS FlashBack, Cancellazione del rumore AI bidirezionale, Aura Sync",
+        "brand": "ASUS PRIME",
+        "image": "https://m.media-amazon.com/images/I/81Q8nEQNQCL._AC_UL320_.jpg",
+        "price": 153.14,
+        "base_price": 153.14,
+        "coupon": 0.0,
+        "category": "search_mobo",
+        "url": "https://www.amazon.it/dp/B0C6HWFZ56"
     },
     "B0DK7LZB1Q": {
         "asin": "B0DK7LZB1Q",
@@ -4629,17 +4673,6 @@
         "coupon": 0.0,
         "category": "search_mobo",
         "url": "https://www.amazon.it/dp/B0CC9G49JQ"
-    },
-    "B0BVLGP4WC": {
-        "asin": "B0BVLGP4WC",
-        "title": "ASUS TUF GAMING X870E-PLUS WIFI7 Scheda madre AMD ATX, 16+2+1 Stadi di Alimentazione, DDR5, PCIe 5.0x16 SafeSlot con Q-Release Slim, 4 slot M.2, WiFi 7, USB4 40 Gbps posteriore, Fast Charge, Aura Sync",
-        "brand": "ASUS TUF",
-        "image": "https://m.media-amazon.com/images/I/81sfE6KGl1L._AC_UL320_.jpg",
-        "price": 387.79,
-        "base_price": 387.79,
-        "coupon": 0.0,
-        "category": "search_mobo",
-        "url": "https://www.amazon.it/dp/B0BVLGP4WC"
     },
     "B09YSCYP56": {
         "asin": "B09YSCYP56",
@@ -4717,17 +4750,6 @@
         "coupon": 0.0,
         "category": "search_mobo",
         "url": "https://www.amazon.it/dp/B0C1NLN31J"
-    },
-    "B0DK7L53KD": {
-        "asin": "B0DK7L53KD",
-        "title": "GIGABYTE Scheda madre Z890 EAGLE WIFI7 - Supporta CPU Intel Core Ultra (Serie 2), 14+1+2 fasi VRM, fino a 8800MHz DDR5 (OC), 1xPCIe 5.0 + 3xPCIe 4.0, Wi-Fi 7, LAN 2.5GbE, Thunderbolt 4",
-        "brand": "GIGABYTE Scheda",
-        "image": "https://m.media-amazon.com/images/I/81-PmLQsh8L._AC_UL320_.jpg",
-        "price": 292.39,
-        "base_price": 292.39,
-        "coupon": 0.0,
-        "category": "search_mobo",
-        "url": "https://www.amazon.it/dp/B0DK7L53KD"
     },
     "B0F5NVPVRV": {
         "asin": "B0F5NVPVRV",
@@ -4850,17 +4872,6 @@
         "category": "search_mobo",
         "url": "https://www.amazon.it/dp/B0FZBF8MR1"
     },
-    "B0G4NH87Z8": {
-        "asin": "B0G4NH87Z8",
-        "title": "Piccole aziende",
-        "brand": "Piccole aziende",
-        "image": "https://m.media-amazon.com/images/I/81mbFU5BoXL._AC_UL320_.jpg",
-        "price": 66.0,
-        "base_price": 66.0,
-        "coupon": 0.0,
-        "category": "search_mobo",
-        "url": "https://www.amazon.it/dp/B0G4NH87Z8"
-    },
     "B0DXFYKN8D": {
         "asin": "B0DXFYKN8D",
         "title": "GIGABYTE H810M GAMING WIFI6 Scheda madre - CPU Intel Core Ultra (Serie 2), VRM a 4+1+2 fasi, fino a 6400 MHz DDR5, 1xPCIe 4.0 M.2, LAN 2.5GbE, WIFI 6, USB 3.2 Gen 1",
@@ -4871,6 +4882,17 @@
         "coupon": 0.0,
         "category": "search_mobo",
         "url": "https://www.amazon.it/dp/B0DXFYKN8D"
+    },
+    "B0G4NH87Z8": {
+        "asin": "B0G4NH87Z8",
+        "title": "Piccole aziende",
+        "brand": "Piccole aziende",
+        "image": "https://m.media-amazon.com/images/I/81mbFU5BoXL._AC_UL320_.jpg",
+        "price": 66.0,
+        "base_price": 66.0,
+        "coupon": 0.0,
+        "category": "search_mobo",
+        "url": "https://www.amazon.it/dp/B0G4NH87Z8"
     },
     "B0DK7JG668": {
         "asin": "B0DK7JG668",
@@ -4971,17 +4993,6 @@
         "category": "search_mobo",
         "url": "https://www.amazon.it/dp/B0FBS7Q2H2"
     },
-    "B0FBS6RQJ9": {
-        "asin": "B0FBS6RQJ9",
-        "title": "Piccole aziende",
-        "brand": "Piccole aziende",
-        "image": "https://m.media-amazon.com/images/I/81hKOaHqKpL._AC_UL320_.jpg",
-        "price": 100.0,
-        "base_price": 100.0,
-        "coupon": 0.0,
-        "category": "search_mobo",
-        "url": "https://www.amazon.it/dp/B0FBS6RQJ9"
-    },
     "B0CND11D9J": {
         "asin": "B0CND11D9J",
         "title": "Mars Gaming MC-Q3, Case Semi-Tower ATX, Pannello Laterale Completo Vetro Temperato, Doppia Griglia Magnetica Anti-Polvere Anteriore + Superiore, Ventola FDB 120mm, Raffreddamento Liquido 360mm, Nero",
@@ -4992,6 +5003,17 @@
         "coupon": 0.0,
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0CND11D9J"
+    },
+    "B0FD3NZ5T8": {
+        "asin": "B0FD3NZ5T8",
+        "title": "Mars Gaming MC-CURV, Case Gaming ATX, Triplo Vetro Temperato Curvo Continuo Frontale e Laterale, Struttura a Doppia Camera, Semitorre PC Compatta con Grande Capacità Interna, USB-C e USB 3.0, Nero",
+        "brand": "Mars Gaming",
+        "image": "https://m.media-amazon.com/images/I/81azdZr2-oL._AC_UL320_.jpg",
+        "price": 51.23,
+        "base_price": 51.23,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0FD3NZ5T8"
     },
     "B0CGV9QF3S": {
         "asin": "B0CGV9QF3S",
@@ -5015,17 +5037,6 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B08C53RF51"
     },
-    "B08KW69LKG": {
-        "asin": "B08KW69LKG",
-        "title": "Sharkoon RGB Slider Case da Gaming",
-        "brand": "Sharkoon RGB",
-        "image": "https://m.media-amazon.com/images/I/5168xtKFpwL._AC_UL320_.jpg",
-        "price": 42.15,
-        "base_price": 42.15,
-        "coupon": 0.0,
-        "category": "search_case",
-        "url": "https://www.amazon.it/dp/B08KW69LKG"
-    },
     "B0CPPXXL54": {
         "asin": "B0CPPXXL54",
         "title": "Tacens NOVAX, Case PC Micro-ATX Ultra-compatto, Design Completo in Metallo, 1x Ventola Posteriore 80mm, Case Mini-Tower con Grande Capacità Interna, Bianco",
@@ -5036,6 +5047,17 @@
         "coupon": 0.0,
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0CPPXXL54"
+    },
+    "B08KW69LKG": {
+        "asin": "B08KW69LKG",
+        "title": "Sharkoon RGB Slider Case da Gaming",
+        "brand": "Sharkoon RGB",
+        "image": "https://m.media-amazon.com/images/I/5168xtKFpwL._AC_UL320_.jpg",
+        "price": 42.15,
+        "base_price": 42.15,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B08KW69LKG"
     },
     "B09PG3MK9K": {
         "asin": "B09PG3MK9K",
@@ -5180,17 +5202,6 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0CW69R1S2"
     },
-    "B0CCVL6L4W": {
-        "asin": "B0CCVL6L4W",
-        "title": "Mars Gaming MF-PWMX2 Nero, Kit 2 Ventole 120 mm, Ultra-silenzioso FDB 12dB, Sistema Antivibrazione, Sistema PWM",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/61JOzvFi0kL._AC_UL320_.jpg",
-        "price": 6.48,
-        "base_price": 6.48,
-        "coupon": 0.0,
-        "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0CCVL6L4W"
-    },
     "B0DK8VTTZC": {
         "asin": "B0DK8VTTZC",
         "title": "Yahboom Raspberry Pi 5, Custodia in Alluminio Micro Desktop con Radiatore Attivo Pi5, Fan PWM, RGB Lightint Bar, Mini Tower PC, Display OLED",
@@ -5201,6 +5212,17 @@
         "coupon": 0.0,
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0DK8VTTZC"
+    },
+    "B0CCVL6L4W": {
+        "asin": "B0CCVL6L4W",
+        "title": "Mars Gaming MF-PWMX2 Nero, Kit 2 Ventole 120 mm, Ultra-silenzioso FDB 12dB, Sistema Antivibrazione, Sistema PWM",
+        "brand": "Mars Gaming",
+        "image": "https://m.media-amazon.com/images/I/61JOzvFi0kL._AC_UL320_.jpg",
+        "price": 6.48,
+        "base_price": 6.48,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0CCVL6L4W"
     },
     "B0DQPR34HG": {
         "asin": "B0DQPR34HG",
@@ -5213,16 +5235,16 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0DQPR34HG"
     },
-    "B09444VWX2": {
-        "asin": "B09444VWX2",
-        "title": "Corsair 7000D AIRFLOW Case per PC ATX Full-Tower (Pannello Anteriore a Flusso d'aria Elevato, Tre Ventole da 140 mm con Ripetitore PWM Incluse, Generoso Spazio Interno), Bianco",
-        "brand": "Corsair 7000D",
-        "image": "https://m.media-amazon.com/images/I/71Tj6YPbaQL._AC_UL320_.jpg",
-        "price": 194.18,
-        "base_price": 194.18,
+    "B00LU7B8X0": {
+        "asin": "B00LU7B8X0",
+        "title": "Amazon Basics Borsa a tracolla per laptop compatto, custodia per il trasporto con tasche per riporre accessori, 44 cm, 1 unità, confezione da 1, Nero",
+        "brand": "Amazon Basics",
+        "image": "https://m.media-amazon.com/images/I/91W+X0x9RjL._AC_UL320_.jpg",
+        "price": 12.94,
+        "base_price": 12.94,
         "coupon": 0.0,
         "category": "search_case",
-        "url": "https://www.amazon.it/dp/B09444VWX2"
+        "url": "https://www.amazon.it/dp/B00LU7B8X0"
     },
     "B0DPN6VY3J": {
         "asin": "B0DPN6VY3J",
@@ -5234,17 +5256,6 @@
         "coupon": 0.0,
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0DPN6VY3J"
-    },
-    "B087FY5CNT": {
-        "asin": "B087FY5CNT",
-        "title": "ARCTIC Case Fan Hub - Hub per Ventole PC, Distributore di Ventilatori, Funzione PWM, fino a 10 Ventole (4 pin), Connettore con Potenza SATA - Nero",
-        "brand": "ARCTIC Case",
-        "image": "https://m.media-amazon.com/images/I/41g45rTe3jL._AC_UL320_.jpg",
-        "price": 12.34,
-        "base_price": 12.34,
-        "coupon": 0.0,
-        "category": "search_case",
-        "url": "https://www.amazon.it/dp/B087FY5CNT"
     },
     "B0D2KNW7BB": {
         "asin": "B0D2KNW7BB",
@@ -5268,6 +5279,17 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B07HCG9RVV"
     },
+    "B00T85E8P6": {
+        "asin": "B00T85E8P6",
+        "title": "SilverStone SST-SG13B - Sugo Mini-ITX Compact Computer Cube Case, pannello frontale con Mesh, nero",
+        "brand": "SilverStone SST-SG13B",
+        "image": "https://m.media-amazon.com/images/I/81+vtHsLPyL._AC_UL320_.jpg",
+        "price": 54.48,
+        "base_price": 54.48,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B00T85E8P6"
+    },
     "B0D4DZ72H7": {
         "asin": "B0D4DZ72H7",
         "title": "Piccole aziende",
@@ -5279,16 +5301,16 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0D4DZ72H7"
     },
-    "B00T85E8P6": {
-        "asin": "B00T85E8P6",
-        "title": "SilverStone SST-SG13B - Sugo Mini-ITX Compact Computer Cube Case, pannello frontale con Mesh, nero",
-        "brand": "SilverStone SST-SG13B",
-        "image": "https://m.media-amazon.com/images/I/81+vtHsLPyL._AC_UL320_.jpg",
-        "price": 54.48,
-        "base_price": 54.48,
+    "B09JNTPCN8": {
+        "asin": "B09JNTPCN8",
+        "title": "InnovaGoods® Scrivania portatile per computer con cuscino XL Deskion, lavora o studia comodamente ed ergonomicamente, con un design da scrivania e cuscino XL, ideale per casa e ufficio.",
+        "brand": "InnovaGoods® Scrivania",
+        "image": "https://m.media-amazon.com/images/I/51zgIuQ1yBL._AC_UL320_.jpg",
+        "price": 24.51,
+        "base_price": 24.51,
         "coupon": 0.0,
         "category": "search_case",
-        "url": "https://www.amazon.it/dp/B00T85E8P6"
+        "url": "https://www.amazon.it/dp/B09JNTPCN8"
     },
     "B08V9CQ9H7": {
         "asin": "B08V9CQ9H7",
@@ -5301,17 +5323,6 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B08V9CQ9H7"
     },
-    "B0D7CL95F7": {
-        "asin": "B0D7CL95F7",
-        "title": "Mars Gaming MPIII850, Alimentatore PC ATX 850W, 5 Anni di Garanzia, 85% di Efficienza, Sistema Digitale APFC, Ventola FDB 120mm AI-RPM, Tecnologie DC-DC e SMD, Cavi Piatte Extra-lunghi, Bianco",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/71ZxoHhwrqL._AC_UL320_.jpg",
-        "price": 48.67,
-        "base_price": 48.67,
-        "coupon": 0.0,
-        "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0D7CL95F7"
-    },
     "B09PG3X8MD": {
         "asin": "B09PG3X8MD",
         "title": "VulTech VPS-M500EB Alimentatore Micro-ATX 500W Serie Essence, Ventola da 8cm Termoregolata Silenziosa, Cambalggio incluso, Cavi Flat extra lunghi 60cm, Versione Bulk",
@@ -5322,6 +5333,17 @@
         "coupon": 0.0,
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B09PG3X8MD"
+    },
+    "B0D7CL95F7": {
+        "asin": "B0D7CL95F7",
+        "title": "Mars Gaming MPIII850, Alimentatore PC ATX 850W, 5 Anni di Garanzia, 85% di Efficienza, Sistema Digitale APFC, Ventola FDB 120mm AI-RPM, Tecnologie DC-DC e SMD, Cavi Piatte Extra-lunghi, Bianco",
+        "brand": "Mars Gaming",
+        "image": "https://m.media-amazon.com/images/I/71ZxoHhwrqL._AC_UL320_.jpg",
+        "price": 48.67,
+        "base_price": 48.67,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0D7CL95F7"
     },
     "B0F5WDM19J": {
         "asin": "B0F5WDM19J",
@@ -5355,17 +5377,6 @@
         "coupon": 0.0,
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0B1HTG4W5"
-    },
-    "B0FR9QNZNH": {
-        "asin": "B0FR9QNZNH",
-        "title": "Tacens Anima AF8X2, Kit 2x Ventole 80mm, Funzionamento Ultra Silenzioso, Cuscinetti FLUXUS, Flusso d’Aria Ottimizzato, Struttura Rinforzata Anti-Vibrazione, Prestazioni Termiche Efficienti, Bianco",
-        "brand": "Tacens Anima",
-        "image": "https://m.media-amazon.com/images/I/612rkdMC0aL._AC_UL320_.jpg",
-        "price": 4.84,
-        "base_price": 4.84,
-        "coupon": 0.0,
-        "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0FR9QNZNH"
     },
     "B006QV7WM6": {
         "asin": "B006QV7WM6",
@@ -5411,17 +5422,6 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0FJ2B6CPL"
     },
-    "B0D7CMK1LF": {
-        "asin": "B0D7CMK1LF",
-        "title": "Mars Gaming MPIII650, Alimentatore PC ATX 650W, 5 Anni di Garanzia, 85% Efficienza, Sistema Digitale APFC, Ventola FDB 120mm AI-RPM, Tecnologie DC-DC e SMD, Cavi Piatti Extra Lunghi, Bianco",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/71lGhnwnrNL._AC_UL320_.jpg",
-        "price": 37.3,
-        "base_price": 37.3,
-        "coupon": 0.0,
-        "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0D7CMK1LF"
-    },
     "B004JMZPK0": {
         "asin": "B004JMZPK0",
         "title": "Case Logic DCB309K Zaino per MacBook Pro di 15\"/PC di 14\" e Fotocamera Reflex e Accessori, Nero",
@@ -5433,16 +5433,27 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B004JMZPK0"
     },
-    "B0D1YL3D64": {
-        "asin": "B0D1YL3D64",
-        "title": "LOGODUCK + Beauty Case, Blu elettrico, Logo +",
-        "brand": "LOGODUCK +",
-        "image": "https://m.media-amazon.com/images/I/51MaKYu343L._AC_UL320_.jpg",
-        "price": 67.6,
-        "base_price": 67.6,
+    "B0D7CMK1LF": {
+        "asin": "B0D7CMK1LF",
+        "title": "Mars Gaming MPIII650, Alimentatore PC ATX 650W, 5 Anni di Garanzia, 85% Efficienza, Sistema Digitale APFC, Ventola FDB 120mm AI-RPM, Tecnologie DC-DC e SMD, Cavi Piatti Extra Lunghi, Bianco",
+        "brand": "Mars Gaming",
+        "image": "https://m.media-amazon.com/images/I/71lGhnwnrNL._AC_UL320_.jpg",
+        "price": 37.3,
+        "base_price": 37.3,
         "coupon": 0.0,
         "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0D1YL3D64"
+        "url": "https://www.amazon.it/dp/B0D7CMK1LF"
+    },
+    "B0C5Y1ZSHC": {
+        "asin": "B0C5Y1ZSHC",
+        "title": "Borsa porta PC Dell EcoLoop Pro Slim 15",
+        "brand": "Borsa porta",
+        "image": "https://m.media-amazon.com/images/I/81htAaNXXWL._AC_UL320_.jpg",
+        "price": 51.06,
+        "base_price": 51.06,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0C5Y1ZSHC"
     },
     "B0BGCDHYFW": {
         "asin": "B0BGCDHYFW",
@@ -5465,17 +5476,6 @@
         "coupon": 0.0,
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0051QYFWW"
-    },
-    "B0F79R9Z2V": {
-        "asin": "B0F79R9Z2V",
-        "title": "Pepe Jeans Biker, beauty case, borsa a tracolla, perfetta per organizzare tutto, con diversi scomparti. Di Joumma Bags",
-        "brand": "Pepe Jeans",
-        "image": "https://m.media-amazon.com/images/I/51Z3Bqh15GL._AC_UL320_.jpg",
-        "price": 51.96,
-        "base_price": 51.96,
-        "coupon": 0.0,
-        "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0F79R9Z2V"
     },
     "B083WK9FX5": {
         "asin": "B083WK9FX5",
@@ -5543,16 +5543,16 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B07G8195R2"
     },
-    "B0F3DJ9RW3": {
-        "asin": "B0F3DJ9RW3",
-        "title": "Mars Gaming MF-3DPROX2, Kit 2x Ventole PWM 120mm, Illuminazione ARGB Triplo Infinity Mirror 360°, Sistema di Controllo PWM, Cuscinetti FDB, Ventole PC con Compatibilità Totale ARGB, Bianco",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/71-iHfdQlUL._AC_UL320_.jpg",
-        "price": 13.85,
-        "base_price": 13.85,
+    "B09HSRLHBY": {
+        "asin": "B09HSRLHBY",
+        "title": "Vandel - L'originale Puffy Laptop Sleeve 13 – 14 pollici manicotto del computer portatile rosa per le donne. Custodia per il trasporto del computer portatile per MacBook Pro 14 pollici, MacBook Air",
+        "brand": "Vandel",
+        "image": "https://m.media-amazon.com/images/I/6182WnKBTUL._AC_UL320_.jpg",
+        "price": 20.59,
+        "base_price": 20.59,
         "coupon": 0.0,
         "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0F3DJ9RW3"
+        "url": "https://www.amazon.it/dp/B09HSRLHBY"
     },
     "B0D8SRBCP8": {
         "asin": "B0D8SRBCP8",
@@ -5565,6 +5565,17 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0D8SRBCP8"
     },
+    "B0F3DJ9RW3": {
+        "asin": "B0F3DJ9RW3",
+        "title": "Mars Gaming MF-3DPROX2, Kit 2x Ventole PWM 120mm, Illuminazione ARGB Triplo Infinity Mirror 360°, Sistema di Controllo PWM, Cuscinetti FDB, Ventole PC con Compatibilità Totale ARGB, Bianco",
+        "brand": "Mars Gaming",
+        "image": "https://m.media-amazon.com/images/I/71-iHfdQlUL._AC_UL320_.jpg",
+        "price": 13.85,
+        "base_price": 13.85,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0F3DJ9RW3"
+    },
     "B0714KYX75": {
         "asin": "B0714KYX75",
         "title": "RICOO Supporto PC scrivania TRH-06 Montaggio della case sotto tavolo Girevole 360 gradi Cassa computer fisso Salvaspazio Appoggio CPU Nero",
@@ -5576,17 +5587,6 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0714KYX75"
     },
-    "B0CCVK52NS": {
-        "asin": "B0CCVK52NS",
-        "title": "Mars Gaming MF-PWMX2 Bianco, Kit 2 Ventole 120 mm, Ultra-Silenzioso FDB 12dB, Sistema Antivibrazione, Sistema PWM",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/61lh5NT2ueL._AC_UL320_.jpg",
-        "price": 7.3,
-        "base_price": 7.3,
-        "coupon": 0.0,
-        "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0CCVK52NS"
-    },
     "B0GCMRHNMY": {
         "asin": "B0GCMRHNMY",
         "title": "Cuffie per computer con cavo, cancellazione del rumore, con microfono, per giocare al PC, per casa, dormitorio, appartamento, musica, ascoltare, chiamare, studiare, ragazze, donne, adolescenti",
@@ -5597,6 +5597,17 @@
         "coupon": 0.0,
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0GCMRHNMY"
+    },
+    "B0CCVK52NS": {
+        "asin": "B0CCVK52NS",
+        "title": "Mars Gaming MF-PWMX2 Bianco, Kit 2 Ventole 120 mm, Ultra-Silenzioso FDB 12dB, Sistema Antivibrazione, Sistema PWM",
+        "brand": "Mars Gaming",
+        "image": "https://m.media-amazon.com/images/I/61lh5NT2ueL._AC_UL320_.jpg",
+        "price": 7.3,
+        "base_price": 7.3,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0CCVK52NS"
     },
     "B07WV3WKYB": {
         "asin": "B07WV3WKYB",
@@ -5664,6 +5675,17 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0F2T7HS7H"
     },
+    "B0F7H91ZNX": {
+        "asin": "B0F7H91ZNX",
+        "title": "Mars Gaming MF-SI4KIT, Kit 4x Ventole Ultrasilenziose 120mm, Illuminazione ARGB Infinity Mirror, Cuscinetti FDB e Nucleo in Rame, Telecomando e HUB, Compatibilità Totale ARGB, Nero",
+        "brand": "Mars Gaming",
+        "image": "https://m.media-amazon.com/images/I/718qZMN8etL._AC_UL320_.jpg",
+        "price": 28.6,
+        "base_price": 28.6,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0F7H91ZNX"
+    },
     "B0BQSKXZ4Y": {
         "asin": "B0BQSKXZ4Y",
         "title": "NZXT F140 RGB Duo Twin Pack - RF-D14DF-W1-2 ventole rgb a due lati da 140 mm con controller RGB – 20 LED indirizzabili individualmente – Flusso d'aria e pressione statica bilanciati – Bianco",
@@ -5674,17 +5696,6 @@
         "coupon": 0.0,
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0BQSKXZ4Y"
-    },
-    "B0F8R4XX9Y": {
-        "asin": "B0F8R4XX9Y",
-        "title": "JEUIHAU Confezione da 2 supporti regolabili per CPU, supporto a torre per computer con freno con 4 ruote girevoli, supporto per case per computer per la maggior parte delle case da gioco per PC, nero",
-        "brand": "JEUIHAU Confezione",
-        "image": "https://m.media-amazon.com/images/I/61aDrbf5axL._AC_UL320_.jpg",
-        "price": 31.39,
-        "base_price": 31.39,
-        "coupon": 0.0,
-        "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0F8R4XX9Y"
     },
     "B0GCMGXQNW": {
         "asin": "B0GCMGXQNW",
@@ -5697,6 +5708,17 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0GCMGXQNW"
     },
+    "B0F8R4XX9Y": {
+        "asin": "B0F8R4XX9Y",
+        "title": "JEUIHAU Confezione da 2 supporti regolabili per CPU, supporto a torre per computer con freno con 4 ruote girevoli, supporto per case per computer per la maggior parte delle case da gioco per PC, nero",
+        "brand": "JEUIHAU Confezione",
+        "image": "https://m.media-amazon.com/images/I/61aDrbf5axL._AC_UL320_.jpg",
+        "price": 31.39,
+        "base_price": 31.39,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0F8R4XX9Y"
+    },
     "B0G6FJCZ98": {
         "asin": "B0G6FJCZ98",
         "title": "1PC PVC Fan Filtro PC per Caso Cuttable Computer Copertura 3Kelisdix1KelisdiKelisdicm",
@@ -5707,17 +5729,6 @@
         "coupon": 0.0,
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0G6FJCZ98"
-    },
-    "B0BSKNNPD6": {
-        "asin": "B0BSKNNPD6",
-        "title": "Amazon Basics Cavo da HDMI (sorgente) a VGA (Display) non bidirezionale, placcato in oro, 6 feet, nero",
-        "brand": "Amazon Basics",
-        "image": "https://m.media-amazon.com/images/I/71y0AjI11kL._AC_UL320_.jpg",
-        "price": 8.43,
-        "base_price": 8.43,
-        "coupon": 0.0,
-        "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0BSKNNPD6"
     },
     "B0G38M1XKM": {
         "asin": "B0G38M1XKM",
@@ -5730,17 +5741,6 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0G38M1XKM"
     },
-    "B0G37WBCNS": {
-        "asin": "B0G37WBCNS",
-        "title": "Tastiera da gioco a 2 tasti Hot Swap, mini tastiera USB | Tastiere meccaniche universali per PC, copia e incolla tastiera retroilluminata RGB per casa e viaggi",
-        "brand": "Tastiera da",
-        "image": "https://m.media-amazon.com/images/I/71NdBeKkFsL._AC_UL320_.jpg",
-        "price": 15.19,
-        "base_price": 15.19,
-        "coupon": 0.0,
-        "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0G37WBCNS"
-    },
     "B0G36YHL5H": {
         "asin": "B0G36YHL5H",
         "title": "Tastiera a 2 tasti, mini tastiera USB – tastiera meccanica da gioco per PC, retroilluminazione RGB universale mini USB per scuola e casa",
@@ -5751,17 +5751,6 @@
         "coupon": 0.0,
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0G36YHL5H"
-    },
-    "B0G38FQCJF": {
-        "asin": "B0G38FQCJF",
-        "title": "Tastiera a 2 tasti, mini tastiera USB con tasti di copia e incolla, tastiera meccanica universale per PC, copia e incolla retroilluminata RGB per casa e viaggio",
-        "brand": "Tastiera a",
-        "image": "https://m.media-amazon.com/images/I/61JihUTQvyL._AC_UL320_.jpg",
-        "price": 15.09,
-        "base_price": 15.09,
-        "coupon": 0.0,
-        "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0G38FQCJF"
     },
     "B0G38BPDHB": {
         "asin": "B0G38BPDHB",
@@ -5774,16 +5763,38 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0G38BPDHB"
     },
-    "B0G37WC3M5": {
-        "asin": "B0G37WC3M5",
-        "title": "Tastiera a 2 tasti – Mini tastiera USB | Tastiera meccanica universale per giochi PC, ergonomia retroilluminata RGB, mini USB per casa e viaggi",
-        "brand": "Tastiera a",
-        "image": "https://m.media-amazon.com/images/I/61l0lIowx0L._AC_UL320_.jpg",
+    "B0G37WBCNS": {
+        "asin": "B0G37WBCNS",
+        "title": "Tastiera da gioco a 2 tasti Hot Swap, mini tastiera USB | Tastiere meccaniche universali per PC, copia e incolla tastiera retroilluminata RGB per casa e viaggi",
+        "brand": "Tastiera da",
+        "image": "https://m.media-amazon.com/images/I/71NdBeKkFsL._AC_UL320_.jpg",
         "price": 15.19,
         "base_price": 15.19,
         "coupon": 0.0,
         "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0G37WC3M5"
+        "url": "https://www.amazon.it/dp/B0G37WBCNS"
+    },
+    "B0BSKNNPD6": {
+        "asin": "B0BSKNNPD6",
+        "title": "Amazon Basics Cavo da HDMI (sorgente) a VGA (Display) non bidirezionale, placcato in oro, 6 feet, nero",
+        "brand": "Amazon Basics",
+        "image": "https://m.media-amazon.com/images/I/71y0AjI11kL._AC_UL320_.jpg",
+        "price": 8.43,
+        "base_price": 8.43,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0BSKNNPD6"
+    },
+    "B0G38FQCJF": {
+        "asin": "B0G38FQCJF",
+        "title": "Tastiera a 2 tasti, mini tastiera USB con tasti di copia e incolla, tastiera meccanica universale per PC, copia e incolla retroilluminata RGB per casa e viaggio",
+        "brand": "Tastiera a",
+        "image": "https://m.media-amazon.com/images/I/61JihUTQvyL._AC_UL320_.jpg",
+        "price": 15.09,
+        "base_price": 15.09,
+        "coupon": 0.0,
+        "category": "search_case",
+        "url": "https://www.amazon.it/dp/B0G38FQCJF"
     },
     "B0G38CWD7Y": {
         "asin": "B0G38CWD7Y",
@@ -5796,16 +5807,16 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B0G38CWD7Y"
     },
-    "B0G383B563": {
-        "asin": "B0G383B563",
-        "title": "Tastiera a 2 tasti | Mini tastiera USB, tastiera meccanica universale per PC da gioco, ergonomica, retroilluminata RGB, mini USB per casa e viaggi",
+    "B0G37WC3M5": {
+        "asin": "B0G37WC3M5",
+        "title": "Tastiera a 2 tasti – Mini tastiera USB | Tastiera meccanica universale per giochi PC, ergonomia retroilluminata RGB, mini USB per casa e viaggi",
         "brand": "Tastiera a",
-        "image": "https://m.media-amazon.com/images/I/61QPfGjlmlL._AC_UL320_.jpg",
-        "price": 15.89,
-        "base_price": 15.89,
+        "image": "https://m.media-amazon.com/images/I/61l0lIowx0L._AC_UL320_.jpg",
+        "price": 15.19,
+        "base_price": 15.19,
         "coupon": 0.0,
         "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0G383B563"
+        "url": "https://www.amazon.it/dp/B0G37WC3M5"
     },
     "B000HLZXH2": {
         "asin": "B000HLZXH2",
@@ -5818,16 +5829,16 @@
         "category": "search_case",
         "url": "https://www.amazon.it/dp/B000HLZXH2"
     },
-    "B0G369Q5HK": {
-        "asin": "B0G369Q5HK",
-        "title": "Tastiera a 2 tasti – tastiera USB copia e incolla mini tastiera, tastiera meccanica universale per PC, copia e incolla RGB retroilluminata per casa e viaggio",
+    "B0G383B563": {
+        "asin": "B0G383B563",
+        "title": "Tastiera a 2 tasti | Mini tastiera USB, tastiera meccanica universale per PC da gioco, ergonomica, retroilluminata RGB, mini USB per casa e viaggi",
         "brand": "Tastiera a",
-        "image": "https://m.media-amazon.com/images/I/61xBDZwiPIL._AC_UL320_.jpg",
-        "price": 13.09,
-        "base_price": 13.09,
+        "image": "https://m.media-amazon.com/images/I/61QPfGjlmlL._AC_UL320_.jpg",
+        "price": 15.89,
+        "base_price": 15.89,
         "coupon": 0.0,
         "category": "search_case",
-        "url": "https://www.amazon.it/dp/B0G369Q5HK"
+        "url": "https://www.amazon.it/dp/B0G383B563"
     },
     "B0BLTGMCB7": {
         "asin": "B0BLTGMCB7",
@@ -6082,17 +6093,6 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B09PTFFDLL"
     },
-    "B0FJ8MFDGB": {
-        "asin": "B0FJ8MFDGB",
-        "title": "Classe di efficienza energetica:\nA",
-        "brand": "Classe di",
-        "image": "https://m.media-amazon.com/images/I/61jnW8jSOrL._AC_UL320_.jpg",
-        "price": 4595.23,
-        "base_price": 4595.23,
-        "coupon": 0.0,
-        "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0FJ8MFDGB"
-    },
     "B0GBWHBM6V": {
         "asin": "B0GBWHBM6V",
         "title": "Piccole aziende",
@@ -6103,6 +6103,17 @@
         "coupon": 0.0,
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0GBWHBM6V"
+    },
+    "B0FJ8MFDGB": {
+        "asin": "B0FJ8MFDGB",
+        "title": "Classe di efficienza energetica:\nA",
+        "brand": "Classe di",
+        "image": "https://m.media-amazon.com/images/I/61jnW8jSOrL._AC_UL320_.jpg",
+        "price": 4595.23,
+        "base_price": 4595.23,
+        "coupon": 0.0,
+        "category": "search_ram",
+        "url": "https://www.amazon.it/dp/B0FJ8MFDGB"
     },
     "B0C7GZCF73": {
         "asin": "B0C7GZCF73",
@@ -6346,17 +6357,6 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FJ7HZFCH"
     },
-    "B0F2FS7YHD": {
-        "asin": "B0F2FS7YHD",
-        "title": "Classe di efficienza energetica:\nA",
-        "brand": "Classe di",
-        "image": "https://m.media-amazon.com/images/I/61w-AACJjnL._AC_UL320_.jpg",
-        "price": 190.89,
-        "base_price": 190.89,
-        "coupon": 0.0,
-        "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0F2FS7YHD"
-    },
     "B0FJ8HMHZH": {
         "asin": "B0FJ8HMHZH",
         "title": "Classe di efficienza energetica:\nA",
@@ -6368,16 +6368,16 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FJ8HMHZH"
     },
-    "B0FJ7JC4HX": {
-        "asin": "B0FJ7JC4HX",
+    "B0F2FS7YHD": {
+        "asin": "B0F2FS7YHD",
         "title": "Classe di efficienza energetica:\nA",
         "brand": "Classe di",
-        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
-        "price": 164.73,
-        "base_price": 164.73,
+        "image": "https://m.media-amazon.com/images/I/61w-AACJjnL._AC_UL320_.jpg",
+        "price": 190.89,
+        "base_price": 190.89,
         "coupon": 0.0,
         "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0FJ7JC4HX"
+        "url": "https://www.amazon.it/dp/B0F2FS7YHD"
     },
     "B09Z1RBKVV": {
         "asin": "B09Z1RBKVV",
@@ -6390,6 +6390,17 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B09Z1RBKVV"
     },
+    "B0FJ7JC4HX": {
+        "asin": "B0FJ7JC4HX",
+        "title": "Classe di efficienza energetica:\nA",
+        "brand": "Classe di",
+        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
+        "price": 164.73,
+        "base_price": 164.73,
+        "coupon": 0.0,
+        "category": "search_ram",
+        "url": "https://www.amazon.it/dp/B0FJ7JC4HX"
+    },
     "B0FJ7GZLFT": {
         "asin": "B0FJ7GZLFT",
         "title": "Classe di efficienza energetica:\nA",
@@ -6401,17 +6412,6 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FJ7GZLFT"
     },
-    "B0DZXYY5JT": {
-        "asin": "B0DZXYY5JT",
-        "title": "Classe di efficienza energetica:\nA",
-        "brand": "Classe di",
-        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
-        "price": 164.73,
-        "base_price": 164.73,
-        "coupon": 0.0,
-        "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0DZXYY5JT"
-    },
     "B0FJ7G848C": {
         "asin": "B0FJ7G848C",
         "title": "Classe di efficienza energetica:\nA",
@@ -6422,6 +6422,17 @@
         "coupon": 0.0,
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FJ7G848C"
+    },
+    "B0DZXYY5JT": {
+        "asin": "B0DZXYY5JT",
+        "title": "Classe di efficienza energetica:\nA",
+        "brand": "Classe di",
+        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
+        "price": 164.73,
+        "base_price": 164.73,
+        "coupon": 0.0,
+        "category": "search_ram",
+        "url": "https://www.amazon.it/dp/B0DZXYY5JT"
     },
     "B0FJ7GXDZ6": {
         "asin": "B0FJ7GXDZ6",
@@ -6467,17 +6478,6 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FJ8H7JLP"
     },
-    "B0G6THQ4QY": {
-        "asin": "B0G6THQ4QY",
-        "title": "Piccole aziende",
-        "brand": "Piccole aziende",
-        "image": "https://m.media-amazon.com/images/I/81E5hJsV5gL._AC_UL320_.jpg",
-        "price": 107.0,
-        "base_price": 107.0,
-        "coupon": 0.0,
-        "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0G6THQ4QY"
-    },
     "B0FJ7GGJR3": {
         "asin": "B0FJ7GGJR3",
         "title": "Classe di efficienza energetica:\nA",
@@ -6510,6 +6510,17 @@
         "coupon": 0.0,
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FJ8FXNMK"
+    },
+    "B0G6THQ4QY": {
+        "asin": "B0G6THQ4QY",
+        "title": "Piccole aziende",
+        "brand": "Piccole aziende",
+        "image": "https://m.media-amazon.com/images/I/81E5hJsV5gL._AC_UL320_.jpg",
+        "price": 107.0,
+        "base_price": 107.0,
+        "coupon": 0.0,
+        "category": "search_ram",
+        "url": "https://www.amazon.it/dp/B0G6THQ4QY"
     },
     "B0DXQCGY1M": {
         "asin": "B0DXQCGY1M",
@@ -6544,17 +6555,6 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FJ7JHMHG"
     },
-    "B0FN7NFYVL": {
-        "asin": "B0FN7NFYVL",
-        "title": "Classe di efficienza energetica:\nA",
-        "brand": "Classe di",
-        "image": "https://m.media-amazon.com/images/I/61jM13qEU8L._AC_UL320_.jpg",
-        "price": 447.95,
-        "base_price": 447.95,
-        "coupon": 0.0,
-        "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0FN7NFYVL"
-    },
     "B0FJ7K2K9D": {
         "asin": "B0FJ7K2K9D",
         "title": "Classe di efficienza energetica:\nA",
@@ -6566,16 +6566,16 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FJ7K2K9D"
     },
-    "B0FN7KRS6B": {
-        "asin": "B0FN7KRS6B",
+    "B0FN7NFYVL": {
+        "asin": "B0FN7NFYVL",
         "title": "Classe di efficienza energetica:\nA",
         "brand": "Classe di",
         "image": "https://m.media-amazon.com/images/I/61jM13qEU8L._AC_UL320_.jpg",
-        "price": 617.37,
-        "base_price": 617.37,
+        "price": 447.95,
+        "base_price": 447.95,
         "coupon": 0.0,
         "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0FN7KRS6B"
+        "url": "https://www.amazon.it/dp/B0FN7NFYVL"
     },
     "B0FJ8GFF39": {
         "asin": "B0FJ8GFF39",
@@ -6587,6 +6587,17 @@
         "coupon": 0.0,
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FJ8GFF39"
+    },
+    "B0FN7KRS6B": {
+        "asin": "B0FN7KRS6B",
+        "title": "Classe di efficienza energetica:\nA",
+        "brand": "Classe di",
+        "image": "https://m.media-amazon.com/images/I/61jM13qEU8L._AC_UL320_.jpg",
+        "price": 617.37,
+        "base_price": 617.37,
+        "coupon": 0.0,
+        "category": "search_ram",
+        "url": "https://www.amazon.it/dp/B0FN7KRS6B"
     },
     "B0FJ8FPMW4": {
         "asin": "B0FJ8FPMW4",
@@ -6731,8 +6742,8 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0C545BMLW"
     },
-    "B0FN7KCLCP": {
-        "asin": "B0FN7KCLCP",
+    "B0FN7KSC75": {
+        "asin": "B0FN7KSC75",
         "title": "Classe di efficienza energetica:\nA",
         "brand": "Classe di",
         "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
@@ -6740,10 +6751,10 @@
         "base_price": 260.4,
         "coupon": 0.0,
         "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0FN7KCLCP"
+        "url": "https://www.amazon.it/dp/B0FN7KSC75"
     },
-    "B0FN7M2JLK": {
-        "asin": "B0FN7M2JLK",
+    "B0FN7NB247": {
+        "asin": "B0FN7NB247",
         "title": "Classe di efficienza energetica:\nA",
         "brand": "Classe di",
         "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
@@ -6751,7 +6762,7 @@
         "base_price": 260.4,
         "coupon": 0.0,
         "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0FN7M2JLK"
+        "url": "https://www.amazon.it/dp/B0FN7NB247"
     },
     "B0FN7LFTND": {
         "asin": "B0FN7LFTND",
@@ -6775,17 +6786,6 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FN7JSXRW"
     },
-    "B0FN7NB247": {
-        "asin": "B0FN7NB247",
-        "title": "Classe di efficienza energetica:\nA",
-        "brand": "Classe di",
-        "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
-        "price": 260.4,
-        "base_price": 260.4,
-        "coupon": 0.0,
-        "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0FN7NB247"
-    },
     "B0FN7LSYGG": {
         "asin": "B0FN7LSYGG",
         "title": "Classe di efficienza energetica:\nA",
@@ -6797,17 +6797,6 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FN7LSYGG"
     },
-    "B0FN7M9C82": {
-        "asin": "B0FN7M9C82",
-        "title": "Classe di efficienza energetica:\nA",
-        "brand": "Classe di",
-        "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
-        "price": 260.4,
-        "base_price": 260.4,
-        "coupon": 0.0,
-        "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0FN7M9C82"
-    },
     "B0FJ7G448L": {
         "asin": "B0FJ7G448L",
         "title": "Classe di efficienza energetica:\nA",
@@ -6818,6 +6807,17 @@
         "coupon": 0.0,
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FJ7G448L"
+    },
+    "B0FN7M9C82": {
+        "asin": "B0FN7M9C82",
+        "title": "Classe di efficienza energetica:\nA",
+        "brand": "Classe di",
+        "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
+        "price": 260.4,
+        "base_price": 260.4,
+        "coupon": 0.0,
+        "category": "search_ram",
+        "url": "https://www.amazon.it/dp/B0FN7M9C82"
     },
     "B0FN7R392J": {
         "asin": "B0FN7R392J",
@@ -6885,17 +6885,6 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FN7LYFBX"
     },
-    "B0FJ7GBG9W": {
-        "asin": "B0FJ7GBG9W",
-        "title": "Classe di efficienza energetica:\nA",
-        "brand": "Classe di",
-        "image": "https://m.media-amazon.com/images/I/61jM13qEU8L._AC_UL320_.jpg",
-        "price": 447.95,
-        "base_price": 447.95,
-        "coupon": 0.0,
-        "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0FJ7GBG9W"
-    },
     "B0C542RSNN": {
         "asin": "B0C542RSNN",
         "title": "OFFTEK 8GB Memoria RAM di ricambio per Dell Optiplex 7000 (Micro) - DDR5 (2022) (DDR5-38400 (PC5-4800)) Memoria Desktop",
@@ -6906,6 +6895,17 @@
         "coupon": 0.0,
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0C542RSNN"
+    },
+    "B0FJ7GBG9W": {
+        "asin": "B0FJ7GBG9W",
+        "title": "Classe di efficienza energetica:\nA",
+        "brand": "Classe di",
+        "image": "https://m.media-amazon.com/images/I/61jM13qEU8L._AC_UL320_.jpg",
+        "price": 447.95,
+        "base_price": 447.95,
+        "coupon": 0.0,
+        "category": "search_ram",
+        "url": "https://www.amazon.it/dp/B0FJ7GBG9W"
     },
     "B0FN7PJVF1": {
         "asin": "B0FN7PJVF1",
@@ -6928,6 +6928,17 @@
         "coupon": 0.0,
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0C546X395"
+    },
+    "B0FN7LLVFW": {
+        "asin": "B0FN7LLVFW",
+        "title": "Classe di efficienza energetica:\nA",
+        "brand": "Classe di",
+        "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
+        "price": 260.4,
+        "base_price": 260.4,
+        "coupon": 0.0,
+        "category": "search_ram",
+        "url": "https://www.amazon.it/dp/B0FN7LLVFW"
     },
     "B0FN7NRTYZ": {
         "asin": "B0FN7NRTYZ",
@@ -6962,6 +6973,17 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FN7LNMV2"
     },
+    "B0FN7M2JLK": {
+        "asin": "B0FN7M2JLK",
+        "title": "Classe di efficienza energetica:\nA",
+        "brand": "Classe di",
+        "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
+        "price": 260.4,
+        "base_price": 260.4,
+        "coupon": 0.0,
+        "category": "search_ram",
+        "url": "https://www.amazon.it/dp/B0FN7M2JLK"
+    },
     "B0FN7RBMTV": {
         "asin": "B0FN7RBMTV",
         "title": "Classe di efficienza energetica:\nA",
@@ -6973,8 +6995,8 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FN7RBMTV"
     },
-    "B0FN7KSC75": {
-        "asin": "B0FN7KSC75",
+    "B0FN7KCLCP": {
+        "asin": "B0FN7KCLCP",
         "title": "Classe di efficienza energetica:\nA",
         "brand": "Classe di",
         "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
@@ -6982,7 +7004,7 @@
         "base_price": 260.4,
         "coupon": 0.0,
         "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0FN7KSC75"
+        "url": "https://www.amazon.it/dp/B0FN7KCLCP"
     },
     "B0FN7KF7WG": {
         "asin": "B0FN7KF7WG",
@@ -7028,6 +7050,17 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FN7P8DXW"
     },
+    "B0FN7Q2M7L": {
+        "asin": "B0FN7Q2M7L",
+        "title": "Classe di efficienza energetica:\nA",
+        "brand": "Classe di",
+        "image": "https://m.media-amazon.com/images/I/61jM13qEU8L._AC_UL320_.jpg",
+        "price": 447.95,
+        "base_price": 447.95,
+        "coupon": 0.0,
+        "category": "search_ram",
+        "url": "https://www.amazon.it/dp/B0FN7Q2M7L"
+    },
     "B0FN7PJVCL": {
         "asin": "B0FN7PJVCL",
         "title": "Classe di efficienza energetica:\nA",
@@ -7049,17 +7082,6 @@
         "coupon": 0.0,
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FN7QT6H5"
-    },
-    "B0FN7Q2M7L": {
-        "asin": "B0FN7Q2M7L",
-        "title": "Classe di efficienza energetica:\nA",
-        "brand": "Classe di",
-        "image": "https://m.media-amazon.com/images/I/61jM13qEU8L._AC_UL320_.jpg",
-        "price": 447.95,
-        "base_price": 447.95,
-        "coupon": 0.0,
-        "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0FN7Q2M7L"
     },
     "B0FN7P7MRR": {
         "asin": "B0FN7P7MRR",
@@ -7083,17 +7105,6 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FN7MBTDS"
     },
-    "B0FN7LV3J1": {
-        "asin": "B0FN7LV3J1",
-        "title": "Classe di efficienza energetica:\nA",
-        "brand": "Classe di",
-        "image": "https://m.media-amazon.com/images/I/61jM13qEU8L._AC_UL320_.jpg",
-        "price": 914.34,
-        "base_price": 914.34,
-        "coupon": 0.0,
-        "category": "search_ram",
-        "url": "https://www.amazon.it/dp/B0FN7LV3J1"
-    },
     "B0FN7L4GK9": {
         "asin": "B0FN7L4GK9",
         "title": "Classe di efficienza energetica:\nA",
@@ -7105,27 +7116,16 @@
         "category": "search_ram",
         "url": "https://www.amazon.it/dp/B0FN7L4GK9"
     },
-    "B0FJ2B7G8D": {
-        "asin": "B0FJ2B7G8D",
-        "title": "Mars Gaming MF-LINKFINITYKIT2, Kit 3 Ventole Modulare PWM 12cm, Illuminazione ARGB Infinity Mirror, Sistema Modulare LINKFINITY, Connessione Magnetica, Configurazione Flessibile 2+1 Senza Cavi, Nero",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/71MTOdgLhyL._AC_UL320_.jpg",
-        "price": 21.33,
-        "base_price": 21.33,
+    "B0FN7LV3J1": {
+        "asin": "B0FN7LV3J1",
+        "title": "Classe di efficienza energetica:\nA",
+        "brand": "Classe di",
+        "image": "https://m.media-amazon.com/images/I/61jM13qEU8L._AC_UL320_.jpg",
+        "price": 914.34,
+        "base_price": 914.34,
         "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0FJ2B7G8D"
-    },
-    "B0F7HB5VF1": {
-        "asin": "B0F7HB5VF1",
-        "title": "Mars Gaming MF-3DPROX2R, Kit 2x Ventole 120mm, Pale Invertite, Illuminazione ARGB Triplo Infinity Mirror 360°, Controllo PWM, Cuscinetti FDB, Ventole PC con Compatibilità Totale ARGB, Nero",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/71sthCmJoVL._AC_UL320_.jpg",
-        "price": 12.7,
-        "base_price": 12.7,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0F7HB5VF1"
+        "category": "search_ram",
+        "url": "https://www.amazon.it/dp/B0FN7LV3J1"
     },
     "B0BV71T1S2": {
         "asin": "B0BV71T1S2",
@@ -7171,38 +7171,16 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0F3DHVNPN"
     },
-    "B0BV6ZXTSK": {
-        "asin": "B0BV6ZXTSK",
-        "title": "Mars Gaming MARSGAMING MF-PROX2 Bianco, Kit 2 Ventolas 120mm, Sistema Anti-Vibrazioni, Ultra-Silenzioso, Doppia Connessione 3PIN + 4PIN",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/61eGuA7wlCL._AC_UL320_.jpg",
-        "price": 6.48,
-        "base_price": 6.48,
+    "B0FR9QNZNH": {
+        "asin": "B0FR9QNZNH",
+        "title": "Tacens Anima AF8X2, Kit 2x Ventole 80mm, Funzionamento Ultra Silenzioso, Cuscinetti FLUXUS, Flusso d’Aria Ottimizzato, Struttura Rinforzata Anti-Vibrazione, Prestazioni Termiche Efficienti, Bianco",
+        "brand": "Tacens Anima",
+        "image": "https://m.media-amazon.com/images/I/612rkdMC0aL._AC_UL320_.jpg",
+        "price": 4.84,
+        "base_price": 4.84,
         "coupon": 0.0,
         "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0BV6ZXTSK"
-    },
-    "B0D8SPG53D": {
-        "asin": "B0D8SPG53D",
-        "title": "MARSGAMING MF-NCLX2, Kit 2x Ventole Ultrasilenziose 120mm, Design Pale Ibride, Ventole 2in1 con Cuscinetto FDB in Rame Iperbilanciato, Sistema di Connessione PWM, Pads Antivibrazione, Nero",
-        "brand": "MARSGAMING MF-NCLX2,",
-        "image": "https://m.media-amazon.com/images/I/71gMgEOxxpL._AC_UL320_.jpg",
-        "price": 10.25,
-        "base_price": 10.25,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0D8SPG53D"
-    },
-    "B0BV742NGQ": {
-        "asin": "B0BV742NGQ",
-        "title": "Mars Gaming MF-3D Nero, Ventola ARGB 360° 12cm, Specchio Infinito 3D, Sistema Anti-Vibrazioni, Ultra-Silenzioso, Compatibilità Completa",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/51otvt1yqWL._AC_UL320_.jpg",
-        "price": 10.25,
-        "base_price": 10.25,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0BV742NGQ"
+        "url": "https://www.amazon.it/dp/B0FR9QNZNH"
     },
     "B0BGY9M3ZG": {
         "asin": "B0BGY9M3ZG",
@@ -7226,6 +7204,39 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0FR9GC4KQ"
     },
+    "B0FJ2B7G8D": {
+        "asin": "B0FJ2B7G8D",
+        "title": "Mars Gaming MF-LINKFINITYKIT2, Kit 3 Ventole Modulare PWM 12cm, Illuminazione ARGB Infinity Mirror, Sistema Modulare LINKFINITY, Connessione Magnetica, Configurazione Flessibile 2+1 Senza Cavi, Nero",
+        "brand": "Mars Gaming",
+        "image": "https://m.media-amazon.com/images/I/71MTOdgLhyL._AC_UL320_.jpg",
+        "price": 21.33,
+        "base_price": 21.33,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B0FJ2B7G8D"
+    },
+    "B0BV6ZXTSK": {
+        "asin": "B0BV6ZXTSK",
+        "title": "Mars Gaming MARSGAMING MF-PROX2 Bianco, Kit 2 Ventolas 120mm, Sistema Anti-Vibrazioni, Ultra-Silenzioso, Doppia Connessione 3PIN + 4PIN",
+        "brand": "Mars Gaming",
+        "image": "https://m.media-amazon.com/images/I/61eGuA7wlCL._AC_UL320_.jpg",
+        "price": 6.48,
+        "base_price": 6.48,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B0BV6ZXTSK"
+    },
+    "B0F7HB5VF1": {
+        "asin": "B0F7HB5VF1",
+        "title": "Mars Gaming MF-3DPROX2R, Kit 2x Ventole 120mm, Pale Invertite, Illuminazione ARGB Triplo Infinity Mirror 360°, Controllo PWM, Cuscinetti FDB, Ventole PC con Compatibilità Totale ARGB, Nero",
+        "brand": "Mars Gaming",
+        "image": "https://m.media-amazon.com/images/I/71sthCmJoVL._AC_UL320_.jpg",
+        "price": 12.7,
+        "base_price": 12.7,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B0F7HB5VF1"
+    },
     "B09JG7DVMT": {
         "asin": "B09JG7DVMT",
         "title": "ARCTIC F12-120 mm Ventola PC, Basso Livello Rumore, Custodia Standard, CPU per PC, Cuscinetto Fluido Dinamico, Ventilazione 1350 RPM, 0,3 Sone - Nero",
@@ -7237,38 +7248,16 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B09JG7DVMT"
     },
-    "B08WQ5SJ5P": {
-        "asin": "B08WQ5SJ5P",
-        "title": "Mars Gaming MFD, Ventola 120mm RGB, Ultra Silenziosa 14dB, Molex, Trasparente",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/71826-GK61L._AC_UL320_.jpg",
-        "price": 5.66,
-        "base_price": 5.66,
+    "B087FY5CNT": {
+        "asin": "B087FY5CNT",
+        "title": "ARCTIC Case Fan Hub - Hub per Ventole PC, Distributore di Ventilatori, Funzione PWM, fino a 10 Ventole (4 pin), Connettore con Potenza SATA - Nero",
+        "brand": "ARCTIC Case",
+        "image": "https://m.media-amazon.com/images/I/41g45rTe3jL._AC_UL320_.jpg",
+        "price": 12.34,
+        "base_price": 12.34,
         "coupon": 0.0,
         "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B08WQ5SJ5P"
-    },
-    "B0CB1DFT82": {
-        "asin": "B0CB1DFT82",
-        "title": "Mars Gaming MNBC23, Base di Raffreddamento e Supporto 16', 6 Ventole Controllabili con LED Blu, Stand 6 Posizioni, Supporto Smartphone, 2 USB 2.0, Nero",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/81Jpp8QtRuL._AC_UL320_.jpg",
-        "price": 33.13,
-        "base_price": 33.13,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0CB1DFT82"
-    },
-    "B0CQM78NDD": {
-        "asin": "B0CQM78NDD",
-        "title": "Mars Gaming ML-LCD240, Raffreddato a Liquido AIO, TDP 500W, 2x Ventole ARGB 120mm FDB, Display LCD con Monitoraggio della Temperatura, Pompa Opti-Chamber 3rd Gen, Multisocket Universale, Bianco",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/61tp+UFmP0L._AC_UL320_.jpg",
-        "price": 69.94,
-        "base_price": 69.94,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0CQM78NDD"
+        "url": "https://www.amazon.it/dp/B087FY5CNT"
     },
     "B0F3DFCX73": {
         "asin": "B0F3DFCX73",
@@ -7314,16 +7303,16 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0FJ2K8FNS"
     },
-    "B0C37B715Z": {
-        "asin": "B0C37B715Z",
-        "title": "Mars Gaming MCA-WT, Guaine ARGB per Tubi di Raffreddamento a Liquido, 30 LED ARGB Ultra Luminosi Personalizzabili, Silicone Morbido Ecologico, Compatibilità Totale, 330mm",
+    "B0BV742NGQ": {
+        "asin": "B0BV742NGQ",
+        "title": "Mars Gaming MF-3D Nero, Ventola ARGB 360° 12cm, Specchio Infinito 3D, Sistema Anti-Vibrazioni, Ultra-Silenzioso, Compatibilità Completa",
         "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/61h1J6JAVuL._AC_UL320_.jpg",
-        "price": 25.66,
-        "base_price": 25.66,
+        "image": "https://m.media-amazon.com/images/I/51otvt1yqWL._AC_UL320_.jpg",
+        "price": 10.25,
+        "base_price": 10.25,
         "coupon": 0.0,
         "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0C37B715Z"
+        "url": "https://www.amazon.it/dp/B0BV742NGQ"
     },
     "B0F3DJ6YTX": {
         "asin": "B0F3DJ6YTX",
@@ -7335,17 +7324,6 @@
         "coupon": 0.0,
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0F3DJ6YTX"
-    },
-    "B0F7H91ZNX": {
-        "asin": "B0F7H91ZNX",
-        "title": "Mars Gaming MF-SI4KIT, Kit 4x Ventole Ultrasilenziose 120mm, Illuminazione ARGB Infinity Mirror, Cuscinetti FDB e Nucleo in Rame, Telecomando e HUB, Compatibilità Totale ARGB, Nero",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/718qZMN8etL._AC_UL320_.jpg",
-        "price": 28.6,
-        "base_price": 28.6,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0F7H91ZNX"
     },
     "B0BV72NZ25": {
         "asin": "B0BV72NZ25",
@@ -7435,6 +7413,17 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0F8H6CHJJ"
     },
+    "B0CB1DFT82": {
+        "asin": "B0CB1DFT82",
+        "title": "Mars Gaming MNBC23, Base di Raffreddamento e Supporto 16', 6 Ventole Controllabili con LED Blu, Stand 6 Posizioni, Supporto Smartphone, 2 USB 2.0, Nero",
+        "brand": "Mars Gaming",
+        "image": "https://m.media-amazon.com/images/I/81Jpp8QtRuL._AC_UL320_.jpg",
+        "price": 33.13,
+        "base_price": 33.13,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B0CB1DFT82"
+    },
     "B0D3R6N7L5": {
         "asin": "B0D3R6N7L5",
         "title": "Nfortec DRACO X 140mm A-RGB Fan Black, Ventilatore supplementare Nero per PC Illuminazione RGB Personalizzabile, Max 1300 RPM, Cuscinetti idraulici, 12V 0,26A +-20%,4 viti installazione",
@@ -7512,6 +7501,28 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0FL25BVCH"
     },
+    "B0BZQ3NXMD": {
+        "asin": "B0BZQ3NXMD",
+        "title": "Noctua NA-FH1, Hub Ventola a 8 Canali per un Massimo di Otto Ventole PWM a 4 pin o a 3 pin Basate su 12V o 5V (Nero)",
+        "brand": "Noctua NA-FH1,",
+        "image": "https://m.media-amazon.com/images/I/71SNgHWd9LL._AC_UL320_.jpg",
+        "price": 29.33,
+        "base_price": 29.33,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B0BZQ3NXMD"
+    },
+    "B0DGQML53Y": {
+        "asin": "B0DGQML53Y",
+        "title": "iggual -Base frigorifero portatile fino a 17\".- con 2 ventole, 4 posizioni di inclinazione e 2 porte USB -Ventola per computer silenziosa e antiscivolo. RP2V17A",
+        "brand": "iggual -Base",
+        "image": "https://m.media-amazon.com/images/I/91sBvwAQPCL._AC_UL320_.jpg",
+        "price": 12.29,
+        "base_price": 12.29,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B0DGQML53Y"
+    },
     "B0F1ZYP8VL": {
         "asin": "B0F1ZYP8VL",
         "title": "Dissipatore di calore in alluminio DC5V 12V 40mm 40x40x10mm ventola scheda grafica per il raffreddamento efficace dei chipset Northbridge PC",
@@ -7534,71 +7545,16 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0D7CHB6SQ"
     },
-    "B09XMKQG5Z": {
-        "asin": "B09XMKQG5Z",
-        "title": "Tacens Anima ACX, Case PC Micro ATX, Frontale in Alluminio Spazzolato, Ventola 12 cm, USB 3.0, Nero",
-        "brand": "Tacens Anima",
-        "image": "https://m.media-amazon.com/images/I/81SOczT45uL._AC_UL320_.jpg",
-        "price": 27.46,
-        "base_price": 27.46,
+    "B0DZCG37ZR": {
+        "asin": "B0DZCG37ZR",
+        "title": "Router Cooler Ventola 12 cm 14 cm PC Latop Computer Cooler Router Base Raffreddamento Ventola Supporto Rack Dissipatore",
+        "brand": "Router Cooler",
+        "image": "https://m.media-amazon.com/images/I/51cpZRsI8hL._AC_UL320_.jpg",
+        "price": 19.99,
+        "base_price": 19.99,
         "coupon": 0.0,
         "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B09XMKQG5Z"
-    },
-    "B0BZQ3NXMD": {
-        "asin": "B0BZQ3NXMD",
-        "title": "Noctua NA-FH1, Hub Ventola a 8 Canali per un Massimo di Otto Ventole PWM a 4 pin o a 3 pin Basate su 12V o 5V (Nero)",
-        "brand": "Noctua NA-FH1,",
-        "image": "https://m.media-amazon.com/images/I/71SNgHWd9LL._AC_UL320_.jpg",
-        "price": 29.33,
-        "base_price": 29.33,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0BZQ3NXMD"
-    },
-    "B0DJQ6K2LV": {
-        "asin": "B0DJQ6K2LV",
-        "title": "Laptop Pad di Raffreddamento Del Computer Portatile Ventola Silenziosa Per 11\"-18\" Computer PC Notebook Gaming Ventola Del Computer Portatile Regolabile di Raffreddamento Del Computer",
-        "brand": "Laptop Pad",
-        "image": "https://m.media-amazon.com/images/I/71rtL7HUyUL._AC_UL320_.jpg",
-        "price": 20.8,
-        "base_price": 20.8,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0DJQ6K2LV"
-    },
-    "B0BZC6YCWL": {
-        "asin": "B0BZC6YCWL",
-        "title": "Potente tappetino di raffreddamento per laptop con raffreddamento termoelettrico e 4 ventole, raffreddamento per laptop RGB, controllo indipendente, regolazione multi-marcia, supporto per",
-        "brand": "Potente tappetino",
-        "image": "https://m.media-amazon.com/images/I/71N59+O8+4L._AC_UL320_.jpg",
-        "price": 378.12,
-        "base_price": 378.12,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0BZC6YCWL"
-    },
-    "B0DQXQN5DZ": {
-        "asin": "B0DQXQN5DZ",
-        "title": "Mars Gaming MPB550SI, Alimentatore PC ATX 550W, 7 Anni di Garanzia, 80Plus Bronze 230V, 90% di Efficienza, Ventola SI Extreme Silence con Nucleo in Rame, Tecnologie AI2-RPM, DC-DC e SMD, Bianco",
-        "brand": "Mars Gaming",
-        "image": "https://m.media-amazon.com/images/I/81y8d5T5PnL._AC_UL320_.jpg",
-        "price": 34.66,
-        "base_price": 34.66,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0DQXQN5DZ"
-    },
-    "B06W9KZ19G": {
-        "asin": "B06W9KZ19G",
-        "title": "Piccole aziende",
-        "brand": "Piccole aziende",
-        "image": "https://m.media-amazon.com/images/I/51g6Oc1-xOL._AC_UL320_.jpg",
-        "price": 22.05,
-        "base_price": 22.05,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B06W9KZ19G"
+        "url": "https://www.amazon.it/dp/B0DZCG37ZR"
     },
     "B08666M6GM": {
         "asin": "B08666M6GM",
@@ -7611,27 +7567,49 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B08666M6GM"
     },
-    "B072M2HKSN": {
-        "asin": "B072M2HKSN",
-        "title": "Noctua NA-FC1, Controller per Ventole PWM a 4-Pin (Nero)",
-        "brand": "Noctua NA-FC1,",
-        "image": "https://m.media-amazon.com/images/I/81Z0-329cIL._AC_UL320_.jpg",
-        "price": 28.85,
-        "base_price": 28.85,
+    "B07PXSCFYP": {
+        "asin": "B07PXSCFYP",
+        "title": "Mini Ventilatore USB da Scrivania in Metallo 4 Pollici Ventilatori da Tavolo Ventola USB Silenzioso Portatile con 360° Rotante Compatibile con Notebook Computer PC per la Casa Ufficio",
+        "brand": "Mini Ventilatore",
+        "image": "https://m.media-amazon.com/images/I/7135tqf8kAL._AC_UL320_.jpg",
+        "price": 18.67,
+        "base_price": 18.67,
         "coupon": 0.0,
         "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B072M2HKSN"
+        "url": "https://www.amazon.it/dp/B07PXSCFYP"
     },
-    "B00KG3K9AM": {
-        "asin": "B00KG3K9AM",
-        "title": "Noctua NA-SEC1, Cavi Prolunga per Ventole a 4 Pin (30 cm, Nero)",
-        "brand": "Noctua NA-SEC1,",
-        "image": "https://m.media-amazon.com/images/I/71dbaaDzfWL._AC_UL320_.jpg",
-        "price": 11.7,
-        "base_price": 11.7,
+    "B0DJQ6K2LV": {
+        "asin": "B0DJQ6K2LV",
+        "title": "Laptop Pad di Raffreddamento Del Computer Portatile Ventola Silenziosa Per 11\"-18\" Computer PC Notebook Gaming Ventola Del Computer Portatile Regolabile di Raffreddamento Del Computer",
+        "brand": "Laptop Pad",
+        "image": "https://m.media-amazon.com/images/I/71rtL7HUyUL._AC_UL320_.jpg",
+        "price": 20.8,
+        "base_price": 20.8,
         "coupon": 0.0,
         "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B00KG3K9AM"
+        "url": "https://www.amazon.it/dp/B0DJQ6K2LV"
+    },
+    "B09XMKQG5Z": {
+        "asin": "B09XMKQG5Z",
+        "title": "Tacens Anima ACX, Case PC Micro ATX, Frontale in Alluminio Spazzolato, Ventola 12 cm, USB 3.0, Nero",
+        "brand": "Tacens Anima",
+        "image": "https://m.media-amazon.com/images/I/81SOczT45uL._AC_UL320_.jpg",
+        "price": 27.46,
+        "base_price": 27.46,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B09XMKQG5Z"
+    },
+    "B06W9KZ19G": {
+        "asin": "B06W9KZ19G",
+        "title": "Piccole aziende",
+        "brand": "Piccole aziende",
+        "image": "https://m.media-amazon.com/images/I/51g6Oc1-xOL._AC_UL320_.jpg",
+        "price": 22.05,
+        "base_price": 22.05,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B06W9KZ19G"
     },
     "B0DFVDG6BL": {
         "asin": "B0DFVDG6BL",
@@ -7643,6 +7621,28 @@
         "coupon": 0.0,
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0DFVDG6BL"
+    },
+    "B0BZC6YCWL": {
+        "asin": "B0BZC6YCWL",
+        "title": "Potente tappetino di raffreddamento per laptop con raffreddamento termoelettrico e 4 ventole, raffreddamento per laptop RGB, controllo indipendente, regolazione multi-marcia, supporto per",
+        "brand": "Potente tappetino",
+        "image": "https://m.media-amazon.com/images/I/71N59+O8+4L._AC_UL320_.jpg",
+        "price": 378.12,
+        "base_price": 378.12,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B0BZC6YCWL"
+    },
+    "B00KG3K9AM": {
+        "asin": "B00KG3K9AM",
+        "title": "Noctua NA-SEC1, Cavi Prolunga per Ventole a 4 Pin (30 cm, Nero)",
+        "brand": "Noctua NA-SEC1,",
+        "image": "https://m.media-amazon.com/images/I/71dbaaDzfWL._AC_UL320_.jpg",
+        "price": 11.7,
+        "base_price": 11.7,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B00KG3K9AM"
     },
     "B0CRVBH5ZC": {
         "asin": "B0CRVBH5ZC",
@@ -7666,17 +7666,6 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0DFQGY4BQ"
     },
-    "B0DFPZV9KH": {
-        "asin": "B0DFPZV9KH",
-        "title": "sourcing map 10 filtri antipolvere per PC, 50 mm x 50 mm, in PVC, per case del computer, antipolvere, copertura in rete, griglie per ventola per altoparlanti del computer, colore nero",
-        "brand": "sourcing map",
-        "image": "https://m.media-amazon.com/images/I/81f99lyiqkL._AC_UL320_.jpg",
-        "price": 13.79,
-        "base_price": 13.79,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0DFPZV9KH"
-    },
     "B0B84YC6MW": {
         "asin": "B0B84YC6MW",
         "title": "100 Pz M5 x10 Computer Ventola di Raffreddamento Viti di Montaggio Nero Case Ventola Viti Del Computer PC Case di Raffreddamento Ventola Montaggio Viti per Computer",
@@ -7688,16 +7677,38 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0B84YC6MW"
     },
-    "B0DFPYPTP8": {
-        "asin": "B0DFPYPTP8",
-        "title": "sourcing map 10 filtri antipolvere per PC, 60 mm x 60 mm, in PVC, per case del computer, antipolvere, copertura in rete, griglie per ventola per altoparlanti del computer, colore nero",
-        "brand": "sourcing map",
-        "image": "https://m.media-amazon.com/images/I/81vT2psTdOL._AC_UL320_.jpg",
-        "price": 12.83,
-        "base_price": 12.83,
+    "B072M2HKSN": {
+        "asin": "B072M2HKSN",
+        "title": "Noctua NA-FC1, Controller per Ventole PWM a 4-Pin (Nero)",
+        "brand": "Noctua NA-FC1,",
+        "image": "https://m.media-amazon.com/images/I/81Z0-329cIL._AC_UL320_.jpg",
+        "price": 28.85,
+        "base_price": 28.85,
         "coupon": 0.0,
         "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0DFPYPTP8"
+        "url": "https://www.amazon.it/dp/B072M2HKSN"
+    },
+    "B0CTG3832J": {
+        "asin": "B0CTG3832J",
+        "title": "Staffa di montaggio esterna per ventola del radiatore adatta per ventola da 12 cm, 24 cm, 36 cm, supporto per ventola zincata per telaio del computer, supporto per ventola per case PC",
+        "brand": "Staffa di",
+        "image": "https://m.media-amazon.com/images/I/51afs0IQahL._AC_UL320_.jpg",
+        "price": 19.19,
+        "base_price": 19.19,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B0CTG3832J"
+    },
+    "B0DFPZV9KH": {
+        "asin": "B0DFPZV9KH",
+        "title": "sourcing map 10 filtri antipolvere per PC, 50 mm x 50 mm, in PVC, per case del computer, antipolvere, copertura in rete, griglie per ventola per altoparlanti del computer, colore nero",
+        "brand": "sourcing map",
+        "image": "https://m.media-amazon.com/images/I/81f99lyiqkL._AC_UL320_.jpg",
+        "price": 13.79,
+        "base_price": 13.79,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B0DFPZV9KH"
     },
     "B0DT2TV8WJ": {
         "asin": "B0DT2TV8WJ",
@@ -7710,16 +7721,27 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0DT2TV8WJ"
     },
-    "B0CTG3832J": {
-        "asin": "B0CTG3832J",
-        "title": "Staffa di montaggio esterna per ventola del radiatore adatta per ventola da 12 cm, 24 cm, 36 cm, supporto per ventola zincata per telaio del computer, supporto per ventola per case PC",
-        "brand": "Staffa di",
-        "image": "https://m.media-amazon.com/images/I/51afs0IQahL._AC_UL320_.jpg",
-        "price": 19.19,
-        "base_price": 19.19,
+    "B0DFPYPTP8": {
+        "asin": "B0DFPYPTP8",
+        "title": "sourcing map 10 filtri antipolvere per PC, 60 mm x 60 mm, in PVC, per case del computer, antipolvere, copertura in rete, griglie per ventola per altoparlanti del computer, colore nero",
+        "brand": "sourcing map",
+        "image": "https://m.media-amazon.com/images/I/81vT2psTdOL._AC_UL320_.jpg",
+        "price": 12.83,
+        "base_price": 12.83,
         "coupon": 0.0,
         "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0CTG3832J"
+        "url": "https://www.amazon.it/dp/B0DFPYPTP8"
+    },
+    "B0DFYXWX21": {
+        "asin": "B0DFYXWX21",
+        "title": "Piccole aziende",
+        "brand": "Piccole aziende",
+        "image": "https://m.media-amazon.com/images/I/61RH4evI2tL._AC_UL320_.jpg",
+        "price": 34.75,
+        "base_price": 34.75,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B0DFYXWX21"
     },
     "B0F82Q2GM8": {
         "asin": "B0F82Q2GM8",
@@ -7743,17 +7765,6 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B01LFCB3TS"
     },
-    "B000TG3IGS": {
-        "asin": "B000TG3IGS",
-        "title": "InLine 18436 Viti per il Fissaggio delle Ventole, Nero",
-        "brand": "InLine 18436",
-        "image": "https://m.media-amazon.com/images/I/61V5mekiVxL._AC_UL320_.jpg",
-        "price": 7.11,
-        "base_price": 7.11,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B000TG3IGS"
-    },
     "B0FRLQKNQC": {
         "asin": "B0FRLQKNQC",
         "title": "Metallo PC Fan Supporto di Montaggio Portatile Ventola di Raffreddamento Staffa Multiuso Per 120/140mm Mount Stand Caso Esterno PC Caso Accessori di Raffreddamento Staffa",
@@ -7765,16 +7776,16 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0FRLQKNQC"
     },
-    "B0CX1GTK83": {
-        "asin": "B0CX1GTK83",
-        "title": "Staffa per ventola PC, 12 cm/24 cm/36 cm, in acciaio zincato, compatibile con desktop",
-        "brand": "Staffa per",
-        "image": "https://m.media-amazon.com/images/I/51Q4st4G5LL._AC_UL320_.jpg",
-        "price": 21.09,
-        "base_price": 21.09,
+    "B000TG3IGS": {
+        "asin": "B000TG3IGS",
+        "title": "InLine 18436 Viti per il Fissaggio delle Ventole, Nero",
+        "brand": "InLine 18436",
+        "image": "https://m.media-amazon.com/images/I/61V5mekiVxL._AC_UL320_.jpg",
+        "price": 7.11,
+        "base_price": 7.11,
         "coupon": 0.0,
         "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0CX1GTK83"
+        "url": "https://www.amazon.it/dp/B000TG3IGS"
     },
     "B09QBR4PJT": {
         "asin": "B09QBR4PJT",
@@ -7798,6 +7809,17 @@
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B0D1R6ZT25"
     },
+    "B0CX1GTK83": {
+        "asin": "B0CX1GTK83",
+        "title": "Staffa per ventola PC, 12 cm/24 cm/36 cm, in acciaio zincato, compatibile con desktop",
+        "brand": "Staffa per",
+        "image": "https://m.media-amazon.com/images/I/51Q4st4G5LL._AC_UL320_.jpg",
+        "price": 21.09,
+        "base_price": 21.09,
+        "coupon": 0.0,
+        "category": "search_ventole",
+        "url": "https://www.amazon.it/dp/B0CX1GTK83"
+    },
     "B003KR3MEG": {
         "asin": "B003KR3MEG",
         "title": "Goobay 93876 Prolunga Elettrica per Ventole PC, Connettore/Presa da 3 pin",
@@ -7808,17 +7830,6 @@
         "coupon": 0.0,
         "category": "search_ventole",
         "url": "https://www.amazon.it/dp/B003KR3MEG"
-    },
-    "B0DFYXWX21": {
-        "asin": "B0DFYXWX21",
-        "title": "Piccole aziende",
-        "brand": "Piccole aziende",
-        "image": "https://m.media-amazon.com/images/I/61RH4evI2tL._AC_UL320_.jpg",
-        "price": 34.75,
-        "base_price": 34.75,
-        "coupon": 0.0,
-        "category": "search_ventole",
-        "url": "https://www.amazon.it/dp/B0DFYXWX21"
     },
     "B08XB3KS8V": {
         "asin": "B08XB3KS8V",
