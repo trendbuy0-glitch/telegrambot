@@ -157,112 +157,8 @@ def scrape_search(url, pages=5, category="search"):
 
 
 # ---------------------------------------------------
-# BESTSELLER SCRAPER
+# CATEGORIE SEARCH
 # ---------------------------------------------------
-
-def scrape_bestseller(url, pages=5, category="bestseller"):
-    products = []
-
-    for page in range(1, pages + 1):
-        paged = f"{url}?pg={page}"
-        print(f"[BESTSELLER] {category} - {paged}")
-
-        try:
-            r = requests.get(paged, headers=HEADERS, timeout=15)
-            if r.status_code != 200:
-                continue
-        except:
-            continue
-
-        soup = BeautifulSoup(r.text, "html.parser")
-        items = soup.select("div.zg-grid-general-faceout") or \
-                soup.select("ol.a-ordered-list > li")
-
-        for item in items:
-            # ASIN
-            link_el = item.select_one("a.a-link-normal[href*='/dp/']")
-            asin = None
-            url_dp = None
-
-            if link_el:
-                href = link_el.get("href", "")
-                if "/dp/" in href:
-                    asin = href.split("/dp/")[1].split("/")[0].split("?")[0]
-                url_dp = "https://www.amazon.it" + href.split("?", 1)[0]
-
-            if not asin:
-                asin = item.get("data-asin")
-            if not asin:
-                continue
-
-            # titolo
-            title_el = item.select_one("div.p13n-sc-truncate") or \
-                       item.select_one("a.a-link-normal span")
-            title = title_el.get_text(strip=True) if title_el else None
-
-            # brand
-            brand = extract_brand_from_title(title)
-
-            # immagine
-            img_el = item.select_one("img")
-            image = img_el.get("src") if img_el else None
-
-            # prezzo
-            price_el = item.select_one("span.p13n-sc-price") or \
-                       item.select_one(".a-price .a-offscreen")
-            if not price_el:
-                continue
-
-            base_price = safe_float(price_el.get_text(strip=True))
-            if base_price is None:
-                continue
-
-            # coupon
-            coupon_el = item.select_one(".s-coupon-highlight-color, span.a-color-base")
-            coupon = extract_coupon(coupon_el, base_price)
-
-            final_price = base_price - coupon
-            if final_price <= 0:
-                final_price = base_price
-
-            products.append({
-                "asin": asin,
-                "title": title,
-                "brand": brand,
-                "image": image,
-                "price": round(final_price, 2),
-                "base_price": round(base_price, 2),
-                "coupon": coupon,
-                "category": f"bestseller_{category}",
-                "url": url_dp if url_dp else f"https://www.amazon.it/dp/{asin}"
-            })
-
-        time.sleep(1)
-
-    return products
-
-
-# ---------------------------------------------------
-# CATEGORIE
-# ---------------------------------------------------
-
-BESTSELLER_CATEGORIES = {
-    "gpu": "https://www.amazon.it/gp/bestsellers/computers/460150031",
-    "cpu": "https://www.amazon.it/gp/bestsellers/computers/460152031",
-    "ram": "https://www.amazon.it/gp/bestsellers/computers/460154031",
-    "ssd": "https://www.amazon.it/gp/bestsellers/computers/430162031",
-    "hdd": "https://www.amazon.it/gp/bestsellers/computers/430161031",
-    "psu": "https://www.amazon.it/gp/bestsellers/computers/430203031",
-    "case": "https://www.amazon.it/gp/bestsellers/computers/460157031",
-    "cooler": "https://www.amazon.it/gp/bestsellers/computers/460158031",
-    "mobo": "https://www.amazon.it/gp/bestsellers/computers/430170031",
-    "monitor": "https://www.amazon.it/gp/bestsellers/computers/427968031",
-    "cuffie": "https://www.amazon.it/gp/bestsellers/computers/430228031",
-    "smartphone": "https://www.amazon.it/gp/bestsellers/electronics/4363360031",
-    "tablet": "https://www.amazon.it/gp/bestsellers/electronics/473295031",
-    "smartwatch": "https://www.amazon.it/gp/bestsellers/electronics/473251031",
-    "router": "https://www.amazon.it/gp/bestsellers/electronics/473254031",
-}
 
 SEARCH_CATEGORIES = {
     "alimentatori": "https://www.amazon.it/s?k=alimentatore+pc",
@@ -276,21 +172,11 @@ SEARCH_CATEGORIES = {
 }
 
 # ---------------------------------------------------
-# SCRAPING COMBINATO
+# SCRAPING COMBINATO (SOLO SEARCH)
 # ---------------------------------------------------
 
 all_products = {}
 
-# Bestseller
-for name, url in BESTSELLER_CATEGORIES.items():
-    print(f"\n=== BESTSELLER: {name} ===")
-    prods = scrape_bestseller(url, pages=5, category=name)
-    for p in prods:
-        asin = p["asin"]
-        if asin not in all_products:
-            all_products[asin] = p
-
-# Search
 for name, url in SEARCH_CATEGORIES.items():
     print(f"\n=== SEARCH: {name} ===")
     prods = scrape_search(url, pages=5, category=name)
@@ -309,3 +195,4 @@ with open(PRICES_FILE, "w") as f:
     json.dump(all_products, f, indent=4, ensure_ascii=False)
 
 print("\nprices.json generato con successo!")
+
