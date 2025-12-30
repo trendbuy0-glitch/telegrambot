@@ -205,4 +205,18 @@ SEARCH_CATEGORIES = {
 
 # ---------------------------------------------------
 # SCRAPING COMBINATO
-# ------------------------------------------------
+# ---------------------------------------------------
+
+all_products = {}
+
+for name, url in SEARCH_CATEGORIES.items():
+    print(f"\n=== SEARCH: {name} ===")
+    prods = scrape_search(url, pages=5, category=name)
+    all_products.update(prods)
+
+print(f"\nTotale prodotti raccolti: {len(all_products)}")
+
+with open(PRICES_FILE, "w") as f:
+    json.dump(all_products, f, indent=4, ensure_ascii=False)
+
+print("\nprices.json generato con successo!")
