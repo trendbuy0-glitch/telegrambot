@@ -1,141 +1,28 @@
 import os
 import json
 import requests
-from bs4 import BeautifulSoup
 import time
 
 BOT_TOKEN = os.getenv("TrendBuyFinderBot")
 CHAT_ID = "-1003544601340"
 AFFILIATE_ID = "trendbuy013-21"
 
-CATEGORIES = [
-    "https://www.amazon.it/gp/bestsellers/computers/",
-    "https://www.amazon.it/gp/bestsellers/electronics/",
-    "https://www.amazon.it/gp/bestsellers/computers/430203031/",
-    "https://www.amazon.it/gp/bestsellers/computers/460150031/",
-    "https://www.amazon.it/gp/bestsellers/electronics/473295031/",
-    "https://www.amazon.it/gp/bestsellers/computers/460152031/",
-]
-
-PRICES_FILE = "prices.json"
+NEW_PRICES_FILE = "prices.json"
+OLD_PRICES_FILE = "old_prices.json"
 
 
-def send_status_message():
+def send_message(text):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
     data = {
         "chat_id": CHAT_ID,
-        "text": "🔍 Sto cercando nuove offerte tech...",
+        "text": text,
+        "parse_mode": "Markdown"
     }
     requests.post(url, data=data)
 
 
-def load_prices():
-    if not os.path.exists(PRICES_FILE):
-        return {}
-    with open(PRICES_FILE, "r") as f:
-        return json.load(f)
-
-
-def save_prices(data):
-    with open(PRICES_FILE, "w") as f:
-        json.dump(data, f, indent=4)
-
-
-def extract_products():
-    headers = {"User-Agent": "Mozilla/5.0"}
-    products = []
-
-    for url in CATEGORIES:
-        html = requests.get(url, headers=headers).text
-        soup = BeautifulSoup(html, "html.parser")
-
-        items = soup.select(".zg-grid-general-faceout, .a-section.a-spacing-none.p13n-asin")
-
-        for item in items:
-            title_el = item.select_one(".p13n-sc-truncate, .a-link-normal")
-            price_el = item.select_one(".p13n-sc-price, .a-price-whole")
-            old_price_el = item.select_one(".a-text-price span")
-            img_el = item.select_one("img")
-            link_el = item.select_one("a.a-link-normal")
-
-            if not title_el or not price_el or not link_el:
-                continue
-
-            title = title_el.get_text(strip=True)
-            price = price_el.get_text(strip=True).replace("€", "").replace(",", ".")
-            try:
-                price = float(price)
-            except:
-                continue
-
-            old_price = None
-            if old_price_el:
-                try:
-                    old_price = float(old_price_el.get_text(strip=True).replace("€", "").replace(",", "."))
-                except:
-                    old_price = None
-
-            if "dp" not in link_el["href"]:
-                continue
-
-            asin = link_el["href"].split("/dp/")[1].split("/")[0]
-
-            # FIX IMMAGINI AMAZON (funziona sempre)
-            image = None
-            if img_el:
-                if img_el.get("src"):
-                    image = img_el["src"]
-                elif img_el.get("data-src"):
-                    image = img_el["data-src"]
-                elif img_el.get("data-image-src"):
-                    image = img_el["data-image-src"]
-                elif img_el.get("srcset"):
-                    image = img_el["srcset"].split(" ")[0]
-
-            # Check coupon
-            coupon = None
-            coupon_el = item.select_one(".s-coupon-unclipped")
-            if coupon_el:
-                coupon = coupon_el.get_text(strip=True)
-
-            products.append({
-                "asin": asin,
-                "title": title,
-                "price": price,
-                "old_price": old_price,
-                "image": image,
-                "coupon": coupon
-            })
-
-    return products
-
-
-def format_message(product, old_price):
-    affiliate_link = f"https://www.amazon.it/dp/{product['asin']}?tag={AFFILIATE_ID}"
-
-    discount_text = ""
-    if old_price and old_price > product["price"]:
-        discount = round((old_price - product["price"]) / old_price * 100)
-        discount_text = f"📉 *Sconto:* -{discount}%\n"
-
-    coupon_text = ""
-    if product["coupon"]:
-        coupon_text = f"🎟️ *Coupon disponibile:* {product['coupon']}\n"
-
-    return f"""
-😱 *PREZZONE TECH!*
-
-📦 *{product['title']}*
-💸 *Prezzo attuale:* {product['price']}€
-🧾 *Prezzo precedente:* {old_price}€
-
-{discount_text}{coupon_text}
-
-👉 [Vai su Amazon]({affiliate_link})
-"""
-
 def send_photo(product, caption):
-    if not product["image"]:
+    if not product.get("image"):
         send_message(caption)
         return
 
@@ -149,37 +36,67 @@ def send_photo(product, caption):
     requests.post(url, data=data)
 
 
-def send_message(text):
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    data = {
-        "chat_id": CHAT_ID,
-        "text": text,
-        "parse_mode": "Markdown"
-    }
-    requests.post(url, data=data)
+def format_message(asin, info_old, info_new):
+    base_price = info_new["base_price"]
+    final_price = info_new["price"]
+    coupon = info_new["coupon"]
+    old_price = info_old["price"]
+
+    affiliate_link = f"https://www.amazon.it/dp/{asin}?tag={AFFILIATE_ID}"
+
+    # Calcolo sconto
+    discount_percent = 0
+    if old_price > 0:
+        discount_percent = round((old_price - final_price) / old_price * 100)
+
+    coupon_text = ""
+    if coupon > 0:
+        coupon_text = f"🎟️ *Coupon:* -{coupon:.2f}€\n"
+
+    return f"""
+😱 *PREZZONE TECH!*
+
+📦 *ASIN:* `{asin}`
+💶 *Prezzo base:* {base_price:.2f}€
+🧾 *Prezzo precedente:* {old_price:.2f}€
+💥 *Prezzo finale:* *{final_price:.2f}€*
+📉 *Sconto:* -{discount_percent}%
+
+{coupon_text}
+👉 [Vai su Amazon]({affiliate_link})
+"""
 
 
 if __name__ == "__main__":
-    send_status_message()
+    send_message("🔍 Controllo ribassi in corso...")
 
-    old_prices = load_prices()
-    new_prices = {}
-    products = extract_products()
+    # Carica nuovi prezzi (scraper)
+    with open(NEW_PRICES_FILE, "r") as f:
+        new_data = json.load(f)
 
-    ribassi_trovati = 0
+    # Carica vecchi prezzi
+    if os.path.exists(OLD_PRICES_FILE):
+        with open(OLD_PRICES_FILE, "r") as f:
+            old_data = json.load(f)
+    else:
+        old_data = {}
 
-    for p in products:
-        asin = p["asin"]
-        new_prices[asin] = p["price"]
+    ribassi = 0
 
-        if asin in old_prices:
-            if p["price"] < old_prices[asin]:
-                msg = format_message(p, old_prices[asin])
-                send_photo(p, msg)
-                ribassi_trovati += 1
+    for asin, info_new in new_data.items():
+        if asin in old_data:
+            info_old = old_data[asin]
+
+            # Se il prezzo finale è sceso → invia messaggio
+            if info_new["price"] < info_old["price"]:
+                msg = format_message(asin, info_old, info_new)
+                send_message(msg)
+                ribassi += 1
                 time.sleep(2)
 
-    if ribassi_trovati == 0:
+    if ribassi == 0:
         send_message("✅ Nessun ribasso trovato in questo giro.")
 
-    save_prices(new_prices)
+    # Salva nuovi prezzi come vecchi
+    with open(OLD_PRICES_FILE, "w") as f:
+        json.dump(new_data, f, indent=4)
