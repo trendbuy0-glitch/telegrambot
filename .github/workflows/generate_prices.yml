@@ -32,4 +32,5 @@ jobs:
         git config --global user.email "github-actions@github.com"
         git add prices.json
         git commit -m "Updated prices database" || echo "No changes"
+        git pull --rebase
         git push
