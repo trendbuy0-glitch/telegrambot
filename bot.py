@@ -123,17 +123,30 @@ def format_message(product, old_price):
         coupon_text = f"🎟️ *Coupon disponibile:* {product['coupon']}\n"
 
     return f"""
-🔥 *RIBASSO PREZZO TECH!*
+😱 *PREZZONE TECH!*
 
 📦 *{product['title']}*
-
-💰 *Nuovo prezzo:* {product['price']}€
-💸 *Prima:* {old_price}€
+💸 *Prezzo attuale:* {product['price']}€
+🧾 *Prezzo precedente:* {old_price}€
 
 {discount_text}{coupon_text}
 
-👉 [Vai ad Amazon]({affiliate_link})
+👉 [Vai su Amazon]({affiliate_link})
 """
+
+def send_photo(product, caption):
+    if not product["image"]:
+        send_message(caption)
+        return
+
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
+    data = {
+        "chat_id": CHAT_ID,
+        "photo": product["image"],
+        "caption": caption,
+        "parse_mode": "Markdown"
+    }
+    requests.post(url, data=data)
 
 
 def send_message(text):
@@ -162,7 +175,7 @@ if __name__ == "__main__":
         if asin in old_prices:
             if p["price"] < old_prices[asin]:
                 msg = format_message(p, old_prices[asin])
-                send_message(msg)
+                send_photo(p, msg)
                 ribassi_trovati += 1
                 time.sleep(2)
 
