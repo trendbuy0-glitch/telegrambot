@@ -2,7 +2,7 @@ name: Generate Prices JSON
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/0 0 1 * *"
   workflow_dispatch:
 
 jobs:
