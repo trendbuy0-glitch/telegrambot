@@ -156,7 +156,7 @@ def scrape_search(url, pages=5, category="search"):
     return products
 
 # ---------------------------------------------------
-# CATEGORIE (IDENTICHE A generate_prices.py)
+# CATEGORIE
 # ---------------------------------------------------
 
 SEARCH_CATEGORIES = {
@@ -212,12 +212,28 @@ if __name__ == "__main__":
         scraped = scrape_search(url, category=name)
         new_data.update(scraped)
 
+    # 🔥 STAMPA OGNI PRODOTTO TROVATO
+    send_message("📦 *Prodotti trovati nello scraping:*")
+    for asin, info in new_data.items():
+        msg = (
+            f"ASIN: `{asin}`\n"
+            f"Titolo: {info.get('title')}\n"
+            f"Prezzo base: {info.get('base_price')}€\n"
+            f"Prezzo finale: {info.get('final_price')}€\n"
+            f"Coupon: {info.get('coupon')}€\n"
+            f"URL: {info.get('url')}\n"
+            "-------------------------"
+        )
+        send_message(msg)
+        time.sleep(0.3)
+
     offerte_trovate = 0
 
     for asin, new_info in new_data.items():
         if asin not in old_data:
             continue
 
+        # 🔥 PREZZO VECCHIO = base_price
         old_price = old_data[asin].get("base_price") or old_data[asin].get("price")
         if old_price is None:
             continue
