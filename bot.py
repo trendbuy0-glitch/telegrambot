@@ -194,31 +194,19 @@ def format_message(asin, info, old_price):
 if __name__ == "__main__":
     send_message("🔍 Controllo offerte in corso...")
 
+    # Carica prezzi vecchi
     with open(PRICES_FILE, "r", encoding="utf-8") as f:
         old_data = json.load(f)
 
+    # Scraping nuovi prezzi
     new_data = {}
     for name, url in SEARCH_CATEGORIES.items():
         scraped = scrape_search(url)
         new_data.update(scraped)
 
-    # 🔥 STAMPA TUTTI I PRODOTTI TROVATI
-    send_message("📦 *Prodotti trovati nello scraping:*")
-    for asin, info in new_data.items():
-        msg = (
-            f"ASIN: `{asin}`\n"
-            f"Titolo: {info['title']}\n"
-            f"Prezzo base: {info['base_price']}€\n"
-            f"Prezzo finale: {info['final_price']}€\n"
-            f"Coupon: {info['coupon']}€\n"
-            f"URL: {info['url']}\n"
-            "-------------------------"
-        )
-        send_message(msg)
-        time.sleep(0.3)
-
     offerte_trovate = 0
 
+    # Confronto vecchi vs nuovi
     for asin, new_info in new_data.items():
         if asin not in old_data:
             continue
@@ -227,8 +215,12 @@ if __name__ == "__main__":
         new_final = new_info["final_price"]
         new_coupon = new_info["coupon"]
 
-        if new_final >= old_price and new_coupon == 0:
-            continue
+        # Condizione OFFERTA
+        price_drop = new_final < old_price
+        has_coupon = new_coupon > 0
+
+        if not price_drop and not has_coupon:
+            continue  # NON è un'offerta → non stampare
 
         caption = format_message(asin, new_info, old_price)
 
@@ -242,3 +234,4 @@ if __name__ == "__main__":
 
     if offerte_trovate == 0:
         send_message("✅ Nessuna offerta da segnalare.")
+
