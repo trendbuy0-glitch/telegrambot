@@ -82,7 +82,7 @@ def extract_coupon(el, base_price):
     return round(coupon, 2)
 
 # ---------------------------------------------------
-# SCRAPING SEARCH (VERSIONE CORRETTA)
+# SCRAPING SEARCH
 # ---------------------------------------------------
 
 def scrape_search(url, pages=5, category="search"):
@@ -107,7 +107,7 @@ def scrape_search(url, pages=5, category="search"):
             if not asin:
                 continue
 
-            # TITOLO (fallback multipli)
+            # TITOLO
             title_el = (
                 item.select_one("h2 a span") or
                 item.select_one("span.a-size-base-plus.a-color-base.a-text-normal") or
@@ -116,7 +116,6 @@ def scrape_search(url, pages=5, category="search"):
                 item.select_one("span.a-size-base.a-color-base") or
                 item.select_one("h2 span")
             )
-
             title = title_el.get_text(strip=True) if title_el else None
             if not title:
                 continue
@@ -130,9 +129,8 @@ def scrape_search(url, pages=5, category="search"):
             )
             image = img_el.get("src") if img_el else None
 
-            # PREZZO (fallback multipli)
+            # PREZZO BASE
             base_price = None
-
             price_el = item.select_one(".a-price .a-offscreen")
             if price_el:
                 base_price = safe_float(price_el.get_text(strip=True))
@@ -157,6 +155,7 @@ def scrape_search(url, pages=5, category="search"):
             )
             coupon = extract_coupon(coupon_el, base_price)
 
+            # PREZZO FINALE
             final_price = base_price - coupon
             if final_price <= 0:
                 final_price = base_price
@@ -165,10 +164,9 @@ def scrape_search(url, pages=5, category="search"):
                 "title": title,
                 "brand": brand,
                 "image": image,
-                "price": round(final_price, 2),
                 "base_price": round(base_price, 2),
                 "coupon": coupon,
-                "category": f"search_{category}",
+                "final_price": round(final_price, 2),
                 "url": f"https://www.amazon.it/dp/{asin}"
             }
 
@@ -192,15 +190,15 @@ SEARCH_CATEGORIES = {
 # FORMAT MESSAGE
 # ---------------------------------------------------
 
-def format_message(asin, info):
+def format_message(asin, info, old_price):
     title = info["title"]
     base_price = info["base_price"]
-    final_price = info["price"]
+    final_price = info["final_price"]
     coupon = info["coupon"]
 
     affiliate_link = f"https://www.amazon.it/dp/{asin}?tag={AFFILIATE_ID}"
 
-    discount_percent = round((base_price - final_price) / base_price * 100)
+    discount_percent = round((old_price - final_price) / old_price * 100)
 
     coupon_text = f"🎟️ *Coupon:* -{coupon:.2f}€\n" if coupon > 0 else ""
 
@@ -208,8 +206,8 @@ def format_message(asin, info):
 😱 *OFFERTA TECH!*
 
 📦 *{title}*
-💶 *Prezzo base:* {base_price:.2f}€
-💥 *Prezzo finale:* *{final_price:.2f}€*
+💶 *Prezzo vecchio:* {old_price:.2f}€
+💥 *Prezzo nuovo:* *{final_price:.2f}€*
 📉 *Sconto:* -{discount_percent}%
 
 {coupon_text}
@@ -223,7 +221,7 @@ def format_message(asin, info):
 if __name__ == "__main__":
     send_message("🔍 Controllo offerte in corso...")
 
-    # Carica prezzi vecchi
+    # Carica prezzi vecchi (solo base_price)
     with open(PRICES_FILE, "r") as f:
         old_data = json.load(f)
 
@@ -240,17 +238,17 @@ if __name__ == "__main__":
         if asin not in old_data:
             continue
 
-        old_price = old_data[asin]["price"]
-        new_price = new_info["price"]
+        old_price = old_data[asin]["price"]  # prezzo base vecchio
+        new_final = new_info["final_price"]  # prezzo finale nuovo
         new_coupon = new_info["coupon"]
 
-        price_drop = new_price < old_price
+        price_drop = new_final < old_price
         has_coupon = new_coupon > 0
 
         if not price_drop and not has_coupon:
             continue
 
-        caption = format_message(asin, new_info)
+        caption = format_message(asin, new_info, old_price)
 
         if new_info.get("image"):
             send_photo(new_info["image"], caption)
