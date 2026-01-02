@@ -90,104 +90,103 @@ def extract_coupon(el, base_price):
 # ---------------------------------------------------
 
 def scrape_search(url, pages=5, category="search"):
-products = {}
+    products = {}
 
-for page in range(1, pages + 1):
-    paged = f"{url}&page={page}"
-    print(f"[SEARCH] {category} - {paged}")
+    for page in range(1, pages + 1):
+        paged = f"{url}&page={page}"
+        print(f"[SEARCH] {category} - {paged}")
 
-    try:
-        r = requests.get(paged, headers=HEADERS, timeout=15)
-        if r.status_code != 200:
-            continue
-    except:
-        continue
-
-    soup = BeautifulSoup(r.text, "html.parser")
-    items = soup.select(".s-result-item[data-asin]")
-
-    for item in items:
-        asin = item.get("data-asin")
-        if not asin:
+        try:
+            r = requests.get(paged, headers=HEADERS, timeout=15)
+            if r.status_code != 200:
+                continue
+        except:
             continue
 
-        # ---------------------------
-        # TITOLO (fallback multipli)
-        # ---------------------------
-        title_el = (
-            item.select_one("h2 a span") or
-            item.select_one("span.a-size-base-plus.a-color-base.a-text-normal") or
-            item.select_one("span.a-size-medium.a-color-base.a-text-normal") or
-            item.select_one("span.a-size-base-plus.a-color-base") or
-            item.select_one("span.a-size-base.a-color-base") or
-            item.select_one("h2 span")
-        )
+        soup = BeautifulSoup(r.text, "html.parser")
+        items = soup.select(".s-result-item[data-asin]")
 
-        title = title_el.get_text(strip=True) if title_el else None
-        if not title:
-            continue
+        for item in items:
+            asin = item.get("data-asin")
+            if not asin:
+                continue
 
-        brand = extract_brand_from_title(title)
+            # ---------------------------
+            # TITOLO (fallback multipli)
+            # ---------------------------
+            title_el = (
+                item.select_one("h2 a span") or
+                item.select_one("span.a-size-base-plus.a-color-base.a-text-normal") or
+                item.select_one("span.a-size-medium.a-color-base.a-text-normal") or
+                item.select_one("span.a-size-base-plus.a-color-base") or
+                item.select_one("span.a-size-base.a-color-base") or
+                item.select_one("h2 span")
+            )
 
-        # ---------------------------
-        # IMMAGINE
-        # ---------------------------
-        img_el = (
-            item.select_one("img.s-image") or
-            item.select_one("img.s-image-fixed-height")
-        )
-        image = img_el.get("src") if img_el else None
+            title = title_el.get_text(strip=True) if title_el else None
+            if not title:
+                continue
 
-        # ---------------------------
-        # PREZZO (fallback multipli)
-        # ---------------------------
-        base_price = None
+            brand = extract_brand_from_title(title)
 
-        price_el = item.select_one(".a-price .a-offscreen")
-        if price_el:
-            base_price = safe_float(price_el.get_text(strip=True))
+            # ---------------------------
+            # IMMAGINE
+            # ---------------------------
+            img_el = (
+                item.select_one("img.s-image") or
+                item.select_one("img.s-image-fixed-height")
+            )
+            image = img_el.get("src") if img_el else None
 
-        if base_price is None:
-            whole = item.select_one("span.a-price-whole")
-            frac = item.select_one("span.a-price-fraction")
-            if whole:
-                price_text = whole.get_text(strip=True)
-                if frac:
-                    price_text += "." + frac.get_text(strip=True)
-                base_price = safe_float(price_text)
+            # ---------------------------
+            # PREZZO (fallback multipli)
+            # ---------------------------
+            base_price = None
 
-        if base_price is None:
-            continue
+            price_el = item.select_one(".a-price .a-offscreen")
+            if price_el:
+                base_price = safe_float(price_el.get_text(strip=True))
 
-        # ---------------------------
-        # COUPON
-        # ---------------------------
-        coupon_el = (
-            item.select_one(".s-coupon-highlight-color") or
-            item.select_one("span.a-color-success") or
-            item.select_one("span.a-size-base.a-color-secondary")
-        )
-        coupon = extract_coupon(coupon_el, base_price)
+            if base_price is None:
+                whole = item.select_one("span.a-price-whole")
+                frac = item.select_one("span.a-price-fraction")
+                if whole:
+                    price_text = whole.get_text(strip=True)
+                    if frac:
+                        price_text += "." + frac.get_text(strip=True)
+                    base_price = safe_float(price_text)
 
-        final_price = base_price - coupon
-        if final_price <= 0:
-            final_price = base_price
+            if base_price is None:
+                continue
 
-        products[asin] = {
-            "title": title,
-            "brand": brand,
-            "image": image,
-            "price": round(final_price, 2),
-            "base_price": round(base_price, 2),
-            "coupon": coupon,
-            "category": f"search_{category}",
-            "url": f"https://www.amazon.it/dp/{asin}"
-        }
+            # ---------------------------
+            # COUPON
+            # ---------------------------
+            coupon_el = (
+                item.select_one(".s-coupon-highlight-color") or
+                item.select_one("span.a-color-success") or
+                item.select_one("span.a-size-base.a-color-secondary")
+            )
+            coupon = extract_coupon(coupon_el, base_price)
 
-    time.sleep(1)
+            final_price = base_price - coupon
+            if final_price <= 0:
+                final_price = base_price
 
-return products
+            products[asin] = {
+                "title": title,
+                "brand": brand,
+                "image": image,
+                "price": round(final_price, 2),
+                "base_price": round(base_price, 2),
+                "coupon": coupon,
+                "category": f"search_{category}",
+                "url": f"https://www.amazon.it/dp/{asin}"
+            }
 
+        time.sleep(1)
+
+    return products
 
 
 # ---------------------------------------------------
