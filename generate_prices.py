@@ -176,6 +176,8 @@ def scrape_search(url, pages=5, category="search"):
                 "price": round(base_price, 2),      # SALVA SOLO IL PREZZO BASE
                 "base_price": round(base_price, 2), # IDENTICO
                 "coupon": 0,                        # NON SALVI COUPON
+                "category": f"search_{category}",
+                "url": f"https://www.amazon.it/dp/{asin}"
             }
 
 
