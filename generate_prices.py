@@ -86,7 +86,7 @@ def extract_coupon(el, base_price):
 
 
 # ---------------------------------------------------
-# SEARCH SCRAPER
+# SEARCH SCRAPER (VERSIONE CORRETTA)
 # ---------------------------------------------------
 
 def scrape_search(url, pages=5, category="search"):
@@ -205,7 +205,7 @@ SEARCH_CATEGORIES = {
 }
 
 # ---------------------------------------------------
-# SCRAPING COMBINATO (SOLO SEARCH)
+# SCRAPING COMBINATO
 # ---------------------------------------------------
 
 all_products = {}
@@ -213,10 +213,10 @@ all_products = {}
 for name, url in SEARCH_CATEGORIES.items():
     print(f"\n=== SEARCH: {name} ===")
     prods = scrape_search(url, pages=5, category=name)
-    for p in prods:
-        asin = p["asin"]
+
+    for asin, info in prods.items():
         if asin not in all_products:
-            all_products[asin] = p
+            all_products[asin] = info
 
 print(f"\nTotale prodotti raccolti: {len(all_products)}")
 
@@ -228,3 +228,4 @@ with open(PRICES_FILE, "w") as f:
     json.dump(all_products, f, indent=4, ensure_ascii=False)
 
 print("\nprices.json generato con successo!")
+
