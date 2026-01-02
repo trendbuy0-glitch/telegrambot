@@ -19,7 +19,6 @@ HEADERS = {
     "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
 }
 
-
 # ---------------------------------------------------
 # TELEGRAM
 # ---------------------------------------------------
@@ -29,12 +28,10 @@ def send_message(text):
     data = {"chat_id": CHAT_ID, "text": text, "parse_mode": "Markdown"}
     requests.post(url, data=data)
 
-
 def send_photo(image_url, caption):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
     data = {"chat_id": CHAT_ID, "photo": image_url, "caption": caption, "parse_mode": "Markdown"}
     requests.post(url, data=data)
-
 
 # ---------------------------------------------------
 # SCRAPING UTILS
@@ -49,7 +46,6 @@ def safe_float(text):
     except:
         return None
 
-
 def extract_brand_from_title(title):
     if not title:
         return None
@@ -60,7 +56,6 @@ def extract_brand_from_title(title):
     if len(parts) == 1:
         return parts[0]
     return " ".join(parts[:2])
-
 
 def extract_coupon(el, base_price):
     if not el or not base_price:
@@ -86,9 +81,8 @@ def extract_coupon(el, base_price):
 
     return round(coupon, 2)
 
-
 # ---------------------------------------------------
-# SCRAPING SEARCH (STESSO DI generate_prices.py)
+# SCRAPING SEARCH (VERSIONE CORRETTA)
 # ---------------------------------------------------
 
 def scrape_search(url, pages=5, category="search"):
@@ -113,9 +107,7 @@ def scrape_search(url, pages=5, category="search"):
             if not asin:
                 continue
 
-            # ---------------------------
             # TITOLO (fallback multipli)
-            # ---------------------------
             title_el = (
                 item.select_one("h2 a span") or
                 item.select_one("span.a-size-base-plus.a-color-base.a-text-normal") or
@@ -131,18 +123,14 @@ def scrape_search(url, pages=5, category="search"):
 
             brand = extract_brand_from_title(title)
 
-            # ---------------------------
             # IMMAGINE
-            # ---------------------------
             img_el = (
                 item.select_one("img.s-image") or
                 item.select_one("img.s-image-fixed-height")
             )
             image = img_el.get("src") if img_el else None
 
-            # ---------------------------
             # PREZZO (fallback multipli)
-            # ---------------------------
             base_price = None
 
             price_el = item.select_one(".a-price .a-offscreen")
@@ -161,9 +149,7 @@ def scrape_search(url, pages=5, category="search"):
             if base_price is None:
                 continue
 
-            # ---------------------------
             # COUPON
-            # ---------------------------
             coupon_el = (
                 item.select_one(".s-coupon-highlight-color") or
                 item.select_one("span.a-color-success") or
@@ -190,7 +176,9 @@ def scrape_search(url, pages=5, category="search"):
 
     return products
 
-
+# ---------------------------------------------------
+# CATEGORIE
+# ---------------------------------------------------
 
 SEARCH_CATEGORIES = {
     "gpu": "https://www.amazon.it/s?k=scheda+video",
@@ -199,7 +187,6 @@ SEARCH_CATEGORIES = {
     "case": "https://www.amazon.it/s?k=case+pc",
     "mobo": "https://www.amazon.it/s?k=scheda+madre",
 }
-
 
 # ---------------------------------------------------
 # FORMAT MESSAGE
@@ -229,7 +216,6 @@ def format_message(asin, info):
 👉 [Vai su Amazon]({affiliate_link})
 """
 
-
 # ---------------------------------------------------
 # MAIN
 # ---------------------------------------------------
@@ -237,20 +223,19 @@ def format_message(asin, info):
 if __name__ == "__main__":
     send_message("🔍 Controllo offerte in corso...")
 
-    # 1) Carica prezzi vecchi
+    # Carica prezzi vecchi
     with open(PRICES_FILE, "r") as f:
         old_data = json.load(f)
 
-    # 2) Scraping prezzi nuovi
+    # Scraping nuovi prezzi
     new_data = {}
-
     for name, url in SEARCH_CATEGORIES.items():
         scraped = scrape_search(url)
         new_data.update(scraped)
 
     offerte_trovate = 0
 
-    # 3) Confronto vecchi vs nuovi
+    # Confronto vecchi vs nuovi
     for asin, new_info in new_data.items():
         if asin not in old_data:
             continue
