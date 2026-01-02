@@ -175,15 +175,18 @@ def scrape_search(url, pages=5, category="search"):
     return products
 
 # ---------------------------------------------------
-# CATEGORIE
+# CATEGORIE (IDENTICHE A generate_prices.py)
 # ---------------------------------------------------
 
 SEARCH_CATEGORIES = {
+    "alimentatori": "https://www.amazon.it/s?k=alimentatore+pc",
     "gpu": "https://www.amazon.it/s?k=scheda+video",
     "cpu": "https://www.amazon.it/s?k=cpu+intel+amd",
-    "ram": "https://www.amazon.it/s?k=ram+ddr5",
-    "case": "https://www.amazon.it/s?k=case+pc",
+    "dissipatori": "https://www.amazon.it/s?k=dissipatore+cpu",
     "mobo": "https://www.amazon.it/s?k=scheda+madre",
+    "case": "https://www.amazon.it/s?k=case+pc",
+    "ram": "https://www.amazon.it/s?k=ram+ddr5",
+    "ventole": "https://www.amazon.it/s?k=ventole+pc"
 }
 
 # ---------------------------------------------------
@@ -192,7 +195,6 @@ SEARCH_CATEGORIES = {
 
 def format_message(asin, info, old_price):
     title = info["title"]
-    base_price = info["base_price"]
     final_price = info["final_price"]
     coupon = info["coupon"]
 
@@ -238,8 +240,8 @@ if __name__ == "__main__":
         if asin not in old_data:
             continue
 
-        old_price = old_data[asin]["price"]  # prezzo base vecchio
-        new_final = new_info["final_price"]  # prezzo finale nuovo
+        old_price = old_data[asin]["price"]      # prezzo base vecchio
+        new_final = new_info["final_price"]      # prezzo finale nuovo
         new_coupon = new_info["coupon"]
 
         price_drop = new_final < old_price
