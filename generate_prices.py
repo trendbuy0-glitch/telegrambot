@@ -169,20 +169,15 @@ def scrape_search(url, pages=5, category="search"):
             )
             coupon = extract_coupon(coupon_el, base_price)
 
-            final_price = base_price - coupon
-            if final_price <= 0:
-                final_price = base_price
-
             products[asin] = {
                 "title": title,
                 "brand": brand,
                 "image": image,
-                "price": round(final_price, 2),
-                "base_price": round(base_price, 2),
-                "coupon": coupon,
-                "category": f"search_{category}",
-                "url": f"https://www.amazon.it/dp/{asin}"
+                "price": round(base_price, 2),      # SALVA SOLO IL PREZZO BASE
+                "base_price": round(base_price, 2), # IDENTICO
+                "coupon": 0,                        # NON SALVI COUPON
             }
+
 
         time.sleep(1)
 
