@@ -304,3 +304,4 @@ if __name__ == "__main__":
 
     if offerte_trovate == 0:
         send_message("✅ Nessuna offerta da segnalare.")
+
