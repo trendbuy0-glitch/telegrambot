@@ -24,14 +24,26 @@ HEADERS = {
 # ---------------------------------------------------
 
 def send_message(text):
+    if not BOT_TOKEN:
+        print("WARN: BOT_TOKEN non impostato, skip send_message")
+        return
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
     data = {"chat_id": CHAT_ID, "text": text, "parse_mode": "Markdown"}
-    requests.post(url, data=data)
+    try:
+        requests.post(url, data=data, timeout=10)
+    except Exception as e:
+        print("Errore invio messaggio:", e)
 
 def send_photo(image_url, caption):
+    if not BOT_TOKEN:
+        print("WARN: BOT_TOKEN non impostato, skip send_photo")
+        return
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
     data = {"chat_id": CHAT_ID, "photo": image_url, "caption": caption, "parse_mode": "Markdown"}
-    requests.post(url, data=data)
+    try:
+        requests.post(url, data=data, timeout=10)
+    except Exception as e:
+        print("Errore invio foto:", e)
 
 # ---------------------------------------------------
 # SCRAPING UTILS
@@ -95,8 +107,10 @@ def scrape_search(url, pages=5, category="search"):
         try:
             r = requests.get(paged, headers=HEADERS, timeout=15)
             if r.status_code != 200:
+                print(f"WARN: status {r.status_code} per {paged}")
                 continue
-        except:
+        except Exception as e:
+            print("WARN: richiesta fallita:", e)
             continue
 
         soup = BeautifulSoup(r.text, "html.parser")
@@ -107,7 +121,6 @@ def scrape_search(url, pages=5, category="search"):
             if not asin:
                 continue
 
-            # TITOLO
             title_el = (
                 item.select_one("h2 a span") or
                 item.select_one("span.a-size-base-plus.a-color-base.a-text-normal") or
@@ -122,14 +135,12 @@ def scrape_search(url, pages=5, category="search"):
 
             brand = extract_brand_from_title(title)
 
-            # IMMAGINE
             img_el = (
                 item.select_one("img.s-image") or
                 item.select_one("img.s-image-fixed-height")
             )
             image = img_el.get("src") if img_el else None
 
-            # PREZZO BASE
             base_price = None
             price_el = item.select_one(".a-price .a-offscreen")
             if price_el:
@@ -147,7 +158,6 @@ def scrape_search(url, pages=5, category="search"):
             if base_price is None:
                 continue
 
-            # COUPON
             coupon_el = (
                 item.select_one(".s-coupon-highlight-color") or
                 item.select_one("span.a-color-success") or
@@ -155,7 +165,6 @@ def scrape_search(url, pages=5, category="search"):
             )
             coupon = extract_coupon(coupon_el, base_price)
 
-            # PREZZO FINALE
             final_price = base_price - coupon
             if final_price <= 0:
                 final_price = base_price
@@ -194,13 +203,16 @@ SEARCH_CATEGORIES = {
 # ---------------------------------------------------
 
 def format_message(asin, info, old_price):
-    title = info["title"]
-    final_price = info["final_price"]
-    coupon = info["coupon"]
+    title = info.get("title", "Prodotto")
+    final_price = info.get("final_price", 0.0)
+    coupon = info.get("coupon", 0.0)
 
     affiliate_link = f"https://www.amazon.it/dp/{asin}?tag={AFFILIATE_ID}"
 
-    discount_percent = round((old_price - final_price) / old_price * 100)
+    try:
+        discount_percent = round((old_price - final_price) / old_price * 100)
+    except Exception:
+        discount_percent = 0
 
     coupon_text = f"🎟️ *Coupon:* -{coupon:.2f}€\n" if coupon > 0 else ""
 
@@ -223,9 +235,13 @@ def format_message(asin, info, old_price):
 if __name__ == "__main__":
     send_message("🔍 Controllo offerte in corso...")
 
-    # Carica prezzi vecchi (solo base_price)
-    with open(PRICES_FILE, "r") as f:
-        old_data = json.load(f)
+    # Carica prezzi vecchi (gestisce sia 'base_price' che 'price')
+    try:
+        with open(PRICES_FILE, "r", encoding="utf-8") as f:
+            old_data = json.load(f)
+    except Exception as e:
+        print("Errore aprendo prices.json:", e)
+        old_data = {}
 
     # Scraping nuovi prezzi
     new_data = {}
@@ -233,16 +249,42 @@ if __name__ == "__main__":
         scraped = scrape_search(url)
         new_data.update(scraped)
 
+    # Debug rapido
+    print("ASIN nel file vecchio:", len(old_data), list(old_data.keys())[:10])
+    print("ASIN trovati nello scraping:", len(new_data), list(new_data.keys())[:10])
+
     offerte_trovate = 0
 
     # Confronto vecchi vs nuovi
     for asin, new_info in new_data.items():
         if asin not in old_data:
+            # opzionale: log per capire quali ASIN nuovi non sono nel file vecchio
+            # print(f"Nuovo ASIN non presente in prices.json: {asin}")
             continue
 
-        old_price = old_data[asin]["price"]      # prezzo base vecchio
-        new_final = new_info["final_price"]      # prezzo finale nuovo
-        new_coupon = new_info["coupon"]
+        old_entry = old_data.get(asin, {})
+        # preferiamo base_price, fallback su price (compatibilità)
+        old_price = None
+        if isinstance(old_entry, dict):
+            old_price = old_entry.get("base_price")
+            if old_price is None:
+                old_price = old_entry.get("price")
+        else:
+            # se old_entry è un valore semplice
+            try:
+                old_price = float(old_entry)
+            except:
+                old_price = None
+
+        if old_price is None:
+            print(f"Salto {asin}: nessun prezzo vecchio valido")
+            continue
+
+        new_final = new_info.get("final_price")
+        new_coupon = new_info.get("coupon", 0)
+
+        if new_final is None:
+            continue
 
         price_drop = new_final < old_price
         has_coupon = new_coupon > 0
