@@ -55,26 +55,24 @@ def extract_coupon(el, base_price):
     if "%" in text:
         try:
             perc = text.replace("risparmia", "").replace("coupon", "").replace("%", "").strip()
-            perc_val = float(perc)
-            coupon = base_price * (perc_val / 100)
+            coupon = base_price * (float(perc) / 100)
         except:
             pass
 
     if "€" in text:
         try:
             fixed = text.replace("coupon", "").replace("€", "").strip()
-            fixed_val = float(fixed)
-            coupon = max(coupon, fixed_val)
+            coupon = max(coupon, float(fixed))
         except:
             pass
 
     return round(coupon, 2)
 
 # ---------------------------------------------------
-# SCRAPING SEARCH
+# SCRAPER (ATTUALE)
 # ---------------------------------------------------
 
-def scrape_search(url, pages=5, category="search"):
+def scrape_search(url, pages=5):
     products = {}
 
     for page in range(1, pages + 1):
@@ -97,10 +95,8 @@ def scrape_search(url, pages=5, category="search"):
 
             title_el = (
                 item.select_one("h2 a span") or
-                item.select_one("span.a-size-base-plus.a-color-base.a-text-normal") or
-                item.select_one("span.a-size-medium.a-color-base.a-text-normal") or
                 item.select_one("span.a-size-base-plus.a-color-base") or
-                item.select_one("span.a-size-base.a-color-base") or
+                item.select_one("span.a-size-medium.a-color-base") or
                 item.select_one("h2 span")
             )
             if not title_el:
@@ -108,10 +104,7 @@ def scrape_search(url, pages=5, category="search"):
 
             title = title_el.get_text(strip=True)
 
-            img_el = (
-                item.select_one("img.s-image") or
-                item.select_one("img.s-image-fixed-height")
-            )
+            img_el = item.select_one("img.s-image")
             image = img_el.get("src") if img_el else None
 
             base_price = None
@@ -133,14 +126,11 @@ def scrape_search(url, pages=5, category="search"):
 
             coupon_el = (
                 item.select_one(".s-coupon-highlight-color") or
-                item.select_one("span.a-color-success") or
-                item.select_one("span.a-size-base.a-color-secondary")
+                item.select_one("span.a-color-success")
             )
             coupon = extract_coupon(coupon_el, base_price)
 
             final_price = base_price - coupon
-            if final_price <= 0:
-                final_price = base_price
 
             products[asin] = {
                 "title": title,
@@ -156,7 +146,7 @@ def scrape_search(url, pages=5, category="search"):
     return products
 
 # ---------------------------------------------------
-# CATEGORIE
+# CATEGORIE (IDENTICHE A generate_prices.py)
 # ---------------------------------------------------
 
 SEARCH_CATEGORIES = {
@@ -209,19 +199,19 @@ if __name__ == "__main__":
 
     new_data = {}
     for name, url in SEARCH_CATEGORIES.items():
-        scraped = scrape_search(url, category=name)
+        scraped = scrape_search(url)
         new_data.update(scraped)
 
-    # 🔥 STAMPA OGNI PRODOTTO TROVATO
+    # 🔥 STAMPA TUTTI I PRODOTTI TROVATI
     send_message("📦 *Prodotti trovati nello scraping:*")
     for asin, info in new_data.items():
         msg = (
             f"ASIN: `{asin}`\n"
-            f"Titolo: {info.get('title')}\n"
-            f"Prezzo base: {info.get('base_price')}€\n"
-            f"Prezzo finale: {info.get('final_price')}€\n"
-            f"Coupon: {info.get('coupon')}€\n"
-            f"URL: {info.get('url')}\n"
+            f"Titolo: {info['title']}\n"
+            f"Prezzo base: {info['base_price']}€\n"
+            f"Prezzo finale: {info['final_price']}€\n"
+            f"Coupon: {info['coupon']}€\n"
+            f"URL: {info['url']}\n"
             "-------------------------"
         )
         send_message(msg)
@@ -233,11 +223,7 @@ if __name__ == "__main__":
         if asin not in old_data:
             continue
 
-        # 🔥 PREZZO VECCHIO = base_price
-        old_price = old_data[asin].get("base_price") or old_data[asin].get("price")
-        if old_price is None:
-            continue
-
+        old_price = old_data[asin]["base_price"]
         new_final = new_info["final_price"]
         new_coupon = new_info["coupon"]
 
