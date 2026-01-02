@@ -91,11 +91,13 @@ def extract_coupon(el, base_price):
 # SCRAPING SEARCH (STESSO DI generate_prices.py)
 # ---------------------------------------------------
 
-def scrape_search(url, pages=3):
+def scrape_search(url, pages=5, category="search"):
     products = {}
 
     for page in range(1, pages + 1):
         paged = f"{url}&page={page}"
+        print(f"[SEARCH] {category} - {paged}")
+
         try:
             r = requests.get(paged, headers=HEADERS, timeout=15)
             if r.status_code != 200:
@@ -111,23 +113,62 @@ def scrape_search(url, pages=3):
             if not asin:
                 continue
 
-            title_el = item.select_one("h2 a span")
+            # ---------------------------
+            # TITOLO (fallback multipli)
+            # ---------------------------
+            title_el = (
+                item.select_one("h2 a span") or
+                item.select_one("span.a-size-base-plus.a-color-base.a-text-normal") or
+                item.select_one("span.a-size-medium.a-color-base.a-text-normal") or
+                item.select_one("span.a-size-base-plus.a-color-base") or
+                item.select_one("span.a-size-base.a-color-base") or
+                item.select_one("h2 span")
+            )
+
             title = title_el.get_text(strip=True) if title_el else None
+            if not title:
+                continue
 
             brand = extract_brand_from_title(title)
 
-            img_el = item.select_one("img.s-image")
+            # ---------------------------
+            # IMMAGINE
+            # ---------------------------
+            img_el = (
+                item.select_one("img.s-image") or
+                item.select_one("img.s-image-fixed-height")
+            )
             image = img_el.get("src") if img_el else None
 
-            price_el = item.select_one(".a-price .a-offscreen")
-            if not price_el:
-                continue
+            # ---------------------------
+            # PREZZO (fallback multipli)
+            # ---------------------------
+            base_price = None
 
-            base_price = safe_float(price_el.get_text(strip=True))
+            price_el = item.select_one(".a-price .a-offscreen")
+            if price_el:
+                base_price = safe_float(price_el.get_text(strip=True))
+
+            if base_price is None:
+                whole = item.select_one("span.a-price-whole")
+                frac = item.select_one("span.a-price-fraction")
+                if whole:
+                    price_text = whole.get_text(strip=True)
+                    if frac:
+                        price_text += "." + frac.get_text(strip=True)
+                    base_price = safe_float(price_text)
+
             if base_price is None:
                 continue
 
-            coupon_el = item.select_one(".s-coupon-highlight-color, span.a-color-base")
+            # ---------------------------
+            # COUPON
+            # ---------------------------
+            coupon_el = (
+                item.select_one(".s-coupon-highlight-color") or
+                item.select_one("span.a-color-success") or
+                item.select_one("span.a-size-base.a-color-secondary")
+            )
             coupon = extract_coupon(coupon_el, base_price)
 
             final_price = base_price - coupon
@@ -141,12 +182,14 @@ def scrape_search(url, pages=3):
                 "price": round(final_price, 2),
                 "base_price": round(base_price, 2),
                 "coupon": coupon,
+                "category": f"search_{category}",
                 "url": f"https://www.amazon.it/dp/{asin}"
             }
 
         time.sleep(1)
 
     return products
+
 
 
 SEARCH_CATEGORIES = {
