@@ -1,240 +1,366 @@
 {
-    "B0FDGGXS5R": {
-        "title": "TR Trofeo Vision 360 ARGB Raffreddatore CPU AIO radiatore 360 mm schermo LCD IPS 1280x480 AM4/AM5, Intel LGA1851/1700",
-        "image": "https://m.media-amazon.com/images/I/61bJywzw-iL._AC_UL320_.jpg",
-        "base_price": 167.71,
-        "url": "https://www.amazon.it/dp/B0FDGGXS5R",
+    "B0815XFSGK": {
+        "title": "Processore AMD Ryzen 7 5800X (8 Cores/16 threads, 105W DTP, AM4 socket, 36 MB Cache, Boost di Frequenza fino a 4,7Ghz max, senza ventole)",
+        "image": "https://m.media-amazon.com/images/I/61IIbwz-+ML._AC_UL320_.jpg",
+        "base_price": 209.74,
+        "url": "https://www.amazon.it/dp/B0815XFSGK",
         "category": "cpu"
     },
-    "B0BLH1M85C": {
-        "title": "Thermalright Raffreddatore del CPU di raffreddamento ad acqua del NERO di Notte 360 di Notte congelato, adatti ad AMD/AM4, Intel LGA 1700/1150/1151/1200/2011/2066",
-        "image": "https://m.media-amazon.com/images/I/615-IFPME2L._AC_UL320_.jpg",
-        "base_price": 91.84,
-        "url": "https://www.amazon.it/dp/B0BLH1M85C",
+    "B0D6NN6TM7": {
+        "title": "AMD Ryzen 5 9600X (scheda grafica integrata Radeon, 6 Cores/12 Threads, 65W DTP, Socket AM5, Cache 38MB, Boost di Frequenza fino a 5.4 GHz max, senza ventole)",
+        "image": "https://m.media-amazon.com/images/I/61RfWUr4kvL._AC_UL320_.jpg",
+        "base_price": 184.79,
+        "url": "https://www.amazon.it/dp/B0D6NN6TM7",
         "category": "cpu"
     },
-    "B0DX22FZ4R": {
-        "title": "TR -FW240 - Raffreddatore ad acqua per CPU, 3 ventole PWM, sistema di raffreddamento ad acqua con schermo LCD IPS con risoluzione 320 x 240, per AMD/AM4/AM5 e Intel LGA1851/1700, raffreddamento a",
-        "image": "https://m.media-amazon.com/images/I/616hCl9CWkL._AC_UL320_.jpg",
-        "base_price": 79.0,
-        "url": "https://www.amazon.it/dp/B0DX22FZ4R",
+    "B07STGHZK8": {
+        "title": "Processore AMD Ryzen 3 3200G (GPU integrata Radeon Vega 8, 4 cores/4 threads, 65W DTP, AM4 socket, 6MB Cache, Boost di Frequenza fino a 4.0 Ghz max, dissipatore ad aria \"Wraith stealth cooler\")",
+        "image": "https://m.media-amazon.com/images/I/81DdgQpbMqL._AC_UL320_.jpg",
+        "base_price": 51.01,
+        "url": "https://www.amazon.it/dp/B07STGHZK8",
         "category": "cpu"
     },
-    "B09LXPLVSV": {
-        "title": "Thermaltake TH360 ARGB Sincronizzazione della scheda madre Snow Edition Intel LGA1700 Ready/AM5/AMD Sistema di raffreddamento a liquido All-in-One 360 mm ad alta efficienza del radiatore CPU Cooler",
-        "image": "https://m.media-amazon.com/images/I/71t1jonnSKL._AC_UL320_.jpg",
-        "base_price": 373.21,
-        "url": "https://www.amazon.it/dp/B09LXPLVSV",
+    "B0BBJDS62N": {
+        "title": "Processore AMD Ryzen 5 7600X (scheda grafica integrata Radeon, 6 cores/12 threads, 105W TDP,AM5 socket, 38MB cache, Boost di Frequenza fino a 5.3 GHz max, senza ventole)",
+        "image": "https://m.media-amazon.com/images/I/51m7L9bQI8L._AC_UL320_.jpg",
+        "base_price": 172.94,
+        "url": "https://www.amazon.it/dp/B0BBJDS62N",
         "category": "cpu"
     },
-    "B0CDHCSCTM": {
-        "title": "CORSAIR iCUE LINK XC7 RGB ELITE Waterblock per CPU - Camera di Flusso Trasparente - 24 LED RGB - Adatto per Intel LGA 1700, AMD AM5 e precedenti - Bianco",
-        "image": "https://m.media-amazon.com/images/I/71lgVyli4pL._AC_UL320_.jpg",
-        "base_price": 113.82,
-        "url": "https://www.amazon.it/dp/B0CDHCSCTM",
+    "B0DFK8HHK4": {
+        "title": "Intel® Core™ Ultra 5 per sistemi processore desktop 245KF 14 core 6 P-core + 8 E-core fino a 5,2 GHz, 5 245KF",
+        "image": "https://m.media-amazon.com/images/I/51ppFJC5HWL._AC_UL320_.jpg",
+        "base_price": 161.64,
+        "url": "https://www.amazon.it/dp/B0DFK8HHK4",
         "category": "cpu"
     },
-    "B0DWXGJDK9": {
-        "title": "TR - Assassin X 120R Digital White CPU Cooler, 120mm PWM Quiet CPU Fan, AGHP 4th Technology, Supporto Intel lga1700/1851/1150/1151/1200, AMD: AM4/AM5, raffreddamento del computer, copertura superiore",
-        "image": "https://m.media-amazon.com/images/I/61+h3VScuVL._AC_UL320_.jpg",
-        "base_price": 32.99,
-        "url": "https://www.amazon.it/dp/B0DWXGJDK9",
+    "B0G1CKBY4S": {
+        "title": "Mars Gaming MCPU-X3, Dissipatore CPU 190W TDP, 3x Heatpipes, Ventola PWM FDB, Illuminazione FRGB, Design Compatto SFF/Mini-ITX, Alette in Alluminio, Cooler PC con Compatibilità Intel e AMD, Nero",
+        "image": "https://m.media-amazon.com/images/I/71Eotf0NBiL._AC_UL320_.jpg",
+        "base_price": 10.25,
+        "url": "https://www.amazon.it/dp/B0G1CKBY4S",
         "category": "cpu"
     },
-    "B0D3HQF1WD": {
-        "title": "DARKROCK D360 CPU Liquid Cooler con radiatore da 360 mm, luci RGB indirizzabili, pompa in rame puro e staffe AMD, AM5/AM4, Intel LGA 1700/1200 pronte, nero",
-        "image": "https://m.media-amazon.com/images/I/61TjIvF56CL._AC_UL320_.jpg",
-        "base_price": 318.66,
-        "url": "https://www.amazon.it/dp/B0D3HQF1WD",
+    "B0FN82S51N": {
+        "title": "Mars Gaming MCPU-X4, Dissipatore CPU 230W TDP, 4x Heatpipes HCT Nuova Generazione, Ventola PWM SI Extreme-Silence 120mm, Nucleo in Rame Bilanciato, Compatibilità Universale Intel e AMD, Bianco",
+        "image": "https://m.media-amazon.com/images/I/71FJ-rn7dRL._AC_UL320_.jpg",
+        "base_price": 18.44,
+        "url": "https://www.amazon.it/dp/B0FN82S51N",
         "category": "cpu"
     },
-    "B0DX235BN5": {
-        "title": "TR -FW360 - Raffreddatore ad acqua per CPU, 3 ventole PWM, sistema di raffreddamento ad acqua, schermo LCD IPS con risoluzione 320 x 240, per AMD/AM4/AM5 e Intel LGA1851/1700, computer 360 CPU Liquid",
-        "image": "https://m.media-amazon.com/images/I/61y3LWt-v2L._AC_UL320_.jpg",
-        "base_price": 95.75,
-        "url": "https://www.amazon.it/dp/B0DX235BN5",
+    "B0CQ2YMZ8X": {
+        "title": "Intel® Core™ i7-14700 Processore per sistemi desktop 14700 20 core 8 P-core + 12 E-core fino a 5,4 GHz",
+        "image": "https://m.media-amazon.com/images/I/612E6UUVubL._AC_UL320_.jpg",
+        "base_price": 286.07,
+        "url": "https://www.amazon.it/dp/B0CQ2YMZ8X",
         "category": "cpu"
     },
-    "B0CCV8M4C7": {
-        "title": "Redragon C218 Dual Tower CPU Air Cooler, A-RGB CPU Cooling FDB Fan, 120 mm PWM Low Noise, 6 tubi di calore in alluminio, copertura del dissipatore di calore per Intel 1700/115X/1200, AMD AM4/AM5",
-        "image": "https://m.media-amazon.com/images/I/716NyJXNIFL._AC_UL320_.jpg",
-        "base_price": 74.84,
-        "url": "https://www.amazon.it/dp/B0CCV8M4C7",
+    "B0DTHX5T88": {
+        "title": "Cooler Master Hyper 612 Apex CPU Dissipatore Aria - 6 Tubi Calore Conduttivi (TDP 260W), Doppie Ventole Mobius 120P 120mm, Dissipatore Calore Compatto, Zero Interferenze RAM - Compatibile AMD e Intel",
+        "image": "https://m.media-amazon.com/images/I/81kpaXVt+4L._AC_UL320_.jpg",
+        "base_price": 87.17,
+        "url": "https://www.amazon.it/dp/B0DTHX5T88",
         "category": "cpu"
     },
-    "B09Z28L36X": {
-        "title": "TEAMGROUP T-Force Siren GD360E AIO ARGB CPU Liquid Cooler Compatible with AMD Ryzen/Intel (LGA1700), All-in-One 4000 RPM Pump, Fan Speed 600-2000 RPM, Thin Nylon x Rubber Tubes, White TB130602",
-        "image": "https://m.media-amazon.com/images/I/71qt1OBHtPL._AC_UL320_.jpg",
-        "base_price": 150.19,
-        "url": "https://www.amazon.it/dp/B09Z28L36X",
+    "B0C7C5FTC7": {
+        "title": "Thermalright Assassin Spirit 120 V2 PLUS CPU Air Cooler, 4 tubi di calore, doppia ventola PWM silenziosa, dissipatore di calore per computer, per AMD AM4 AM5/Intel 1700/1150/1151/1200 (AS120 V2 Plus)",
+        "image": "https://m.media-amazon.com/images/I/71GJ8hX0eiL._AC_UL320_.jpg",
+        "base_price": 34.15,
+        "url": "https://www.amazon.it/dp/B0C7C5FTC7",
         "category": "cpu"
     },
-    "B0DWRLBMBN": {
-        "title": "TR - AE120 V3 Aio CPU Cooler, 120 file di raffreddamento a liquido, ventola di raffreddamento ARGB PWM, per Intel LGA1150/1151/1155/1156/1200/2011/1700, AMD: AM4/AM5, PC Cooler Aio",
-        "image": "https://m.media-amazon.com/images/I/61gD40xKhPL._AC_UL320_.jpg",
-        "base_price": 50.26,
-        "url": "https://www.amazon.it/dp/B0DWRLBMBN",
+    "B0FJLPCKXC": {
+        "title": "Mars Gaming MCPU-X4ARGB, Dissipatore CPU 220W TDP, 4x Heatpipes HCT Nuova Generazione, Ventola PWM SI Extreme-Silent ARGB 120mm, Nucleo in Rame Iperbilanciato, Compatibilità Intel e AMD, Nero",
+        "image": "https://m.media-amazon.com/images/I/81qVYGqHDaL._AC_UL320_.jpg",
+        "base_price": 32.67,
+        "url": "https://www.amazon.it/dp/B0FJLPCKXC",
         "category": "cpu"
     },
-    "B0DWSY4DXB": {
-        "title": "TR -AQUA ELITE 240 White V3 CPU Liquid Cooler, 2 ventole ARGB PWM con cuscinetti S-FDB, efficiente pompa controllata PWM, per AMD / AM4 / AM5 Intel LGA1150 / 1151/1200 / 2011/1700/1851",
-        "image": "https://m.media-amazon.com/images/I/61pa0Lyp3UL._AC_UL320_.jpg",
-        "base_price": 58.49,
-        "url": "https://www.amazon.it/dp/B0DWSY4DXB",
+    "B0BR3M7LJX": {
+        "title": "Thermalright PS120SE ARGB CPU Cooler, 7 tubi di calore CPU Cooler, Dual 120mm TL-C12B-S V2 PWM Fan, AGHP 4.0 Technilogy, S-FDB Bearing, Per AMD AM4 AM5/Intel 1700/1150/1151/1200, PC Cooler",
+        "image": "https://m.media-amazon.com/images/I/71Z0D6GGhvL._AC_UL320_.jpg",
+        "base_price": 48.57,
+        "url": "https://www.amazon.it/dp/B0BR3M7LJX",
         "category": "cpu"
     },
-    "B0DYDPQR6G": {
-        "title": "TR Assassin Spirit 120 EVO CPU Cooler Air con 4 x 6 mm HeatPipes, TL-S12-S PWM Fan Dissipatore CPU Cooler, 156 mm di altezza, per AMD: AM4 AM5/Intel 1700/1150/1151/1200, LGA17XX PC Cooler",
-        "image": "https://m.media-amazon.com/images/I/71i29z576bL._AC_UL320_.jpg",
-        "base_price": 32.21,
-        "url": "https://www.amazon.it/dp/B0DYDPQR6G",
+    "B0B4JF4QTB": {
+        "title": "Thermalright Assassin X120 Raffinato SE CPU Air Cooler, 4 Heatpipes, TL-C12C PWM Fan, per AMD AM4/AM5 Intel 1700/1150/1151/1200",
+        "image": "https://m.media-amazon.com/images/I/71beJ-ZVzNL._AC_UL320_.jpg",
+        "base_price": 27.43,
+        "url": "https://www.amazon.it/dp/B0B4JF4QTB",
         "category": "cpu"
     },
-    "B0DWXFPQVW": {
-        "title": "TR - Peerless Assassin 120 Digital White CPU Cooler, doppie ventole PWM da 120 mm con velocità 1850 giri/min, supporto Intel lga1700/1851/115X/1200, AMD: AM4/AM5, raffreddamento CPU del computer",
-        "image": "https://m.media-amazon.com/images/I/6197isJ6rvL._AC_UL320_.jpg",
-        "base_price": 56.62,
-        "url": "https://www.amazon.it/dp/B0DWXFPQVW",
+    "B0CMTNZHK7": {
+        "title": "Thermalright Assassin X 90 SE V2 CPU Air Cooler con 4 × 6 mm HeatPipes, 92 mm TL-P9 PWM Fan CPU Cooler, AGHP 4th Technology, per AMD: AM4 AM5/Intel 1700/1150/1151/1200, PC MINI Tower Cooler",
+        "image": "https://m.media-amazon.com/images/I/716g4kdL--L._AC_UL320_.jpg",
+        "base_price": 23.2,
+        "url": "https://www.amazon.it/dp/B0CMTNZHK7",
         "category": "cpu"
     },
-    "B0F229GSXG": {
-        "title": "Nfortec Centaurus X2 Disipador por Aire para CPU, 4 Pipes de 120mm, Tecnología Iluminación ARGB, Ventilador con Control PWM, socket INTEL y AMD, Blanco",
-        "image": "https://m.media-amazon.com/images/I/71m5+NyLlbL._AC_UL320_.jpg",
-        "base_price": 30.52,
-        "url": "https://www.amazon.it/dp/B0F229GSXG",
+    "B0CCRX13FZ": {
+        "title": "Thermalright AQUA ELITE 360 V3 Liquid CPU Cooler, 3 ventole PWM ARGB con cuscinetti S-FDB, efficiente pompa controllata PWM, per AMD/AM4/AM5, Intel LGA1150/1151/1200/2011/1700, (AE360 V3)",
+        "image": "https://m.media-amazon.com/images/I/612ptcpN5cL._AC_UL320_.jpg",
+        "base_price": 75.32,
+        "url": "https://www.amazon.it/dp/B0CCRX13FZ",
         "category": "cpu"
     },
-    "B0CNKVHXTW": {
-        "title": "GameMax Ice Blade - Dissipatore di calore per CPU 190 W TDP 4 x 6 mm, dissipatore di calore in alluminio, ventola ARGB a doppio anello PWM Infinity da 120 mm, per prese Intel e AMD, nero/cromato",
-        "image": "https://m.media-amazon.com/images/I/61m9uQIq2OL._AC_UL320_.jpg",
-        "base_price": 31.01,
-        "url": "https://www.amazon.it/dp/B0CNKVHXTW",
+    "B0BGP8RNHV": {
+        "title": "Thermalright Assassin King 120 SE ARGB CPU Air Cooler, AK120 SE ARB, 5 Heatpies, TL-C12C-S PWM Silenzioso Ventola CPU Cooler con cuscinetto S-FDB, per AMD AM4/Intel 115X/1200/17XX, LGA1700",
+        "image": "https://m.media-amazon.com/images/I/61rAP+MM39L._AC_UL320_.jpg",
+        "base_price": 29.52,
+        "url": "https://www.amazon.it/dp/B0BGP8RNHV",
         "category": "cpu"
     },
-    "B0D97V4NQZ": {
-        "title": "Gamepower Skadi LCD 240 AIO CPU Liquid Cooler, display da 2,1\" per GIF e metriche, radiatore da 240 mm con 2 ventole PWM ARGB HDB, pasta termica da 14,5 W/mK, compatibile con Intel LGA 1851, 1700, AMD",
-        "image": "https://m.media-amazon.com/images/I/71IPTF8eWxL._AC_UL320_.jpg",
-        "base_price": 431.17,
-        "url": "https://www.amazon.it/dp/B0D97V4NQZ",
+    "B0DXVSJWQV": {
+        "title": "GIGABYTE GAMING 360 ICE Raffreddamento Liquido per CPU - 3x120 mm Ventole ARGB, Meccanismo di bloccaggio a scorrimento, DAISY-CHAIN, Compatibile con Intel LGA 1851 e AMD AM5",
+        "image": "https://m.media-amazon.com/images/I/71WSOX7no0L._AC_UL320_.jpg",
+        "base_price": 72.42,
+        "url": "https://www.amazon.it/dp/B0DXVSJWQV",
         "category": "cpu"
     },
-    "B0D97T24YQ": {
-        "title": "Gamepower Skadi LCD 360 AIO CPU Liquid Cooler, 2,1\" LCD per GIF e metriche, radiatore da 360 mm con 3 ventole PWM ARGB HDB, 14,5 W/mK pasta termica, compatibile con Intel 1700, AMD AM4/AM5",
-        "image": "https://m.media-amazon.com/images/I/61M6nr2zfXL._AC_UL320_.jpg",
-        "base_price": 529.39,
-        "url": "https://www.amazon.it/dp/B0D97T24YQ",
+    "B0CJPGN9DM": {
+        "title": "Antec Raffreddatore d'aria per CPU A30 Pro, ventola LED blu da 90 mm per CPU Intel/AMD",
+        "image": "https://m.media-amazon.com/images/I/71hugMScnqL._AC_UL320_.jpg",
+        "base_price": 24.67,
+        "url": "https://www.amazon.it/dp/B0CJPGN9DM",
         "category": "cpu"
     },
-    "B0DX251QS4": {
-        "title": "TR -FW360 - Raffreddatore ad acqua ARGB, 3 ventole PWM, sistema di raffreddamento ad acqua, schermo LCD IPS con risoluzione 320 x 240, per AM4/AM5 e Intel LGA1851/1700, raffreddamento a liquido CPU",
-        "image": "https://m.media-amazon.com/images/I/614vxKhmNAL._AC_UL320_.jpg",
-        "base_price": 102.7,
-        "url": "https://www.amazon.it/dp/B0DX251QS4",
+    "B0DF7CZ9D8": {
+        "title": "CORSAIR iCUE LINK TITAN 360 RX LCD Raffreddatore CPU a Liquido – Motore di Raffreddamento FlowDrive – Intel LGA 1851/1700, AMD AM5/AM4 – 3x RX120 Ventole RGB – iCUE LINK System Hub Incluso – Nero",
+        "image": "https://m.media-amazon.com/images/I/718andDifNL._AC_UL320_.jpg",
+        "base_price": 225.33,
+        "url": "https://www.amazon.it/dp/B0DF7CZ9D8",
         "category": "cpu"
     },
-    "B0F228XMP8": {
-        "title": "Nfortec Centaurus X2 Disipador por Aire para CPU, 4 Pipes de 120mm, Tecnología Iluminación ARGB, Ventilador con Control PWM, socket INTEL y AMD, Negro",
-        "image": "https://m.media-amazon.com/images/I/71ZSNx-2e4L._AC_UL320_.jpg",
-        "base_price": 31.79,
-        "url": "https://www.amazon.it/dp/B0F228XMP8",
+    "B0D8THN1NQ": {
+        "title": "Thermalright Peerless Assassin 140 - Raffreddatore CPU bianco, 6 tubi di calore per PC, doppia torre e doppia ventola PWM, raffreddamento ad aria CPU per AMD: AM4 AM5 e Intel",
+        "image": "https://m.media-amazon.com/images/I/71to9WpMo0L._AC_UL320_.jpg",
+        "base_price": 57.28,
+        "url": "https://www.amazon.it/dp/B0D8THN1NQ",
         "category": "cpu"
     },
-    "B0BHDSF7RM": {
-        "title": "ENDORFY Navis F360 – Dissipatore a liquido AIO per CPU, radiatore da 360mm, pompa PWM, 3x ventole Fluctus 120 PWM, Intel LGA 1700/1200/115x & AMD AM5/AM4",
-        "image": "https://m.media-amazon.com/images/I/41oJ3PsN91L._AC_UL320_.jpg",
-        "base_price": 87.97,
-        "url": "https://www.amazon.it/dp/B0BHDSF7RM",
+    "B0D6NMDNNX": {
+        "title": "AMD Ryzen 7 9700X (8 Cores/16 Threads) 65W DTP, AM5 socket, 40MB Cache, Boost di Frequenza fino a 5.5 GHz max, senza ventole)",
+        "image": "https://m.media-amazon.com/images/I/61F3ZChalyL._AC_UL320_.jpg",
+        "base_price": 309.34,
+        "url": "https://www.amazon.it/dp/B0D6NMDNNX",
         "category": "cpu"
     },
-    "B0DWSXJL6Z": {
-        "title": "TR -Assassin King 120 SE WHITE ARGB CPU Air Cooler, AK120 SE WHITE ARB, 5 Heatpipes, TL-C12CW-S PWM Quiet Fan CPU Cooler con cuscinetto S-FDB, per AMD AM4 AM5/Intel 1150/1151/1200/1700",
-        "image": "https://m.media-amazon.com/images/I/619x5cmRVRL._AC_UL320_.jpg",
-        "base_price": 30.0,
-        "url": "https://www.amazon.it/dp/B0DWSXJL6Z",
+    "B0D6NNRBGP": {
+        "title": "AMD Ryzen 9 9950X (scheda grafica integrata Radeon, 16 Cores/32 Threads, 170 W DTP, AM5 Socket, 80MB Cache, Boost di Frequenza fino a 5.7 GHz Frequency Boost, senza ventole)",
+        "image": "https://m.media-amazon.com/images/I/61dukbEGziL._AC_UL320_.jpg",
+        "base_price": 527.86,
+        "url": "https://www.amazon.it/dp/B0D6NNRBGP",
         "category": "cpu"
     },
-    "B0CDHDS799": {
-        "title": "CORSAIR XC7 RGB ELITE LCD Waterblock per CPU - Schermo LCD IPS 480x480-31 LED RGB - USB-C - Adatto per Intel LGA 1700, AMD AM5 e precedenti - Grigio Invisibile",
-        "image": "https://m.media-amazon.com/images/I/71g5gyfwJzL._AC_UL320_.jpg",
-        "base_price": 139.34,
-        "url": "https://www.amazon.it/dp/B0CDHDS799",
+    "B0D6NN87T8": {
+        "title": "AMD Ryzen 9 9900X (scheda grafica integrata Radeon, 12 Cores/24 Threads, 120W TDP, AM5 Socket, 76MB Cache, Boost di Frequenza fino a 5.6 GHz max, senza ventole)",
+        "image": "https://m.media-amazon.com/images/I/61dukbEGziL._AC_UL320_.jpg",
+        "base_price": 377.86,
+        "url": "https://www.amazon.it/dp/B0D6NN87T8",
         "category": "cpu"
     },
-    "B0DYV88M34": {
-        "title": "TR -Mjolnir Vision 360 ARGB - Raffreddatore ad acqua CPU nero con ventola PWM, velocità 2000 giri/min, schermo LCD IPS con risoluzione 320 x 240, raffreddamento CPU liquido, per AM5 e Intel 14a",
-        "image": "https://m.media-amazon.com/images/I/61tNeOpAw0L._AC_UL320_.jpg",
-        "base_price": 131.64,
-        "url": "https://www.amazon.it/dp/B0DYV88M34",
+    "B0DYDK12PB": {
+        "title": "TR - Ventola di raffreddamento CPU Assassin X 120R SE PLUS, 4 tubi di calore da 6 mm, velocità 1550 giri/min, ventola PWM silenziosa da 120 mm, con cuscinetto S-FDB, per AMD AM4 AM5/Intel 1700/1150",
+        "image": "https://m.media-amazon.com/images/I/71DUH4VTcrL._AC_UL320_.jpg",
+        "base_price": 32.0,
+        "url": "https://www.amazon.it/dp/B0DYDK12PB",
         "category": "cpu"
     },
-    "B0DWRS7N6P": {
-        "title": "TR -Peerless Assassin 120 SE White ARGB CPU Cooler, 6 Heat Pipes AGHP Technology, Dual Tower e Dual PWM Fans, 155mm High, Computer CPU Cooling per AMD: AM4 AM5/Intel LGA 1700/1150/1151/1200",
-        "image": "https://m.media-amazon.com/images/I/71OGjikz5NL._AC_UL320_.jpg",
-        "base_price": 49.84,
-        "url": "https://www.amazon.it/dp/B0DWRS7N6P",
+    "B09HR9ZP5V": {
+        "title": "Oversteel - ZIRCON Raffreddamento a liquido 240 mm RGB, 2x ventola PWM 120 mm RGB, TDP 200 W, compatibile con Intel e AMD AM4, colore nero",
+        "image": "https://m.media-amazon.com/images/I/61-yyi7Zf8L._AC_UL320_.jpg",
+        "base_price": 40.52,
+        "url": "https://www.amazon.it/dp/B09HR9ZP5V",
         "category": "cpu"
     },
-    "B0DYNNR3MH": {
-        "title": "TR - Core Vision 360 bianco ARGB CPU raffreddamento ad acqua con ventola PWM, velocità 2000 giri/min, schermo LCD IPS con risoluzione 480 * 480, raffreddamento CPU liquido, per AM5/Intel LGA1851/700",
-        "image": "https://m.media-amazon.com/images/I/61H1oYWW51L._AC_UL320_.jpg",
-        "base_price": 105.76,
-        "url": "https://www.amazon.it/dp/B0DYNNR3MH",
+    "B0C7C2HY6H": {
+        "title": "Thermalright Assassin X 120R SE PLUS CPU Air Cooler, 4 tubi di calore, altezza 148 mm, ventola doppia PWM 120 mm, dissipatore di calore, per AMD AM4 AM5/Intel LGA1700/1150/1151/1200, raffreddamento",
+        "image": "https://m.media-amazon.com/images/I/71KgFuCFUmL._AC_UL320_.jpg",
+        "base_price": 32.56,
+        "url": "https://www.amazon.it/dp/B0C7C2HY6H",
         "category": "cpu"
     },
-    "B0DWXFHBQM": {
-        "title": "TR -Peerless Assassin 120 SE V3 CPU Cooler, 6 Heat Pipes AGHP Technology, 155mm High, Computer CPU Cooling for AMD: AM4 AM5/Intel LGA 1851/1700/1150/1151/1200",
-        "image": "https://m.media-amazon.com/images/I/71-90AedCPL._AC_UL320_.jpg",
-        "base_price": 46.3,
-        "url": "https://www.amazon.it/dp/B0DWXFHBQM",
+    "B0C6R9XZJJ": {
+        "title": "mCover Custodia compatibile solo per HP EliteBook 840 (Intel CPU) da 14\" 2022~2023 | 845 (AMD CPU) G9 / G10 Series Notebook PC (non compatibile con altri modelli HP) - Blu",
+        "image": "https://m.media-amazon.com/images/I/51u6sWT7qkL._AC_UL320_.jpg",
+        "base_price": 19.59,
+        "url": "https://www.amazon.it/dp/B0C6R9XZJJ",
         "category": "cpu"
     },
-    "B0FLJPBFTZ": {
-        "title": "Boxed CX H1300 - Pasta stucco termico 13,5 W/m-K per AMD per dissipatore di calore CPU Intel",
-        "image": "https://m.media-amazon.com/images/I/41kCBwE2IeL._AC_UL320_.jpg",
-        "base_price": 16.01,
-        "url": "https://www.amazon.it/dp/B0FLJPBFTZ",
+    "B0B8ZCHQ8Y": {
+        "title": "Thermalright Assassin King 120 SE BIANCO ARGB CPU Air Cooler, AK120 SE WHITE ARB, 5 Heatpipes, per AMD AM4 AM5/Intel 1150/1151/1200/1700, LGA1700",
+        "image": "https://m.media-amazon.com/images/I/619n3Gam+-L._AC_UL320_.jpg",
+        "base_price": 31.78,
+        "url": "https://www.amazon.it/dp/B0B8ZCHQ8Y",
         "category": "cpu"
     },
-    "B07JFF943V": {
-        "title": "SilverStone SST-AR01-V3 - Tubo di raffreddamento CPU Argon 3 a contatto diretto, PWM 120 mm, Intel/AMD, AM4 Ready",
-        "image": "https://m.media-amazon.com/images/I/71omvUJ-zWL._AC_UL320_.jpg",
-        "base_price": 14.25,
-        "url": "https://www.amazon.it/dp/B07JFF943V",
+    "B0D97JHQ6H": {
+        "title": "Thermalright Phantom Spirit 120 SE BLACK CPU Cooler, Dual TL-C12B V2 PWM Ventole e Double Tower, 7 tubi di calore dissipatore di calore, per AM4/AM5 & Intel LGA1851/1700/115X/1200, raffreddamento CPU",
+        "image": "https://m.media-amazon.com/images/I/71SXiruzy9L._AC_UL320_.jpg",
+        "base_price": 52.09,
+        "url": "https://www.amazon.it/dp/B0D97JHQ6H",
         "category": "cpu"
     },
-    "B0DS5Z82WG": {
-        "title": "Efficiente ventola CPU di raffreddamento 3pin 4 tubi di calore per intel&amd piattaforma comune silenzioso ventilatore radiatore",
-        "image": "https://m.media-amazon.com/images/I/61BJtpK2eES._AC_UL320_.jpg",
-        "base_price": 40.77,
-        "url": "https://www.amazon.it/dp/B0DS5Z82WG",
+    "B0CLCDGBN2": {
+        "title": "Thermalright Phantom Spirit 120 EVO CPU Cooler, 7 × 6 mm Heat pipe CPU Air Cooler, Dual PWM Fan Computer Cooling, 2150RPM Velocità, per AMD AM4 AM5/Intel 1700/1150/1151/1200/17XX/2011",
+        "image": "https://m.media-amazon.com/images/I/71YzGiybLcL._AC_UL320_.jpg",
+        "base_price": 57.4,
+        "url": "https://www.amazon.it/dp/B0CLCDGBN2",
         "category": "cpu"
     },
-    "B073TTX1ZZ": {
-        "title": "Tranquilla Ventola di Raffreddamento della CPU Dissipatore di Calore per Intel Lga775/1156/1155 AMD 54/939/940/Am2",
-        "image": "https://m.media-amazon.com/images/I/51rCygKCowL._AC_UL320_.jpg",
-        "base_price": 27.21,
-        "url": "https://www.amazon.it/dp/B073TTX1ZZ",
-        "category": "cpu"
+    "B0D7CMK1LF": {
+        "title": "Mars Gaming MPIII650, Alimentatore PC ATX 650W, 5 Anni di Garanzia, 85% Efficienza, Sistema Digitale APFC, Ventola FDB 120mm AI-RPM, Tecnologie DC-DC e SMD, Cavi Piatti Extra Lunghi, Bianco",
+        "image": "https://m.media-amazon.com/images/I/71lGhnwnrNL._AC_UL320_.jpg",
+        "base_price": 37.3,
+        "url": "https://www.amazon.it/dp/B0D7CMK1LF",
+        "category": "case"
     },
-    "B0778GB3F3": {
-        "title": "6 Tubi di Calore Blu LED Ventola di Raffreddamento della CPU Dissipatore di Calore per Intel Lag 1155 1156 AMD Socket Am3/Am2",
-        "image": "https://m.media-amazon.com/images/I/71SvTOyfmuL._AC_UL320_.jpg",
-        "base_price": 57.17,
-        "url": "https://www.amazon.it/dp/B0778GB3F3",
-        "category": "cpu"
+    "B083WK9FX5": {
+        "title": "RICOO Supporto PC parete TRH07 Staffa mural computer Casse work-station Wall Mount per desk-top tower Appoggio universale per cassa CPU Nero",
+        "image": "https://m.media-amazon.com/images/I/71Yg1x-6O+L._AC_UL320_.jpg",
+        "base_price": 43.27,
+        "url": "https://www.amazon.it/dp/B083WK9FX5",
+        "category": "case"
     },
-    "B07CN1VGZY": {
-        "title": "4 Tubi di Calore LED Rosso 3 Raffreddamento della CPU Dissipatore di Calore Ventola per Processori AMD Am2/2 + Am3 Intel Lga 1156",
-        "image": "https://m.media-amazon.com/images/I/71cML0O-F2L._AC_UL320_.jpg",
-        "base_price": 78.61,
-        "url": "https://www.amazon.it/dp/B07CN1VGZY",
-        "category": "cpu"
+    "B0F7LNJD57": {
+        "title": "Mars Gaming MF-HUB, Hub di Controllo Ventole PWM, Controller di Velocità fino a 10x Ventole e Illuminazione ARGB fino a 10x Dispositivi, Telecomando, Compatibilità Totale ARGB, Nero",
+        "image": "https://m.media-amazon.com/images/I/71Pp-jcztHL._AC_UL320_.jpg",
+        "base_price": 8.93,
+        "url": "https://www.amazon.it/dp/B0F7LNJD57",
+        "category": "case"
     },
-    "B0B3TF1XYP": {
-        "title": "15PCS Computer CPU Case Tray Packaging Clamshell per AMD 938 940 AM2 AM3 AM3 FM1 2 CPU Holder Protector (15pcs Shell fit AMD)",
-        "image": "https://m.media-amazon.com/images/I/71KPnXnXgiL._AC_UL320_.jpg",
-        "base_price": 21.9,
-        "url": "https://www.amazon.it/dp/B0B3TF1XYP",
-        "category": "cpu"
+    "B0D8SRBCP8": {
+        "title": "MARSGAMING MF-NCLX2, Kit 2x Ventole Ultrasilenziose 120mm, Design Pale Ibride, Ventole 2in1 con Cuscinetto FDB in Rame Iperbilanciato, Sistema di Connessione PWM, Pads Antivibrazione, Bianco",
+        "image": "https://m.media-amazon.com/images/I/616xciC4kWL._AC_UL320_.jpg",
+        "base_price": 10.79,
+        "url": "https://www.amazon.it/dp/B0D8SRBCP8",
+        "category": "case"
+    },
+    "B07WV3WKYB": {
+        "title": "TooQ UMCS0004-B - Supporto da terra con ruote per CPU, metallico, fino a 10kg di peso, supporta torri da 119mm a 209mm di larghezza, colore nero",
+        "image": "https://m.media-amazon.com/images/I/61iVDjeCDvL._AC_UL320_.jpg",
+        "base_price": 14.34,
+        "url": "https://www.amazon.it/dp/B07WV3WKYB",
+        "category": "case"
+    },
+    "B07M9VTKQB": {
+        "title": "Aerocool Lux RGB M 550W - Alimentatore modulare RGB, 80Plus Bronzo 230V",
+        "image": "https://m.media-amazon.com/images/I/81hCDStrp7L._AC_UL320_.jpg",
+        "base_price": 36.5,
+        "url": "https://www.amazon.it/dp/B07M9VTKQB",
+        "category": "case"
+    },
+    "B0714KYX75": {
+        "title": "RICOO Supporto PC scrivania TRH-06 Montaggio della case sotto tavolo Girevole 360 gradi Cassa computer fisso Salvaspazio Appoggio CPU Nero",
+        "image": "https://m.media-amazon.com/images/I/71WbQl99kOL._AC_UL320_.jpg",
+        "base_price": 52.86,
+        "url": "https://www.amazon.it/dp/B0714KYX75",
+        "category": "case"
+    },
+    "B016WFYCFU": {
+        "title": "Thermaltake TR2 S PSU 700W, Nero",
+        "image": "https://m.media-amazon.com/images/I/71qhrhc3f1L._AC_UL320_.jpg",
+        "base_price": 52.27,
+        "url": "https://www.amazon.it/dp/B016WFYCFU",
+        "category": "case"
+    },
+    "B07G8195R2": {
+        "title": "Casco Gamers con microfono e telecomando per PC Medion LED reglage Son universale USB Jack (Blu)",
+        "image": "https://m.media-amazon.com/images/I/41el7rerO9L._AC_UL320_.jpg",
+        "base_price": 11.7,
+        "url": "https://www.amazon.it/dp/B07G8195R2",
+        "category": "case"
+    },
+    "B00VIM9VQ8": {
+        "title": "Amazon Basics Borsa per laptop con ruote",
+        "image": "https://m.media-amazon.com/images/I/91-eovmEQYL._AC_UL320_.jpg",
+        "base_price": 28.15,
+        "url": "https://www.amazon.it/dp/B00VIM9VQ8",
+        "category": "case"
+    },
+    "B0FBR3QDS6": {
+        "title": "sourcing map 6 pz 6 # 32 zigrinata vite a testa zigrinata Computer Case filettato mano stringere viti in lega di alluminio per case PC, nero",
+        "image": "https://m.media-amazon.com/images/I/717raSOQuCL._AC_UL320_.jpg",
+        "base_price": 13.66,
+        "url": "https://www.amazon.it/dp/B0FBR3QDS6",
+        "category": "case"
+    },
+    "B08Z4D8BGW": {
+        "title": "TOOQ TCCH0007-B - Supporto VESA in metallo per Mini PC/NUC/Barebone, Nero",
+        "image": "https://m.media-amazon.com/images/I/51segfyMcrL._AC_UL320_.jpg",
+        "base_price": 5.29,
+        "url": "https://www.amazon.it/dp/B08Z4D8BGW",
+        "category": "case"
+    },
+    "B0BV6ZXTSK": {
+        "title": "Mars Gaming MARSGAMING MF-PROX2 Bianco, Kit 2 Ventolas 120mm, Sistema Anti-Vibrazioni, Ultra-Silenzioso, Doppia Connessione 3PIN + 4PIN",
+        "image": "https://m.media-amazon.com/images/I/61eGuA7wlCL._AC_UL320_.jpg",
+        "base_price": 6.48,
+        "url": "https://www.amazon.it/dp/B0BV6ZXTSK",
+        "category": "case"
+    },
+    "B0C9R6QTDQ": {
+        "title": "MMOBIEL Supporto PC Portatile - Supporto per Laptop da 10 a 18 Pollici - Ventilato per Laptop Universale da Scrivania Compatibile con MacBook, ASUS, Acer e Altro – Alluminio Nero",
+        "image": "https://m.media-amazon.com/images/I/51mElYRevhL._AC_UL320_.jpg",
+        "base_price": 21.36,
+        "url": "https://www.amazon.it/dp/B0C9R6QTDQ",
+        "category": "case"
+    },
+    "B0CNXQVHHG": {
+        "title": "Tecnoware Alimentatore ATX Hyper Stream Bronze 500W per PC, Ventola Silenziosa 12 cm, 1 connettore 24 Poli, 1 connettore 12 V 4+4 Poli, 1 connettore 6+2 PCI-E, 2 connettori Molex, 4 connettori SATA",
+        "image": "https://m.media-amazon.com/images/I/61G5WkAindL._AC_UL320_.jpg",
+        "base_price": 31.96,
+        "url": "https://www.amazon.it/dp/B0CNXQVHHG",
+        "category": "case"
+    },
+    "B0CCVK52NS": {
+        "title": "Mars Gaming MF-PWMX2 Bianco, Kit 2 Ventole 120 mm, Ultra-Silenzioso FDB 12dB, Sistema Antivibrazione, Sistema PWM",
+        "image": "https://m.media-amazon.com/images/I/61lh5NT2ueL._AC_UL320_.jpg",
+        "base_price": 7.3,
+        "url": "https://www.amazon.it/dp/B0CCVK52NS",
+        "category": "case"
+    },
+    "B0BQSKXZ4Y": {
+        "title": "NZXT Cooler F Series F140 RGB DUO Twin Pack White (RF-D14DF-W1) (RFD14DFW1)",
+        "image": "https://m.media-amazon.com/images/I/51vujhaZHBL._AC_UL320_.jpg",
+        "base_price": 113.03,
+        "url": "https://www.amazon.it/dp/B0BQSKXZ4Y",
+        "category": "case"
+    },
+    "B00AKBIQY6": {
+        "title": "TOOQ TQE-3520B - HDD da 3,5\", (IDE, SATA I/II/III/III, USB 2.0), alluminio, indicatore LED, nero, 350 gr.",
+        "image": "https://m.media-amazon.com/images/I/71WT2xg7gxL._AC_UL320_.jpg",
+        "base_price": 18.79,
+        "url": "https://www.amazon.it/dp/B00AKBIQY6",
+        "category": "case"
+    },
+    "B0F7H91ZNX": {
+        "title": "Mars Gaming MF-SI4KIT, Kit 4x Ventole Ultrasilenziose 120mm, Illuminazione ARGB Infinity Mirror, Cuscinetti FDB e Nucleo in Rame, Telecomando e HUB, Compatibilità Totale ARGB, Nero",
+        "image": "https://m.media-amazon.com/images/I/718qZMN8etL._AC_UL320_.jpg",
+        "base_price": 28.6,
+        "url": "https://www.amazon.it/dp/B0F7H91ZNX",
+        "category": "case"
+    },
+    "B0C3M9B8Q2": {
+        "title": "MSI MAG A650GL Alimentatore 650W, 80 Plus Gold, completamente modulare, ventola FDB da 120 mm, Full-Bridge LLC, cavi neri piatti - 7 anni di garanzia",
+        "image": "https://m.media-amazon.com/images/I/717XAZFggSL._AC_UL320_.jpg",
+        "base_price": 77.04,
+        "url": "https://www.amazon.it/dp/B0C3M9B8Q2",
+        "category": "case"
+    },
+    "B09QX88BZH": {
+        "title": "Relaxdays Supporto per Monitor in bambù, Organizer con 4 Scomparti, Base Rialzata per PC, HxLxP: 30x67x20 cm, Naturale",
+        "image": "https://m.media-amazon.com/images/I/91tWi5twyML._AC_UL320_.jpg",
+        "base_price": 23.75,
+        "url": "https://www.amazon.it/dp/B09QX88BZH",
+        "category": "case"
+    },
+    "B0DHVG57N1": {
+        "title": "Tacens Anima APB650, Alimentatore PC ATX 650W, Certificazione 80Plus Bronze, 85% di Efficienza, Tecnologie SMD e DC-DC, Ventola Ultra-silenziosa 12cm, Cavi Piatta Extra-lunghi, Nero",
+        "image": "https://m.media-amazon.com/images/I/71M1IkTvQbL._AC_UL320_.jpg",
+        "base_price": 36.48,
+        "url": "https://www.amazon.it/dp/B0DHVG57N1",
+        "category": "case"
     }
 }
