@@ -1,332 +1,255 @@
 {
-    "B0815XFSGK": {
-        "title": "Processore AMD Ryzen 7 5800X (8 Cores/16 threads, 105W DTP, AM4 socket, 36 MB Cache, Boost di Frequenza fino a 4,7Ghz max, senza ventole)",
-        "image": "https://m.media-amazon.com/images/I/61IIbwz-+ML._AC_UL320_.jpg",
-        "base_price": 209.74,
-        "url": "https://www.amazon.it/dp/B0815XFSGK",
-        "category": "cpu"
+    "B0FKBTMWDB": {
+        "title": "PHS-memory 16GB RAM modulo Compatibile con ASRock B860M-X WiFi DDR5 CUDIMM 6400MHz PC5-51200U",
+        "image": "https://m.media-amazon.com/images/I/51mCybTdPUL._AC_UL320_.jpg",
+        "base_price": 463.97,
+        "url": "https://www.amazon.it/dp/B0FKBTMWDB",
+        "category": "ram"
     },
-    "B0D6NN6TM7": {
-        "title": "AMD Ryzen 5 9600X (scheda grafica integrata Radeon, 6 Cores/12 Threads, 65W DTP, Socket AM5, Cache 38MB, Boost di Frequenza fino a 5.4 GHz max, senza ventole)",
-        "image": "https://m.media-amazon.com/images/I/61RfWUr4kvL._AC_UL320_.jpg",
-        "base_price": 175.07,
-        "url": "https://www.amazon.it/dp/B0D6NN6TM7",
-        "category": "cpu"
+    "B0G967J54W": {
+        "title": "SIMPLETEK - Modulo Memoria RAM DDR5 SODIMM 16GB PC5-5600B 5600MHz per Notebook e Laptop di Nuova Generazione (Ricondizionato)",
+        "image": "https://m.media-amazon.com/images/I/71WUTbJBp6L._AC_UL320_.jpg",
+        "base_price": 321.0,
+        "url": "https://www.amazon.it/dp/B0G967J54W",
+        "category": "ram"
     },
-    "B07STGHZK8": {
-        "title": "Processore AMD Ryzen 3 3200G (GPU integrata Radeon Vega 8, 4 cores/4 threads, 65W DTP, AM4 socket, 6MB Cache, Boost di Frequenza fino a 4.0 Ghz max, dissipatore ad aria \"Wraith stealth cooler\")",
-        "image": "https://m.media-amazon.com/images/I/81DdgQpbMqL._AC_UL320_.jpg",
-        "base_price": 51.01,
-        "url": "https://www.amazon.it/dp/B07STGHZK8",
-        "category": "cpu"
+    "B09XZ5R1DB": {
+        "title": "G.SKILL Ripjaws F5-5600J3036D16GA2-RS5W) - Memoria RAM DDR5 DDR5 da 32 GB (2 x 16 GB), 5600 MT/s, CL30-36-36-89, 1,25 V, bianco opaco",
+        "image": "https://m.media-amazon.com/images/I/61MGk9KLdWL._AC_UL320_.jpg",
+        "base_price": 843.19,
+        "url": "https://www.amazon.it/dp/B09XZ5R1DB",
+        "category": "ram"
     },
-    "B0BBJDS62N": {
-        "title": "Processore AMD Ryzen 5 7600X (scheda grafica integrata Radeon, 6 cores/12 threads, 105W TDP,AM5 socket, 38MB cache, Boost di Frequenza fino a 5.3 GHz max, senza ventole)",
-        "image": "https://m.media-amazon.com/images/I/51m7L9bQI8L._AC_UL320_.jpg",
-        "base_price": 172.94,
-        "url": "https://www.amazon.it/dp/B0BBJDS62N",
-        "category": "cpu"
+    "B0C546NN5D": {
+        "title": "OFFTEK 16GB Memoria RAM di ricambio per Microstar (MSI) Z790-A PRO WIFI (DDR5) (DDR5-38400 (PC5-4800)) Memoria Scheda Madre",
+        "image": "https://m.media-amazon.com/images/I/41W9dfSjYfL._AC_UL320_.jpg",
+        "base_price": 227.14,
+        "url": "https://www.amazon.it/dp/B0C546NN5D",
+        "category": "ram"
     },
-    "B0DFK8HHK4": {
-        "title": "Intel® Core™ Ultra 5 per sistemi processore desktop 245KF 14 core 6 P-core + 8 E-core fino a 5,2 GHz, 5 245KF",
-        "image": "https://m.media-amazon.com/images/I/51ppFJC5HWL._AC_UL320_.jpg",
-        "base_price": 181.96,
-        "url": "https://www.amazon.it/dp/B0DFK8HHK4",
-        "category": "cpu"
+    "B0B1Q2DRHR": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con Supermicro X13SAQ DDR5 UDIMM 4800MHz PC5-38400U",
+        "image": "https://m.media-amazon.com/images/I/61w-AACJjnL._AC_UL320_.jpg",
+        "base_price": 190.89,
+        "url": "https://www.amazon.it/dp/B0B1Q2DRHR",
+        "category": "ram"
     },
-    "B0FN853LBX": {
-        "title": "Mars Gaming MCPU-X4, Dissipatore CPU 230W TDP, 4x Heatpipes HCT Nuova Generazione, Ventola PWM SI Extreme-Silence 120mm, Nucleo in Rame Bilanciato, Compatibilità Universale Intel e AMD, Nero",
-        "image": "https://m.media-amazon.com/images/I/81OttySiZ6L._AC_UL320_.jpg",
-        "base_price": 18.44,
-        "url": "https://www.amazon.it/dp/B0FN853LBX",
-        "category": "cpu"
+    "B0FJ8GD31Z": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con Hyrican Gamemax Onyx II 7176 DDR5 UDIMM 5600MHz PC5-44800U",
+        "image": "https://m.media-amazon.com/images/I/61w-AACJjnL._AC_UL320_.jpg",
+        "base_price": 190.89,
+        "url": "https://www.amazon.it/dp/B0FJ8GD31Z",
+        "category": "ram"
     },
-    "B0G1CKBY4S": {
-        "title": "Mars Gaming MCPU-X3, Dissipatore CPU 190W TDP, 3x Heatpipes, Ventola PWM FDB, Illuminazione FRGB, Design Compatto SFF/Mini-ITX, Alette in Alluminio, Cooler PC con Compatibilità Intel e AMD, Nero",
-        "image": "https://m.media-amazon.com/images/I/71Eotf0NBiL._AC_UL320_.jpg",
-        "base_price": 10.25,
-        "url": "https://www.amazon.it/dp/B0G1CKBY4S",
-        "category": "cpu"
+    "B0B15D4HS5": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con MSI Raider GE76 12UGS-098FR DDR5 SO DIMM 4800MHz PC5-38400S",
+        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
+        "base_price": 164.73,
+        "url": "https://www.amazon.it/dp/B0B15D4HS5",
+        "category": "ram"
     },
-    "B0FN82S51N": {
-        "title": "Mars Gaming MCPU-X4, Dissipatore CPU 230W TDP, 4x Heatpipes HCT Nuova Generazione, Ventola PWM SI Extreme-Silence 120mm, Nucleo in Rame Bilanciato, Compatibilità Universale Intel e AMD, Bianco",
-        "image": "https://m.media-amazon.com/images/I/71FJ-rn7dRL._AC_UL320_.jpg",
-        "base_price": 18.44,
-        "url": "https://www.amazon.it/dp/B0FN82S51N",
-        "category": "cpu"
+    "B0B7XVHG27": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con Lenovo ThinkCentre M90t Gen 3 (11TU) DDR5 UDIMM 4800MHz PC5-38400U",
+        "image": "https://m.media-amazon.com/images/I/61w-AACJjnL._AC_UL320_.jpg",
+        "base_price": 190.89,
+        "url": "https://www.amazon.it/dp/B0B7XVHG27",
+        "category": "ram"
     },
-    "B0D6NN87T8": {
-        "title": "AMD Ryzen 9 9900X (scheda grafica integrata Radeon, 12 Cores/24 Threads, 120W TDP, AM5 Socket, 76MB Cache, Boost di Frequenza fino a 5.6 GHz max, senza ventole)",
-        "image": "https://m.media-amazon.com/images/I/61dukbEGziL._AC_UL320_.jpg",
-        "base_price": 368.66,
-        "url": "https://www.amazon.it/dp/B0D6NN87T8",
-        "category": "cpu"
+    "B0FJ7K5RVQ": {
+        "title": "PHS-memory 256GB RAM modulo Compatibile con Supermicro SuperServer SYS-221BT-DNC8R DDR5 RDIMM 3DS 4800MHz PC5-38400R",
+        "image": "https://m.media-amazon.com/images/I/61jnW8jSOrL._AC_UL320_.jpg",
+        "base_price": 4595.23,
+        "url": "https://www.amazon.it/dp/B0FJ7K5RVQ",
+        "category": "ram"
     },
-    "B0CQ2YMZ8X": {
-        "title": "Intel® Core™ i7-14700 Processore per sistemi desktop 14700 20 core 8 P-core + 12 E-core fino a 5,4 GHz",
-        "image": "https://m.media-amazon.com/images/I/612E6UUVubL._AC_UL320_.jpg",
-        "base_price": 286.07,
-        "url": "https://www.amazon.it/dp/B0CQ2YMZ8X",
-        "category": "cpu"
+    "B0FJ8J41G3": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con Hyrican Horizon 7136 DDR5 UDIMM 5600MHz PC5-44800U",
+        "image": "https://m.media-amazon.com/images/I/61w-AACJjnL._AC_UL320_.jpg",
+        "base_price": 190.89,
+        "url": "https://www.amazon.it/dp/B0FJ8J41G3",
+        "category": "ram"
     },
-    "B0DTHX5T88": {
-        "title": "Cooler Master Hyper 612 Apex CPU Dissipatore Aria - 6 Tubi Calore Conduttivi (TDP 260W), Doppie Ventole Mobius 120P 120mm, Dissipatore Calore Compatto, Zero Interferenze RAM - Compatibile AMD e Intel",
-        "image": "https://m.media-amazon.com/images/I/81kpaXVt+4L._AC_UL320_.jpg",
-        "base_price": 87.17,
-        "url": "https://www.amazon.it/dp/B0DTHX5T88",
-        "category": "cpu"
+    "B0FJ7HYKB9": {
+        "title": "PHS-memory 64GB RAM modulo Compatibile con ASUS VivoBook M1607KA-MB043W DDR5 SO DIMM 5600MHz PC5-44800S",
+        "image": "https://m.media-amazon.com/images/I/61jM13qEU8L._AC_UL320_.jpg",
+        "base_price": 914.34,
+        "url": "https://www.amazon.it/dp/B0FJ7HYKB9",
+        "category": "ram"
     },
-    "B0BR3M7LJX": {
-        "title": "Thermalright PS120SE ARGB CPU Cooler, 7 tubi di calore CPU Cooler, Dual 120mm TL-C12B-S V2 PWM Fan, AGHP 4.0 Technilogy, S-FDB Bearing, Per AMD AM4 AM5/Intel 1700/1150/1151/1200, PC Cooler",
-        "image": "https://m.media-amazon.com/images/I/71Z0D6GGhvL._AC_UL320_.jpg",
-        "base_price": 48.57,
-        "url": "https://www.amazon.it/dp/B0BR3M7LJX",
-        "category": "cpu"
-    },
-    "B0C7C5FTC7": {
-        "title": "Thermalright Assassin Spirit 120 V2 PLUS CPU Air Cooler, 4 tubi di calore, doppia ventola PWM silenziosa, dissipatore di calore per computer, per AMD AM4 AM5/Intel 1700/1150/1151/1200 (AS120 V2 Plus)",
-        "image": "https://m.media-amazon.com/images/I/71GJ8hX0eiL._AC_UL320_.jpg",
-        "base_price": 34.15,
-        "url": "https://www.amazon.it/dp/B0C7C5FTC7",
-        "category": "cpu"
-    },
-    "B0CCRX13FZ": {
-        "title": "Thermalright AQUA ELITE 360 V3 Liquid CPU Cooler, 3 ventole PWM ARGB con cuscinetti S-FDB, efficiente pompa controllata PWM, per AMD/AM4/AM5, Intel LGA1150/1151/1200/2011/1700, (AE360 V3)",
-        "image": "https://m.media-amazon.com/images/I/612ptcpN5cL._AC_UL320_.jpg",
-        "base_price": 75.32,
-        "url": "https://www.amazon.it/dp/B0CCRX13FZ",
-        "category": "cpu"
-    },
-    "B0B4JF4QTB": {
-        "title": "Thermalright Assassin X120 Raffinato SE CPU Air Cooler, 4 Heatpipes, TL-C12C PWM Fan, per AMD AM4/AM5 Intel 1700/1150/1151/1200",
-        "image": "https://m.media-amazon.com/images/I/71beJ-ZVzNL._AC_UL320_.jpg",
-        "base_price": 27.43,
-        "url": "https://www.amazon.it/dp/B0B4JF4QTB",
-        "category": "cpu"
-    },
-    "B0BGP8RNHV": {
-        "title": "Thermalright Assassin King 120 SE ARGB CPU Air Cooler, AK120 SE ARB, 5 Heatpies, TL-C12C-S PWM Silenzioso Ventola CPU Cooler con cuscinetto S-FDB, per AMD AM4/Intel 115X/1200/17XX, LGA1700",
-        "image": "https://m.media-amazon.com/images/I/61rAP+MM39L._AC_UL320_.jpg",
-        "base_price": 29.52,
-        "url": "https://www.amazon.it/dp/B0BGP8RNHV",
-        "category": "cpu"
-    },
-    "B0DXVSJWQV": {
-        "title": "GIGABYTE GAMING 360 ICE Raffreddamento Liquido per CPU - 3x120 mm Ventole ARGB, Meccanismo di bloccaggio a scorrimento, DAISY-CHAIN, Compatibile con Intel LGA 1851 e AMD AM5",
-        "image": "https://m.media-amazon.com/images/I/71WSOX7no0L._AC_UL320_.jpg",
-        "base_price": 73.53,
-        "url": "https://www.amazon.it/dp/B0DXVSJWQV",
-        "category": "cpu"
-    },
-    "B0CJPGN9DM": {
-        "title": "Antec Raffreddatore d'aria per CPU A30 Pro, ventola LED blu da 90 mm per CPU Intel/AMD",
-        "image": "https://m.media-amazon.com/images/I/71hugMScnqL._AC_UL320_.jpg",
-        "base_price": 24.67,
-        "url": "https://www.amazon.it/dp/B0CJPGN9DM",
-        "category": "cpu"
-    },
-    "B0CMTNZHK7": {
-        "title": "Thermalright Assassin X 90 SE V2 CPU Air Cooler con 4 × 6 mm HeatPipes, 92 mm TL-P9 PWM Fan CPU Cooler, AGHP 4th Technology, per AMD: AM4 AM5/Intel 1700/1150/1151/1200, PC MINI Tower Cooler",
-        "image": "https://m.media-amazon.com/images/I/716g4kdL--L._AC_UL320_.jpg",
+    "B0C3HJ9ZT2": {
+        "title": "Gelid Solutions IceRock - Ventola per memoria, compatibile con DDR3/DDR4 e DDR5, realizzata in alluminio, design leggero, nera",
+        "image": "https://m.media-amazon.com/images/I/61RPp5jyFpL._AC_UL320_.jpg",
         "base_price": 23.2,
-        "url": "https://www.amazon.it/dp/B0CMTNZHK7",
-        "category": "cpu"
+        "url": "https://www.amazon.it/dp/B0C3HJ9ZT2",
+        "category": "ram"
     },
-    "B0DF7CZ9D8": {
-        "title": "CORSAIR iCUE LINK TITAN 360 RX LCD Raffreddatore CPU a Liquido – Motore di Raffreddamento FlowDrive – Intel LGA 1851/1700, AMD AM5/AM4 – 3x RX120 Ventole RGB – iCUE LINK System Hub Incluso – Nero",
-        "image": "https://m.media-amazon.com/images/I/718andDifNL._AC_UL320_.jpg",
-        "base_price": 225.33,
-        "url": "https://www.amazon.it/dp/B0DF7CZ9D8",
-        "category": "cpu"
+    "B09Z1RBKVV": {
+        "title": "PHS-memory 16GB Memoria RAM Compatibile con ASUS PRO Q670M-C-CSM DDR5 UDIMM 4800MHz PC5-38400U",
+        "image": "https://m.media-amazon.com/images/I/61aOJJLicgL._AC_UL320_.jpg",
+        "base_price": 275.84,
+        "url": "https://www.amazon.it/dp/B09Z1RBKVV",
+        "category": "ram"
     },
-    "B0D8THN1NQ": {
-        "title": "Thermalright Peerless Assassin 140 - Raffreddatore CPU bianco, 6 tubi di calore per PC, doppia torre e doppia ventola PWM, raffreddamento ad aria CPU per AMD: AM4 AM5 e Intel",
-        "image": "https://m.media-amazon.com/images/I/71to9WpMo0L._AC_UL320_.jpg",
-        "base_price": 57.28,
-        "url": "https://www.amazon.it/dp/B0D8THN1NQ",
-        "category": "cpu"
+    "B0FJ7GKPBH": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con dell Vostro 16 5640 DDR5 SO DIMM 5600MHz PC5-44800S",
+        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
+        "base_price": 164.73,
+        "url": "https://www.amazon.it/dp/B0FJ7GKPBH",
+        "category": "ram"
     },
-    "B0D6NMDNNX": {
-        "title": "AMD Ryzen 7 9700X (8 Cores/16 Threads) 65W DTP, AM5 socket, 40MB Cache, Boost di Frequenza fino a 5.5 GHz max, senza ventole)",
-        "image": "https://m.media-amazon.com/images/I/61F3ZChalyL._AC_UL320_.jpg",
-        "base_price": 309.34,
-        "url": "https://www.amazon.it/dp/B0D6NMDNNX",
-        "category": "cpu"
+    "B0B1Q2CFRP": {
+        "title": "PHS-memory 16GB RAM modulo Compatibile con HP Elite 600 G9 (Desktop Mini) (DDR5) DDR5 SO DIMM 4800MHz PC5-38400S",
+        "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
+        "base_price": 249.36,
+        "url": "https://www.amazon.it/dp/B0B1Q2CFRP",
+        "category": "ram"
     },
-    "B0C7C2HY6H": {
-        "title": "Thermalright Assassin X 120R SE PLUS CPU Air Cooler, 4 tubi di calore, altezza 148 mm, ventola doppia PWM 120 mm, dissipatore di calore, per AMD AM4 AM5/Intel LGA1700/1150/1151/1200, raffreddamento",
-        "image": "https://m.media-amazon.com/images/I/71KgFuCFUmL._AC_UL320_.jpg",
-        "base_price": 32.56,
-        "url": "https://www.amazon.it/dp/B0C7C2HY6H",
-        "category": "cpu"
+    "B0C5Z5K747": {
+        "title": "Memoria RAM SODIMM da 8 GB DDR5 4800 MHz PC5-38400 262 PIN compatibile con computer portatili/notebook",
+        "image": "https://m.media-amazon.com/images/I/61AysVjqvDL._AC_UL320_.jpg",
+        "base_price": 85.39,
+        "url": "https://www.amazon.it/dp/B0C5Z5K747",
+        "category": "ram"
     },
-    "B0DYDK12PB": {
-        "title": "TR - Ventola di raffreddamento CPU Assassin X 120R SE PLUS, 4 tubi di calore da 6 mm, velocità 1550 giri/min, ventola PWM silenziosa da 120 mm, con cuscinetto S-FDB, per AMD AM4 AM5/Intel 1700/1150",
-        "image": "https://m.media-amazon.com/images/I/71DUH4VTcrL._AC_UL320_.jpg",
-        "base_price": 32.0,
-        "url": "https://www.amazon.it/dp/B0DYDK12PB",
-        "category": "cpu"
+    "B0FJ7HZFCH": {
+        "title": "PHS-memory 8GB RAM modulo Compatibile con BIOSTAR B850MT2-E DJ DDR5 UDIMM 5600MHz PC5-44800U",
+        "image": "https://m.media-amazon.com/images/I/61w-AACJjnL._AC_UL320_.jpg",
+        "base_price": 190.89,
+        "url": "https://www.amazon.it/dp/B0FJ7HZFCH",
+        "category": "ram"
     },
-    "B09HR9ZP5V": {
-        "title": "Oversteel - ZIRCON Raffreddamento a liquido 240 mm RGB, 2x ventola PWM 120 mm RGB, TDP 200 W, compatibile con Intel e AMD AM4, colore nero",
-        "image": "https://m.media-amazon.com/images/I/61-yyi7Zf8L._AC_UL320_.jpg",
-        "base_price": 40.52,
-        "url": "https://www.amazon.it/dp/B09HR9ZP5V",
-        "category": "cpu"
+    "B0F2HSR33F": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con Acer Aspire Lite AL16-51P-532M DDR5 SO DIMM 4800MHz PC5-38400S",
+        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
+        "base_price": 164.73,
+        "url": "https://www.amazon.it/dp/B0F2HSR33F",
+        "category": "ram"
     },
-    "B0CLCDGBN2": {
-        "title": "Thermalright Phantom Spirit 120 EVO CPU Cooler, 7 × 6 mm Heat pipe CPU Air Cooler, Dual PWM Fan Computer Cooling, 2150RPM Velocità, per AMD AM4 AM5/Intel 1700/1150/1151/1200/17XX/2011",
-        "image": "https://m.media-amazon.com/images/I/71YzGiybLcL._AC_UL320_.jpg",
-        "base_price": 57.4,
-        "url": "https://www.amazon.it/dp/B0CLCDGBN2",
-        "category": "cpu"
+    "B0FJ7JZ8JG": {
+        "title": "PHS-memory 256GB RAM modulo Compatibile con Supermicro H13DSH DDR5 RDIMM 3DS 4800MHz PC5-38400R",
+        "image": "https://m.media-amazon.com/images/I/61jnW8jSOrL._AC_UL320_.jpg",
+        "base_price": 4595.23,
+        "url": "https://www.amazon.it/dp/B0FJ7JZ8JG",
+        "category": "ram"
     },
-    "B0BHJKR3BV": {
-        "title": "ASUS TUF GAMING B650-PLUS WIFI Scheda Madre Gaming ATX, AMD B650, AM5, DDR5, 4xPCI 4.0, WiFi 6 (802.11ax), Intel 2.5Gb Ethernet, Realtek 7.1, 3xM.2, 4xSATA 6GB/s, Aura Sync RGB, Nero",
-        "image": "https://m.media-amazon.com/images/I/81ogi-krqkL._AC_UL320_.jpg",
-        "base_price": 207.98,
-        "url": "https://www.amazon.it/dp/B0BHJKR3BV",
-        "category": "cpu"
+    "B0G6THQ4QY": {
+        "title": "SIMPLETEK - Tester Professionale Universale per Moduli RAM SODIMM DDR4 e DDR5 - Diagnostica per Laptop, Notebook e Mini PC",
+        "image": "https://m.media-amazon.com/images/I/81E5hJsV5gL._AC_UL320_.jpg",
+        "base_price": 107.0,
+        "url": "https://www.amazon.it/dp/B0G6THQ4QY",
+        "category": "ram"
     },
-    "B0B8ZCHQ8Y": {
-        "title": "Thermalright Assassin King 120 SE BIANCO ARGB CPU Air Cooler, AK120 SE WHITE ARB, 5 Heatpipes, per AMD AM4 AM5/Intel 1150/1151/1200/1700, LGA1700",
-        "image": "https://m.media-amazon.com/images/I/619n3Gam+-L._AC_UL320_.jpg",
-        "base_price": 31.78,
-        "url": "https://www.amazon.it/dp/B0B8ZCHQ8Y",
-        "category": "cpu"
+    "B0FJ7GXDZ6": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con MSI Cubi NUC 1MG-023DE DDR5 SO DIMM 5600MHz PC5-44800S",
+        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
+        "base_price": 164.73,
+        "url": "https://www.amazon.it/dp/B0FJ7GXDZ6",
+        "category": "ram"
     },
-    "B07PXSCFYP": {
-        "title": "Mini Ventilatore USB da Scrivania in Metallo 4 Pollici Ventilatori da Tavolo Ventola USB Silenzioso Portatile con 360° Rotante Compatibile con Notebook Computer PC per la Casa Ufficio",
-        "image": "https://m.media-amazon.com/images/I/7135tqf8kAL._AC_UL320_.jpg",
-        "base_price": 18.67,
-        "url": "https://www.amazon.it/dp/B07PXSCFYP",
-        "category": "ventole"
+    "B0FJ7FQS6C": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con dell G7 16 7620 DDR5 SO DIMM 4800MHz PC5-38400S",
+        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
+        "base_price": 164.73,
+        "url": "https://www.amazon.it/dp/B0FJ7FQS6C",
+        "category": "ram"
     },
-    "B0CPPXXL54": {
-        "title": "Tacens NOVAX, Case PC Micro-ATX Ultra-compatto, Design Completo in Metallo, 1x Ventola Posteriore 80mm, Case Mini-Tower con Grande Capacità Interna, Bianco",
-        "image": "https://m.media-amazon.com/images/I/71buyKO9LrL._AC_UL320_.jpg",
-        "base_price": 24.51,
-        "url": "https://www.amazon.it/dp/B0CPPXXL54",
-        "category": "ventole"
+    "B0FJ8JLK35": {
+        "title": "PHS-memory 16GB Memoria RAM Compatibile con Terra Mobile 1551R (1220800) DDR5 SO DIMM 5600MHz PC5-44800S",
+        "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
+        "base_price": 260.4,
+        "url": "https://www.amazon.it/dp/B0FJ8JLK35",
+        "category": "ram"
     },
-    "B0DJQ6K2LV": {
-        "title": "Laptop Pad di Raffreddamento Del Computer Portatile Ventola Silenziosa Per 11\"-18\" Computer PC Notebook Gaming Ventola Del Computer Portatile Regolabile di Raffreddamento Del Computer",
-        "image": "https://m.media-amazon.com/images/I/71rtL7HUyUL._AC_UL320_.jpg",
-        "base_price": 20.8,
-        "url": "https://www.amazon.it/dp/B0DJQ6K2LV",
-        "category": "ventole"
+    "B0FJ7GZ6WS": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con ASUS TUF Gaming FA707NV-LL017W DDR5 SO DIMM 4800MHz PC5-38400S",
+        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
+        "base_price": 164.73,
+        "url": "https://www.amazon.it/dp/B0FJ7GZ6WS",
+        "category": "ram"
     },
-    "B0DFVDG6BL": {
-        "title": "Adattatore Molex da 4 Pin a 3/4 Pin per Ventola PC - Cavo Splitter 12V, 7V, 5V per Computer",
-        "image": "https://m.media-amazon.com/images/I/61b201VlzfL._AC_UL320_.jpg",
-        "base_price": 4.34,
-        "url": "https://www.amazon.it/dp/B0DFVDG6BL",
-        "category": "ventole"
+    "B0B3MKZ62M": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con HP Z2 G9 Mini (Intel 12. Gen) DDR5 SO DIMM 4800MHz PC5-38400S",
+        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
+        "base_price": 164.73,
+        "url": "https://www.amazon.it/dp/B0B3MKZ62M",
+        "category": "ram"
     },
-    "B0F82Q2GM8": {
-        "title": "Staffa a ponte Memoria Overclocking Ventola di Raffreddamento Staffa CPU Mainboard Hard Disk PC Case Scheda Grafica Rack di Raffredd",
-        "image": "https://m.media-amazon.com/images/I/51mUxL6nXaL._AC_UL320_.jpg",
-        "base_price": 6.31,
-        "url": "https://www.amazon.it/dp/B0F82Q2GM8",
-        "category": "ventole"
+    "B0FJ8JZYFF": {
+        "title": "PHS-memory 32GB RAM modulo Compatibile con Tarox E5175BM DDR5 UDIMM 5600MHz PC5-44800U",
+        "image": "https://m.media-amazon.com/images/I/61b9JgOmn+L._AC_UL320_.jpg",
+        "base_price": 408.23,
+        "url": "https://www.amazon.it/dp/B0FJ8JZYFF",
+        "category": "ram"
     },
-    "B06W9KZ19G": {
-        "title": "TEMPO DI SALDI Tavolino Pc Supporto Pieghevole Notebook Computer Tablet Tavolo Con Ventole",
-        "image": "https://m.media-amazon.com/images/I/51g6Oc1-xOL._AC_UL320_.jpg",
-        "base_price": 20.66,
-        "url": "https://www.amazon.it/dp/B06W9KZ19G",
-        "category": "ventole"
+    "B0FJ7K2K9D": {
+        "title": "PHS-memory 16GB Memoria RAM Compatibile con Acer Nitro 5 AN515-46-R3FZ DDR5 SO DIMM 4800MHz PC5-38400S",
+        "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
+        "base_price": 249.36,
+        "url": "https://www.amazon.it/dp/B0FJ7K2K9D",
+        "category": "ram"
     },
-    "B09XMKQG5Z": {
-        "title": "Tacens Anima ACX, Case PC Micro ATX, Frontale in Alluminio Spazzolato, Ventola 12 cm, USB 3.0, Nero",
-        "image": "https://m.media-amazon.com/images/I/81SOczT45uL._AC_UL320_.jpg",
-        "base_price": 27.46,
-        "url": "https://www.amazon.it/dp/B09XMKQG5Z",
-        "category": "ventole"
+    "B0FJ7JC4HX": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con ASUS TUF Gaming FA507NU-LP179 DDR5 SO DIMM 4800MHz PC5-38400S",
+        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
+        "base_price": 164.73,
+        "url": "https://www.amazon.it/dp/B0FJ7JC4HX",
+        "category": "ram"
     },
-    "B00KG3K9AM": {
-        "title": "Noctua NA-SEC1, Cavi Prolunga per Ventole a 4 Pin (30 cm, Nero)",
-        "image": "https://m.media-amazon.com/images/I/71dbaaDzfWL._AC_UL320_.jpg",
-        "base_price": 11.7,
-        "url": "https://www.amazon.it/dp/B00KG3K9AM",
-        "category": "ventole"
+    "B0FJ7KHFV1": {
+        "title": "PHS-memory 16GB Memoria RAM Compatibile con MSI Creator Z16 A12UET-010ES DDR5 SO DIMM 4800MHz PC5-38400S",
+        "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
+        "base_price": 249.36,
+        "url": "https://www.amazon.it/dp/B0FJ7KHFV1",
+        "category": "ram"
     },
-    "B0BZC6YCWL": {
-        "title": "Potente tappetino di raffreddamento per laptop con raffreddamento termoelettrico e 4 ventole, raffreddamento per laptop RGB, controllo indipendente, regolazione multi-marcia, supporto per",
-        "image": "https://m.media-amazon.com/images/I/71N59+O8+4L._AC_UL320_.jpg",
-        "base_price": 378.12,
-        "url": "https://www.amazon.it/dp/B0BZC6YCWL",
-        "category": "ventole"
+    "B0FJ8FXNMK": {
+        "title": "PHS-memory 16GB Memoria RAM Compatibile con Aquado PA1523-AI DDR5 SO DIMM 5600MHz PC5-44800S",
+        "image": "https://m.media-amazon.com/images/I/61wTJG5R8sL._AC_UL320_.jpg",
+        "base_price": 260.4,
+        "url": "https://www.amazon.it/dp/B0FJ8FXNMK",
+        "category": "ram"
     },
-    "B0CRVBH5ZC": {
-        "title": "sourcing map 3 filtri antipolvere per PC, 150 x 150 mm, cornice magnetica, in PVC, per case del computer, copertura antipolvere in rete, griglie per ventola per altoparlanti del computer, colore nero",
-        "image": "https://m.media-amazon.com/images/I/81vwU1fbo2L._AC_UL320_.jpg",
-        "base_price": 18.52,
-        "url": "https://www.amazon.it/dp/B0CRVBH5ZC",
-        "category": "ventole"
+    "B0FN7Q3W84": {
+        "title": "PHS-memory 16GB RAM modulo Compatibile con ASUS ROG G700TF-XS776 DDR5 CUDIMM 6400MHz PC5-51200U",
+        "image": "https://m.media-amazon.com/images/I/51mCybTdPUL._AC_UL320_.jpg",
+        "base_price": 463.97,
+        "url": "https://www.amazon.it/dp/B0FN7Q3W84",
+        "category": "ram"
     },
-    "B0F4NG4QN9": {
-        "title": "Ventola Radiatore Supporto Per 120MM 240MM 360MM Radiatore Staffa di Montaggio Per Computer Case Accessorio",
-        "image": "https://m.media-amazon.com/images/I/51iAufpBv5L._AC_UL320_.jpg",
-        "base_price": 21.93,
-        "url": "https://www.amazon.it/dp/B0F4NG4QN9",
-        "category": "ventole"
+    "B0B15DW5HH": {
+        "title": "PHS-memory 8GB Memoria RAM Compatibile con ASUS ROG Strix G513RW-ES94 DDR5 SO DIMM 4800MHz PC5-38400S",
+        "image": "https://m.media-amazon.com/images/I/61N6FN+4ROL._AC_UL320_.jpg",
+        "base_price": 164.73,
+        "url": "https://www.amazon.it/dp/B0B15DW5HH",
+        "category": "ram"
     },
-    "B0C6TRPB66": {
-        "title": "Mars Gaming MPIII650, Alimentatore PC ATX 650W, 5 Anni di Garanzia, 85% Efficienza, Sistema Digitale APFC, Ventola FDB 120mm AI-RPM, Tecnologie DC-DC e SMD, Cavi Piatti Extra Lunghi, Nero",
-        "image": "https://m.media-amazon.com/images/I/713g4yo5liL._AC_UL320_.jpg",
-        "base_price": 36.95,
-        "url": "https://www.amazon.it/dp/B0C6TRPB66",
-        "category": "ventole"
+    "B0C5467DRC": {
+        "title": "OFFTEK 16GB Memoria RAM di ricambio per Microstar (MSI) Aegis RS 12TF-293US (DDR5-38400 (PC5-4800)) Memoria Desktop",
+        "image": "https://m.media-amazon.com/images/I/41W9dfSjYfL._AC_UL320_.jpg",
+        "base_price": 227.14,
+        "url": "https://www.amazon.it/dp/B0C5467DRC",
+        "category": "ram"
     },
-    "B0DDBZP8QS": {
-        "title": "Mars Gaming MPIII550P, Alimentatore PC ATX 550W, 5 Anni di Garanzia, 85% di Efficienza, Sistema Digitale APFC, Ventola FDB 120mm AI-RPM, Tecnologie DC-DC e SMD, Cavi Piatte Extra-lunghi, Bianco",
-        "image": "https://m.media-amazon.com/images/I/71myvNbZ7eL._AC_UL320_.jpg",
-        "base_price": 28.28,
-        "url": "https://www.amazon.it/dp/B0DDBZP8QS",
-        "category": "ventole"
+    "B0C545LLJZ": {
+        "title": "OFFTEK 16GB Memoria RAM di ricambio per Asus PRIME Z790-P WIFI (DDR5-38400 (PC5-4800)) Memoria Scheda Madre",
+        "image": "https://m.media-amazon.com/images/I/41W9dfSjYfL._AC_UL320_.jpg",
+        "base_price": 227.26,
+        "url": "https://www.amazon.it/dp/B0C545LLJZ",
+        "category": "ram"
     },
-    "B000TG3IGS": {
-        "title": "InLine 18436 Viti per il Fissaggio delle Ventole, Nero",
-        "image": "https://m.media-amazon.com/images/I/61V5mekiVxL._AC_UL320_.jpg",
-        "base_price": 7.11,
-        "url": "https://www.amazon.it/dp/B000TG3IGS",
-        "category": "ventole"
+    "B0C546KHS2": {
+        "title": "OFFTEK 8GB Memoria RAM di ricambio per HP-Compaq Victus 16-d1025ns (DDR5-38400 (PC5-4800)) Memoria Laptop",
+        "image": "https://m.media-amazon.com/images/I/61SPRLYIJ4L._AC_UL320_.jpg",
+        "base_price": 130.63,
+        "url": "https://www.amazon.it/dp/B0C546KHS2",
+        "category": "ram"
     },
-    "B003KR3MEG": {
-        "title": "Goobay 93876 Prolunga Elettrica per Ventole PC, Connettore/Presa da 3 pin",
-        "image": "https://m.media-amazon.com/images/I/616jrLZ73OL._AC_UL320_.jpg",
-        "base_price": 6.05,
-        "url": "https://www.amazon.it/dp/B003KR3MEG",
-        "category": "ventole"
-    },
-    "B0B84YC6MW": {
-        "title": "100 Pz M5 x10 Computer Ventola di Raffreddamento Viti di Montaggio Nero Case Ventola Viti Del Computer PC Case di Raffreddamento Ventola Montaggio Viti per Computer",
-        "image": "https://m.media-amazon.com/images/I/61j0-mfsK2L._AC_UL320_.jpg",
-        "base_price": 13.92,
-        "url": "https://www.amazon.it/dp/B0B84YC6MW",
-        "category": "ventole"
-    },
-    "B0CNXQVHHG": {
-        "title": "Tecnoware Alimentatore ATX Hyper Stream Bronze 500W per PC, Ventola Silenziosa 12 cm, 1 connettore 24 Poli, 1 connettore 12 V 4+4 Poli, 1 connettore 6+2 PCI-E, 2 connettori Molex, 4 connettori SATA",
-        "image": "https://m.media-amazon.com/images/I/61G5WkAindL._AC_UL320_.jpg",
-        "base_price": 31.96,
-        "url": "https://www.amazon.it/dp/B0CNXQVHHG",
-        "category": "ventole"
-    },
-    "B0BQ3XLXVR": {
-        "title": "Tacens Anima APB550, Alimentatore PC ATX 550W, 80Plus Bronze, 85% Efficienza, Tecnologie SMD e DC-DC, Ventola Ultrasilenziosa 12 cm, Nero",
-        "image": "https://m.media-amazon.com/images/I/71OLy0GwmEL._AC_UL320_.jpg",
-        "base_price": 29.43,
-        "url": "https://www.amazon.it/dp/B0BQ3XLXVR",
-        "category": "ventole"
-    },
-    "B0DG2YD54Y": {
-        "title": "Ventola Radiatore Supporto Per 120MM 240MM 360MM Radiatore Staffa di Montaggio Per Computer Case Accessorio",
-        "image": "https://m.media-amazon.com/images/I/51afs0IQahL._AC_UL320_.jpg",
-        "base_price": 19.19,
-        "url": "https://www.amazon.it/dp/B0DG2YD54Y",
-        "category": "ventole"
+    "B0C545BMLW": {
+        "title": "OFFTEK 8GB Memoria RAM di ricambio per Asus G713 ROG STRIX G17 (2022) (DDR5-38400 (PC5-4800)) Memoria Laptop",
+        "image": "https://m.media-amazon.com/images/I/61SPRLYIJ4L._AC_UL320_.jpg",
+        "base_price": 130.49,
+        "url": "https://www.amazon.it/dp/B0C545BMLW",
+        "category": "ram"
     },
     "B01LFCB3TS": {
         "title": "KabelDirekt 20-20-20cm Cavo Molex 12V su 3x cavi distribuzione ventola a 3 Pin per il collegamento di ulteriori ventole",
@@ -335,18 +258,11 @@
         "url": "https://www.amazon.it/dp/B01LFCB3TS",
         "category": "ventole"
     },
-    "B0C3M56Y13": {
-        "title": "Tacens Anima APIII750, Alimentatore PC ATX 750W, Tecnologie SMD e DC-DC, 85% Efficienza 12V, Ventola Ultra-silenziosa 12cm, Cavi Piatti Extra-lunghi, Nero",
-        "image": "https://m.media-amazon.com/images/I/71Gsz-QvpQL._AC_UL320_.jpg",
-        "base_price": 27.46,
-        "url": "https://www.amazon.it/dp/B0C3M56Y13",
-        "category": "ventole"
-    },
-    "B0FR4VMQ87": {
-        "title": "Mars Gaming MPB650SIM, Alimentatore Full Modulare ATX 650W, 7 Anni Garanzia, 80Plus Bronze 230V EU, Ventola SI 120mm, Tecnologia AI2-RPM, DC-DC e SMD, Condensatori Giapponesi 105 °C, Nero",
-        "image": "https://m.media-amazon.com/images/I/71EI-QI3fTL._AC_UL320_.jpg",
-        "base_price": 61.57,
-        "url": "https://www.amazon.it/dp/B0FR4VMQ87",
+    "B0G5FTW56K": {
+        "title": "Hemobllo Copertura Antipolvere per Ventola PC 2 Pezzi Filtro a Rete Nero per Case Computer Protezione Ventilatore Raffreddamento Montaggio Semplice Filtro Antipolvere per Dissipatore e",
+        "image": "https://m.media-amazon.com/images/I/71owmNBOOtL._AC_UL320_.jpg",
+        "base_price": 12.89,
+        "url": "https://www.amazon.it/dp/B0G5FTW56K",
         "category": "ventole"
     },
     "B072M2HKSN": {
@@ -356,18 +272,11 @@
         "url": "https://www.amazon.it/dp/B072M2HKSN",
         "category": "ventole"
     },
-    "B0C9R7JS7K": {
-        "title": "MMOBIEL Supporto PC Portatile - Supporto per Laptop da 10 a 18 Pollici - Ventilato per Laptop Universale da Scrivania Compatibile con MacBook, ASUS, Acer e Altro – Alluminio",
-        "image": "https://m.media-amazon.com/images/I/51lQyOGt5uL._AC_UL320_.jpg",
-        "base_price": 20.23,
-        "url": "https://www.amazon.it/dp/B0C9R7JS7K",
-        "category": "ventole"
-    },
-    "B0C3M9B8Q2": {
-        "title": "MSI MAG A650GL Alimentatore 650W, 80 Plus Gold, completamente modulare, ventola FDB da 120 mm, Full-Bridge LLC, cavi neri piatti - 7 anni di garanzia",
-        "image": "https://m.media-amazon.com/images/I/717XAZFggSL._AC_UL320_.jpg",
-        "base_price": 77.04,
-        "url": "https://www.amazon.it/dp/B0C3M9B8Q2",
+    "B0F4NG4QN9": {
+        "title": "Ventola Radiatore Supporto Per 120MM 240MM 360MM Radiatore Staffa di Montaggio Per Computer Case Accessorio",
+        "image": "https://m.media-amazon.com/images/I/51iAufpBv5L._AC_UL320_.jpg",
+        "base_price": 21.93,
+        "url": "https://www.amazon.it/dp/B0F4NG4QN9",
         "category": "ventole"
     },
     "B0BQ3XS1LZ": {
@@ -377,11 +286,25 @@
         "url": "https://www.amazon.it/dp/B0BQ3XS1LZ",
         "category": "ventole"
     },
-    "B0B38W37WL": {
-        "title": "Mars Gaming MPIII750, Alimentatore PC ATX 750W, 5 Anni di Garanzia, 85% di Efficienza, Sistema APFC Digitale, Ventola FDB 120mm AI-RPM, Tecnologie DC-DC e SMD, Cavi Piatti Extra-Lunghi, Nero",
-        "image": "https://m.media-amazon.com/images/I/81-16Unm9cL._AC_UL320_.jpg",
-        "base_price": 42.62,
-        "url": "https://www.amazon.it/dp/B0B38W37WL",
+    "B0C3M9B8Q2": {
+        "title": "MSI MAG A650GL Alimentatore 650W, 80 Plus Gold, completamente modulare, ventola FDB da 120 mm, Full-Bridge LLC, cavi neri piatti - 7 anni di garanzia",
+        "image": "https://m.media-amazon.com/images/I/717XAZFggSL._AC_UL320_.jpg",
+        "base_price": 77.04,
+        "url": "https://www.amazon.it/dp/B0C3M9B8Q2",
+        "category": "ventole"
+    },
+    "B0CZB1Q851": {
+        "title": "NexiGo Supporto orizzontale per PS5 con ventola di raffreddamento migliorata silenziosa e velocità regolabile, [basso rumore], [accensione e spegnimento automatico], con porta USB 3.0, luce LED",
+        "image": "https://m.media-amazon.com/images/I/71qrDQEQrEL._AC_UL320_.jpg",
+        "base_price": 33.2,
+        "url": "https://www.amazon.it/dp/B0CZB1Q851",
+        "category": "ventole"
+    },
+    "B0FRLQKNQC": {
+        "title": "Metallo PC Fan Supporto di Montaggio Portatile Ventola di Raffreddamento Staffa Multiuso Per 120/140mm Mount Stand Caso Esterno PC Caso Accessori di Raffreddamento Staffa",
+        "image": "https://m.media-amazon.com/images/I/51lNQBP4TwL._AC_UL320_.jpg",
+        "base_price": 15.1,
+        "url": "https://www.amazon.it/dp/B0FRLQKNQC",
         "category": "ventole"
     },
     "B0DFQGY4BQ": {
@@ -389,6 +312,27 @@
         "image": "https://m.media-amazon.com/images/I/51eRc5Oj+pL._AC_UL320_.jpg",
         "base_price": 13.68,
         "url": "https://www.amazon.it/dp/B0DFQGY4BQ",
+        "category": "ventole"
+    },
+    "B09QBR4PJT": {
+        "title": "sourcing map Griglia per filtro ventola del computer, in PVC, antipolvere, 120 mm, colore bianco, confezione da 12",
+        "image": "https://m.media-amazon.com/images/I/718sQWi84uL._AC_UL320_.jpg",
+        "base_price": 15.87,
+        "url": "https://www.amazon.it/dp/B09QBR4PJT",
+        "category": "ventole"
+    },
+    "B0B38W37WL": {
+        "title": "Mars Gaming MPIII750, Alimentatore PC ATX 750W, 5 Anni di Garanzia, 85% di Efficienza, Sistema APFC Digitale, Ventola FDB 120mm AI-RPM, Tecnologie DC-DC e SMD, Cavi Piatti Extra-Lunghi, Nero",
+        "image": "https://m.media-amazon.com/images/I/81-16Unm9cL._AC_UL320_.jpg",
+        "base_price": 42.62,
+        "url": "https://www.amazon.it/dp/B0B38W37WL",
+        "category": "ventole"
+    },
+    "B0G2C7PR66": {
+        "title": "Regolatore di velocità 4 fili regolatore della ventola con tipo C di ricarica PC raffreddamento ad acqua ad alta efficienza Dissipazione del calore Regolatore di tensione della ventola del computer",
+        "image": "https://m.media-amazon.com/images/I/71hS3jYJVVL._AC_UL320_.jpg",
+        "base_price": 9.33,
+        "url": "https://www.amazon.it/dp/B0G2C7PR66",
         "category": "ventole"
     },
     "B0CTG3832J": {
@@ -401,29 +345,43 @@
     "B09V5G5R4G": {
         "title": "Tacens Anima APIII500, Alimentatore PC ATX 500W, Tecnologia SMD 85% Bronze 12V, Ventola Ultrasilenziosa 12 cm",
         "image": "https://m.media-amazon.com/images/I/71zZVl0dj4L._AC_UL320_.jpg",
-        "base_price": 23.75,
+        "base_price": 16.31,
         "url": "https://www.amazon.it/dp/B09V5G5R4G",
         "category": "ventole"
     },
-    "B0CX1GTK83": {
-        "title": "Staffa per ventola PC, 12 cm/24 cm/36 cm, in acciaio zincato, compatibile con desktop",
-        "image": "https://m.media-amazon.com/images/I/51Q4st4G5LL._AC_UL320_.jpg",
-        "base_price": 21.09,
-        "url": "https://www.amazon.it/dp/B0CX1GTK83",
+    "B09PG3X8MD": {
+        "title": "VulTech VPS-M500EB Alimentatore Micro-ATX 500W Serie Essence, Ventola da 8cm Termoregolata Silenziosa, Cambalggio incluso, Cavi Flat extra lunghi 60cm, Versione Bulk",
+        "image": "https://m.media-amazon.com/images/I/61m7Fn6UiqL._AC_UL320_.jpg",
+        "base_price": 16.39,
+        "url": "https://www.amazon.it/dp/B09PG3X8MD",
         "category": "ventole"
     },
-    "B0GCD3C416": {
-        "title": "Filtro Antipolvere Magnetico Copertura Ventola in Rete Antipolvere Griglia Protezione con per Computer PC per Raffreddamento Case 12X24 Cm/14X Filtri Magnetici per Chassis PC",
-        "image": "https://m.media-amazon.com/images/I/51QPUZmH0BL._AC_UL320_.jpg",
-        "base_price": 10.19,
-        "url": "https://www.amazon.it/dp/B0GCD3C416",
+    "B0GDY9RKC6": {
+        "title": "Staffa universale per ventola da 12 cm e 14 cm, migliora il raffreddamento del PC e previene il surriscaldamento nella staffa della custodia da scrivania",
+        "image": "https://m.media-amazon.com/images/I/51jNW7JXt5L._AC_UL320_.jpg",
+        "base_price": 21.52,
+        "url": "https://www.amazon.it/dp/B0GDY9RKC6",
         "category": "ventole"
     },
-    "B09QBR4PJT": {
-        "title": "sourcing map Griglia per filtro ventola del computer, in PVC, antipolvere, 120 mm, colore bianco, confezione da 12",
-        "image": "https://m.media-amazon.com/images/I/718sQWi84uL._AC_UL320_.jpg",
-        "base_price": 15.87,
-        "url": "https://www.amazon.it/dp/B09QBR4PJT",
+    "B0DG2YD54Y": {
+        "title": "Ventola Radiatore Supporto Per 120MM 240MM 360MM Radiatore Staffa di Montaggio Per Computer Case Accessorio",
+        "image": "https://m.media-amazon.com/images/I/51afs0IQahL._AC_UL320_.jpg",
+        "base_price": 19.19,
+        "url": "https://www.amazon.it/dp/B0DG2YD54Y",
+        "category": "ventole"
+    },
+    "B0GDY8LPPY": {
+        "title": "Staffa universale per ventola da 12 cm e 14 cm, migliora il raffreddamento del PC e previene il surriscaldamento nella staffa della custodia da scrivania",
+        "image": "https://m.media-amazon.com/images/I/515BUijBIUL._AC_UL320_.jpg",
+        "base_price": 20.01,
+        "url": "https://www.amazon.it/dp/B0GDY8LPPY",
+        "category": "ventole"
+    },
+    "B0GBMBHLY8": {
+        "title": "Supporto per ventola per PC, 25 mm, rialzato, 12 cm, struttura in metallo, migliora il flusso d'aria per sistemi di raffreddamento, ad alte prestazioni",
+        "image": "https://m.media-amazon.com/images/I/51U3LIkgfqL._AC_UL320_.jpg",
+        "base_price": 17.09,
+        "url": "https://www.amazon.it/dp/B0GBMBHLY8",
         "category": "ventole"
     },
     "B0DFPZV9KH": {
@@ -440,6 +398,27 @@
         "url": "https://www.amazon.it/dp/B0C3M35QRN",
         "category": "ventole"
     },
+    "B0DHVJWNX1": {
+        "title": "Tacens RADIX ECO X 550, Alimentatore PC ATX 550W, Garanzia 6 Anni, Efficienza 87%, Tecnologie SMD e DC-DC, Ventola Ultra-Silenziosa AI-RPM da 140mm FDB, Cavi Piatta Extra-Lunghi, Nero",
+        "image": "https://m.media-amazon.com/images/I/71ir7Ubna9L._AC_UL320_.jpg",
+        "base_price": 31.89,
+        "url": "https://www.amazon.it/dp/B0DHVJWNX1",
+        "category": "ventole"
+    },
+    "B0G3HJML5G": {
+        "title": "Cavi Splitter per Ventola PC PWM da 2 26 Cm a 4 Pin con Controllo Termico E Compatibilità della Scheda Madre Cavo Controllo della Temperatura Pwms",
+        "image": "https://m.media-amazon.com/images/I/61BWEtv+ErL._AC_UL320_.jpg",
+        "base_price": 11.99,
+        "url": "https://www.amazon.it/dp/B0G3HJML5G",
+        "category": "ventole"
+    },
+    "B0GCD3C416": {
+        "title": "Filtro Antipolvere Magnetico Copertura Ventola in Rete Antipolvere Griglia Protezione con per Computer PC per Raffreddamento Case 12X24 Cm/14X Filtri Magnetici per Chassis PC",
+        "image": "https://m.media-amazon.com/images/I/51QPUZmH0BL._AC_UL320_.jpg",
+        "base_price": 10.19,
+        "url": "https://www.amazon.it/dp/B0GCD3C416",
+        "category": "ventole"
+    },
     "B0DFPYPTP8": {
         "title": "sourcing map 10 filtri antipolvere per PC, 60 mm x 60 mm, in PVC, per case del computer, antipolvere, copertura in rete, griglie per ventola per altoparlanti del computer, colore nero",
         "image": "https://m.media-amazon.com/images/I/81vT2psTdOL._AC_UL320_.jpg",
@@ -447,25 +426,11 @@
         "url": "https://www.amazon.it/dp/B0DFPYPTP8",
         "category": "ventole"
     },
-    "B0DHVG57N1": {
-        "title": "Tacens Anima APB650, Alimentatore PC ATX 650W, Certificazione 80Plus Bronze, 85% di Efficienza, Tecnologie SMD e DC-DC, Ventola Ultra-silenziosa 12cm, Cavi Piatta Extra-lunghi, Nero",
-        "image": "https://m.media-amazon.com/images/I/71M1IkTvQbL._AC_UL320_.jpg",
-        "base_price": 36.48,
-        "url": "https://www.amazon.it/dp/B0DHVG57N1",
-        "category": "ventole"
-    },
-    "B0DT2TV8WJ": {
-        "title": "Housoutil Viti di ricambio per computer, 50 pezzi, lunghezza 34 mm, adatte per sistemi di raffreddamento ad acqua",
-        "image": "https://m.media-amazon.com/images/I/61rGMsNqNfL._AC_UL320_.jpg",
-        "base_price": 22.11,
-        "url": "https://www.amazon.it/dp/B0DT2TV8WJ",
-        "category": "ventole"
-    },
-    "B0F5QDTP23": {
-        "title": "DEKKRYNFV Cavo Prolunga Per Alimentatore Ventola A 4 Pin Da 1 A 1 2 3 Splitter Custodia Per PC Schede Madri Interne Cavo Alimentazione Adattatore CPU",
-        "image": "https://m.media-amazon.com/images/I/51Ci7Js7ctL._AC_UL320_.jpg",
-        "base_price": 9.09,
-        "url": "https://www.amazon.it/dp/B0F5QDTP23",
+    "B0F29VXMRX": {
+        "title": "MARS GAMING MPB750SIM, Alimentatore ATX Full Modulare 750W, Garanzia 7 Anni, 80Plus Bronze 230V EU, 90% di Efficienza, Ventola SI Extreme Silence 140mm, Tecnologie AI2-RPM, DC-DC e SMD, Nero",
+        "image": "https://m.media-amazon.com/images/I/71mW9LY85VL._AC_UL320_.jpg",
+        "base_price": 60.64,
+        "url": "https://www.amazon.it/dp/B0F29VXMRX",
         "category": "ventole"
     },
     "B0FKTK48BY": {
@@ -475,18 +440,130 @@
         "url": "https://www.amazon.it/dp/B0FKTK48BY",
         "category": "ventole"
     },
-    "B09PG46FXV": {
-        "title": "Alimentatore ATX 600W VPS-A600ER Retail Serie Essence con Ventola da 12cm Termoregolata",
-        "image": "https://m.media-amazon.com/images/I/61GwBjv6MYL._AC_UL320_.jpg",
-        "base_price": 20.41,
-        "url": "https://www.amazon.it/dp/B09PG46FXV",
+    "B0FN4NSZL5": {
+        "title": "SIMPLETEK - Alimentatore SFX mini-ITX da 250 W con ventola - 24-pin ATX, 4-pin ATX12V, 2× SATA, 2× Molex, 1× FDD (Ricondizionato)",
+        "image": "https://m.media-amazon.com/images/I/71RgVVPWozL._AC_UL320_.jpg",
+        "base_price": 33.0,
+        "url": "https://www.amazon.it/dp/B0FN4NSZL5",
+        "category": "ventole"
+    },
+    "B0G3GTV6BG": {
+        "title": "Adattatore di alimentazione USB a 4 pin da 5 V a 12 V per PC con adattatore di alimentazione cavo con interruttori regolabili al connettore ventola del PC",
+        "image": "https://m.media-amazon.com/images/I/5127-k3e01L._AC_UL320_.jpg",
+        "base_price": 6.73,
+        "url": "https://www.amazon.it/dp/B0G3GTV6BG",
+        "category": "ventole"
+    },
+    "B0DHVG57N1": {
+        "title": "Tacens Anima APB650, Alimentatore PC ATX 650W, Certificazione 80Plus Bronze, 85% di Efficienza, Tecnologie SMD e DC-DC, Ventola Ultra-silenziosa 12cm, Cavi Piatta Extra-lunghi, Nero",
+        "image": "https://m.media-amazon.com/images/I/71M1IkTvQbL._AC_UL320_.jpg",
+        "base_price": 36.48,
+        "url": "https://www.amazon.it/dp/B0DHVG57N1",
+        "category": "ventole"
+    },
+    "B0G2TN68XL": {
+        "title": "Staffa per Ventola PC da 25 Mm Rialzata da 12 Cm Struttura in Metallo Migliora I Flussi D I Sistemi Raffreddamento del Computer Potenziatore della Ventilazione del Computer",
+        "image": "https://m.media-amazon.com/images/I/610bVdB4L2L._AC_UL320_.jpg",
+        "base_price": 30.19,
+        "url": "https://www.amazon.it/dp/B0G2TN68XL",
+        "category": "ventole"
+    },
+    "B0GCWMW6GP": {
+        "title": "Durabilità Staffa Raffreddamento in Acciaio Zincato Dissipazione del Calore per Montaggio Ventola Armadio del Server PC Gestione del Calore Ventola Raffreddamento del PC",
+        "image": "https://m.media-amazon.com/images/I/519abLpMxiL._AC_UL320_.jpg",
+        "base_price": 28.79,
+        "url": "https://www.amazon.it/dp/B0GCWMW6GP",
+        "category": "ventole"
+    },
+    "B0G573B33F": {
+        "title": "Cavi Splitter per Ventole PC PWM da 2 26 Cm a 4 Pin con Controllo Termico E Compatibilità della Scheda Madre Connettori Pwms per Ventole per PC",
+        "image": "https://m.media-amazon.com/images/I/51pzGbsMu5L._AC_UL320_.jpg",
+        "base_price": 12.39,
+        "url": "https://www.amazon.it/dp/B0G573B33F",
+        "category": "ventole"
+    },
+    "B0G9BJWTH6": {
+        "title": "Facile da installare staffa di montaggio per ventola compatibile con la maggior parte delle ventole per PC da 12 cm e 14 cm aumenta le prestazioni di raffreddamento Staffa per armadio server",
+        "image": "https://m.media-amazon.com/images/I/512i3wWdmlL._AC_UL320_.jpg",
+        "base_price": 28.82,
+        "url": "https://www.amazon.it/dp/B0G9BJWTH6",
+        "category": "ventole"
+    },
+    "B0F5QDTP23": {
+        "title": "DEKKRYNFV Cavo Prolunga Per Alimentatore Ventola A 4 Pin Da 1 A 1 2 3 Splitter Custodia Per PC Schede Madri Interne Cavo Alimentazione Adattatore CPU",
+        "image": "https://m.media-amazon.com/images/I/51Ci7Js7ctL._AC_UL320_.jpg",
+        "base_price": 9.09,
+        "url": "https://www.amazon.it/dp/B0F5QDTP23",
+        "category": "ventole"
+    },
+    "B0FG7CRQHQ": {
+        "title": "Staffa per ventola del radiatore per ventole da 12 cm, 24 cm, 36 cm, migliora la dissipazione del calore nella torre del PC, supporto per telaio del computer",
+        "image": "https://m.media-amazon.com/images/I/512hG3P30UL._AC_UL320_.jpg",
+        "base_price": 13.14,
+        "url": "https://www.amazon.it/dp/B0FG7CRQHQ",
+        "category": "ventole"
+    },
+    "B0GCW5JG2W": {
+        "title": "Cavo di prolunga per ventola di raffreddamento a 3 pin, 4 pin, regolatore di velocità, regolatore di potenza a 6 pin, con linea estesa per controller di velocità della ventola del PC",
+        "image": "https://m.media-amazon.com/images/I/6118I8dFZYL._AC_UL320_.jpg",
+        "base_price": 10.43,
+        "url": "https://www.amazon.it/dp/B0GCW5JG2W",
+        "category": "ventole"
+    },
+    "B0G93YGWVH": {
+        "title": "Staffa Rialzo per Ventola in Acciaio Zincato da 15 Mm per Ventola da 12 Cm in Workstation Editing Video Aggiornamenti Raffreddamento PC Staffa Ventilazione Raffreddamento GPU",
+        "image": "https://m.media-amazon.com/images/I/51YXcGPrErL._AC_UL320_.jpg",
+        "base_price": 27.29,
+        "url": "https://www.amazon.it/dp/B0G93YGWVH",
         "category": "ventole"
     },
     "B0DDKN6WS6": {
         "title": "TACENS ANIMA APIII850, Alimentatore ATX 850W, Tecnologie SMD e DC-DC, 85% Efficienza 12V, Ventola Ultra-silenziosa 12cm, Condensatori Giapponesi 105º, Cavi in fibra di carbonio, Nero",
         "image": "https://m.media-amazon.com/images/I/710eiR6QZ-L._AC_UL320_.jpg",
-        "base_price": 45.88,
+        "base_price": 45.34,
         "url": "https://www.amazon.it/dp/B0DDKN6WS6",
+        "category": "ventole"
+    },
+    "B0GCZR8FQR": {
+        "title": "Supporto salvaspazio per ventole da 12 cm, 24 cm e 36 cm, massimizza la circolazione dell'aria nelle custodie da scrivania, staffa per radiatore per PC, custodia interna per PC, placcata in",
+        "image": "https://m.media-amazon.com/images/I/51iAufpBv5L._AC_UL320_.jpg",
+        "base_price": 20.72,
+        "url": "https://www.amazon.it/dp/B0GCZR8FQR",
+        "category": "ventole"
+    },
+    "B0G3HP96CZ": {
+        "title": "Cavi Adattatori Per Ventole A 4 Pin Da 2/5 Alimentazione Stabile In PVC Da 10 Cm Per L'ottimizzazione Del Raffreddamento Del PC",
+        "image": "https://m.media-amazon.com/images/I/61XPmGhgn4L._AC_UL320_.jpg",
+        "base_price": 10.79,
+        "url": "https://www.amazon.it/dp/B0G3HP96CZ",
+        "category": "ventole"
+    },
+    "B0GBXGV3PS": {
+        "title": "Regolatore di velocità compatto per ventola a 4 fili 5V 12V Ingresso PD60W Ricarica rapida e design retroilluminato Regolatore di velocità di raffreddamento del PC",
+        "image": "https://m.media-amazon.com/images/I/61Afo63pKgL._AC_UL320_.jpg",
+        "base_price": 20.93,
+        "url": "https://www.amazon.it/dp/B0GBXGV3PS",
+        "category": "ventole"
+    },
+    "B0G3HH2VT5": {
+        "title": "Confezione Da 2 Cavi Prolunga Per Ventole PWM A 4 Pin Da 26 Cm Raffreddamento Del Case Del PC Con Controllo Della Temperatura E Materiali In PVC Cavo Prolunga Ventole In PVC",
+        "image": "https://m.media-amazon.com/images/I/51s8ahNBeTL._AC_UL320_.jpg",
+        "base_price": 12.09,
+        "url": "https://www.amazon.it/dp/B0G3HH2VT5",
+        "category": "ventole"
+    },
+    "B0G1MCD8R2": {
+        "title": "Cavo adattatore di raffreddamento per PC da 1 a 3 porte splitter consente la connessione multipla della ventola con protezioni da cortocircuito Mechanis schede madri Espansore porta",
+        "image": "https://m.media-amazon.com/images/I/51jyXm3-lFL._AC_UL320_.jpg",
+        "base_price": 12.84,
+        "url": "https://www.amazon.it/dp/B0G1MCD8R2",
+        "category": "ventole"
+    },
+    "B0GC9LRVVR": {
+        "title": "Controllo automatico intelligente delle temperature Pwms Modulo regolatore di velocità della ventola per PC CPU raffreddamento 12V 9A Alta capacità di carico PWM Controller di velocità della ventola",
+        "image": "https://m.media-amazon.com/images/I/7188ZncLW4L._AC_UL320_.jpg",
+        "base_price": 9.85,
+        "url": "https://www.amazon.it/dp/B0GC9LRVVR",
         "category": "ventole"
     },
     "B0BQ3ZCZQQ": {
