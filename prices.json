@@ -1,1 +1,93 @@
-{}
+{
+    "B0BY6XNFSJ": {
+        "title": "ASUS TUF Gaming B760M-PLUS Scheda madre Intel B760, LGA 1700, mATX, DDR5, PCIe 5.0, 2 slot M.2, WiFi 6E, USB 3.2 Gen 2, Type-C, Nero",
+        "image": "https://m.media-amazon.com/images/I/61U0wWur58L._AC_UL320_.jpg",
+        "base_price": 202.49,
+        "url": "https://www.amazon.it/dp/B0BY6XNFSJ",
+        "category": "mobo"
+    },
+    "B07FM1QR6M": {
+        "title": "Scheda GIGABYTE N3160N-D3V, INTEL, N3160, INTEL SOC, 2DDR3, 8GB,VGA+DVI, 2GBLAN, 4SATA3, 4USB3, MITX",
+        "image": "https://m.media-amazon.com/images/I/61I1tfNubrL._AC_UL320_.jpg",
+        "base_price": 80.05,
+        "url": "https://www.amazon.it/dp/B07FM1QR6M",
+        "category": "mobo"
+    },
+    "B007KZQEGC": {
+        "title": "ASUS P8Z77-V Scheda Madre Intel® Socket 1155",
+        "image": "https://m.media-amazon.com/images/I/91KAs4UfXqL._AC_UL320_.jpg",
+        "base_price": 155.39,
+        "url": "https://www.amazon.it/dp/B007KZQEGC",
+        "category": "mobo"
+    },
+    "B09DT2SLFT": {
+        "title": "SIMPLETEK - Scheda Madre B250M-C | LGA 1151, M.2 NVMe, Micro-ATX, DDR4 | HDMI/VGA/DVI, USB 3.0, con I/O Shield (Senza Dissipatore) (Ricondizionato)",
+        "image": "https://m.media-amazon.com/images/I/71a89z2lHmL._AC_UL320_.jpg",
+        "base_price": 118.0,
+        "url": "https://www.amazon.it/dp/B09DT2SLFT",
+        "category": "mobo"
+    },
+    "B0FZBF8MR1": {
+        "title": "SIMPLETEK - Scheda Madre Micro ATX Socket LGA 1151 V2 per Processori di 8° e 9° Generazione Supporto DDR4 con HDMI, VGA e LAN Gigabit (Ricondizionato)",
+        "image": "https://m.media-amazon.com/images/I/81QFIGYh0WL._AC_UL320_.jpg",
+        "base_price": 91.0,
+        "url": "https://www.amazon.it/dp/B0FZBF8MR1",
+        "category": "mobo"
+    },
+    "B0FG313F53": {
+        "title": "SIMPLETEK - Scheda madre micro‑ATX con socket LGA 1851, supporto processori Core Ultra, DDR5 fino a 128 GB, slot PCIe 4.0 e LAN 2,5 Gb",
+        "image": "https://m.media-amazon.com/images/I/81fJepzchHL._AC_UL320_.jpg",
+        "base_price": 170.0,
+        "url": "https://www.amazon.it/dp/B0FG313F53",
+        "category": "mobo"
+    },
+    "B093FR4JH5": {
+        "title": "Scheda Madre H97-ZD3 per Intel H97 Z97 Adatta Fit for LGA 1150 Non-ECC/Reg DDR3 1600 MHz 32 GB M.2 NVME NGFF VGA DVI MATX Mainboard",
+        "image": "https://m.media-amazon.com/images/I/71S7dPjSdkS._AC_UL320_.jpg",
+        "base_price": 110.0,
+        "url": "https://www.amazon.it/dp/B093FR4JH5",
+        "category": "mobo"
+    },
+    "B09G3FX4ML": {
+        "title": "SIMPLETEK - Scheda Madre Micro-ATX LGA 1150 Socket H3 DDR3 M2 PCIe NVMe Compatibili con Processori di 4° Generazione | Slot HDMI DVI-I",
+        "image": "https://m.media-amazon.com/images/I/91ZByyNqN9L._AC_UL320_.jpg",
+        "base_price": 110.0,
+        "url": "https://www.amazon.it/dp/B09G3FX4ML",
+        "category": "mobo"
+    },
+    "B0D4V9W5H5": {
+        "title": "Simpletek - Scheda Madre Mini-ITX Modello H610 12th 13th Gen | Socket LGA 1700 SATA 3 - DDR4 AMI UEFI BIOS Con WiFi | Dimensioni 170 x 170 mm",
+        "image": "https://m.media-amazon.com/images/I/81qW9NOI9lL._AC_UL320_.jpg",
+        "base_price": 119.0,
+        "url": "https://www.amazon.it/dp/B0D4V9W5H5",
+        "category": "mobo"
+    },
+    "B0DRD8JWMM": {
+        "title": "SIMPLETEK - Scheda Madre Compatibile Con Lenovo ThinkCentre M800 IQ1X0MS SA70D91365 03T7427 1151 4 x DDR4 Custom M2 Slot 2 x PCIExpress Con Dissipatore E Supporto Carter Ventilazione (Ricondizionato)",
+        "image": "https://m.media-amazon.com/images/I/91lA7MVl0KL._AC_UL320_.jpg",
+        "base_price": 165.0,
+        "url": "https://www.amazon.it/dp/B0DRD8JWMM",
+        "category": "mobo"
+    },
+    "B0CJM6RQLT": {
+        "title": "Simpletek - Scheda Madre Micro - ATX LGA 1150 B85 DDR3 M2 SATA PCIe NVMe Compatibili con Processori di 4° Gen | Slot HDMI DVI-I",
+        "image": "https://m.media-amazon.com/images/I/81BAYCnc3HL._AC_UL320_.jpg",
+        "base_price": 119.9,
+        "url": "https://www.amazon.it/dp/B0CJM6RQLT",
+        "category": "mobo"
+    },
+    "B0FBS7Q2H2": {
+        "title": "SIMPLETEK - Scheda madre Mini-ITX con processore quad-core integrato, doppia LAN, RS232, VGA, DVI-D, SATA e USB 3.0 (Simpletek)",
+        "image": "https://m.media-amazon.com/images/I/71U5UFHuT6L._AC_UL320_.jpg",
+        "base_price": 250.0,
+        "url": "https://www.amazon.it/dp/B0FBS7Q2H2",
+        "category": "mobo"
+    },
+    "B0D47QZZFG": {
+        "title": "Simpletek - Scheda madre mATX H311-VHC Plus LGA 1151, supporto DDR4, SATA 3.0, M.2 NVMe PCIe x4, VGA, HDMI, RS232",
+        "image": "https://m.media-amazon.com/images/I/81Ff1TfN1XL._AC_UL320_.jpg",
+        "base_price": 108.5,
+        "url": "https://www.amazon.it/dp/B0D47QZZFG",
+        "category": "mobo"
+    }
+}
