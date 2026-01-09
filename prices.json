@@ -1,16 +1,16 @@
 {
-    "B0C53LG979": {
-        "title": "Desktop Computer Chassis Alimentatore 400 W MINI PSU ITX 1U Piccolo Desktop PC Registratore di cassa Alimentatori modulo di alimentazione 400 w alimentatore mini itx",
-        "image": "https://m.media-amazon.com/images/I/516YnJkzQuL._AC_UL320_.jpg",
-        "base_price": 53.59,
-        "url": "https://www.amazon.it/dp/B0C53LG979",
+    "B08B1NCNDQ": {
+        "title": "Hama - Alimentatore per notebook, 19V/65W, 7 adattatori",
+        "image": "https://m.media-amazon.com/images/I/51-3rv08kLL._AC_UL320_.jpg",
+        "base_price": 36.71,
+        "url": "https://www.amazon.it/dp/B08B1NCNDQ",
         "category": "alimentatori"
     },
-    "B00N8LSVWW": {
-        "title": "StarTech.com Cavo di Alimentazione per Notebook da 1 m; Cavo Elettrico da BS 1363 UK a C5 2,5A-250V, 18AWG, Cavo Alimentazione AC di Ricambio per Stampante, Alimentatori, Certificato UL (PXTNB3SUK1M)",
-        "image": "https://m.media-amazon.com/images/I/81fW8F-ca5L._AC_UL320_.jpg",
-        "base_price": 10.3,
-        "url": "https://www.amazon.it/dp/B00N8LSVWW",
+    "B08G4S1RH5": {
+        "title": "Hama Alimentatore di rete per computer portatile da 15 V, 16 V, 19 V, 70 W (alimentatore universale per laptop e tablet, con 8 connettori per notebook per modelli comuni, caricatore per laptop con",
+        "image": "https://m.media-amazon.com/images/I/51ZWpMBCZ1S._AC_UL320_.jpg",
+        "base_price": 35.94,
+        "url": "https://www.amazon.it/dp/B08G4S1RH5",
         "category": "alimentatori"
     },
     "B01GRYFIOA": {
@@ -20,18 +20,18 @@
         "url": "https://www.amazon.it/dp/B01GRYFIOA",
         "category": "alimentatori"
     },
-    "B08G4QRDRF": {
-        "title": "Hama Alimentatore di rete per computer portatile 15 V, 19 V, 90 W (alimentatore universale per laptop, caricatore portatile con 8 connettori per notebook per modelli comuni, alimentatore di rete per",
-        "image": "https://m.media-amazon.com/images/I/710MjTFV9+L._AC_UL320_.jpg",
-        "base_price": 44.72,
-        "url": "https://www.amazon.it/dp/B08G4QRDRF",
-        "category": "alimentatori"
-    },
     "B0842PYZRP": {
         "title": "Tacens Anima ANBP100, Caricatore Universale Compatto per Laptop, 10 Adattatori, 8 Voltaggi, Connettore USB, 100W, Nero",
         "image": "https://m.media-amazon.com/images/I/71T9NEZzZfL._AC_UL320_.jpg",
         "base_price": 16.27,
         "url": "https://www.amazon.it/dp/B0842PYZRP",
+        "category": "alimentatori"
+    },
+    "B0C53LG979": {
+        "title": "Desktop Computer Chassis Alimentatore 400 W MINI PSU ITX 1U Piccolo Desktop PC Registratore di cassa Alimentatori modulo di alimentazione 400 w alimentatore mini itx",
+        "image": "https://m.media-amazon.com/images/I/516YnJkzQuL._AC_UL320_.jpg",
+        "base_price": 53.59,
+        "url": "https://www.amazon.it/dp/B0C53LG979",
         "category": "alimentatori"
     },
     "B0BL1BP59L": {
@@ -41,6 +41,13 @@
         "url": "https://www.amazon.it/dp/B0BL1BP59L",
         "category": "alimentatori"
     },
+    "B08G4QRDRF": {
+        "title": "Hama Alimentatore di rete per computer portatile 15 V, 19 V, 90 W (alimentatore universale per laptop, caricatore portatile con 8 connettori per notebook per modelli comuni, alimentatore di rete per",
+        "image": "https://m.media-amazon.com/images/I/710MjTFV9+L._AC_UL320_.jpg",
+        "base_price": 44.72,
+        "url": "https://www.amazon.it/dp/B08G4QRDRF",
+        "category": "alimentatori"
+    },
     "B00PS1M4XM": {
         "title": "D-Link DCP-651 Caricatore GaN 65W – Caricatore rapido 2 x USB-C & 1 x USB-A con spine intercambiabili (UK/EU/US/AU) – PD 3.0 & QC 4.0, compatto e multi-dispositivo",
         "image": "https://m.media-amazon.com/images/I/51AyHwL0k2L._AC_UL320_.jpg",
@@ -48,11 +55,18 @@
         "url": "https://www.amazon.it/dp/B00PS1M4XM",
         "category": "alimentatori"
     },
-    "B0CGXJGGJZ": {
-        "title": "\"Mach Power Case Office M-ATX con Alimentatore 500W, 1 Porta USB 3.0 + 2 Porte USB 2.0, Design Compatto ed Elegante, Ideale per PC da Ufficio e Uso Quotidiano (IT-OFSC29)\"",
-        "image": "https://m.media-amazon.com/images/I/41YfvhKeZmL._AC_UL320_.jpg",
-        "base_price": 41.7,
-        "url": "https://www.amazon.it/dp/B0CGXJGGJZ",
+    "B00N8LSVWW": {
+        "title": "StarTech.com Cavo di Alimentazione per Notebook da 1 m; Cavo Elettrico da BS 1363 UK a C5 2,5A-250V, 18AWG, Cavo Alimentazione AC di Ricambio per Stampante, Alimentatori, Certificato UL (PXTNB3SUK1M)",
+        "image": "https://m.media-amazon.com/images/I/81fW8F-ca5L._AC_UL320_.jpg",
+        "base_price": 10.3,
+        "url": "https://www.amazon.it/dp/B00N8LSVWW",
+        "category": "alimentatori"
+    },
+    "B086N38F9D": {
+        "title": "Caricatore Alimentatore PC Portatile Green Cell PRO 19V 3.42A 65W compatibile con Lenovo ThinkPad T410 T420 T510 T520 T530 T60 T61 R60 R61 W510 W520 X201 X220",
+        "image": "https://m.media-amazon.com/images/I/81dzjCWw9SL._AC_UL320_.jpg",
+        "base_price": 14.71,
+        "url": "https://www.amazon.it/dp/B086N38F9D",
         "category": "alimentatori"
     },
     "B00NM76CQO": {
@@ -62,11 +76,11 @@
         "url": "https://www.amazon.it/dp/B00NM76CQO",
         "category": "alimentatori"
     },
-    "B08714LHX9": {
-        "title": "ThinkPad Slim 65W AC Adapter USB-C EU",
-        "image": "https://m.media-amazon.com/images/I/511XoY2K5MS._AC_UL320_.jpg",
-        "base_price": 35.54,
-        "url": "https://www.amazon.it/dp/B08714LHX9",
+    "B0CGXJGGJZ": {
+        "title": "\"Mach Power Case Office M-ATX con Alimentatore 500W, 1 Porta USB 3.0 + 2 Porte USB 2.0, Design Compatto ed Elegante, Ideale per PC da Ufficio e Uso Quotidiano (IT-OFSC29)\"",
+        "image": "https://m.media-amazon.com/images/I/41YfvhKeZmL._AC_UL320_.jpg",
+        "base_price": 41.7,
+        "url": "https://www.amazon.it/dp/B0CGXJGGJZ",
         "category": "alimentatori"
     },
     "B01HRR96ZI": {
@@ -74,6 +88,13 @@
         "image": "https://m.media-amazon.com/images/I/713yyelnb3L._AC_UL320_.jpg",
         "base_price": 11.47,
         "url": "https://www.amazon.it/dp/B01HRR96ZI",
+        "category": "alimentatori"
+    },
+    "B08714LHX9": {
+        "title": "ThinkPad Slim 65W AC Adapter USB-C EU",
+        "image": "https://m.media-amazon.com/images/I/511XoY2K5MS._AC_UL320_.jpg",
+        "base_price": 35.54,
+        "url": "https://www.amazon.it/dp/B08714LHX9",
         "category": "alimentatori"
     },
     "B01GRYFI6S": {
@@ -90,11 +111,11 @@
         "url": "https://www.amazon.it/dp/B06XHJ7JD5",
         "category": "alimentatori"
     },
-    "B086PB2Q47": {
-        "title": "Green Cell 20V 4.5A 90W Caricabatterie per Lenovo G550 G570 G580 G770 G780 B470 B570 B570e V570 IdeaPad Z500 Z565 Z570 Z575 Z580 Z585 Z485 P580 Y470 Y480 Caricatore ADP-90DD CPA-A090 PA-1900-56LC",
-        "image": "https://m.media-amazon.com/images/I/81BVKJtYdvL._AC_UL320_.jpg",
-        "base_price": 29.3,
-        "url": "https://www.amazon.it/dp/B086PB2Q47",
+    "B0CQPGGGGY": {
+        "title": "MARSGAMING MCA-L24, Adattatore ATX 24 Pin a 90°, Illuminazione 5V 3-Pin ARGB, Adattatore di Alimentazione per Scheda Madre, Installazione Plug & Play, Compatibilità Universale, Nero",
+        "image": "https://m.media-amazon.com/images/I/616ToRZevlL._AC_UL320_.jpg",
+        "base_price": 5.66,
+        "url": "https://www.amazon.it/dp/B0CQPGGGGY",
         "category": "alimentatori"
     },
     "B07WJWXXHN": {
@@ -104,39 +125,11 @@
         "url": "https://www.amazon.it/dp/B07WJWXXHN",
         "category": "alimentatori"
     },
-    "B0DNQLJT1S": {
-        "title": "SIMPLETEK - Alimentatore 135W 19V 7.1A 5.5mm x 1.7mm compatibile con Acer Nitro PA-1131-16 ADP-135K PA-1131-05 L4610E L488G Z2610GW Z6820G L480",
-        "image": "https://m.media-amazon.com/images/I/61ugZEZBTFL._AC_UL320_.jpg",
-        "base_price": 46.0,
-        "url": "https://www.amazon.it/dp/B0DNQLJT1S",
-        "category": "alimentatori"
-    },
-    "B0CQPGGGGY": {
-        "title": "MARSGAMING MCA-L24, Adattatore ATX 24 Pin a 90°, Illuminazione 5V 3-Pin ARGB, Adattatore di Alimentazione per Scheda Madre, Installazione Plug & Play, Compatibilità Universale, Nero",
-        "image": "https://m.media-amazon.com/images/I/616ToRZevlL._AC_UL320_.jpg",
-        "base_price": 5.66,
-        "url": "https://www.amazon.it/dp/B0CQPGGGGY",
-        "category": "alimentatori"
-    },
-    "B00FQMIH02": {
-        "title": "VulTech AS1230J-312 Alimentatore per Asus, 4.8x1.7 mm, 36 W, 12 V, 3 A, Nero",
-        "image": "https://m.media-amazon.com/images/I/51GQLWI6qBL._AC_UL320_.jpg",
-        "base_price": 8.36,
-        "url": "https://www.amazon.it/dp/B00FQMIH02",
-        "category": "alimentatori"
-    },
-    "B0CMJC74CL": {
-        "title": "Verbatim GaN Charger 65 W 3 Porte USB-C Caricabatterie Power Adapter con 2 x USB-C e 1 x USB-A, caricatore rapido multipresa per Apple MacBook, Notebook, iPad, iPhone, Samsung e Co",
-        "image": "https://m.media-amazon.com/images/I/61wXCMfZEAL._AC_UL320_.jpg",
-        "base_price": 35.96,
-        "url": "https://www.amazon.it/dp/B0CMJC74CL",
-        "category": "alimentatori"
-    },
-    "B07MKV4XSL": {
-        "title": "Power4Laptops Adattatore Alimentatore per Portatile Caricabatterie (Spina EU) Compatibile con Sony Vaio SVF13NA1UM",
-        "image": "https://m.media-amazon.com/images/I/41zEkelSPfL._AC_UL320_.jpg",
-        "base_price": 81.99,
-        "url": "https://www.amazon.it/dp/B07MKV4XSL",
+    "B086PB2Q47": {
+        "title": "Green Cell 20V 4.5A 90W Caricabatterie per Lenovo G550 G570 G580 G770 G780 B470 B570 B570e V570 IdeaPad Z500 Z565 Z570 Z575 Z580 Z585 Z485 P580 Y470 Y480 Caricatore ADP-90DD CPA-A090 PA-1900-56LC",
+        "image": "https://m.media-amazon.com/images/I/81BVKJtYdvL._AC_UL320_.jpg",
+        "base_price": 29.3,
+        "url": "https://www.amazon.it/dp/B086PB2Q47",
         "category": "alimentatori"
     },
     "B093BVXYSV": {
@@ -146,11 +139,32 @@
         "url": "https://www.amazon.it/dp/B093BVXYSV",
         "category": "alimentatori"
     },
+    "B0DNQLJT1S": {
+        "title": "SIMPLETEK - Alimentatore 135W 19V 7.1A 5.5mm x 1.7mm compatibile con Acer Nitro PA-1131-16 ADP-135K PA-1131-05 L4610E L488G Z2610GW Z6820G L480",
+        "image": "https://m.media-amazon.com/images/I/61ugZEZBTFL._AC_UL320_.jpg",
+        "base_price": 46.0,
+        "url": "https://www.amazon.it/dp/B0DNQLJT1S",
+        "category": "alimentatori"
+    },
+    "B0CMJC74CL": {
+        "title": "Verbatim GaN Charger 65 W 3 Porte USB-C Caricabatterie Power Adapter con 2 x USB-C e 1 x USB-A, caricatore rapido multipresa per Apple MacBook, Notebook, iPad, iPhone, Samsung e Co",
+        "image": "https://m.media-amazon.com/images/I/61wXCMfZEAL._AC_UL320_.jpg",
+        "base_price": 35.96,
+        "url": "https://www.amazon.it/dp/B0CMJC74CL",
+        "category": "alimentatori"
+    },
     "B01GRYFSB8": {
         "title": "LElCKE Alimentatore 12V 1,5A 18W per Altoparlanti Bose Soundlink Mini, Caricabatterie 1,4A per Router AVM Fritz!Box, Verbatim, Seagate, Speedport, Western Digital",
         "image": "https://m.media-amazon.com/images/I/71gQwheWk8L._AC_UL320_.jpg",
         "base_price": 11.47,
         "url": "https://www.amazon.it/dp/B01GRYFSB8",
+        "category": "alimentatori"
+    },
+    "B0FKBN6BQ8": {
+        "title": "Tacens AEROSLIM500, Case PC MicroATX, Pannelli Mesh Antipolvere, Alimentatore TFX 500W, Ventola Frontale FDB 90mm, Mini Tower Slim Compatibile con MicroATX e Mini-ITX, USB-C e USB 3.0, Nero",
+        "image": "https://m.media-amazon.com/images/I/811xJ-6pTFL._AC_UL320_.jpg",
+        "base_price": 40.9,
+        "url": "https://www.amazon.it/dp/B0FKBN6BQ8",
         "category": "alimentatori"
     },
     "B09MWKQBVW": {
@@ -174,403 +188,109 @@
         "url": "https://www.amazon.it/dp/B0F41H9JDF",
         "category": "alimentatori"
     },
-    "B0G593JX7P": {
-        "title": "Tacens FORTIS II, Mini Tower PC MicroATX, Frontale Mesh Completo, 1x Ventola Posteriore 120mm FDB Silenziosa, Case Compatto in Acciaio SPCC Ultrarresistente, Maniglia di Trasporto Integrata, Nero",
-        "image": "https://m.media-amazon.com/images/I/7166NyGju5L._AC_UL320_.jpg",
-        "base_price": 27.46,
-        "url": "https://www.amazon.it/dp/B0G593JX7P",
-        "category": "alimentatori"
+    "B0FRB3XKGG": {
+        "title": "ASUS A32 PLUS TG ARGB WHITE Case ATX a Doppia Camera, Supporta Radiatori da 360 mm e Schede Grafiche da 420 mm, 4 Ventole ARGB Preinstallate, Gestione Pulita dei Cavi, Design Panoramico, Bianco",
+        "image": "https://m.media-amazon.com/images/I/711kwXL7jHL._AC_UL320_.jpg",
+        "base_price": 209.06,
+        "url": "https://www.amazon.it/dp/B0FRB3XKGG",
+        "category": "case"
     },
-    "B0DYNNCBGM": {
-        "title": "TR -AXP90-X53 Raffreddatore d'aria CPU a basso profilo, altezza 53 mm, ventola CPU PWM TL-9015, tecnologia AGHP 3.0, dissipatore di calore ITX, per AMD: AM4 AM5/Intel 1150/1151/1155/1156/1200/1700",
-        "image": "https://m.media-amazon.com/images/I/71129xNIoeL._AC_UL320_.jpg",
-        "base_price": 32.15,
-        "url": "https://www.amazon.it/dp/B0DYNNCBGM",
-        "category": "cpu"
+    "B00LU7B8X0": {
+        "title": "Amazon Basics Borsa a tracolla per laptop compatto, custodia per il trasporto con tasche per riporre accessori, 44 cm, 1 unità, confezione da 1, Nero",
+        "image": "https://m.media-amazon.com/images/I/91W+X0x9RjL._AC_UL320_.jpg",
+        "base_price": 18.4,
+        "url": "https://www.amazon.it/dp/B00LU7B8X0",
+        "category": "case"
     },
-    "B0D2W63CCV": {
-        "title": "Thermalright Frozen Warframe PRO 360 ARGB Black AIO CPU Liquid Cooler, IPS LCD Schermo 320x320, per AM4/AM5/Intel LGA1700/1851, Schermo LCD Magnetico",
-        "image": "https://m.media-amazon.com/images/I/61xkBwHCcUL._AC_UL320_.jpg",
-        "base_price": 122.7,
-        "url": "https://www.amazon.it/dp/B0D2W63CCV",
-        "category": "cpu"
+    "B00T85E8P6": {
+        "title": "SilverStone SST-SG13B - Sugo Mini-ITX Compact Computer Cube Case, pannello frontale con Mesh, nero",
+        "image": "https://m.media-amazon.com/images/I/81+vtHsLPyL._AC_UL320_.jpg",
+        "base_price": 56.63,
+        "url": "https://www.amazon.it/dp/B00T85E8P6",
+        "category": "case"
     },
-    "B0DX22FZ4R": {
-        "title": "TR -FW240 - Raffreddatore ad acqua per CPU, 3 ventole PWM, sistema di raffreddamento ad acqua con schermo LCD IPS con risoluzione 320 x 240, per AMD/AM4/AM5 e Intel LGA1851/1700, raffreddamento a",
-        "image": "https://m.media-amazon.com/images/I/616hCl9CWkL._AC_UL320_.jpg",
-        "base_price": 79.0,
-        "url": "https://www.amazon.it/dp/B0DX22FZ4R",
-        "category": "cpu"
+    "B0D2KNW7BB": {
+        "title": "A09 HTPC Mini ITX USB 2.0 PC Desktop Chassis - Case Computer Home Argento",
+        "image": "https://m.media-amazon.com/images/I/71uZ1h+WqkL._AC_UL320_.jpg",
+        "base_price": 37.05,
+        "url": "https://www.amazon.it/dp/B0D2KNW7BB",
+        "category": "case"
     },
-    "B0CSXL3XL5": {
-        "title": "GIGABYTE AORUS WATERFORCE X II 240 Raffreddamento a liquido per CPU AIO - 2x ventole ARGB da 120 mm, LCD a colori, DAISY-CHAIN, compatibile con Intel LGA 1851 e AMD AM5",
-        "image": "https://m.media-amazon.com/images/I/51QeoY3SScL._AC_UL320_.jpg",
-        "base_price": 113.98,
-        "url": "https://www.amazon.it/dp/B0CSXL3XL5",
-        "category": "cpu"
+    "B087FY5CNT": {
+        "title": "ARCTIC Case Fan Hub - Hub per Ventole PC, Distributore di Ventilatori, Funzione PWM, fino a 10 Ventole (4 pin), Connettore con Potenza SATA - Nero",
+        "image": "https://m.media-amazon.com/images/I/41g45rTe3jL._AC_UL320_.jpg",
+        "base_price": 12.34,
+        "url": "https://www.amazon.it/dp/B087FY5CNT",
+        "category": "case"
     },
-    "B0CL96CDDB": {
-        "title": "Thermalright Phantom Spirit 120 EVO CPU Air Cooler, 7 tubi di calore CPU Cooler, doppia ventola PWM da 120 mm, tecnologia AGHP 4.0, per AMD AM4 AM5/Intel 1700/1150/1151/1200/17XX/2011, LGA17XX Cooler",
-        "image": "https://m.media-amazon.com/images/I/61IA47g3vlL._AC_UL320_.jpg",
-        "base_price": 70.11,
-        "url": "https://www.amazon.it/dp/B0CL96CDDB",
-        "category": "cpu"
+    "B094442NL5": {
+        "title": "Corsair 7000D AIRFLOW Case per PC ATX Full-Tower (Pannello Anteriore a Flusso d'aria Elevato, Tre Ventole da 140 mm con Ripetitore PWM Incluse, Generoso Spazio Interno), Nero",
+        "image": "https://m.media-amazon.com/images/I/713H189heBL._AC_UL320_.jpg",
+        "base_price": 241.8,
+        "url": "https://www.amazon.it/dp/B094442NL5",
+        "category": "case"
     },
-    "B09FXXMRFM": {
-        "title": "Corsair Hydro X Series XC7 RGB PRO Waterblock per CPU Intel LGA 1700, 1200, 115X e Socket AMD AM4 (Piastra di Raffreddamento in Rame Placcato, Più di 110 Micro-Alette di Raffreddamento) Bianco",
-        "image": "https://m.media-amazon.com/images/I/710U2jm38cL._AC_UL320_.jpg",
-        "base_price": 70.89,
-        "url": "https://www.amazon.it/dp/B09FXXMRFM",
-        "category": "dissipatori"
+    "B0D7BNK6CB": {
+        "title": "Okinos Genuine Walnut Wood PC Case, Support 360mm Radiator on Top, Pre-Installed 4 x 120mm PWM Fans ATX Case, Type-C Port, Magnetic Tempered Glass Side Panel, Black Computer Case, Cypress 7",
+        "image": "https://m.media-amazon.com/images/I/71VIMY3QEaL._AC_UL320_.jpg",
+        "base_price": 160.33,
+        "url": "https://www.amazon.it/dp/B0D7BNK6CB",
+        "category": "case"
     },
-    "B0BLH1M85C": {
-        "title": "Thermalright Raffreddatore del CPU di raffreddamento ad acqua del NERO di Notte 360 di Notte congelato, adatti ad AMD/AM4, Intel LGA 1700/1150/1151/1200/2011/2066",
-        "image": "https://m.media-amazon.com/images/I/615-IFPME2L._AC_UL320_.jpg",
-        "base_price": 91.84,
-        "url": "https://www.amazon.it/dp/B0BLH1M85C",
-        "category": "cpu"
+    "B0D4DZ72H7": {
+        "title": "SIMPLETEK - Case per computer desktop, compatibile microATX e mini ITX, chassis compatto per PC assemblato (Ricondizionato)",
+        "image": "https://m.media-amazon.com/images/I/51KWP2tRdyL._AC_UL320_.jpg",
+        "base_price": 28.0,
+        "url": "https://www.amazon.it/dp/B0D4DZ72H7",
+        "category": "case"
     },
-    "B09Z28L36X": {
-        "title": "TEAMGROUP T-Force Siren GD360E AIO ARGB CPU Liquid Cooler Compatible with AMD Ryzen/Intel (LGA1700), All-in-One 4000 RPM Pump, Fan Speed 600-2000 RPM, Thin Nylon x Rubber Tubes, White TB130602",
-        "image": "https://m.media-amazon.com/images/I/71qt1OBHtPL._AC_UL320_.jpg",
-        "base_price": 150.19,
-        "url": "https://www.amazon.it/dp/B09Z28L36X",
-        "category": "cpu"
+    "B0F5WDM19J": {
+        "title": "Silverstone Technology SST-FLP01W - HTPC ATX Desktop su alloggiamento HTPC stile retrò, USB Type-C",
+        "image": "https://m.media-amazon.com/images/I/61wVsugQXzL._AC_UL320_.jpg",
+        "base_price": 181.89,
+        "url": "https://www.amazon.it/dp/B0F5WDM19J",
+        "category": "case"
     },
-    "B0DX235BN5": {
-        "title": "TR -FW360 - Raffreddatore ad acqua per CPU, 3 ventole PWM, sistema di raffreddamento ad acqua, schermo LCD IPS con risoluzione 320 x 240, per AMD/AM4/AM5 e Intel LGA1851/1700, computer 360 CPU Liquid",
-        "image": "https://m.media-amazon.com/images/I/61y3LWt-v2L._AC_UL320_.jpg",
-        "base_price": 95.75,
-        "url": "https://www.amazon.it/dp/B0DX235BN5",
-        "category": "cpu"
+    "B07HCG9RVV": {
+        "title": "0.6 mm Secc mini ITX nero Destop computer Chassis 01",
+        "image": "https://m.media-amazon.com/images/I/61gHiACfBNL._AC_UL320_.jpg",
+        "base_price": 27.71,
+        "url": "https://www.amazon.it/dp/B07HCG9RVV",
+        "category": "case"
     },
-    "B0D97T24YQ": {
-        "title": "Gamepower Skadi LCD 360 AIO CPU Liquid Cooler, 2,1\" LCD per GIF e metriche, radiatore da 360 mm con 3 ventole PWM ARGB HDB, 14,5 W/mK pasta termica, compatibile con Intel 1700, AMD AM4/AM5",
-        "image": "https://m.media-amazon.com/images/I/61M6nr2zfXL._AC_UL320_.jpg",
-        "base_price": 529.39,
-        "url": "https://www.amazon.it/dp/B0D97T24YQ",
-        "category": "cpu"
+    "B09VKJNYLW": {
+        "title": "SilverStone Technology CS351, chassis NAS ad alte prestazioni sostituibile a caldo SAS-12G/SATA-6G a 5 alloggiamenti, SST-CS351",
+        "image": "https://m.media-amazon.com/images/I/61Bj1WYn36L._AC_UL320_.jpg",
+        "base_price": 203.06,
+        "url": "https://www.amazon.it/dp/B09VKJNYLW",
+        "category": "case"
     },
-    "B0DWXFPQVW": {
-        "title": "TR - Peerless Assassin 120 Digital White CPU Cooler, doppie ventole PWM da 120 mm con velocità 1850 giri/min, supporto Intel lga1700/1851/115X/1200, AMD: AM4/AM5, raffreddamento CPU del computer",
-        "image": "https://m.media-amazon.com/images/I/6197isJ6rvL._AC_UL320_.jpg",
-        "base_price": 56.62,
-        "url": "https://www.amazon.it/dp/B0DWXFPQVW",
-        "category": "cpu"
+    "B08V9CQ9H7": {
+        "title": "CAJA PC THERMALTAKE DIVIDER 300 TG MIDI TOWER NEGRO RETAIL",
+        "image": "https://m.media-amazon.com/images/I/61WzyHtu4LL._AC_UL320_.jpg",
+        "base_price": 86.8,
+        "url": "https://www.amazon.it/dp/B08V9CQ9H7",
+        "category": "case"
     },
-    "B0D97V4NQZ": {
-        "title": "Gamepower Skadi LCD 240 AIO CPU Liquid Cooler, display da 2,1\" per GIF e metriche, radiatore da 240 mm con 2 ventole PWM ARGB HDB, pasta termica da 14,5 W/mK, compatibile con Intel LGA 1851, 1700, AMD",
-        "image": "https://m.media-amazon.com/images/I/71IPTF8eWxL._AC_UL320_.jpg",
-        "base_price": 431.17,
-        "url": "https://www.amazon.it/dp/B0D97V4NQZ",
-        "category": "cpu"
+    "B09PG3X8MD": {
+        "title": "VulTech VPS-M500EB Alimentatore Micro-ATX 500W Serie Essence, Ventola da 8cm Termoregolata Silenziosa, Cambalggio incluso, Cavi Flat extra lunghi 60cm, Versione Bulk",
+        "image": "https://m.media-amazon.com/images/I/61m7Fn6UiqL._AC_UL320_.jpg",
+        "base_price": 16.39,
+        "url": "https://www.amazon.it/dp/B09PG3X8MD",
+        "category": "case"
     },
-    "B0FLJPBFTZ": {
-        "title": "Boxed CX H1300 - Pasta stucco termico 13,5 W/m-K per AMD per dissipatore di calore CPU Intel",
-        "image": "https://m.media-amazon.com/images/I/41kCBwE2IeL._AC_UL320_.jpg",
-        "base_price": 16.01,
-        "url": "https://www.amazon.it/dp/B0FLJPBFTZ",
-        "category": "cpu"
+    "B0DDKP1TDQ": {
+        "title": "sourcing map 2 filtri antipolvere per PC, 400 mm x 150 mm, in PVC, per case del computer, antipolvere, copertura in rete, griglie per ventola per altoparlanti del computer, colore nero",
+        "image": "https://m.media-amazon.com/images/I/81f8bOTtwNL._AC_UL320_.jpg",
+        "base_price": 18.29,
+        "url": "https://www.amazon.it/dp/B0DDKP1TDQ",
+        "category": "case"
     },
-    "B0CNS36LLP": {
-        "title": "Thermalright Frozen Vision 240 - Raffreddatore ad acqua liquido per CPU con ventola PWM da 120 mm, immagine quadrata da 2,8 pollici, display LCD IPS, raffreddamento ad acqua per AMD: AM4/AM5, Intel",
-        "image": "https://m.media-amazon.com/images/I/61H04nWQeUL._AC_UL320_.jpg",
-        "base_price": 84.42,
-        "url": "https://www.amazon.it/dp/B0CNS36LLP",
-        "category": "cpu"
-    },
-    "B09LXPLVSV": {
-        "title": "Thermaltake TH360 ARGB Sincronizzazione della scheda madre Snow Edition Intel LGA1700 Ready/AM5/AMD Sistema di raffreddamento a liquido All-in-One 360 mm ad alta efficienza del radiatore CPU Cooler",
-        "image": "https://m.media-amazon.com/images/I/71t1jonnSKL._AC_UL320_.jpg",
-        "base_price": 373.21,
-        "url": "https://www.amazon.it/dp/B09LXPLVSV",
-        "category": "cpu"
-    },
-    "B0CSXLGQJ7": {
-        "title": "GIGABYTE AORUS WATERFORCE X II 360 ICE Raffreddamento a liquido per CPU AIO - 3x ventole ARGB da 120 mm, LCD a colori, DAISY-CHAIN, compatibile con Intel LGA 1851 e AMD AM5",
-        "image": "https://m.media-amazon.com/images/I/51nL7KRN0SL._AC_UL320_.jpg",
-        "base_price": 227.04,
-        "url": "https://www.amazon.it/dp/B0CSXLGQJ7",
-        "category": "cpu"
-    },
-    "B0CDHH2J5S": {
-        "title": "CORSAIR XC7 RGB ELITE LCD Waterblock per CPU - Schermo LCD IPS 480x480-31 LED RGB - USB-C - Adatto per Intel LGA 1700, AMD AM5 e precedenti - Bianco",
-        "image": "https://m.media-amazon.com/images/I/71qDOu+cQEL._AC_UL320_.jpg",
-        "base_price": 167.47,
-        "url": "https://www.amazon.it/dp/B0CDHH2J5S",
-        "category": "cpu"
-    },
-    "B0CDHD7SQR": {
-        "title": "CORSAIR iCUE LINK XC7 RGB ELITE Waterblock per CPU - Camera di Flusso Trasparente - 24 LED RGB - Adatto per Intel LGA 1700, AMD AM5 e precedenti - Grigio Invisibile",
-        "image": "https://m.media-amazon.com/images/I/71swPu-s9rL._AC_UL320_.jpg",
-        "base_price": 94.18,
-        "url": "https://www.amazon.it/dp/B0CDHD7SQR",
-        "category": "cpu"
-    },
-    "B0BLHGJM81": {
-        "title": "Thermalright Raffreddatore CPU di raffreddamento ad acqua di Frozen Notte 240 BIANCO ARGB, adatti per AMD/AM4 AM5, Intel LGA 1700/1150/1151/1200/2011",
-        "image": "https://m.media-amazon.com/images/I/61o8u7rGPlL._AC_UL320_.jpg",
-        "base_price": 60.44,
-        "url": "https://www.amazon.it/dp/B0BLHGJM81",
-        "category": "cpu"
-    },
-    "B0CCV8M4C7": {
-        "title": "Redragon C218 Dual Tower CPU Air Cooler, A-RGB CPU Cooling FDB Fan, 120 mm PWM Low Noise, 6 tubi di calore in alluminio, copertura del dissipatore di calore per Intel 1700/115X/1200, AMD AM4/AM5",
-        "image": "https://m.media-amazon.com/images/I/716NyJXNIFL._AC_UL320_.jpg",
-        "base_price": 74.84,
-        "url": "https://www.amazon.it/dp/B0CCV8M4C7",
-        "category": "cpu"
-    },
-    "B0DWSY4DXB": {
-        "title": "TR -AQUA ELITE 240 White V3 CPU Liquid Cooler, 2 ventole ARGB PWM con cuscinetti S-FDB, efficiente pompa controllata PWM, per AMD / AM4 / AM5 Intel LGA1150 / 1151/1200 / 2011/1700/1851",
-        "image": "https://m.media-amazon.com/images/I/61pa0Lyp3UL._AC_UL320_.jpg",
-        "base_price": 58.49,
-        "url": "https://www.amazon.it/dp/B0DWSY4DXB",
-        "category": "cpu"
-    },
-    "B0DWSXJL6Z": {
-        "title": "TR -Assassin King 120 SE WHITE ARGB CPU Air Cooler, AK120 SE WHITE ARB, 5 Heatpipes, TL-C12CW-S PWM Quiet Fan CPU Cooler con cuscinetto S-FDB, per AMD AM4 AM5/Intel 1150/1151/1200/1700",
-        "image": "https://m.media-amazon.com/images/I/619x5cmRVRL._AC_UL320_.jpg",
-        "base_price": 30.0,
-        "url": "https://www.amazon.it/dp/B0DWSXJL6Z",
-        "category": "cpu"
-    },
-    "B0DWSP4VKS": {
-        "title": "TR - Raffreddatore per CPU Phantom Spirit 120 SE ARGB, 7 × 6 mm, ventola di raffreddamento per computer con doppia ventola PWM, velocità 1500 giri/min, per AMD AM4 AM5/Intel 1851/1700/1150/1151/1200",
-        "image": "https://m.media-amazon.com/images/I/71ujGDwM-xL._AC_UL320_.jpg",
-        "base_price": 50.2,
-        "url": "https://www.amazon.it/dp/B0DWSP4VKS",
-        "category": "cpu"
-    },
-    "B0F228XMP8": {
-        "title": "Nfortec Centaurus X2 Disipador por Aire para CPU, 4 Pipes de 120mm, Tecnología Iluminación ARGB, Ventilador con Control PWM, socket INTEL y AMD, Negro",
-        "image": "https://m.media-amazon.com/images/I/71ZSNx-2e4L._AC_UL320_.jpg",
-        "base_price": 31.79,
-        "url": "https://www.amazon.it/dp/B0F228XMP8",
-        "category": "cpu"
-    },
-    "B0DYTPXZ22": {
-        "title": "TR -Frozen Infinity 360 - Raffreddatore d'acqua per CPU bianco, con tripla ventola Infinity Mirror PWM da 124 mm, per Intel 1150/1151/1200/2011/1700/1851 e AMD/AM4/AM5, radiatore ad acqua Infinity",
-        "image": "https://m.media-amazon.com/images/I/61r83b0Y0GL._AC_UL320_.jpg",
-        "base_price": 78.06,
-        "url": "https://www.amazon.it/dp/B0DYTPXZ22",
-        "category": "cpu"
-    },
-    "B0CNKVHXTW": {
-        "title": "GameMax Ice Blade - Dissipatore di calore per CPU 190 W TDP 4 x 6 mm, dissipatore di calore in alluminio, ventola ARGB a doppio anello PWM Infinity da 120 mm, per prese Intel e AMD, nero/cromato",
-        "image": "https://m.media-amazon.com/images/I/61m9uQIq2OL._AC_UL320_.jpg",
-        "base_price": 31.01,
-        "url": "https://www.amazon.it/dp/B0CNKVHXTW",
-        "category": "cpu"
-    },
-    "B0DWRS7N6P": {
-        "title": "TR -Peerless Assassin 120 SE White ARGB CPU Cooler, 6 Heat Pipes AGHP Technology, Dual Tower e Dual PWM Fans, 155mm High, Computer CPU Cooling per AMD: AM4 AM5/Intel LGA 1700/1150/1151/1200",
-        "image": "https://m.media-amazon.com/images/I/71OGjikz5NL._AC_UL320_.jpg",
-        "base_price": 49.84,
-        "url": "https://www.amazon.it/dp/B0DWRS7N6P",
-        "category": "cpu"
-    },
-    "B0CDHDS799": {
-        "title": "CORSAIR XC7 RGB ELITE LCD Waterblock per CPU - Schermo LCD IPS 480x480-31 LED RGB - USB-C - Adatto per Intel LGA 1700, AMD AM5 e precedenti - Grigio Invisibile",
-        "image": "https://m.media-amazon.com/images/I/71g5gyfwJzL._AC_UL320_.jpg",
-        "base_price": 139.34,
-        "url": "https://www.amazon.it/dp/B0CDHDS799",
-        "category": "cpu"
-    },
-    "B0DYNR5NSM": {
-        "title": "TR - Assassin X 90 SE ARGB CPU Air Cooler con 4 × 6 mm HeatPipes, 92 mm TL-P9-S PWM Fan CPU Cooler, AGHP 4th Technology, per AMD: AM4 AM5/Intel 1700/1150/1151/1200/1851, PC MINI Tower Cooler",
-        "image": "https://m.media-amazon.com/images/I/71nV1t1oEiL._AC_UL320_.jpg",
-        "base_price": 27.62,
-        "url": "https://www.amazon.it/dp/B0DYNR5NSM",
-        "category": "cpu"
-    },
-    "B0DWXGJDK9": {
-        "title": "TR - Assassin X 120R Digital White CPU Cooler, 120mm PWM Quiet CPU Fan, AGHP 4th Technology, Supporto Intel lga1700/1851/1150/1151/1200, AMD: AM4/AM5, raffreddamento del computer, copertura superiore",
-        "image": "https://m.media-amazon.com/images/I/61+h3VScuVL._AC_UL320_.jpg",
-        "base_price": 32.99,
-        "url": "https://www.amazon.it/dp/B0DWXGJDK9",
-        "category": "cpu"
-    },
-    "B0DWRLBMBN": {
-        "title": "TR - AE120 V3 Aio CPU Cooler, 120 file di raffreddamento a liquido, ventola di raffreddamento ARGB PWM, per Intel LGA1150/1151/1155/1156/1200/2011/1700, AMD: AM4/AM5, PC Cooler Aio",
-        "image": "https://m.media-amazon.com/images/I/61gD40xKhPL._AC_UL320_.jpg",
-        "base_price": 50.26,
-        "url": "https://www.amazon.it/dp/B0DWRLBMBN",
-        "category": "cpu"
-    },
-    "B0F229GSXG": {
-        "title": "Nfortec Centaurus X2 Disipador por Aire para CPU, 4 Pipes de 120mm, Tecnología Iluminación ARGB, Ventilador con Control PWM, socket INTEL y AMD, Blanco",
-        "image": "https://m.media-amazon.com/images/I/71m5+NyLlbL._AC_UL320_.jpg",
-        "base_price": 31.39,
-        "url": "https://www.amazon.it/dp/B0F229GSXG",
-        "category": "cpu"
-    },
-    "B0FDGGXS5R": {
-        "title": "TR Trofeo Vision 360 ARGB Raffreddatore CPU AIO radiatore 360 mm schermo LCD IPS 1280x480 AM4/AM5, Intel LGA1851/1700",
-        "image": "https://m.media-amazon.com/images/I/61bJywzw-iL._AC_UL320_.jpg",
-        "base_price": 167.71,
-        "url": "https://www.amazon.it/dp/B0FDGGXS5R",
-        "category": "cpu"
-    },
-    "B0CDHCSCTM": {
-        "title": "CORSAIR iCUE LINK XC7 RGB ELITE Waterblock per CPU - Camera di Flusso Trasparente - 24 LED RGB - Adatto per Intel LGA 1700, AMD AM5 e precedenti - Bianco",
-        "image": "https://m.media-amazon.com/images/I/71lgVyli4pL._AC_UL320_.jpg",
-        "base_price": 113.84,
-        "url": "https://www.amazon.it/dp/B0CDHCSCTM",
-        "category": "cpu"
-    },
-    "B0DX251QS4": {
-        "title": "TR -FW360 - Raffreddatore ad acqua ARGB, 3 ventole PWM, sistema di raffreddamento ad acqua, schermo LCD IPS con risoluzione 320 x 240, per AM4/AM5 e Intel LGA1851/1700, raffreddamento a liquido CPU",
-        "image": "https://m.media-amazon.com/images/I/614vxKhmNAL._AC_UL320_.jpg",
-        "base_price": 102.7,
-        "url": "https://www.amazon.it/dp/B0DX251QS4",
-        "category": "cpu"
-    },
-    "B0DYNNR3MH": {
-        "title": "TR - Core Vision 360 bianco ARGB CPU raffreddamento ad acqua con ventola PWM, velocità 2000 giri/min, schermo LCD IPS con risoluzione 480 * 480, raffreddamento CPU liquido, per AM5/Intel LGA1851/700",
-        "image": "https://m.media-amazon.com/images/I/61H1oYWW51L._AC_UL320_.jpg",
-        "base_price": 105.76,
-        "url": "https://www.amazon.it/dp/B0DYNNR3MH",
-        "category": "cpu"
-    },
-    "B0CQZ6KKH7": {
-        "title": "Thermal Grizzly KryoSheet (68 x 51 x 0,2 mm) – Cuscinetto Termico in grafene ad altissima conducibilità Termica – Alternativa Perfetta per Pasta Termica su CPU/GPU/PS4/PS5/Xbox – Made in Sweden",
-        "image": "https://m.media-amazon.com/images/I/81ftiNYBnxL._AC_UL320_.jpg",
-        "base_price": 34.9,
-        "url": "https://www.amazon.it/dp/B0CQZ6KKH7",
-        "category": "cpu"
-    },
-    "B07JFF943V": {
-        "title": "SilverStone SST-AR01-V3 - Tubo di raffreddamento CPU Argon 3 a contatto diretto, PWM 120 mm, Intel/AMD, AM4 Ready",
-        "image": "https://m.media-amazon.com/images/I/71omvUJ-zWL._AC_UL320_.jpg",
-        "base_price": 14.72,
-        "url": "https://www.amazon.it/dp/B07JFF943V",
-        "category": "cpu"
-    },
-    "B0B3TF1XYP": {
-        "title": "15PCS Computer CPU Case Tray Packaging Clamshell per AMD 938 940 AM2 AM3 AM3 FM1 2 CPU Holder Protector (15pcs Shell fit AMD)",
-        "image": "https://m.media-amazon.com/images/I/71KPnXnXgiL._AC_UL320_.jpg",
-        "base_price": 21.9,
-        "url": "https://www.amazon.it/dp/B0B3TF1XYP",
-        "category": "cpu"
-    },
-    "B0BFR6PDJN": {
-        "title": "Fleshy Leaf Ventola di raffreddamento CPU dissipatore di calore SWG di ricambio per Lenovo ThinkPad T470 T480 Series 01YR200 01YR201 01YR202 (grafica discreta)",
-        "image": "https://m.media-amazon.com/images/I/51qwnBbrTmL._AC_UL320_.jpg",
-        "base_price": 40.05,
-        "url": "https://www.amazon.it/dp/B0BFR6PDJN",
-        "category": "dissipatori"
-    },
-    "B0DWKBVHGL": {
-        "title": "SIMPLETEK - Dissipatore a Liquido CPU 360mm RGB | LGA 1700 2066 2011 1366 1200 115X AM5 AM4 AM3 AM2 AM2+ FM1 TR4 | Bianco | Per Gaming e Overclocking",
-        "image": "https://m.media-amazon.com/images/I/61HHfWdVXhL._AC_UL320_.jpg",
-        "base_price": 182.0,
-        "url": "https://www.amazon.it/dp/B0DWKBVHGL",
-        "category": "dissipatori"
-    },
-    "B0DX1ZZYYZ": {
-        "title": "SIMPLETEK - Dissipatore ad Aria CPU S120D-B Nero | LGA 1700 1200 775 1151 1150 1155 1156 | AM5 AM4 AM3 | TPD fino a 180W",
-        "image": "https://m.media-amazon.com/images/I/7105PXZ-LoL._AC_UL320_.jpg",
-        "base_price": 46.0,
-        "url": "https://www.amazon.it/dp/B0DX1ZZYYZ",
-        "category": "dissipatori"
-    },
-    "B07CN1DZ7S": {
-        "title": "Ventola di Raffreddamento A LED per CPU Radiatore Dissipatore Termico per Intel Lga 1150/1151/1155/1156 Series - Blu",
-        "image": "https://m.media-amazon.com/images/I/717ZB4ZBPtL._AC_UL320_.jpg",
-        "base_price": 33.59,
-        "url": "https://www.amazon.it/dp/B07CN1DZ7S",
-        "category": "dissipatori"
-    },
-    "B07MZ45X9G": {
-        "title": "Noctua NT-H2 3.5g, Pasta Termo Conduttiva per Computer incl. 3 Salviettine Detergenti (3,5 g)",
-        "image": "https://m.media-amazon.com/images/I/71GMxZ3DXzL._AC_UL320_.jpg",
-        "base_price": 18.17,
-        "url": "https://www.amazon.it/dp/B07MZ45X9G",
-        "category": "dissipatori"
-    },
-    "B0BSFYT6Y5": {
-        "title": "Mars Gaming MC-PRO2, Torre E-ATX Professionale, Sistema CPU FREEZER, 5x Ventole Ultra-silenziose e Frontale Metal-Mesh, Nero",
-        "image": "https://m.media-amazon.com/images/I/613mWxA3FfL._AC_UL320_.jpg",
-        "base_price": 59.43,
-        "url": "https://www.amazon.it/dp/B0BSFYT6Y5",
-        "category": "dissipatori"
-    },
-    "B009LEKGGE": {
-        "title": "Noctua NF-A6X25 FLX, Ventola Silenziosa di Qualità Premium, 3-Pin (60 mm, Marrone)",
-        "image": "https://m.media-amazon.com/images/I/71x64G4hl0L._AC_UL320_.jpg",
-        "base_price": 27.58,
-        "url": "https://www.amazon.it/dp/B009LEKGGE",
-        "category": "dissipatori"
-    },
-    "B0B8ZKTM12": {
-        "title": "Thermalright TFX - Pasta termica per dissipatore di calore, 2 g, 14,3 W/m.k-2 grammi, pasta termica ad alte prestazioni per processore/CPU/GPU/IC/tutti i dispositivi di raffreddamento, con uno",
-        "image": "https://m.media-amazon.com/images/I/51KcqcweQVL._AC_UL320_.jpg",
-        "base_price": 14.42,
-        "url": "https://www.amazon.it/dp/B0B8ZKTM12",
-        "category": "dissipatori"
-    },
-    "B09ZCMND1T": {
-        "title": "Gelid Solutions LGA 1700 Kit di montaggio - Compatibile con staffa CPU Gelid AM4 per dissipatore CPU Glacier - 97 x 62 x 5 - Acciaio inossidabile - Nero",
-        "image": "https://m.media-amazon.com/images/I/414sQoQWGRL._AC_UL320_.jpg",
-        "base_price": 16.95,
-        "url": "https://www.amazon.it/dp/B09ZCMND1T",
-        "category": "dissipatori"
-    },
-    "B0GCD2TSB9": {
-        "title": "Thermals Paste Kit Grassi Termici Alti Composti per Refrigeratori Dissipatore Interfacce Processore Computer CPU Grassi ad alta conducibilità",
-        "image": "https://m.media-amazon.com/images/I/51sqbGMNBZL._AC_UL320_.jpg",
-        "base_price": 7.08,
-        "url": "https://www.amazon.it/dp/B0GCD2TSB9",
-        "category": "dissipatori"
-    },
-    "B0CN3FNBL9": {
-        "title": "Noctua NM-M1-MP83 chromax.black, Kit di montaggio dissipatore CPU per AMD AM5/AM4 e Intel LGA1700/LGA1200 (Nero)",
-        "image": "https://m.media-amazon.com/images/I/71xIeCod3cL._AC_UL320_.jpg",
-        "base_price": 26.11,
-        "url": "https://www.amazon.it/dp/B0CN3FNBL9",
-        "category": "dissipatori"
-    },
-    "B0G2SBTDGL": {
-        "title": "Sostituzione Precisa del Dissipatore Calore della CPU per Laptop S5600E S5600EA Sistemi Raffreddamento in Metallo Facile Manutenzione Raffreddatori Lunga Durata",
-        "image": "https://m.media-amazon.com/images/I/61iIlvw7msL._AC_UL320_.jpg",
-        "base_price": 21.79,
-        "url": "https://www.amazon.it/dp/B0G2SBTDGL",
-        "category": "dissipatori"
-    },
-    "B0DNLXD4NL": {
-        "title": "Dissipatore di calore in alluminio da 60 mm x 60 mm x 15 mm, con nastro adesivo conduttivo termico, modulo quadrato, dissipatore di calore, profilo, alette di raffreddamento per chip CPU,",
-        "image": "https://m.media-amazon.com/images/I/61IOI3TDIKL._AC_UL320_.jpg",
-        "base_price": 17.84,
-        "url": "https://www.amazon.it/dp/B0DNLXD4NL",
-        "category": "dissipatori"
-    },
-    "B0G9W35CYV": {
-        "title": "Premium Rame Dissipatore Di Calore Per Migliorare Le Prestazioni Di Raffreddamento Su Dispositivi Mobili CPU. Dissipatore Di Calore Per Telefoni",
-        "image": "https://m.media-amazon.com/images/I/61EUo61t21L._AC_UL320_.jpg",
-        "base_price": 19.69,
-        "url": "https://www.amazon.it/dp/B0G9W35CYV",
-        "category": "dissipatori"
-    },
-    "B0G6WMKKGW": {
-        "title": "Raffreddatore CPU in metallo per computer portatili S5600 S5600E Dissipazione del calore migliorata Facile processo di installazione Dissipatore di calore del computer portatile",
-        "image": "https://m.media-amazon.com/images/I/61iIlvw7msL._AC_UL320_.jpg",
-        "base_price": 16.46,
-        "url": "https://www.amazon.it/dp/B0G6WMKKGW",
-        "category": "dissipatori"
-    },
-    "B0FB33TWS2": {
-        "title": "1 dissipatore Termico Non conduttivo da 17,3 W/MK for GPU CPU(2mm)",
-        "image": "https://m.media-amazon.com/images/I/61qvlXtxiaL._AC_UL320_.jpg",
-        "base_price": 55.37,
-        "url": "https://www.amazon.it/dp/B0FB33TWS2",
-        "category": "dissipatori"
-    },
-    "B0B6Q7XX2L": {
-        "title": "sourcing map Dissipatore di calore in rame rivestito in grafene 70 x 20 x 1,5 mm con cuscinetto termico e anello in gomma per M.2 SSD PC, laptop Cooler 1 set",
-        "image": "https://m.media-amazon.com/images/I/61wEzrB9aeL._AC_UL320_.jpg",
-        "base_price": 17.63,
-        "url": "https://www.amazon.it/dp/B0B6Q7XX2L",
-        "category": "dissipatori"
+    "B0D7CL95F7": {
+        "title": "Mars Gaming MPIII850, Alimentatore PC ATX 850W, 5 Anni di Garanzia, 85% di Efficienza, Sistema Digitale APFC, Ventola FDB 120mm AI-RPM, Tecnologie DC-DC e SMD, Cavi Piatte Extra-lunghi, Bianco",
+        "image": "https://m.media-amazon.com/images/I/71ZxoHhwrqL._AC_UL320_.jpg",
+        "base_price": 51.23,
+        "url": "https://www.amazon.it/dp/B0D7CL95F7",
+        "category": "case"
     }
 }
